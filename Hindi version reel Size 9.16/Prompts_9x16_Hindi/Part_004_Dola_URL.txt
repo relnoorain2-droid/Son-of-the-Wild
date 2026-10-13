@@ -1,0 +1,68 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+L01_LilyHouse.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L01_LilyHouse/L01_LilyHouse.png
+S01_GraceCarter_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S01_GraceCarter/S01_GraceCarter_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+
+FROST: Son of the Wild
+PART 004 - "The Royal Visit"
+Punch: TWIST
+Status: ready - CANON LINEAR VERSION
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+LANGUAGE: HINDI OUTPUT ONLY
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s Hindi Reels 9x16
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: vertical 9:16
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+HINDI OUTPUT LOCK:
+The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
+CHARACTER LOCK: Keep every character's face, body, hair, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: C01_Lily_FULL.png -> Lily Carter; S01_GraceCarter_FULL.png -> Grace Carter; S07_CaptainVex_FULL.png -> Captain Vex; L01_LilyHouse.png -> Lily's poor home.
+LILY LOOK LOCK: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older.
+
+Scene: Continue directly after Part 3, outside and inside Lily's poor wooden house on the edge of a small Oregon town. Cold daylight, dusty road, frightened neighbors watching from windows.
+0-4s: Captain Vex stands in Lily's doorway holding the royal seal order. Lily protects Grace behind her.
+DIALOGUE 0-4s: Captain Vex (harsh official Hindi voice): "By order of King Magnus Thorne, Lily Carter is summoned to the castle."
+4-9s: Grace steps forward, shaking, trying to block the doorway. Lily holds her mother's arm.
+DIALOGUE 4-7s: Grace (crying): "Please. She is my only child."
+DIALOGUE 7-9s: Lily (soft, scared): "Mama, stay behind me."
+9-16s: Vex reads the decree without emotion while guards wait by a black royal carriage.
+DIALOGUE 9-15s: Captain Vex: "Prince Damian will choose a bride before sunset. The king has chosen your house for inspection."
+16-22s: Neighbors whisper from the street, afraid of the monthly bride tradition.
+DIALOGUE 16-20s: Village Woman (frightened whisper): "Every month one girl goes to that castle... and nobody sees her again."
+22-30s: Vex gestures toward the carriage. Lily squeezes Grace's hands, trying to be brave, then steps toward the door. Final frame: Grace on the porch watching Lily walk toward the black carriage.
+DIALOGUE 22-26s: Lily (tearful but brave): "I will come back to you. I promise."
+DIALOGUE 26-29s: Captain Vex (cold): "Move."
+SFX: royal paper rustle, door creak, wind, neighbors whispering, horse snorts, armor clanking, carriage door opening.
+MUSIC: sad piano under Lily and Grace, turning into low drums as the carriage waits.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 005 - "Into the Kingdom": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested, and every visible word must be Hindi Devanagari only.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+HINDI REELS CAPTION AFTER DOWNLOAD
+HINDI CAPTION LOCK: Write the final post title/description/caption in Hindi, using Hindi emotion and hashtags. Do not output an English caption.
+भाग 4 | फ्रॉस्ट: जंगल का बेटा - कहानी अब और गहरी होती जा रही है। #बिगफुट #फिल्म #भाग4
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+Corrected linear opening. No flashback. This continues directly after Part 3.

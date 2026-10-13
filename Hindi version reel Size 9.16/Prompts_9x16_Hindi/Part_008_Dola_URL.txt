@@ -1,0 +1,50 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
+
+FROST: Son of the Wild
+PART 008 - "I Do"
+Punch: EMOTION + TWIST
+Status: canon-safe opening version
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+LANGUAGE: HINDI OUTPUT ONLY
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s Hindi Reels 9x16
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: vertical 9:16
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+HINDI OUTPUT LOCK:
+The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
+CHARACTER LOCK: Keep Lily, Damian, and King Magnus exactly identical to the attached reference images. Lily is 22, young, innocent, beautiful, blue eyes, honey-blonde hair.
+
+Scene: A grand Western royal wedding hall inside the dark forest castle, candles, red banners, stone arches, royal guests, no Asian elements.
+0-3s: Lily stands at the altar in a white wedding gown, trying to stay calm. Prince Damian smiles beside her. King Magnus watches from a raised throne.
+DIALOGUE 1-4s: NARRATOR (deep cinematic Hindi trailer voice): "Lily had one day to find the truth."
+3-12s: The old priest opens a black ceremony book. Damian offers Lily his hand with a polished, charming smile. Lily remembers Rose's warning and hesitates.
+DIALOGUE 5-8s: Prince Damian (smooth charming voice): "Do you accept the house of Thorne?"
+DIALOGUE 9-11s: Lily (soft, nervous): "...I do."
+12-20s: The hall applauds. Damian slides a silver ring on Lily's finger. Lily notices Rose watching from the back, silently shaking her head.
+DIALOGUE 14-18s: Rose (whispering from the crowd): "Not the forest... please remember."
+20-26s: King Magnus raises his staff and the red crystal glows. His smile is cold and unreadable.
+DIALOGUE 21-25s: King Magnus (deep commanding voice): "Tonight, the old tradition continues."
+26-30s: Lily looks from Rose to the dark forest visible through the stained-glass window. Final frame: Lily's frightened blue eyes.
+SFX: soft crowd murmur, ceremony book opening, ring sound, staff tap, crystal hum.
+MUSIC: solemn wedding strings shifting into dark suspense.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 009 - "The Truth": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, vertical 9:16. SETTING: Fully American / Western, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no nudity, no coercive physical contact.
+
+HINDI REELS CAPTION AFTER DOWNLOAD
+HINDI CAPTION LOCK: Write the final post title/description/caption in Hindi, using Hindi emotion and hashtags. Do not output an English caption.
+भाग 8 | फ्रॉस्ट: जंगल का बेटा - कहानी अब और गहरी होती जा रही है। #बिगफुट #फिल्म #भाग8

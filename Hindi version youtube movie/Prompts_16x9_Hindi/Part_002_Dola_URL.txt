@@ -1,0 +1,79 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+S01_GraceCarter_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S01_GraceCarter/S01_GraceCarter_FULL.png
+L01_LilyHouse.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L01_LilyHouse/L01_LilyHouse.png
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+
+FROST: Son of the Wild
+PART 002 - "Lily's Month"
+Punch: NEXT BRIDE REVEAL
+Status: ready - LILY BECOMES THE NEXT MONTHLY CHOICE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+LANGUAGE: HINDI OUTPUT ONLY
+FORMAT: YOUTUBE 16:9
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s Hindi YouTube 16x9
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+YOUTUBE 16:9 FRAMING LOCK:
+Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
+
+HINDI OUTPUT LOCK:
+The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
+CHARACTER LOCK: Keep every character's face, body, hair, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: C01_Lily_FULL.png -> Lily Carter; S01_GraceCarter_FULL.png -> Grace Carter; L01_LilyHouse.png -> Lily's poor home; L02_KingCastle.png -> Thorne Castle; C02_KingMagnus_FULL.png -> King Magnus; C03_PrinceDamian_FULL.png -> Prince Damian; S07_CaptainVex_FULL.png -> Captain Vex.
+LILY LOOK LOCK: Lily is a 22-year-old poor Hindi-dubbed woman, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair.
+
+TEXT CARD 0-2s: Show only "एक महीने बाद - ओरेगन" over Lily's poor rural road, then remove it.
+Scene: Continue after Part 1. The kingdom has hidden the previous bride's disappearance. Now the prince's monthly search turns toward Lily's poor home.
+0-5s: Lily and Grace share a tiny breakfast in their poor wooden house. Lily tries to smile, but Grace looks worried. Outside, townspeople whisper on the dusty Oregon road.
+DIALOGUE 1-4s: Grace (soft tired Hindi-dubbed woman): "Lily, keep your head down today. The prince is choosing again."
+5-10s: Lily looks through the window as two village women hurry by, scared.
+DIALOGUE 5-8s: Village Woman (frightened whisper): "Last month's bride never came home."
+DIALOGUE 8-10s: Lily (quiet, uneasy): "Mama... why does nobody stop him?"
+10-17s: Cut to Thorne Castle. Prince Damian stands before King Magnus, bored and arrogant, while Captain Vex waits for orders.
+DIALOGUE 10-13s: Prince Damian (smooth arrogant voice): "Father, it is time for another bride."
+DIALOGUE 13-16s: King Magnus (cold commanding voice): "Choose from the poor houses. No one will challenge us there."
+17-23s: Captain Vex opens a town list. His black-gloved finger stops on Lily Carter's name. Damian smirks.
+DIALOGUE 17-20s: Captain Vex (harsh official voice): "Lily Carter. No father. Poor house at the edge of town."
+DIALOGUE 20-23s: Prince Damian (low smirk): "Then bring her."
+23-30s: Vex rides from the castle with guards and the sealed royal order. Final frame: the royal carriage approaching the road toward Lily's house.
+DIALOGUE 24-28s: NARRATOR (deep cinematic voice): "The first bride was gone. Now the second month belonged to Lily."
+SFX: morning wind, wooden floor creak, frightened town whispers, castle echo, paper list rustle, horse hooves, carriage wheels.
+MUSIC: sad piano in Lily's home, dark drums in castle, sharp tense sting as Vex rides out.
+CAMERA: intimate close-ups in Lily's house, fast dramatic cut to castle, close-up on Lily's name, final tracking shot behind the carriage.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 003 - "The Royal Order": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani. No line may be skipped. Dialogue must stay louder than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin and hair, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
+SETTING: Fully American / Western. Pacific Northwest USA forest kingdom, Western dark-fantasy castle, American people and clothing. No Asian elements.
+TEXT RULE: All intentional on-screen text must be Hindi in Devanagari. On-screen text is allowed only for the opening place/time card: "एक महीने बाद - ओरेगन". No subtitles for dialogue. Do not show English on-screen text.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no gore, no blood, no explicit harm, no restraints, no chains, no forced physical contact, no nudity.
+
+HINDI YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
+HINDI CAPTION LOCK: Write the final post title/description/caption in Hindi, using Hindi emotion and hashtags. Do not output an English caption.
+भाग 2 | फ्रॉस्ट: जंगल का बेटा - कहानी अब और गहरी होती जा रही है। #बिगफुट #फिल्म #भाग2
+
+DOLA STATUS
+[ ] Images loaded by raw URLs
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+This part establishes Lily as the second-month chosen bride, after the audience already understands the king and prince's monthly pattern.

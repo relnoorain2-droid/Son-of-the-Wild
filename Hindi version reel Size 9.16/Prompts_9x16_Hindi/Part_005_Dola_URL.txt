@@ -1,0 +1,68 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
+K06_WarMammoth.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K06_WarMammoth/K06_WarMammoth.png
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+S01_GraceCarter_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S01_GraceCarter/S01_GraceCarter_FULL.png
+
+FROST: Son of the Wild
+PART 005 - "Into the Kingdom"
+Punch: WOW
+Status: ready - CANON LINEAR VERSION
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+LANGUAGE: HINDI OUTPUT ONLY
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s Hindi Reels 9x16
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: vertical 9:16
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+HINDI OUTPUT LOCK:
+The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: C01_Lily_FULL.png -> Lily Carter; S01_GraceCarter_FULL.png -> Grace Carter; K02_RedDragon.png -> Western red dragon; K06_WarMammoth.png -> armored war mammoths; L02_KingCastle.png -> Thorne Castle.
+LILY LOOK LOCK: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older.
+
+Scene: Rural Oregon road leading from Lily's house into the deep Pacific Northwest forest and then to Thorne Castle.
+0-4s: Grace hugs Lily tightly beside the black royal carriage. Guards wait behind them, silent.
+DIALOGUE 1-4s: Grace (crying): "They say no girl ever comes back from that forest..."
+4-8s: Lily wipes Grace's tears and forces a brave smile.
+DIALOGUE 4-8s: Lily (soft but brave): "Then I will be the first one, Mama."
+8-15s: The carriage rolls away. Lily watches Grace get smaller through the carriage window as the road enters giant redwoods and fog.
+DIALOGUE 11-14s: Lily (nervous whisper): "What kind of kingdom hides this deep in the woods?"
+15-20s: The forest opens to reveal a massive dark stone castle with red banners, armored mammoths at the gate, and dark Bigfoot guards standing watch, no chains.
+TEXT 16-18s: Brief location title card at bottom: "THORNE CASTLE".
+20-30s: A huge red Western dragon swoops over the carriage and roars fire into the sky. Lily screams and presses back against the seat. Final frame: the dragon landing on the highest tower as the gate closes behind Lily.
+DIALOGUE 23-28s: NARRATOR (deep cinematic Hindi trailer voice): "Welcome... to the kingdom of King Magnus Thorne."
+SFX: crying, carriage wheels, horse hooves, forest wind, mammoth trumpet call, giant gate creak, dragon wing beats, dragon roar, fire whoosh, gate slamming shut.
+MUSIC: emotional strings for the goodbye, then epic dark fantasy orchestra when the castle appears.
+CAMERA: close goodbye, carriage window POV, drone reveal over the forest, low-angle dragon shot.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 006 - "The Monthly Bride": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested, and every visible word must be Hindi Devanagari only.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity, no chained people or creatures.
+
+HINDI REELS CAPTION AFTER DOWNLOAD
+HINDI CAPTION LOCK: Write the final post title/description/caption in Hindi, using Hindi emotion and hashtags. Do not output an English caption.
+भाग 5 | फ्रॉस्ट: जंगल का बेटा - कहानी अब और गहरी होती जा रही है। #बिगफुट #फिल्म #भाग5
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+Corrected gate scene: dark Bigfoots are guards, not captives.
