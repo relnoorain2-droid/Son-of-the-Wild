@@ -29,6 +29,7 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
 Night at Mirror Lake, the full moon high in the sky.
 0–3s: Old Joe looks up at the full moon.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 250's final image: Frost bursts out of Mirror Lake in a huge explosion of water and blue light, lands on the shore on one knee. A fourth glowing blue mark burns across his face like war paint, under his eyes. Lily runs to him. Final frame: Frost's face with the new glowing mark, eyes shining calm blue. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–7s: Old Joe (slow raspy voice): "One last step. Tonight, under the full moon... you must call your father from his grave."
 3–12s: Lily's face falls. She looks down.
 DIALOGUE 7–16s: Lily (soft, guilty, crying): "Joe... Bruno has no grave. I was in the river. I never even got to bury him. I don't know where he is."

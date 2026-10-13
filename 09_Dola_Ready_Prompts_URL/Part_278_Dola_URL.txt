@@ -26,6 +26,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 
 Inside a dark, narrow stone tunnel under Thorne Castle, torchlight, dripping water, rats.
 0–3s: Rose pushes open a hidden stone door behind a waterfall at the back of the castle. Tommy, Sarah and Old Joe follow with torches.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 277's final image: A huge soldier with a giant axe stands over Martha. She looks up, then calmly hits his toe with the pan. He hops around screaming, holding his foot, and falls into a mud puddle. Final frame: Martha blowing on her frying pan like a cowboy. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–5s: Rose (old British voice, whispering): "This way. The servants' tunnel. The king forgot it exists."
 3–12s: They creep through the tunnel. A rat runs over Tommy's boot; he almost screams; Sarah covers his mouth.
 DIALOGUE 6–9s: Tommy (muffled, whispering): "Mmmph! Rat! Big rat!"

@@ -28,6 +28,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Morning, sunlit meadow near the river.
 0–3s: Lily takes Bruno's huge hand and gently places it on her belly.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 080's final image: Build into the hook: A dragon shadow crosses the sun. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Lily (soft, nervous, smiling): "Bruno... we're going to have a baby."
 3–12s: Bruno freezes. His eyes slowly fill with tears. He looks at her belly, then her face.
 DIALOGUE 6–9s: Bruno (deep, trembling whisper): "Baby? Bruno... be a father?"

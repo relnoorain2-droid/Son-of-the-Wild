@@ -27,6 +27,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Morning by the river, a few weeks later. Fall leaves on the ground.
 0–3s: Lily suddenly turns away from a bowl of fish and feels sick, holding her mouth.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 074's final image: The camera slowly tilts away from them up to the campfire sparks rising into the starry sky, and the fire slowly burns down. Fade to black. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: NARRATOR (deep trailer voice): "A few weeks later..."
 3–12s: Bruno panics, running in circles, holding different leaves and berries.
 DIALOGUE 4–7s: Bruno (deep, panicked): "Lily eat bad berries? Bruno find medicine!"

@@ -25,6 +25,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Daytime, an old abandoned log cabin by the river, broken window, overgrown grass, Pacific Northwest pines.
 0–3s: Lily pushes the creaky door open; a cloud of dust falls on her and she coughs.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 114's final image: She feels a kick, gasps, and smiles through her tears. Final frame: Lily standing up slowly on the riverbank, looking downstream where a thin line of chimney smoke rises over the trees. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Lily (coughing): "Hello? Anyone home?"
 3–12s: Inside: an old wood stove, a broken chair, cobwebs, a dusty quilt on a bed. She smiles a little.
 DIALOGUE 6–10s: Lily (soft): "It's not a castle... but it's better than a cave."

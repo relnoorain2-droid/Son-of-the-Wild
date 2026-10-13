@@ -32,6 +32,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 Scene: Frost swears he will stop King Magnus.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 205's final image: the final image, location, emotion, lighting, and character positions from the previous part. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1-4s: NARRATOR (bright cinematic voice): "Frost grew larger than every fear around him."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
 DIALOGUE 5-8s: Frost (young deep voice, kind): "I can help. Tell me what to lift."

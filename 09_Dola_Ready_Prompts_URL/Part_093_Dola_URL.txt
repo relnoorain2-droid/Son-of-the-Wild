@@ -27,6 +27,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 The valley in front of the cave, smoke and fire around.
 0–3s: Damian's sword swings down at Lily — a huge black hand grabs the blade and bends it like a spoon.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 092's final image: Damian drags Lily out of the cave toward his horse. He sees her belly and stops, shocked, then disgusted. Final frame: Damian's sword rising toward Lily. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Bruno (deep, furious): "Hands off... my family."
 3–12s: Prince Damian stares at his bent sword, then at Bruno, and smiles nervously.
 DIALOGUE 5–8s: Prince Damian (nervous, fake laugh): "Let's... talk about this like gentlemen?"

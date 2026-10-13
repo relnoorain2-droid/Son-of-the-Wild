@@ -29,6 +29,7 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 CAST NOTE: Hank = a sturdy farmer, grey-brown beard, worn cowboy hat, plaid shirt, overalls.
 Night, full moon, in front of Cedar Hollow's log wall. The king's army stretches across the valley with torches: dark Bigfoots, mammoths, soldiers, small dragons circling above.
 0–3s: Captain Vex rides forward on a black war horse. Beside him, Prince Damian, older now, with a scar on his forehead, in spiked black armor.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 213's final image: Far away over the hills, war horns blow. Torches appear by the hundreds along the ridge. Dragons' fiery breath lights up the sky. Final frame: Frost standing up on the roof, the full moon behind him, facing the coming army. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Captain Vex (harsh loud voice): "Time's up, Cedar Hollow! Where's the gold?"
 3–12s: Hank stands on the log wall with his shotgun.
 DIALOGUE 5–9s: Hank (deep rural voice): "Spent it all on bacon grease. Come and get it!"

@@ -25,6 +25,7 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 
 Daytime, the main street of another small American mountain town called Pine Ridge: a diner, a gas station, a sheriff's office.
 0–3s: Frost lands from the sky in the middle of Main Street. People scream; a sheriff draws his pistol.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 263's final image: Frost puts his glowing finger on the castle's highest tower on the map. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Sheriff (deep Southern-American voice, shaking): "Don't you move, monster!"
 3–12s: Hank steps out from behind Frost, raising his hands.
 DIALOGUE 4–11s: Hank (deep rural voice): "Easy, Sheriff! He's with us. The king who's been burning towns... we're going to stop him. We need help."

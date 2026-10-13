@@ -23,6 +23,7 @@ CHARACTER LOCK: Keep pregnant Lily and Bruno exactly identical to the attached r
 LILY LOOK LOCK: Lily looks young, beautiful, soft fair face, big blue eyes, honey-blonde hair, pregnant but not older.
 
 Scene: Warm cave at night, handmade baby cradle, soft firelight, rain outside, carved wooden toys.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 082's final image: Lily sits beside him, takes his hand and smiles softly. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 0-5s: Bruno proudly carves a tiny wooden sign for the cradle. It reads only as rough marks, not readable text.
 DIALOGUE 1-4s: Bruno (proud): "Baby name should be Rock. Strong name."
 5-11s: Lily stops folding a tiny blanket and stares at him.

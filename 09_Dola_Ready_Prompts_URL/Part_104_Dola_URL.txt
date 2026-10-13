@@ -26,6 +26,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 0–3s: From far down the river, Lily, floating and holding onto a log, sees the red lightning flash in the distance and screams silently, tears streaming.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 103's final image: Bruno's open hand resting in the grass; beside it, a single small blue wildflower slowly blooms in the sunset light. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Lily (broken whisper): "No... no, Bruno..."
 3–12s: The current pulls her into dark rapids. She clings to the log, one hand on her belly, Bruno's small blue flower clutched in her fist, then hits her head on a rock and goes limp, still holding the log.
 DIALOGUE 6–10s: NARRATOR (deep cinematic trailer voice): "The river took her far away from everything she knew."

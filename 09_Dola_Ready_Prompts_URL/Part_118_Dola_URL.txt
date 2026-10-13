@@ -27,6 +27,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Night, inside the cabin, storm outside.
 0–3s: Hank Miller (50, cowboy hat, beard, plaid shirt) steps in holding a lantern high, an old shotgun pointed down at the floor — then sees Lily's pregnant belly and immediately steps back.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 117's final image: The door handle turns. A man's shadow with a shotgun appears in the doorway, lit by lightning. Final frame: Lily holding the burning stick up, the shadow stepping in. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Hank (deep friendly rural voice, shocked): "Whoa, whoa... ma'am, I'm sorry!"
 3–12s: Lily slowly lowers her burning stick, still shaking.
 DIALOGUE 4–8s: Lily (soft, scared): "I'm sorry too. I didn't know it was yours. I'll leave."

@@ -28,6 +28,7 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Evening, the front yard of Grace's small house in Millbrook.
 0–3s: Lily holds Grace's hand and leads her outside.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 308's final image: Mother and daughter hug in the doorway, both crying, holding each other tightly. Final frame: through the kitchen window behind them, two plates on the table and the little blue flower in its glass. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–5s: Lily (nervous, smiling): "Mama... there's someone you need to meet. Please don't scream."
 3–12s: Frost steps out from behind the big oak tree, 11 feet tall, glowing slightly, trying to look small and friendly. He waves shyly. Grace looks up... and up... and up.
 DIALOGUE 7–10s: Frost (deep, gentle, nervous): "Hi, Grandma. I'm Frost."

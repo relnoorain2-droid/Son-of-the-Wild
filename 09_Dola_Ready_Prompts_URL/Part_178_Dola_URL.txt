@@ -27,6 +27,7 @@ FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Late afternoon, a huge wildfire racing through the pine forest toward Cedar Hollow, orange sky, smoke.
 0–3s: A wall of fire bursts over the hill; burning trees fall. The village bell rings.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 177's final image: The truck flies into a giant haystack and stops. Silence. Hay everywhere. Hank slowly climbs out, covered in hay, and lies down on the grass. Frost lifts the whole truck out of the haystack with both hands. Final frame: Frost holding the truck above his head. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Villager man (shouting): "The fire's coming! It's too fast!"
 3–12s: Deer, elk and rabbits run in panic toward the village. Teen Frost runs toward the fire, not away.
 DIALOGUE 6–11s: Teen Frost (determined teenage voice): "I can't stop the fire... but I can stop it from reaching home."

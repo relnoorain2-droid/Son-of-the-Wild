@@ -25,6 +25,7 @@ LILY LOOK LOCK: Lily looks young and beautiful as a new mother, not older.
 FROST AGE LOCK: Frost is a newborn/baby here. Use only V05_Frost_Baby.png for Frost; do not show kid, teen, adult, or powered Frost in this part.
 
 Scene: Lily's small cabin, morning, baby blankets, flour sack, sunlight through wooden window.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 133's final image: Frost wakes up, sees a butterfly, and chases it, stumbling on his chubby legs, then falls into a pile of flowers. He sneezes; petals explode everywhere. Final frame: Frost covered in flower petals, giggling. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 0-5s: Baby Frost sneezes. The sneeze blasts flour from a bowl into the air like a white cloud.
 DIALOGUE 1-4s: Lily (startled laugh): "Oh! Frost, sweetheart!"
 5-12s: Martha enters and finds Lily, baby Frost, and the table covered in flour. Frost blinks innocently.

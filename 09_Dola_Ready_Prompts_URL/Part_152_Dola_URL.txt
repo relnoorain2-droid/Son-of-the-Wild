@@ -27,6 +27,7 @@ FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient f
 
 Late afternoon in Cedar Hollow, near the general store.
 0–3s: A huge grizzly bear smashes through a fence into the village street. People scream and run.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 151's final image: The ball finally falls from the sky and lands right in Frost's hand. The crowd goes wild. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Villager woman (screaming): "BEAR! Get inside!"
 3–12s: The bear roars at little Sarah, who is frozen in the middle of the street. Hank runs for his shotgun. Kid Frost steps in front of Sarah.
 DIALOGUE 7–9s: Hank (shouting): "Frost, get away from it!"

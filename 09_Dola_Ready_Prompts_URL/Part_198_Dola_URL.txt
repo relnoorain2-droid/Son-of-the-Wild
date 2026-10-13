@@ -26,6 +26,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 
 The burning town square of Cedar Hollow, smoke everywhere.
 0–3s: The red dragon lands in the square with a ground-shaking thud. King Magnus, older and greyer in black iron armor, steps down.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 197's final image: Martha herds a group of crying children into a cellar under the church and closes the heavy wooden door. Through the cracks we see fire light and shadows of monsters passing. Final frame: Martha holding the children close in the dark, praying. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: King Magnus (deep rough menacing voice): "Where is the white beast?"
 3–12s: Captain Vex drags Old Joe forward and throws him to the ground in front of the king.
 DIALOGUE 5–7s: Captain Vex (harsh voice): "Answer the king, old man!"

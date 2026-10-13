@@ -28,6 +28,7 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
 Morning, the wide valley in front of Thorne Castle, fog and dust, two armies facing each other.
 0–3s: The castle gate crashes open. Prince Damian rides out on the lead war mammoth, sword raised; fifty armored mammoths thunder behind him.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 275's final image: Build into the hook: Magnus screams for the T-Rex. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Prince Damian (smooth arrogant voice, screaming): "CRUSH THEM!"
 3–12s: Frost raises his glowing hand and roars a deep animal call. From the hills, hundreds of American bison charge down, led by grizzly bears, Old Scar in front.
 DIALOGUE 6–9s: Frost (deep, thunderous): "WILD ONES... NOW!"

@@ -27,6 +27,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Peaceful morning by the river near the waterfall, mist, golden light.
 0–3s: Lily (pregnant, around 6 months, blonde, blue eyes) laughs as Bruno balances a stack of apples on his head. Suddenly every bird in the forest flies away at once.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 084's final image: the red dragon taking off from the tower, fire lighting the sky. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Lily (soft young American woman): "Bruno... why are the birds leaving?"
 3–12s: Deer, elk and rabbits run past them in panic. The river water starts rippling in rhythm. Bruno drops the apples, sniffing the air, his face turning serious.
 DIALOGUE 6–9s: Bruno (very deep gravelly voice, low and serious): "Animals running... from something big."

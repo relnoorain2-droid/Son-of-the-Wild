@@ -26,6 +26,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 
 The underground dragon pens beneath Thorne Castle, torchlight, chains.
 0–3s: Captain Vex steps out of the shadows with his axe, blocking the tunnel.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 281's final image: Frost's eyes snap open, bright blue. The red chains of magic crack. He roars and stands up, throwing the last dark Bigfoots off him in every direction. His tattoos blaze brighter than ever. Final frame: Frost standing tall, Lily beside him, Old Scar and the wolves around them. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Captain Vex (harsh voice, cruel smile): "Well, well. Rats in my dungeon."
 3–12s: Tommy steps in front of Sarah, raising a pitchfork. Vex snaps it in half with one swing of his axe.
 DIALOGUE 5–8s: Tommy (shaking but brave): "You'll have to go through me!"

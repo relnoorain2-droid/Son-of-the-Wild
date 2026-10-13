@@ -32,6 +32,7 @@ CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and p
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
 Scene: Lily escapes through the forest, protecting her unborn child.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 096's final image: Build into the hook: The dragon's eye looks straight at the waterfall. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1-4s: NARRATOR (urgent cinematic voice): "But King Magnus had not forgotten the bride who escaped."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
 DIALOGUE 5-8s: Lily (protective, frightened): "Bruno, our baby... they found us."

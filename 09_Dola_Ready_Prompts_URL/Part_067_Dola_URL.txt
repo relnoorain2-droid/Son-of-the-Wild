@@ -28,6 +28,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Golden morning in the Pacific Northwest forest, sunbeams through giant redwoods, wildflowers, a sparkling river.
 0–3s: Bruno lifts Lily high onto his shoulders; she spreads her arms as they walk out of the dark trees into a sunlit meadow full of flowers, butterflies flying up.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 066's final image: Build into the hook: Bruno looks away, overwhelmed. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Lily (soft young American woman, laughing): "Bruno, look! It's beautiful!"
 3–26s: Music montage. Lily SINGS in a soft, sweet country-folk voice, clearly audible, lip-synced:
   3–10s: "No castle walls, no golden crown, just a river song and the stars come down."

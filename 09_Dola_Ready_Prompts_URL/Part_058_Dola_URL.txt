@@ -28,6 +28,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Evening, the waterfall pool and the cave behind it, orange sunset light.
 0–3s: Lily washes fruit by the pool and suddenly freezes: torches are moving between the trees across the water.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 057's final image: SNAP — the vine breaks. Bruno freezes in mid-air for a second like a cartoon, looks at the camera, then falls into the river with a giant splash that soaks Lily from head to toe. Final frame: Bruno pops up with a fish on his head, Lily laughing on the riverbank. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Lily (whispering, scared): "Bruno... soldiers!"
 3–12s: Bruno silently pulls Lily behind the waterfall into the cave and covers the fire with his huge hand, the flames dying.
 DIALOGUE 6–8s: Bruno (very low whisper): "Quiet. Not move."

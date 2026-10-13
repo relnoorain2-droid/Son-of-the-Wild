@@ -27,6 +27,7 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 CAST NOTE: the Great Red Dragon = three times bigger than any other dragon, dark lava-red scales, horns like a crown, enormous wings.
 The castle courtyard at dusk, smoke clearing, a giant dark crack in the ground in the middle of the courtyard where the Great Red Dragon was once chained.
 0–3s: King Magnus crawls out of the rubble: his armor broken, his crown cracked, his staff an empty stick. He looks old and small.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 303's final image: Lily hugs him, crying and laughing. The Great Red Dragon gently nudges Frost with its nose, making a deep purring sound like a giant cat. Final frame: Frost hugging the dragon's nose, Lily laughing. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: King Magnus (weak, bitter): "My power... my dragons... everything."
 3–12s: His own people surround him: farmers, servants, the freed brides, holding torches. Mammoths and wolves stand behind them. Nobody bows.
 DIALOGUE 6–11s: Rose (old British voice, firm): "You don't have any power anymore, Magnus. You never did. You stole it."

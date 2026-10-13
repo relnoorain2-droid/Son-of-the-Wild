@@ -26,6 +26,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 
 Riverbank at sunset, orange sky, smoke, the whole army in front of Bruno.
 0–3s: Bruno stands alone, wounded, facing dark Bigfoots, soldiers and the red dragon with King Magnus on its back.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 102's final image: Build into the hook: The river pulls her into darkness. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 0–3s: King Magnus (deep cold voice): "Where is the girl, beast?"
 3–8s: Bruno smiles.
 DIALOGUE 4–7s: Bruno (deep, proud, calm): "Gone. Where you never find her."

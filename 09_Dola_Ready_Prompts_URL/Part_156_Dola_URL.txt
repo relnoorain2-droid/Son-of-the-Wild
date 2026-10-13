@@ -26,6 +26,7 @@ FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient f
 
 Daytime, the Cedar Hollow general store.
 0–3s: Three scruffy bandits in dusty cowboy hats and bandanas kick open the general store door.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 155's final image: Frost leaning his head down so Lily can kiss his forehead. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Bandit leader (rough American male voice): "Nobody move! Hand over the money!"
 3–12s: Martha stands behind the counter, calm, arms crossed.
 DIALOGUE 5–8s: Martha (warm Southern voice, unimpressed): "Boys, you picked the wrong store."

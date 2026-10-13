@@ -25,6 +25,7 @@ LILY LOOK LOCK: Lily remains young-looking and beautiful, not older.
 FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07_Frost_Teen.png for present-day Frost; do not show baby, kid, adult, or powered Frost here.
 
 Scene: Cedar Hollow schoolhouse porch, sunny afternoon, wooden doorway, kids watching from a safe distance.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 170's final image: Frost pulls his head out, holds a hammer, hits one nail — and the whole porch collapses. Silence. A shingle falls on his head. Final frame: Frost slowly turning to his mother with an innocent face. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 0-5s: Teen Frost tries to enter the schoolhouse sideways. His shoulders get stuck in the doorway.
 DIALOGUE 1-4s: Tommy (teen voice, laughing): "Frost, the door did not shrink. You grew again."
 5-12s: Frost tries to smile, embarrassed. Lily arrives carrying books and gives him a look.

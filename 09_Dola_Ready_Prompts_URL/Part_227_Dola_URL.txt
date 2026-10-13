@@ -28,6 +28,7 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Night inside the cabin, fireplace light. Old Joe tells a legend.
 0–3s: Old Joe turns to Lily.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 226's final image: Build into the hook: Frost looks toward the deep forest. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Old Joe (slow raspy voice): "Lily. Did Bruno ever speak of his father?"
 DIALOGUE 4–9s: Lily (thinking, soft): "Only once... he said his father's name was... Orin."
 8–24s: Legend flashback in a glowing blue, painterly cinematic style, with Old Joe's voice-over:

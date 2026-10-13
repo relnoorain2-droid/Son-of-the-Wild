@@ -25,6 +25,7 @@ LILY LOOK LOCK: Lily remains young-looking, sweet, beautiful, blue eyes, honey-b
 FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07_Frost_Teen.png for present-day Frost; do not show baby, kid, adult, or powered Frost here.
 
 Scene: Cedar Hollow town square before the harvest dance, lanterns, wooden stage, flower garlands, sunset.
+OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 181's final image: the whole town in one big hug. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 0-5s: Frost carries too many lantern poles at once to help decorate. He trips and knocks down half the dance garlands.
 DIALOGUE 1-4s: Sarah (teen girl, shocked): "Frost!"
 5-12s: Frost gets embarrassed and defensive as villagers stare.
