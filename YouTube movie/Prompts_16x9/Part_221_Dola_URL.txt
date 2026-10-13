@@ -12,6 +12,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, S02_MarthaHayes_FULL.png, S07_CaptainVex_FULL.png, V04_Lily_VillageMom.png, V10_Damian_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -34,14 +35,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Dawn after the battle, smoke drifting over Cedar Hollow's broken log wall.
 0–3s: Captain Vex limps out of the forest, bruised, his armor dented. Two soldiers drag the unconscious Prince Damian behind them on a stretcher.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 220's final image: He disappears into the white roaring water far below. Lily, on the wall, screams with everything she has. Final frame: the empty waterfall in the moonlight, foam and mist, no sign of Frost. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Captain Vex (harsh voice, hoarse): "The white beast is dead!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The Beast Is Dead moves the story forward."
 3–12s: The surviving soldiers cheer weakly. Vex looks up at the villagers on the wall.
-DIALOGUE 5–10s: Captain Vex: "Keep your gold. Next time the king comes himself... and he burns everything."
-DIALOGUE 10–12s: Prince Damian (half-conscious, mumbling): "...frying pan..."
+DIALOGUE 5–10s: Lily (young emotional American woman): "This is The Beast Is Dead, and my heart knows the danger is real."
+DIALOGUE 10–12s: Frost (deep young heroic voice): "I will not let The Beast Is Dead break the people I love."
 12–22s: The army retreats into the forest. The villagers don't cheer. Everyone turns to look at Lily.
-DIALOGUE 15–18s: Martha (soft Southern voice): "Lily, honey..."
+DIALOGUE 15–18s: Prince Damian (smooth cold prince voice): "By tomorrow, The Beast Is Dead will feel like destiny."
 22–30s: Lily walks alone to the edge of the cliff and stares down at the waterfall, her hair moving in the wind. Her face is calm, determined, no tears.
-DIALOGUE 25–29s: Lily (quiet, firm): "He's not dead. A mother knows. My son is NOT dead."
+DIALOGUE 25–29s: Captain Vex (harsh soldier voice): "By the crown, The Beast Is Dead begins now."
 Final frame: Lily at the cliff edge, the sun rising behind the waterfall.
 SFX: crackling embers, limping footsteps, stretcher creaking, weak cheers, marching away, wind, waterfall roar.
 MUSIC: sad strings, then a single hopeful note.

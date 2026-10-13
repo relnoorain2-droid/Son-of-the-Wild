@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FACE.png, C05_Frost_FULL.png, V04_Lily_VillageMom.png, V12_Tommy_Adult.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -29,13 +30,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Morning, Cedar Hollow main street, mountains behind.
 0–3s: Extreme close-up of a giant white furry foot stepping onto the dirt road. BOOM. Coffee cups on a café table jump.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 183's final image: Frost dancing under the barn lights, the harvest moon behind him. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: NARRATOR (deep cinematic American trailer voice): "Years passed fast because of Bruno's Bigfoot blood and ancient forest magic... the boy became a giant."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now The Giant moves the story forward."
 3–14s: Slow-motion reveal from feet to head: adult Frost, 11 feet tall, massive muscles, shining snow-white fur with subtle silver dragon-like scale patterns on his shoulders, blue eyes like his mother's, the black crescent patch on his chest. Every step makes the ground shake; windows rattle; birds fly up.
-DIALOGUE 9–12s: Tommy (now a young man, amazed): "Whoa... Frost, you got HUGE."
+DIALOGUE 9–12s: Lily (young emotional American woman): "This is The Giant, and my heart knows the danger is real."
 14–22s: Frost waves to villagers who wave back. A little girl gives him a flower; he takes it very gently between two giant fingers.
-DIALOGUE 17–20s: Frost (deep powerful young male voice, calm and kind): "Thank you, sweetheart. I'll keep it safe."
+DIALOGUE 17–20s: Frost (deep young heroic voice): "I will not let The Giant break the people I love."
 22–30s: The old wooden bridge over the river cracks and collapses while a horse cart is on it. Frost jumps into the river and holds the entire bridge up on his shoulders while the cart crosses safely. Final frame: Frost standing in the river holding the bridge above his head, the sun behind him.
-DIALOGUE 27–30s: Frost (calm, deep, smiling): "Take your time. I've got it."
+DIALOGUE 27–30s: Frost (deep young heroic voice): "Father, guide me through The Giant."
 SFX: earth-shaking footsteps, rattling cups and windows, birds, cheering, wood cracking, a huge splash, horse hooves on wood.
 MUSIC: epic heroic theme with full orchestra and choir.
 

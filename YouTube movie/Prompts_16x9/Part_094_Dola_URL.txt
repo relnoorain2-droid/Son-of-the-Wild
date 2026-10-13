@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C04_Bruno_FACE.png, C04_Bruno_FULL.png, K05_Anaconda.png, V03_Lily_Pregnant.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -32,15 +33,15 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Deep forest near the river, smoke drifting through trees, late afternoon light.
 0–3s: The red lightning bolt hits Bruno's back; he falls to his knees in slow motion, still holding Lily safely.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 093's final image: Bruno runs with Lily toward the forest. Behind them, King Magnus raises his staff; the red crystal charges with red lightning. Final frame: the red bolt flying toward Bruno's back. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (screaming): "BRUNO!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Run, Lily moves the story forward."
 3–12s: A giant anaconda slides out of the river and blocks their path, hissing. Bruno, weak, stands up and grabs its head, holding it back with shaking arms.
-DIALOGUE 6–9s: Bruno (deep, weak, urgent): "Lily... run. Run now!"
-DIALOGUE 9–12s: Lily (crying): "No! I'm not leaving you!"
+DIALOGUE 6–9s: Lily (young emotional American woman): "This is Run, Lily, and my heart knows the danger is real."
+DIALOGUE 9–12s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through Run, Lily."
 12–22s: Bruno throws the anaconda into the river with his last strength and collapses against a tree. Lily runs to him, holding his face.
-DIALOGUE 14–18s: Lily (sobbing): "We go together, Bruno. Together, like you promised!"
-DIALOGUE 18–21s: Bruno (deep whisper, smiling sadly): "Bruno promise... keep you safe. This is how."
+DIALOGUE 14–18s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in Run, Lily, but Bruno stays calm."
+DIALOGUE 18–21s: Bruno (very deep gentle Bigfoot voice): "Run, Lily means Bruno must stay gentle and close."
 22–30s: The sound of the army gets closer: horns, roars, marching. Bruno looks at Lily's belly and puts his huge hand gently on it. Final frame: his tearful amber eyes.
-DIALOGUE 26–29s: Bruno (deep, emotional): "Hello, little one. Papa loves you."
+DIALOGUE 26–29s: Lily (young emotional American woman): "I have to survive Run, Lily without losing myself."
 SFX: lightning impact, heavy fall, snake hiss, struggle, splash, crying, approaching war horns and marching.
 MUSIC: tragic slow strings and choir.
 

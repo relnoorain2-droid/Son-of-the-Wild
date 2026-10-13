@@ -14,6 +14,7 @@ Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L02_KingCastle.png, C02_KingMagnus_FULL.png, C03_PrinceDamian_FULL.png, S08_KingdomGuards_FULL.png, S09_Brides_FULL.png, S11_Rose_FULL.png, L03_DeepForest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -36,13 +37,13 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 TEXT CARD 0-3s: Show cinematic title text only: "FROST: SON OF THE WILD" and below it "Directed by Noorul Ain". No other text.
 Scene: The hidden Oregon kingdom fills the square: workers, servants, nobles, guards, and families gather under red banners for a royal Moon Festival and public proclamation.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
-DIALOGUE 1-4s: NARRATOR (deep cinematic American trailer voice): "In Thorne Kingdom, every smile hid a royal secret."
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now The Kingdom Watches moves the story forward."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Prince Damian (smooth cold voice): "Do not be afraid. The crown has prepared a celebration for every family."
+DIALOGUE 5-8s: Rose (old nervous castle maid): "Remember The Kingdom Watches, child. It is your warning."
 10-18s: The hidden Oregon kingdom fills the square: workers, servants, nobles, guards, and families gather under red banners. Festival guests cheer, but a few faces look quietly worried, as if they know the celebration hides something darker.
-DIALOGUE 11-15s: Festival Young Woman (nervous American voice): "Why does this celebration feel like goodbye?"
+DIALOGUE 11-15s: Prince Damian (smooth cold prince voice): "Smile through The Kingdom Watches; the court is watching."
 18-24s: King Magnus raises one hand and the entire crowd goes silent.
-DIALOGUE 19-23s: King Magnus (deep rough commanding voice): "The proclamation begins before sunrise."
+DIALOGUE 19-23s: King Magnus (deep rough commanding king): "Let the kingdom remember The Kingdom Watches."
 24-30s: Build into the hook: A royal horn sounds and Captain Vex steps forward holding a sealed royal scroll.
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.

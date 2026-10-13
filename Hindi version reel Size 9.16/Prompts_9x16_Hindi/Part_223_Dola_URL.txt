@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, K08_GrizzlyBear.png, L04_BrunoCave.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -32,13 +33,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Inside a dark cave behind a small waterfall, light shining through the falling water.
 0–3s: Lily squeezes into the cave — and freezes: the big grizzly bear Frost once talked to is lying in front of Frost, guarding him, keeping him warm.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 222's final image: The lead wolf sniffs the water, then runs downstream. The whole pack follows, then stops at a dark crack in the rocks behind a smaller waterfall and howls all together. Final frame: the wolves howling at the dark cave entrance. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (whispering, shocked): "You... you stayed with him?"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Alive after the fall moves the story forward."
 3–12s: The bear gently moves aside. Frost lies on the rocks, wet, bruised, his fur dirty, eyes closed, barely breathing.
-DIALOGUE 6–10s: Lily (falling to her knees, crying): "Frost? Baby, it's Mom. Please... please wake up."
+DIALOGUE 6–10s: Lily (young emotional American woman): "This is Alive after the fall, and my heart knows the danger is real."
 12–22s: She puts her hand on his huge chest. Nothing. Then a tiny, weak heartbeat sound. His finger twitches and wraps around her hand, just like when he was a newborn baby.
-DIALOGUE 17–20s: Frost (very weak deep whisper, eyes barely open): "...Mom? You found me."
+DIALOGUE 17–20s: Frost (deep young heroic voice): "I will not let Alive break the people I love."
 22–30s: Hank and Tommy rush in. Villagers and the bear together drag a big wooden cart through the forest, Frost lying on it, Lily holding his hand the whole way. Final frame: the bear pulling the cart with the villagers.
-DIALOGUE 26–29s: Lily (crying, smiling): "Always, my love. Always."
+DIALOGUE 26–29s: Frost (deep young heroic voice): "Father, guide me through Alive."
 SFX: dripping water, waterfall echo, bear grunt, crying, a weak heartbeat, cart wheels creaking, forest footsteps.
 MUSIC: emotional choir and strings, swelling with relief.
 

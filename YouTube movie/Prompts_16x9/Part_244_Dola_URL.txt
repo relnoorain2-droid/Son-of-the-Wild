@@ -8,6 +8,7 @@ Status: ready
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -29,14 +30,14 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 Thunder Peak, halfway up: black icy cliffs, freezing wind, snow and rain blowing sideways, lightning all around.
 0–3s: Frost climbs a vertical icy wall; the ice cracks under his hand and he slides down several feet before catching a rock.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 243's final image: Frost hugs her, turns, and starts climbing. Lightning flashes. Lily watches him get smaller and smaller on the black rock. Final frame: tiny Frost on the giant mountain, lightning striking above him. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Frost (deep, straining): "Whoa— got it! Got it..."
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The Climb moves the story forward."
 3–12s: A huge gust of wind slams into him; he flattens himself against the cliff. Rocks fall from above; one hits his shoulder.
-DIALOGUE 6–9s: Frost (gritting teeth): "Is that all you've got?!"
+DIALOGUE 6–9s: Frost (deep young heroic voice): "The Climb is where I stand for my family."
 12–22s: Thunder answers. A massive rockslide pours down the mountain toward him. He jumps sideways across a deep crack, barely grabbing the other side with one hand, his legs hanging over a huge drop.
-DIALOGUE 16–18s: Frost (breathing hard): "Okay... okay, don't look down."
-DIALOGUE 18–20s: He looks down. (comedic pause) "I looked down."
+DIALOGUE 16–18s: Frost (deep young heroic voice): "I will not let The Climb break the people I love."
+DIALOGUE 18–20s: Frost (deep young heroic voice): "Father, guide me through The Climb."
 22–30s: He pulls himself up with a roar and keeps climbing, ice in his fur, eyes on the storm above. Final frame: Frost silhouetted against a giant lightning bolt.
-DIALOGUE 27–29s: Frost (deep, determined): "Keep going. Just keep going."
+DIALOGUE 27–29s: Frost (deep young heroic voice): "The Climb is where I stand for my family right now."
 SFX: ice cracking, sliding, howling wind, falling rocks, a rock impact, thunder, a huge rockslide, a desperate grab, heavy climbing.
 MUSIC: intense climbing action score with pounding drums.
 

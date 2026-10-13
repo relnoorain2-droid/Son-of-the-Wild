@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C01_Lily_FULL.png, C04_Bruno_FULL.png, L05_River.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -28,13 +29,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Daytime, a wide fast mountain river with white-water rapids and big rocks, a waterfall drop downstream.
 0–3s: Lily slips from a wet rock while picking berries and falls into the rushing river.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 070's final image: Bruno gets dizzy, wobbles, and falls backward onto a pile of leaves with Lily landing safely on his big belly. The raccoons applaud with their tiny paws. Final frame: both lying there laughing under the stars. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (screaming): "BRUNO!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The Rapids moves the story forward."
 3–12s: She is swept away by the rapids, crashing between rocks, gasping. Bruno, upstream, drops a basket of fish and sprints along the riverbank, smashing through bushes.
-DIALOGUE 6–8s: Bruno (deep roaring voice, panicked): "LILY! Hold on!"
+DIALOGUE 6–8s: Lily (young emotional American woman): "This is The Rapids, and my heart knows the danger is real."
 12–22s: Ahead, the river drops off a tall waterfall. Lily grabs a thin branch at the very edge; it starts to crack. Bruno pulls up a whole fallen tree trunk and throws it across the river like a bridge.
-DIALOGUE 15–17s: Lily (crying): "I can't hold it!"
+DIALOGUE 15–17s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through The Rapids."
 22–30s: The branch snaps; Lily falls — Bruno leaps onto the log and catches her wrist at the last second, hanging over the waterfall edge. He pulls her up into his arms. Final frame: both soaked and breathing hard on the riverbank, Lily clinging to him.
-DIALOGUE 26–29s: Bruno (deep, shaking voice): "Never scare Bruno like that again."
+DIALOGUE 26–29s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in The Rapids, but Bruno stays calm."
 SFX: slip, splash, roaring rapids, gasping, crashing through bushes, tree trunk ripping from the ground, heavy log impact, branch crack, waterfall roar.
 MUSIC: fast intense action strings and drums, resolving to emotional strings.
 

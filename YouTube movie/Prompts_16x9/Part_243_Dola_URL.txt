@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, S04_OldJoeWhitaker_FULL.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -32,14 +33,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Afternoon at the foot of Thunder Peak: a black, jagged mountain whose top is always covered by a giant spinning storm cloud with constant lightning.
 0–3s: Wide shot: Thunder Peak, lightning striking its summit again and again. Frost, Lily and Old Joe stand small at its base.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 242's final image: Frost walks out of the Deep Wild. Old Scar walks beside him like a giant dog, the three cubs riding on his back, and the animals follow. Old Joe is waiting at the edge of the forest; his jaw drops. Final frame: Frost leading a parade of wild animals out of the forest. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–6s: Old Joe (slow raspy voice): "Thunder Peak. Climb to the top. Touch the lightning... and survive it."
+DIALOGUE 1–6s: NARRATOR (cinematic story voice): "Now Trial 3 Thunder Peak moves the story forward."
 3–12s: Lily grabs Frost's hand. She is scared.
-DIALOGUE 6–11s: Lily (soft, shaking): "Frost, please. You've already done two. You don't have to do this one."
-DIALOGUE 11–14s: Frost (deep, gentle): "Yes I do, Mom. For Dad."
+DIALOGUE 6–11s: Lily (young emotional American woman): "This is Trial 3 Thunder Peak, and my heart knows the danger is real."
+DIALOGUE 11–14s: Frost (deep young heroic voice): "I will not let Trial 3 Thunder Peak break the people I love."
 12–22s: Lily takes the small framed flower from her coat and tucks it into the fur on Frost's chest, near the crescent patch.
-DIALOGUE 15–19s: Lily (crying): "Then take your father with you."
+DIALOGUE 15–19s: Old Joe (old wise American man): "Listen close before Trial 3 Thunder Peak chooses you."
 22–30s: Frost hugs her, turns, and starts climbing. Lightning flashes. Lily watches him get smaller and smaller on the black rock. Final frame: tiny Frost on the giant mountain, lightning striking above him.
-DIALOGUE 26–29s: Lily (whispering, praying): "Bruno... watch over our boy."
+DIALOGUE 26–29s: Old Joe (old wise American man): "I have heard old stories about Trial 3 Thunder Peak."
 SFX: constant thunder, wind howling, lightning cracks, rocks, crying, climbing.
 MUSIC: epic, ominous, mountain-sized orchestral theme.
 

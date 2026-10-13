@@ -13,6 +13,7 @@ Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: V04_Lily_VillageMom.png, V05_Frost_Baby.png, L07_Village.png, S02_MarthaHayes_FULL.png, S05_TommyMiller_FULL.png, S06_SarahMiller_FULL.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -36,13 +37,13 @@ FROST AGE LOCK: Frost is a newborn/baby here. Use only V05_Frost_Baby.png for Fr
 Scene: Baby Frost breaks a cradle without meaning to and starts crying.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 135's final image: Build into the hook: Baby Frost lifts a heavy chair by accident. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: NARRATOR (gentle cinematic voice): "Weeks passed like years; Bruno's Bigfoot genes made Frost grow into a strong little boy before Cedar Hollow understood his heart."
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now Tiny Giant Hands moves the story forward."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Lily (protective mother): "His name is Frost. He is innocent."
+DIALOGUE 5-8s: Frost (deep young heroic voice):  this time."Tiny Giant Hands is where I stand for my family."
 10-18s: Baby Frost breaks a cradle without meaning to and starts crying.
-DIALOGUE 11-15s: Martha (softening): "That child is scared, not evil."
+DIALOGUE 11-15s: Lily (young emotional American woman): "I have to survive Tiny Giant Hands without losing myself."
 18-24s: Lily comforts him and shows the villagers he is still only a baby.
-DIALOGUE 19-23s: Villager (fearful): "If he keeps growing this fast, who will stop him?"
+DIALOGUE 19-23s: Martha (warm Southern voice): "Breathe first; Tiny Giant Hands can wait one second."
 24-30s: Build into the hook: Old Joe studies Frost's white fur.
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.

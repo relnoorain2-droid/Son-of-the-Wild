@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, S04_OldJoeWhitaker_FULL.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -28,15 +29,15 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night, a perfectly still black lake surrounded by silver birch trees, the full moon reflected in it like a mirror, mist on the water.
 0–3s: Frost, now with three glowing marks, walks to the edge of the lake with Old Joe and Lily.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 246's final image: The lightning fades. The storm above Thunder Peak slowly stops spinning, and for the first time in a hundred years the clouds open and sunlight hits the summit. A third glowing blue mark burns across Frost's chest, around the crescent patch. He opens his eyes; they glow bright electric blue. Final frame: Frost on the summit in the sunlight, three marks glowing. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Old Joe (slow raspy voice, serious): "Mirror Lake. The last trial. The Heart."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Trial 4 Mirror Lake moves the story forward."
 3–12s: Old Joe points at the water.
-DIALOGUE 4–14s: Old Joe: "Look into the water. It will show you what you fear most... and what you hate most. Many strong giants went in. None came out the same."
-DIALOGUE 14–16s: Frost (deep, quiet): "I'm not afraid."
+DIALOGUE 4–14s: Lily (young emotional American woman): "This is Trial 4 Mirror Lake, and my heart knows the danger is real."
+DIALOGUE 14–16s: Frost (deep young heroic voice): "I will not let Trial 4 Mirror Lake break the people I love."
 12–22s: Lily takes Joe's arm, worried.
-DIALOGUE 16–20s: Lily (whispering): "Joe, what happens if he fails this one?"
-DIALOGUE 20–23s: Old Joe (quietly): "Then the hate will keep him... forever."
+DIALOGUE 16–20s: Old Joe (old wise American man): "Listen close before Trial 4 Mirror Lake chooses you."
+DIALOGUE 20–23s: Old Joe (old wise American man): "I have heard old stories about Trial 4 Mirror Lake."
 22–30s: Frost kneels at the edge and looks down. His reflection looks back at him... then slowly changes: his reflection's eyes turn RED, like the king's crystal. Frost jumps back. Final frame: the red-eyed reflection smiling coldly in the water.
-DIALOGUE 27–29s: Frost (whispering, shocked): "That's... not me."
+DIALOGUE 27–29s: Lily (young emotional American woman): "I have to survive Trial 4 Mirror Lake without losing myself."
 SFX: total silence, soft water drips, an owl, whispering wind, a low eerie hum, a sharp magical sting.
 MUSIC: very quiet, eerie strings, a frightening sting at the end.
 

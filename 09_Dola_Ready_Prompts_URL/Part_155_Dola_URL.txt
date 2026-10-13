@@ -10,6 +10,7 @@ Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L07_Village.png, V04_Lily_VillageMom.png, V06_Frost_Kid.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -26,16 +27,16 @@ FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient f
 Scene: Afternoon behind Lily's cabin, split-rail fence, tall grass, village barns in the distance.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 154's final image: Lily smiles and points at the black crescent patch on Frost's chest. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 0-5s: Frost sits angry beside a broken fence post after asking about his father. Lily stands nearby, worried.
-DIALOGUE 1-5s: Frost (young deep voice, upset): "Everyone else has a dad at school. Why can't I?"
+DIALOGUE 1-5s: NARRATOR (cinematic story voice): "Now Frost Says Sorry moves the story forward."
 5-12s: Lily kneels beside him. Frost turns away, hurt.
-DIALOGUE 5-9s: Lily (soft): "Because your father gave everything to keep us safe."
-DIALOGUE 9-12s: Frost (angry): "Then why does safe feel lonely?"
+DIALOGUE 5-9s: Frost (deep young heroic voice): "Frost Says Sorry is where I stand for my family."
+DIALOGUE 9-12s: Lily (young emotional American woman): "I have to survive Frost Says Sorry without losing myself."
 12-20s: Frost kicks a loose fence rail too hard and breaks it. He instantly regrets it.
-DIALOGUE 14-17s: Lily (firm but kind): "Frost. Strength is not for breaking what loves you."
+DIALOGUE 14-17s: Lily (young emotional American woman): "After Frost Says Sorry, I cannot ignore the truth anymore."
 20-27s: Frost carefully lifts the rail and repairs the fence with gentle hands, ashamed.
-DIALOGUE 21-25s: Frost (small voice): "I am sorry, Mom."
+DIALOGUE 21-25s: Lily (young emotional American woman): "This is Frost Says Sorry, and my heart knows the danger is real."
 27-30s: Lily hugs his huge arm. Final frame: Frost leaning his head down so Lily can kiss his forehead.
-DIALOGUE 27-30s: Lily: "I know. We will miss him together."
+DIALOGUE 27-30s: Frost (deep young heroic voice): "I will not let Frost Says Sorry break the people I love."
 SFX: fence crack, birds, grass, wood being fixed, soft hug.
 MUSIC: emotional piano with gentle strings.
 SUSPENSE HOOK LOCK:

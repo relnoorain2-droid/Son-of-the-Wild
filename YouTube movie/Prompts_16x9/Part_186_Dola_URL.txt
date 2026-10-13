@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, S02_MarthaHayes_FULL.png, V04_Lily_VillageMom.png, V11_KingMagnus_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -33,14 +34,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Early morning in Cedar Hollow, a peaceful, perfect sunny day.
 0–3s: Frost carries two fishing rods and a picnic basket; Lily walks beside him, smiling.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 185's final image: The dust settles. The truck is safe. Frost stands up, shakes rocks off his fur like a dog, unhurt. Hank and Tommy stare. Final frame: a huge boulder broken on Frost's back, Frost smiling. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–5s: Lily (soft, happy): "Just you and me today. Like the old days."
+DIALOGUE 1–5s: NARRATOR (cinematic story voice): "Now A Perfect Day moves the story forward."
 3–12s: Martha waves from her porch with a mug of coffee.
-DIALOGUE 5–9s: Martha (warm Southern voice): "Catch me a big one, Frost! I'm making fish pie tonight!"
-DIALOGUE 9–12s: Frost (deep warm voice, laughing): "The biggest in the river, Grandma Martha!"
+DIALOGUE 5–9s: Lily (young emotional American woman): "This is A Perfect Day, and my heart knows the danger is real."
+DIALOGUE 9–12s: Frost (deep young heroic voice): "I will not let A Perfect Day break the people I love."
 12–20s: Mother and son walk over the hill toward the far river. Kids wave goodbye. Everything is peaceful: laundry on lines, a dog sleeping, children playing.
-DIALOGUE 15–19s: NARRATOR (deep cinematic trailer voice): "It was the most perfect day Cedar Hollow had ever seen..."
+DIALOGUE 15–19s: King Magnus (deep rough commanding king): "Let the kingdom remember A Perfect Day."
 20–30s: Hard cut: on the other side of the mountains, King Magnus in black battle armor rides the red dragon at the front of a huge army: dark Bigfoots, mammoths, soldiers, flying dragons. Captain Vex points toward Cedar Hollow. Final frame: the dragon's shadow sliding over the hills toward the peaceful village.
-DIALOGUE 25–29s: NARRATOR: "...and the last."
+DIALOGUE 25–29s: Martha (warm Southern voice): "A Perfect Day needs steady hands, honey."
 SFX: birds, footsteps, a porch creak, kids laughing, dog snoring, then war horns, dragon wings, marching army.
 MUSIC: warm, happy country melody, cut sharply into a dark war theme.
 

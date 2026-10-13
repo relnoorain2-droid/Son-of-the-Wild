@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, L03_DeepForest.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -28,13 +29,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Montage at the Bear Rock meadow over many days and changing weather.
 0–3s: Day 2: Frost pushes the rock at sunrise, roaring. Nothing.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 235's final image: He tries again, roaring louder. He slips and falls flat on his face in the grass. Silence. A small bird lands on his head. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: NARRATOR (deep cinematic American trailer voice): "Day after day..."
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Day After Day moves the story forward."
 3–12s: Day 5: pouring rain, Frost slipping in the mud, pushing again and again. Day 9: snow falling, his breath steaming, his hands wrapped in torn bandages.
-DIALOGUE 7–10s: Frost (deep, exhausted, to himself): "Come on... come ON... move!"
+DIALOGUE 7–10s: Lily (young emotional American woman): "This is Day After Day, and my heart knows the danger is real."
 12–22s: Day 12: Frost loses his temper and punches the rock with all his strength. A crack of pain — he falls back holding his hand, groaning. The rock has only a tiny scratch.
-DIALOGUE 15–18s: Frost (angry, roaring): "WHY WON'T YOU MOVE?!"
+DIALOGUE 15–18s: Frost (deep young heroic voice): "I will not let Day After Day break the people I love."
 22–30s: Evening. Lily sits next to him on the cold grass, gently wrapping his bruised hands with clean cloth.
-DIALOGUE 23–30s: Lily (soft): "Your father didn't win because he was angry, Frost. He won because he had something to protect."
+DIALOGUE 23–30s: Frost (deep young heroic voice): "Father, guide me through Day After Day."
 Final frame: Frost looking at his bandaged hands, thinking.
 SFX: wind, rain, snow, heavy straining, a punch impact, a pained groan, cloth wrapping.
 MUSIC: slow, heavy, determined strings, then soft piano.

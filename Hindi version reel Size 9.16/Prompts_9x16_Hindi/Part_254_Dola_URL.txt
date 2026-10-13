@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C06_ElderOrin_FULL.png, V04_Lily_VillageMom.png, V08_Frost_Powered.png, V09_Bruno_Spirit.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -32,14 +33,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night at Bruno's grave by the river, the spirits in the sky.
 0–3s: Elder Orin's spirit touches his staff to Bruno's head; a river of blue light flows from grandfather into father.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 253's final image: Behind Bruno, even bigger, appears Elder Orin: ancient, with a long white beard, glowing blue tattoos, holding a staff with a shining BLUE crystal. Lily and Old Joe step back in awe. Final frame: father and grandfather in the sky, the son kneeling below. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Elder Orin (ancient echoing voice): "From me... to my son."
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Three Generations moves the story forward."
 3–12s: Bruno's spirit reaches down from the sky and places his giant glowing hand on Frost's chest, over the crescent patch. The blue light pours from father into son.
-DIALOGUE 5–9s: Bruno (spirit voice, deep and warm): "From me... to MY son."
+DIALOGUE 5–9s: Lily (young emotional American woman): "This is Three Generations, and my heart knows the danger is real."
 12–22s: Frost rises into the air, glowing. Electric-blue tattoos spread across his arms, chest and face, connecting the four trial marks into one powerful pattern. His fur shines silver. His eyes blaze blue. Lightning dances around him.
-DIALOGUE 16–20s: Bruno (spirit, proud): "I am proud of you, Frost. Protect them. Always."
+DIALOGUE 16–20s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through Three Generations."
 22–30s: Frost lands softly, transformed into his powered form. Bruno's spirit looks down at Lily. She looks up, crying.
-DIALOGUE 24–28s: Bruno (spirit, gentle): "Lily... be happy. Bruno love you. Forever."
-DIALOGUE 28–30s: Lily (whispering, smiling through tears): "Forever."
+DIALOGUE 24–28s: Frost (deep young heroic voice): "Father, guide me through Three Generations."
+DIALOGUE 28–30s: Elder Orin (ancient calm forest elder): "Three Generations begins when anger ends."
 Final frame: the spirits fading into the stars; powered Frost and Lily holding hands at the grave.
 SFX: massive magical energy surge, electric crackling, wind, a deep heartbeat, a soft landing, the spirits' echoing voices fading.
 MUSIC: the biggest emotional climax so far: full orchestra and choir with Bruno's love theme.

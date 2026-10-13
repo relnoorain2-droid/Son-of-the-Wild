@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L07_Village.png, S02_MarthaHayes_FULL.png, S05_TommyMiller_FULL.png, V03_Lily_Pregnant.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -28,15 +29,15 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Sunny morning, the small village of Cedar Hollow, Washington: log cabins, a general store, old pickup trucks, a dirt road, mountains behind.
 0-3s: Lily walks into the village with Martha; villagers stop and stare. A dog runs up and sniffs her. Brief location title card at bottom for 2 seconds: "CEDAR HOLLOW, WASHINGTON".
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 118's final image: Martha wraps a warm blanket around Lily and hands her fresh bread. Lily bites it and starts crying from relief. Final frame: Martha hugging Lily, Hank awkwardly holding the lantern. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–5s: NARRATOR (deep cinematic American trailer voice): "Cedar Hollow. A tiny town, far from the king's castle."
+DIALOGUE 1–5s: NARRATOR (cinematic story voice): "Now Welcome to Cedar Hollow moves the story forward."
 3–14s: Villagers gather around kindly. A woman gives her a jar of jam; a man tips his hat.
-DIALOGUE 6–9s: Villager woman (friendly American voice): "Where did you come from, sweetheart?"
-DIALOGUE 9–14s: Lily (hesitates, then soft and sad): "Far away... My husband... he passed away. It's just me and the baby now."
+DIALOGUE 6–9s: Lily (young emotional American woman): "This is Welcome to Cedar Hollow, and my heart knows the danger is real."
+DIALOGUE 9–14s: Martha (warm Southern voice): "Nobody panics during Welcome to Cedar Hollow while I am here."
 14–22s: The villagers go quiet, sympathetic. Martha squeezes her hand.
-DIALOGUE 16–20s: Martha (warm Southern voice): "Then you've got a whole town now, honey."
+DIALOGUE 16–20s: Tommy (young excited man): "Tell me someone else saw Welcome to Cedar Hollow."
 22–30s: Tommy (10, red cap, freckles) runs up, out of breath, holding a frog.
-DIALOGUE 22–27s: Tommy (excited young boy): "Is the baby gonna be a boy? Can he play with my frog?"
-DIALOGUE 27–30s: Lily (laughing for the first time): "Maybe one day, Tommy."
+DIALOGUE 22–27s: Tommy (young excited man): "I saw Welcome to Cedar Hollow with my own eyes."
+DIALOGUE 27–30s: Lily (young emotional American woman):  before it is too late."I have to survive Welcome to Cedar Hollow without losing myself."
 Final frame: Lily smiling, surrounded by friendly villagers.
 SFX: village sounds, dog barking, footsteps on dirt, birds, frog croak, laughter.
 MUSIC: warm Americana acoustic guitar and harmonica.

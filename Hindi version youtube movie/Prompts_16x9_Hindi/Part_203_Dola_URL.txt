@@ -12,6 +12,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, C03_PrinceDamian_FULL.png, C05_Frost_FACE.png, L02_KingCastle.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -37,16 +38,16 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night, inside the half-burnt cabin, a single candle. Frost sits on the floor; Lily sits facing him.
 0–3s: Lily takes a deep breath, wiping tears.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 202's final image: Build into the hook: She says his father's name: Bruno. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–5s: Lily (soft, shaking): "I never told you the whole story, Frost. Tonight I will."
+DIALOGUE 1–5s: NARRATOR (cinematic story voice): "Now The Bride Who Ran moves the story forward."
 3–25s: Flashback montage in a cold, blue-grey cinematic tint, with Lily's voice-over:
   3–8s: Lily, in her old blue dress, with her mother in their poor Oregon house; the royal guards arriving.
-  DIALOGUE 5–12s: Lily (voice-over): "I was a poor girl. The king's men came and chose me... as a bride for his son."
+  DIALOGUE 5–12s: Lily (young emotional American woman): "This is The Bride Who Ran, and my heart knows the danger is real."
   8–15s: Prince Damian smirking in the throne hall; the dark castle; dragons above.
-  DIALOGUE 12–20s: Lily (voice-over): "Prince Damian. Every week he married a new girl... and after one night, he threw her into the forest for the beasts."
+  DIALOGUE 12–20s: Frost (deep young heroic voice): "I will not let The Bride Who Ran break the people I love."
   15–25s: Lily in the wedding dress hitting Damian with the silver tray and escaping down the bedsheets.
-  DIALOGUE 20–25s: Lily (voice-over, a small sad smile): "So on my wedding night... I hit him with a tray and I ran."
+  DIALOGUE 20–25s: Prince Damian (smooth cold prince voice): "By tomorrow, The Bride Who Ran will feel like destiny."
 25–30s: Back to the present. Frost stares, stunned.
-DIALOGUE 26–29s: Frost (deep, shocked): "The prince... was your HUSBAND?"
+DIALOGUE 26–29s: Prince Damian (smooth cold prince voice): "The Bride Who Ran will look like kindness if you obey."
 SFX: candle flicker, soft echo on the flashback, horses, a dragon roar in the distance, the metal "bonk", wind.
 MUSIC: mysterious, sad flashback theme on strings.
 

@@ -11,6 +11,7 @@ Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L07_Village.png, S02_MarthaHayes_FULL.png, S03_HankMiller_FULL.png, V03_Lily_Pregnant.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -26,16 +27,16 @@ LILY LOOK LOCK: Lily looks 22-24, young, beautiful, pregnant, not older or tired
 Scene: Martha's cozy kitchen in Cedar Hollow, morning sunlight, flour on the table, pie crust, old kettle, village street through window.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 119's final image: Tommy (10, red cap, freckles) runs up, out of breath, holding a frog. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 0-4s: Martha sits Lily down and places a giant plate of pancakes in front of her. Lily looks shocked by the kindness.
-DIALOGUE 1-4s: Martha (warm Southern voice): "Rule one in my house: nobody cries on an empty stomach."
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now Martha's House Rules moves the story forward."
 4-11s: Hank enters with muddy boots. Martha points at the floor. Hank freezes like a guilty schoolboy.
-DIALOGUE 5-8s: Martha (sharp but loving): "Rule two: boots off, Hank Miller."
-DIALOGUE 8-11s: Hank (mumbling): "Yes, ma'am."
+DIALOGUE 5-8s: Martha (warm Southern voice): "Martha's House Rules needs steady hands, honey."
+DIALOGUE 8-11s: Lily (young emotional American woman): "I have to survive Martha's House Rules without losing myself."
 11-19s: Lily laughs for the first time in the village, then suddenly becomes emotional.
-DIALOGUE 12-16s: Lily (soft): "I forgot what a real home sounds like."
+DIALOGUE 12-16s: Hank (rough kind villager voice): "Hold steady until Martha's House Rules passes."
 19-26s: Martha squeezes Lily's hand and slides more pancakes over.
-DIALOGUE 19-24s: Martha: "Then we will remind you every morning until you believe it."
+DIALOGUE 19-24s: Hank (rough kind villager voice): "Martha's House Rules needs work, not talk."
 26-30s: Hank tries sneaking one pancake; Martha smacks his hand with a spoon. Lily laughs. Final frame: warm kitchen family moment.
-DIALOGUE 26-29s: Hank (grinning): "Rule three: never steal from Martha."
+DIALOGUE 26-29s: Martha (warm Southern voice): "Nobody panics during Martha's House Rules while I am here."
 SFX: kettle whistle, plate set down, spoon tap, Lily laugh, soft kitchen sounds.
 MUSIC: warm Americana guitar, light comedy plucks.
 SUSPENSE HOOK LOCK:

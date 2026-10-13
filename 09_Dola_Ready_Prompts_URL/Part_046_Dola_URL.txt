@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C01_Lily_FULL.png, C04_Bruno_FULL.png, L04_BrunoCave.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -28,15 +29,15 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 A cozy cave hidden behind a waterfall, moss, wildflowers, a crackling campfire, moonlight shining through the falling water.
 0–3s: Bruno walks through the curtain of water carrying a soaked, shivering Lily, and the hidden cave is revealed, glowing warm orange.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 045's final image: Bruno hugs Lily tight and jumps off the cliff into the waterfall in slow motion; the moon behind them. The wolves stop at the edge, howling. Final frame: a huge splash in the dark pool below. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (soft amazed whisper): "Wow... you live here?"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The Cave Behind the Waterfall moves the story forward."
 3–14s: Bruno gently sets her down by the fire, crushes green leaves in his huge palm and carefully presses them on her cut foot. She winces, then smiles.
-DIALOGUE 5–8s: Bruno (deep slow warm voice): "Forest medicine. Stop the pain."
-DIALOGUE 9–15s: Lily (soft, emotional): "Nobody has ever been this kind to me. Not even the prince I married this morning."
+DIALOGUE 5–8s: Lily (young emotional American woman): "This is The Cave Behind the Waterfall, and my heart knows the danger is real."
+DIALOGUE 9–15s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through The Cave Behind the Waterfall."
 14–22s: Bruno wraps a big soft bearskin blanket around her shoulders. They sit by the fire; she looks at his huge hand next to her small one.
-DIALOGUE 16–19s: Lily: "Why did you save me, Bruno?"
-DIALOGUE 19–23s: Bruno (looking at the fire): "Forest is cruel. Bruno... does not have to be."
+DIALOGUE 16–19s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in The Cave Behind the Waterfall, but Bruno stays calm."
+DIALOGUE 19–23s: Bruno (very deep gentle Bigfoot voice): "The Cave Behind the Waterfall means Bruno must stay gentle and close."
 22–30s: Bruno stands up and looks out through the waterfall.
-DIALOGUE 24–28s: Bruno (gentle but firm): "Tomorrow, Bruno take you home. Back to your people."
+DIALOGUE 24–28s: Lily (young emotional American woman): "I have to survive The Cave Behind the Waterfall without losing myself."
 Final frame: Lily's smile disappears; fear fills her eyes.
 SFX: waterfall roar muffling as they enter, fire crackle, leaves crushing, small wince, wind.
 MUSIC: warm gentle acoustic guitar and soft strings, ending on a worried note.

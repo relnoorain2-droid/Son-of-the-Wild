@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, K02_RedDragon.png, S07_CaptainVex_FULL.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -32,14 +33,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night battlefield near a cliff above the waterfall outside Cedar Hollow, full moon, smoke.
 0–3s: A giant shadow covers the moon. The huge red dragon lands in front of Frost, Captain Vex riding on its back.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 218's final image: BONK! Martha hits him on the head with the frying pan. Damian spins once, cross-eyed, exactly like on his wedding night years ago, and falls flat on his face in the mud. Lily stares at Martha, then laughs. Final frame: Martha blowing on the frying pan like a cowboy blowing on a gun. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Captain Vex (harsh voice, smiling): "The king sent you a gift, beast."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now The Red Chains moves the story forward."
 3–12s: Vex throws glowing red magical chains made from the king's crystal. They wrap around Frost's arms and neck; Frost's blue lightning flickers and dies.
-DIALOGUE 6–9s: Frost (deep, straining, shocked): "My power... it's gone!"
-DIALOGUE 9–12s: Captain Vex (laughing): "Magic chains for a magic beast."
+DIALOGUE 6–9s: Lily (young emotional American woman): "This is The Red Chains, and my heart knows the danger is real."
+DIALOGUE 9–12s: Frost (deep young heroic voice): "I will not let The Red Chains break the people I love."
 12–22s: The red dragon breathes fire around Frost; he can't break the chains. Soldiers pull the chains, dragging him to his knees toward the cliff edge. Lily screams from the wall.
-DIALOGUE 16–19s: Lily (screaming): "FROST! NO!"
+DIALOGUE 16–19s: Captain Vex (harsh soldier voice): "The king wants The Red Chains before dawn."
 22–30s: Frost looks at his mother, closes his eyes, and whispers his father's words. A tiny blue spark returns in his chest.
-DIALOGUE 25–29s: Frost (deep whisper): "Strong hands... gentle heart."
+DIALOGUE 25–29s: Captain Vex (harsh soldier voice): "By the crown, The Red Chains begins now."
 Final frame: the red chains starting to crack with blue light.
 SFX: giant wing beats, dragon landing, chains whipping, magical red hum, electric power dying, fire roar, soldiers grunting, a single crack of breaking magic.
 MUSIC: dark, desperate orchestra, then a quiet hopeful note.

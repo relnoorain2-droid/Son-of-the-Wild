@@ -10,6 +10,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L03_DeepForest.png, L05_River.png, V03_Lily_Pregnant.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -31,14 +32,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Early morning, a calm river bank covered in mist, pine forest, soft golden light.
 0–3s: Close-up of Lily (pregnant, around 6 months, blonde, blue eyes) lying unconscious on the pebbles. A big moose lowers its head and licks her face. Her eyes snap open.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 113's final image: Build into the hook: Thunder rolls as labor pains begin. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (soft young American woman, startled): "Ahh! What—?!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Alive moves the story forward."
 3–10s: The moose snorts at her, unimpressed, and slowly walks away. Lily sits up, confused, wet and shivering, then laughs weakly.
-DIALOGUE 5–8s: Lily (breathless laugh): "Okay... okay, I'm alive. Thank you, Mr. Moose."
+DIALOGUE 5–8s: Lily (young emotional American woman): "This is Alive, and my heart knows the danger is real."
 10–22s: She remembers. Her smile disappears. She looks back at the river and the distant smoke on the horizon.
-DIALOGUE 12–16s: Lily (whispering, breaking down): "Bruno... you said we'd go together."
-DIALOGUE 17–21s: She puts both hands on her belly, crying: "It's just you and me now, little one."
+DIALOGUE 12–16s: Lily (young emotional American woman): "I have to survive Alive without losing myself."
+DIALOGUE 17–21s: Lily (young emotional American woman): "After Alive, I cannot ignore the truth anymore."
 22–30s: She feels a kick, gasps, and smiles through her tears. Final frame: Lily standing up slowly on the riverbank, looking downstream where a thin line of chimney smoke rises over the trees.
-DIALOGUE 25–28s: Lily (soft, determined): "Then we keep going. For your papa."
+DIALOGUE 25–28s: Lily (young emotional American woman): "This is Alive, and my heart knows the danger is real right now."
 SFX: calm river, birds, moose snort and heavy footsteps, crying, a soft heartbeat, wind.
 MUSIC: soft sad piano, turning hopeful at the end.
 

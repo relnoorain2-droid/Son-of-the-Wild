@@ -11,6 +11,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L04_BrunoCave.png, V04_Lily_VillageMom.png, V06_Frost_Kid.png, V09_Bruno_Spirit.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -33,15 +34,15 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Late afternoon inside the waterfall cave, warm light through the water.
 0–3s: Lily runs into the cave, out of breath, scared.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 167's final image: Next to it, an old carving scratched into the stone: a big Bigfoot, a small woman, and a tiny circle between them, like a family. Frost touches it, his eyes filling with tears without knowing why. Final frame: the carved family on the wall, lit by sunlight through the waterfall. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Lily (soft young American woman, worried): "Frost! I've been looking everywhere for you!"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Your Father's Home moves the story forward."
 3–12s: She sees where he is standing and freezes. She looks around the cave slowly: the bed, the fire pit, the broken cradle. Her hand covers her mouth.
-DIALOGUE 6–9s: Kid Frost (young boy voice): "Mom... you know this place?"
-DIALOGUE 9–12s: Lily (whispering, tears coming): "Better than any place in the world."
+DIALOGUE 6–9s: Lily (young emotional American woman): "This is Your Father's Home, and my heart knows the danger is real."
+DIALOGUE 9–12s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through Your Father's Home."
 12–22s: She kneels by the broken cradle and laughs through her tears.
-DIALOGUE 14–22s: Lily: "Your father built this for you. He sat in it to test it... and it broke. He was so embarrassed."
-DIALOGUE 22–24s: Kid Frost (laughing softly): "He sat in my cradle?"
+DIALOGUE 14–22s: Frost (deep young heroic voice): "Father, guide me through Your Father's Home."
+DIALOGUE 22–24s: Frost (deep young heroic voice): "Your Father's Home is where I stand for my family."
 22–30s: Lily puts Frost's hand back on the giant handprint on the wall.
-DIALOGUE 24–30s: Lily (emotional): "This was his home. This is where he loved us. This was your father's home, Frost."
+DIALOGUE 24–30s: Lily (young emotional American woman): "I have to survive Your Father's Home without losing myself."
 The waterfall light flickers, and for a second a glowing outline of Bruno's hand appears over theirs. Final frame: three hands glowing together.
 SFX: running footsteps, waterfall, crying, soft laugh, a warm magical chime.
 MUSIC: the love theme, full emotional strings and piano.

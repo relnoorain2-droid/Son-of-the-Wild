@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, L03_DeepForest.png, S04_OldJoeWhitaker_FULL.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -37,13 +38,13 @@ CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal 
 Night at Mirror Lake, the full moon high in the sky.
 0–3s: Old Joe looks up at the full moon.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 250's final image: Frost bursts out of Mirror Lake in a huge explosion of water and blue light, lands on the shore on one knee. A fourth glowing blue mark burns across his face like war paint, under his eyes. Lily runs to him. Final frame: Frost's face with the new glowing mark, eyes shining calm blue. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–7s: Old Joe (slow raspy voice): "One last step. Tonight, under the full moon... you must call your father from his grave."
+DIALOGUE 1–7s: NARRATOR (cinematic story voice): "Now Where Is His Grave? moves the story forward."
 3–12s: Lily's face falls. She looks down.
-DIALOGUE 7–16s: Lily (soft, guilty, crying): "Joe... Bruno has no grave. I was in the river. I never even got to bury him. I don't know where he is."
+DIALOGUE 7–16s: Lily (young emotional American woman): "This is Where Is His Grave?, and my heart knows the danger is real."
 12–22s: Silence. Frost puts his arm around his mother. Suddenly, heavy footsteps in the trees. Old Scar, the giant ancient grizzly, walks out of the forest, his cubs behind him. He looks at Frost and turns his head toward the dark forest, as if saying "follow me".
-DIALOGUE 17–20s: Frost (deep, surprised): "Old Scar? You... know the way?"
+DIALOGUE 17–20s: Frost (deep young heroic voice): "I will not let Where Is His Grave? break the people I love."
 22–30s: The bear grunts once and walks into the forest. Frost, Lily and Old Joe follow him through the moonlit trees. Final frame: the bear leading them down a hidden path, the full moon ahead.
-DIALOGUE 27–30s: Old Joe (whispering): "The forest remembers what people forget."
+DIALOGUE 27–30s: Old Joe (old wise American man): "Listen close before Where Is His Grave? chooses you."
 SFX: night crickets, soft crying, heavy bear footsteps, cub squeaks, a deep bear grunt, footsteps on leaves.
 MUSIC: soft sad strings, then a mysterious, hopeful theme.
 

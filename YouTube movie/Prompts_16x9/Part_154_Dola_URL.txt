@@ -11,6 +11,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L06_AbandonedCabin.png, V04_Lily_VillageMom.png, V06_Frost_Kid.png, V09_Bruno_Spirit.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -33,17 +34,17 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night, the porch of Lily's cabin (now repaired and cozy), stars above, fireflies.
 0–3s: Kid Frost sits on the porch steps, still a little sooty, looking at his reflection in a water bucket.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 153's final image: The barn doors explode open. Frost runs out carrying a young foal in his arms, with two horses running behind him. The barn collapses behind them. His white fur is black with soot. He coughs and smiles. Final frame: Hank hugging the foal, then hugging Frost. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Kid Frost (soft young boy voice, sad): "Mom... why am I different?"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Where Is My Dad? moves the story forward."
 3–12s: Lily sits beside him and puts her arm around him.
-DIALOGUE 4–8s: Kid Frost: "Tommy has a dad. Sarah has a dad. Where's mine?"
-DIALOGUE 8–12s: Lily (soft, emotional): "Your father was the strongest, kindest giant in the whole forest."
+DIALOGUE 4–8s: Lily (young emotional American woman): "This is Where Is My Dad?, and my heart knows the danger is real."
+DIALOGUE 8–12s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through Where Is My Dad?."
 12–22s: Lily takes out a small dried flower pressed inside an old book.
-DIALOGUE 12–19s: Lily: "I put this in his fur once. On his last day... he gave it back to me."
-DIALOGUE 19–22s: Kid Frost (whispering): "Was he... like me?"
+DIALOGUE 12–19s: Frost (deep young heroic voice): "Father, guide me through Where Is My Dad?."
+DIALOGUE 19–22s: Frost (deep young heroic voice): "Where Is My Dad? is where I stand for my family."
 22–30s: Lily smiles and points at the black crescent patch on Frost's chest.
-DIALOGUE 22–28s: Lily: "He had this too, right here. And he loved you before you were even born."
+DIALOGUE 22–28s: Lily (young emotional American woman): "I have to survive Where Is My Dad? without losing myself."
 In the stars above, a soft glowing outline of Bruno appears for a moment, smiling. Frost looks up but it's gone. Final frame: mother and son looking up at the stars.
-DIALOGUE 28–30s: Kid Frost (softly): "Goodnight, Dad."
+DIALOGUE 28–30s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in Where Is My Dad?, but Bruno stays calm."
 SFX: crickets, fireflies hum, pages turning, a soft magical chime.
 MUSIC: the love theme from Bruno's parts, soft piano and violin.
 

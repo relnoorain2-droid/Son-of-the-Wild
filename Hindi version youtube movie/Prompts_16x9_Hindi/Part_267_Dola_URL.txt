@@ -10,6 +10,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: V08_Frost_Powered.png, V12_Tommy_Adult.png, V13_Sarah_Adult.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -34,14 +35,14 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 Night in the army camp, campfires, tents, quiet.
 0–3s: Tommy sits alone by a dying campfire, sharpening an old pitchfork, hands shaking.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 266's final image: Old Scar teaches bears to stand in a line; one cub keeps stealing honey. Eagles practice dropping pinecones on targets — one hits Hank on the head. Final frame: Hank rubbing his head, looking up at an innocent eagle. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Tommy (young man, quiet): "Hey, Frost... can I tell you something?"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now I'm Scared Too moves the story forward."
 3–12s: Frost sits down next to him; the ground shakes a little.
-DIALOGUE 4–9s: Tommy (embarrassed): "I'm scared. Like, really scared. Everybody thinks I'm brave. I'm not."
+DIALOGUE 4–9s: Frost (deep young heroic voice): "I'm Scared Too is where I stand for my family."
 12–22s: Frost looks at the fire.
-DIALOGUE 13–22s: Frost (deep, honest): "Tommy, I'm scared too. Every single day. Remember the frozen lake? I was terrified. But you were in that water... so I went in."
-DIALOGUE 22–24s: Tommy (small smile): "Yeah. You did."
+DIALOGUE 13–22s: Frost (deep young heroic voice): "I will not let I'm Scared Too break the people I love."
+DIALOGUE 22–24s: Frost (deep young heroic voice): "Father, guide me through I'm Scared Too."
 22–30s: Sarah sits down on Frost's other side. The three friends sit together like when they were kids, looking at the stars.
-DIALOGUE 25–29s: Sarah (soft): "Same as always. The three of us. Together."
+DIALOGUE 25–29s: Frost (deep young heroic voice): "I'm Scared Too is where I stand for my family right now."
 Final frame: three friends by the fire, the castle's red glow far away on the horizon.
 SFX: campfire, crickets, a whetstone scraping metal, soft laughter.
 MUSIC: warm, nostalgic acoustic guitar.

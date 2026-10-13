@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C04_Bruno_FULL.png, K02_RedDragon.png, L05_River.png, V03_Lily_Pregnant.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -31,14 +32,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Peaceful morning by the river near the waterfall, mist, golden light.
 0–3s: Lily (pregnant, around 6 months, blonde, blue eyes) laughs as Bruno balances a stack of apples on his head. Suddenly every bird in the forest flies away at once.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 084's final image: the red dragon taking off from the tower, fire lighting the sky. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Lily (soft young Hindi-dubbed woman): "Bruno... why are the birds leaving?"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now The Forest Goes Quiet moves the story forward."
 3–12s: Deer, elk and rabbits run past them in panic. The river water starts rippling in rhythm. Bruno drops the apples, sniffing the air, his face turning serious.
-DIALOGUE 6–9s: Bruno (very deep gravelly voice, low and serious): "Animals running... from something big."
+DIALOGUE 6–9s: Lily (young emotional American woman): "This is The Forest Goes Quiet, and my heart knows the danger is real."
 12–22s: Distant war horns echo through the trees. The ground shakes harder. Bruno pulls Lily behind him.
-DIALOGUE 14–17s: Lily (scared): "Is it the king?"
-DIALOGUE 17–21s: Bruno (deep, calm but afraid): "Lily go inside cave. Now. Don't come out."
+DIALOGUE 14–17s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through The Forest Goes Quiet."
+DIALOGUE 17–21s: Bruno (very deep gentle Bigfoot voice):  this time."Bruno hears fear in The Forest Goes Quiet, but Bruno stays calm."
 22–30s: A massive shadow passes over them. They look up: the huge red dragon flies over the treetops, followed by three smaller dragons, blocking the sun. Final frame: the dragon's shadow covering Lily's terrified face.
-DIALOGUE 26–30s: NARRATOR (deep cinematic Hindi trailer voice): "The king had come... and he brought the whole kingdom."
+DIALOGUE 26–30s: Bruno (very deep gentle Bigfoot voice): "The Forest Goes Quiet means Bruno must stay gentle and close."
 SFX: birds taking off, animals stampeding, rhythmic ground rumble, distant war horns, giant wing beats, dragon roar.
 MUSIC: peaceful flute cut off by deep ominous drums, rising into a dark war theme.
 

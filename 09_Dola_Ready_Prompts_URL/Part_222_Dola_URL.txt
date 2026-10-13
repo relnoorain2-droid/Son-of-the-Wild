@@ -12,6 +12,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, K09_Wolves.png, S03_HankMiller_FULL.png, V04_Lily_VillageMom.png, V12_Tommy_Adult.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -30,14 +31,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Morning, along the wild river below the waterfall, rocks, mist, villagers searching.
 0–3s: Lily climbs over wet rocks along the river, calling out.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 221's final image: Lily walks alone to the edge of the cliff and stares down at the waterfall, her hair moving in the wind. Her face is calm, determined, no tears. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Lily (shouting): "FROST! FROST, CAN YOU HEAR ME?"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Find Him moves the story forward."
 3–12s: Hank, Tommy and villagers search with lanterns and ropes. Hours pass; the sun moves.
-DIALOGUE 6–10s: Hank (deep voice, gentle): "Lily... we've been searching all day. The river's too strong."
-DIALOGUE 10–12s: Lily (firm): "Then we search all night."
+DIALOGUE 6–10s: Lily (young emotional American woman): "This is Find Him, and my heart knows the danger is real."
+DIALOGUE 10–12s: Frost (deep young heroic voice): "I will not let Find Him break the people I love."
 12–22s: Lily kneels at the riverbank and calls into the forest like Frost used to — a soft, low call. One by one, the wolves from the battle appear from the trees.
-DIALOGUE 15–19s: Lily (to the wolves, desperate): "You loved him too. Please... find him."
+DIALOGUE 15–19s: Hank (rough kind villager voice): "Hold steady until Find Him passes."
 22–30s: The lead wolf sniffs the water, then runs downstream. The whole pack follows, then stops at a dark crack in the rocks behind a smaller waterfall and howls all together. Final frame: the wolves howling at the dark cave entrance.
-DIALOGUE 27–29s: Tommy (shouting): "They found something!"
+DIALOGUE 27–29s: Hank (rough kind villager voice): "Find Him needs work, not talk."
 SFX: river, shouting, lanterns, footsteps on wet rock, soft calling, wolves approaching, running paws, howling.
 MUSIC: desperate searching strings, rising with the howls.
 

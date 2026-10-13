@@ -11,6 +11,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L05_River.png, V03_Lily_Pregnant.png, V10_Damian_Battle.png, V11_KingMagnus_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -31,14 +32,14 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 0–3s: From far down the river, Lily, floating and holding onto a log, sees the red lightning flash in the distance and screams silently, tears streaming.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 103's final image: Bruno's open hand resting in the grass; beside it, a single small blue wildflower slowly blooms in the sunset light. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (broken whisper): "No... no, Bruno..."
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Two Hearts Still Beating moves the story forward."
 3–12s: The current pulls her into dark rapids. She clings to the log, one hand on her belly, Bruno's small blue flower clutched in her fist, then hits her head on a rock and goes limp, still holding the log.
-DIALOGUE 6–10s: NARRATOR (deep cinematic trailer voice): "The river took her far away from everything she knew."
+DIALOGUE 6–10s: Lily (young emotional American woman): "This is Two Hearts Still Beating, and my heart knows the danger is real."
 12–22s: Back at the riverbank, at dusk: Prince Damian (dirty, angry) and King Magnus look at the river.
-DIALOGUE 14–17s: Prince Damian (bitter): "The river took her, Father. She's dead."
-DIALOGUE 17–21s: King Magnus (cold, turning away): "Then the forest wins. As always."
+DIALOGUE 14–17s: Prince Damian (smooth cold prince voice): "Smile through Two Hearts Still Beating; the court is watching."
+DIALOGUE 17–21s: King Magnus (deep rough commanding king): "Let the kingdom remember Two Hearts Still Beating."
 22–30s: Night. Moonlight. The log with unconscious Lily drifts gently out of the forest onto a calm river. A soft heartbeat sound starts: two heartbeats, one big, one small. Final frame: close-up of Lily's hand resting on her belly, and the belly moves gently.
-DIALOGUE 26–30s: NARRATOR: "But the king was wrong. Two hearts were still beating."
+DIALOGUE 26–30s: King Magnus (deep rough commanding king): "Two Hearts Still Beating belongs under my crown."
 SFX: rushing river, distant thunder-like blast, rapids, a dull thud on rock, calm water, owls, two heartbeats.
 MUSIC: sad emotional strings, ending on a hopeful soft piano note.
 

@@ -12,6 +12,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C01_Lily_FULL.png, K08_GrizzlyBear.png, K09_Wolves.png, L03_DeepForest.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -36,13 +37,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night, giant misty redwood forest, cold moonlight.
 0–3s: Lily (now in the torn, muddy short version of her dress, barefoot) runs between giant trees, wolves howling close behind.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 041's final image: Build into the hook: Lily cries, 'I cannot go back.' Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (terrified, out of breath): "Please, please, please..."
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Face to Face with a Grizzly moves the story forward."
 3–12s: Wolves chase her; she climbs over a fallen redwood trunk and slides down a muddy slope into a creek, splashing.
-DIALOGUE 7–11s: NARRATOR (deep cinematic trailer voice): "No bride had ever survived a single night in this forest."
+DIALOGUE 7–11s: Lily (young emotional American woman): "This is Face to Face with a Grizzly, and my heart knows the danger is real."
 12–20s: She hides inside a hollow tree, hand over her mouth. The wolves run past... then suddenly stop, whimper and run away in fear.
-DIALOGUE 16–18s: Lily (whispering, confused): "Why did they run away?"
+DIALOGUE 16–18s: Lily (young emotional American woman): "I have to survive Face to Face with a Grizzly without losing myself."
 20–30s: A deep growl behind her. She slowly turns. A huge grizzly bear rises on its hind legs right in front of the hollow tree, roaring in her face, saliva flying. Lily screams and falls back. Final frame: the bear's giant claw swinging down toward her in slow motion... cut to black.
-DIALOGUE 27–29s: Lily (screaming): "NO!"
+DIALOGUE 27–29s: Lily (young emotional American woman): "After Face to Face with a Grizzly, I cannot ignore the truth anymore."
 SFX: running, wolves howling, mud slide, water splash, heavy breathing, wolves whimpering, deep bear growl, massive roar, scream.
 MUSIC: chase drums, sudden silence at 12s with only heartbeat, then a huge horror hit with the roar.
 

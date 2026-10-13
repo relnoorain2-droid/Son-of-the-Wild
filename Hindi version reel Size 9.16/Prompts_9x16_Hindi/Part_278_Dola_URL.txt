@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S04_OldJoeWhitaker_FULL.png, S11_Rose_FULL.png, V12_Tommy_Adult.png, V13_Sarah_Adult.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -30,14 +31,14 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 Inside a dark, narrow stone tunnel under Thorne Castle, torchlight, dripping water, rats.
 0–3s: Rose pushes open a hidden stone door behind a waterfall at the back of the castle. Tommy, Sarah and Old Joe follow with torches.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 277's final image: A huge soldier with a giant axe stands over Martha. She looks up, then calmly hits his toe with the pan. He hops around screaming, holding his foot, and falls into a mud puddle. Final frame: Martha blowing on her frying pan like a cowboy. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–5s: Rose (old British voice, whispering): "This way. The servants' tunnel. The king forgot it exists."
+DIALOGUE 1–5s: NARRATOR (cinematic story voice): "Now The Secret Tunnel moves the story forward."
 3–12s: They creep through the tunnel. A rat runs over Tommy's boot; he almost screams; Sarah covers his mouth.
-DIALOGUE 6–9s: Tommy (muffled, whispering): "Mmmph! Rat! Big rat!"
-DIALOGUE 9–11s: Sarah (whispering, annoyed): "You rode a BISON yesterday!"
+DIALOGUE 6–9s: Rose (old nervous castle maid): "Remember The Secret Tunnel, child. It is your warning."
+DIALOGUE 9–11s: Old Joe (old wise American man): "The Secret Tunnel means the forest is answering."
 12–22s: The tunnel opens into a huge underground cave: the dragon pens. Dozens of small and medium dragons lie in heavy iron chains, their eyes glowing red, crying softly.
-DIALOGUE 16–20s: Old Joe (slow raspy whisper, sad): "Lord have mercy... look at them."
+DIALOGUE 16–20s: Old Joe (old wise American man): "Listen close before The Secret Tunnel chooses you."
 22–30s: A small young green dragon looks at Sarah. For a moment its red eyes flicker to their natural gold color. It whimpers. Sarah slowly reaches out.
-DIALOGUE 25–28s: Sarah (soft): "It's okay. We're here to help you."
+DIALOGUE 25–28s: Old Joe (old wise American man): "I have heard old stories about The Secret Tunnel."
 Final frame: Sarah's hand almost touching the young dragon's nose; a shadow with an axe appearing behind them.
 SFX: stone door grinding, torches, dripping water, rat squeaks, muffled scream, chains rattling, dragons whimpering, a heavy footstep.
 MUSIC: quiet suspense, turning sad and gentle at the dragons, ending on a tense sting.

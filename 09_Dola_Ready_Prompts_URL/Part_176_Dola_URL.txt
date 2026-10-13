@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L07_Village.png, S03_HankMiller_FULL.png, V07_Frost_Teen.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -27,14 +28,14 @@ FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07
 Sunny day at a small-town American county fair: a Ferris wheel, cotton candy, hay bales, a big "lumberjack games" stage with wooden logs.
 0–3s: Three huge bearded lumberjacks in plaid shirts each throw a big log; the crowd cheers.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 175's final image: Outside on the dark hills above Cedar Hollow, three riders on black war horses watch the village lights through a spyglass. One of them is Captain Vex, older now, smiling. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Announcer (loud enthusiastic American fair announcer voice): "Fifteen feet! A new county record!"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now The County Fair moves the story forward."
 3–12s: Teen Frost steps up nervously. The lumberjacks laugh at him.
-DIALOGUE 5–8s: Lumberjack (rough deep voice, mocking): "Go home, fuzzy. This is a man's game."
-DIALOGUE 8–11s: Hank (shouting from the crowd): "Show 'em, Frost!"
+DIALOGUE 5–8s: Frost (deep young heroic voice): "The County Fair is where I stand for my family."
+DIALOGUE 8–11s: Hank (rough kind villager voice): "We fix what The County Fair broke before dark."
 12–22s: Frost picks up not one log but the entire stack of logs, all at once. The crowd goes silent. He spins and throws. The logs fly over the Ferris wheel and land in a lake far away with a distant splash.
-DIALOGUE 18–21s: Announcer (stunned, slow): "That's... that's in the next county."
+DIALOGUE 18–21s: Hank (rough kind villager voice): "Hold steady until The County Fair passes."
 22–30s: The crowd explodes in cheers. The lumberjacks' jaws drop. One of them faints. Frost receives a giant blue-ribbon trophy and grins shyly. Final frame: Frost holding the tiny trophy in his huge hand.
-DIALOGUE 26–29s: Teen Frost (energetic teenage voice, voice cracking): "Can I... keep the logs too?"
+DIALOGUE 26–29s: Hank (rough kind villager voice): "The County Fair needs work, not talk."
 SFX: fair music, crowd cheering, logs thudding, mocking laughter, a massive throw whoosh, distant splash, fainting thump.
 MUSIC: upbeat country fair fiddle and banjo, a triumphant brass hit for the throw.
 

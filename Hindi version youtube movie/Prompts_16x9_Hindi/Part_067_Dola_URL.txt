@@ -12,6 +12,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C01_Lily_FULL.png, C04_Bruno_FULL.png, L03_DeepForest.png, L05_River.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -36,7 +37,7 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Golden morning in the Pacific Northwest forest, sunbeams through giant redwoods, wildflowers, a sparkling river.
 0–3s: Bruno lifts Lily high onto his shoulders; she spreads her arms as they walk out of the dark trees into a sunlit meadow full of flowers, butterflies flying up.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 066's final image: Build into the hook: Bruno looks away, overwhelmed. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (soft young Hindi-dubbed woman, laughing): "Bruno, look! It's beautiful!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now You and Me and the Wild moves the story forward."
 3–26s: Music montage. Lily SINGS in a soft, sweet country-folk voice, clearly audible, lip-synced:
   3–10s: "No castle walls, no golden crown, just a river song and the stars come down."
   — Shots: running together through the meadow; Bruno carefully picking one tiny flower and putting it in her hair.
@@ -45,9 +46,9 @@ DIALOGUE 1–3s: Lily (soft young Hindi-dubbed woman, laughing): "Bruno, look! I
   20–26s: "...no one can find us here, you and me and the wild."
   — Shots: Bruno humming along in a very deep, off-key voice; Lily laughing mid-song.
 26–30s: Bruno grins proudly; Lily laughs and hugs his huge arm. Final frame: both laughing in the sunny meadow.
-DIALOGUE 26–28s: Bruno (deep happy gravelly voice): "Bruno sing better now?"
-DIALOGUE 28–30s: Lily (laughing): "No. But I love it."
-DIALOGUE 10-13s: Bruno (deep shy voice): "Lily laugh. Bruno like Lily laugh."
+DIALOGUE 26–28s: Lily (young emotional American woman): "This is You and Me and the Wild, and my heart knows the danger is real."
+DIALOGUE 28–30s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through You and Me and the Wild."
+DIALOGUE 10-13s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in You and Me and the Wild, but Bruno stays calm."
 SFX: birds singing, river flowing, water splash, Bruno's deep off-key humming, laughter.
 MUSIC: warm acoustic guitar, soft fiddle and light percussion under the song.
 

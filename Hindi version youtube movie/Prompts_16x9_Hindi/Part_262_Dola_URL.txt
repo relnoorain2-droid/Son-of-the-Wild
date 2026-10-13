@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: K09_Wolves.png, S11_Rose_FULL.png, V04_Lily_VillageMom.png, V08_Frost_Powered.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -37,16 +38,16 @@ CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal 
 Night, at the edge of the forest near Cedar Hollow.
 0–3s: Powered Frost stands on a rock and lets out a long, deep roar into the forest; his tattoos glow.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 261's final image: He walks out of the fire completely unharmed. Martha hands him a stick with a marshmallow on it. He holds it near his own glowing arm and toasts it perfectly. Final frame: Frost eating a perfect golden marshmallow, villagers cheering. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Frost (deep roar, powerful): "WILD ONES... I NEED YOU!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The People Will Rise moves the story forward."
 3–12s: From every direction, thousands of glowing eyes appear in the dark: wolves, bears, elk, bison, mountain lions, eagles landing in the trees. Old Scar walks to the front.
-DIALOGUE 7–10s: NARRATOR (deep cinematic Hindi trailer voice): "The wild answered."
+DIALOGUE 7–10s: Lily (young emotional American woman): "This is The People Will Rise, and my heart knows the danger is real."
 12–22s: Suddenly an old woman stumbles out of the trees, exhausted, her black maid's dress torn: Rose, the castle maid, now older and greyer. Lily gasps.
-DIALOGUE 14–16s: Lily (shocked): "Rose?! Is that you?"
-DIALOGUE 16–21s: Rose (old, tired, British-accented voice): "Miss Lily! You haven't aged a day! I escaped the castle to find you."
+DIALOGUE 14–16s: Frost (deep young heroic voice): "I will not let The People Will Rise break the people I love."
+DIALOGUE 16–21s: Rose (old nervous castle maid): "If The People Will Rise begins, you must be ready to run."
 22–30s: Rose grabs Frost's hand.
-DIALOGUE 21–28s: Rose (urgent, emotional): "The king's own people are starving, beaten, afraid. If you march on Thorne Castle... they will rise with you."
+DIALOGUE 21–28s: Rose (old nervous castle maid): "Remember The People Will Rise, child. It is your warning."
 Final frame: Frost looking toward the distant dark castle on the horizon, the army of animals behind him, his eyes glowing.
-DIALOGUE 28–30s: Frost (deep, determined): "Then we march."
+DIALOGUE 28–30s: Lily (young emotional American woman): "I have to survive The People Will Rise without losing myself."
 SFX: a long roar, echoing, thousands of animal footsteps, wolves howling, eagle cries, stumbling footsteps, gasps, wind.
 MUSIC: a powerful rising war anthem with drums, choir and brass.
 

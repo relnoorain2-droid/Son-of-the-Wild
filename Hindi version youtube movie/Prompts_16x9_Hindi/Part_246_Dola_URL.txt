@@ -9,6 +9,7 @@ Status: ready
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FACE.png, C05_Frost_FULL.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -33,13 +34,13 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 The summit of Thunder Peak, in the eye of the storm: a flat black rock, the giant storm cloud spinning above, lightning everywhere.
 0–3s: Frost climbs onto the summit and stands up tall in the center of the storm.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 245's final image: Frost's eyes fill with tears. He reaches for his father's glowing hand, but the spirit fades. Frost picks up the flower, puts it back on his chest, and slowly stands up. Final frame: Frost standing, calm, facing the summit, the storm swirling around him. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Frost (deep, calm): "I'm not here to fight you."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Touch the Lightning moves the story forward."
 3–12s: He closes his eyes, breathes slowly, and raises one open hand to the sky. The wind gets stronger, the clouds spin faster.
-DIALOGUE 6–9s: Frost (whispering): "Be still... like the river."
+DIALOGUE 6–9s: Frost (deep young heroic voice): "Touch the Lightning is where I stand for my family."
 12–22s: A gigantic lightning bolt strikes his open hand. Instead of throwing him, the lightning flows into him; his whole body glows blue, his fur lifts, the bolt runs through his arms and out of his eyes. He doesn't move. He stays calm.
 22–30s: The lightning fades. The storm above Thunder Peak slowly stops spinning, and for the first time in a hundred years the clouds open and sunlight hits the summit. A third glowing blue mark burns across Frost's chest, around the crescent patch. He opens his eyes; they glow bright electric blue. Final frame: Frost on the summit in the sunlight, three marks glowing.
-DIALOGUE 27–29s: Frost (deep, amazed whisper): "Three."
-DIALOGUE 14-17s: Old Joe (slow raspy wise voice): "Breathe, son. Listen to the thunder."
+DIALOGUE 27–29s: Frost (deep young heroic voice): "I will not let Touch the Lightning break the people I love."
+DIALOGUE 14-17s: Frost (deep young heroic voice): "Father, guide me through Touch the Lightning."
 SFX: storm roar, wind, a gigantic thunder crack, electric surge, a humming power sound, the storm fading, birds, gentle wind.
 MUSIC: huge build-up to a massive epic choir and orchestra explosion, then peaceful strings.
 

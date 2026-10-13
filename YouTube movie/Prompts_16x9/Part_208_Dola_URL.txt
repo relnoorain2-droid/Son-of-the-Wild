@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, C05_Frost_FACE.png, S04_OldJoeWhitaker_FULL.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -33,15 +34,15 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night, in the rain outside the cabin, then a quiet moment.
 0–3s: Lily grabs Frost's huge face with both hands in the rain.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 207's final image: He falls to his knees in the mud, breathing hard, blue sparks fading, rain starting to fall. Lily runs out into the storm. Final frame: Frost kneeling, fists in the mud, lightning above. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Lily (crying): "Look at me! LOOK at me!"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now I Can't Lose You Too moves the story forward."
 3–14s: Close-up on both faces, rain falling.
-DIALOGUE 4–9s: Lily (emotional): "Revenge already took your father from me. The king has dragons, an army, magic..."
-DIALOGUE 9–13s: Lily (breaking): "I can't lose you too, Frost. Please. I can't."
+DIALOGUE 4–9s: Lily (young emotional American woman): "This is I Can't Lose You Too, and my heart knows the danger is real."
+DIALOGUE 9–13s: Frost (deep young heroic voice): "I will not let I Can't Lose You Too break the people I love."
 14–22s: Frost's anger melts. He hugs his mother gently, his huge body protecting her from the rain.
-DIALOGUE 17–20s: Frost (deep, soft, broken): "I'm sorry, Mom. I'm sorry."
+DIALOGUE 17–20s: Old Joe (old wise American man): "Listen close before I Can't Lose You Too chooses you."
 22–30s: Old Joe appears under his umbrella on the porch.
-DIALOGUE 22–26s: Old Joe (slow raspy wise voice): "Anger without power is how good men die, son."
-DIALOGUE 26–30s: Frost (quietly, firm): "Then I'll wait. But if they come again... I fight."
+DIALOGUE 22–26s: Old Joe (old wise American man): "I have heard old stories about I Can't Lose You Too."
+DIALOGUE 26–30s: Lily (young emotional American woman):  this time."I have to survive I Can't Lose You Too without losing myself."
 Final frame: Frost and Lily in the rain, Old Joe watching, lightning far away.
 SFX: heavy rain, crying, thunder rolling away, umbrella rain drops.
 MUSIC: soft, emotional piano and cello.

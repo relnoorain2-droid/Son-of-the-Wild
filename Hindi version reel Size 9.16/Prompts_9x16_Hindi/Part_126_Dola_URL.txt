@@ -10,6 +10,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L06_AbandonedCabin.png, V03_Lily_Pregnant.png, V09_Bruno_Spirit.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -30,13 +31,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Snowy night inside the candle-lit cabin. Fully tasteful: show only Lily's face, hands, the quilt and candles.
 0–3s: Close-up of Lily's face, sweating, gripping the quilt in pain, candles flickering.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 125's final image: She slowly locks the door and closes the curtains. She lights more candles, holding her belly, tears in her eyes but determined. Final frame: Lily alone in the candlelight, looking up. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Lily (soft young Hindi-dubbed woman, in pain): "I can do this... I can do this..."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Stay With Me moves the story forward."
 3–12s: Close-ups: her hand squeezing the bedpost, snow hitting the window, the fire in the stove.
-DIALOGUE 6–10s: Lily (crying, exhausted): "I'm so scared, Bruno. I can't do this alone."
+DIALOGUE 6–10s: Lily (young emotional American woman): "This is Stay With Me, and my heart knows the danger is real."
 12–22s: The candle flames bend as if a warm wind came in. A soft glowing outline of Bruno appears beside the bed, translucent and peaceful, holding her hand (her hand glows softly).
-DIALOGUE 14–19s: Bruno (spirit voice, very deep warm gravelly, echoing softly): "Lily never alone. Bruno is here. Be strong... like the river."
+DIALOGUE 14–19s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through Stay With Me."
 22–30s: Lily takes a deep breath, gathers all her strength and screams. The screen fades to white. Silence. Then a tiny, strange baby cry — half human, half a small animal-like howl. Final frame: Lily's exhausted face turning toward the sound, eyes wide.
-DIALOGUE 27–29s: Lily (whispering, amazed): "...My baby."
+DIALOGUE 27–29s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in Stay With Me, but Bruno stays calm."
 SFX: heavy breathing, wind and snow, crackling fire, candle flicker, a soft magical hum, a strong scream, silence, a small unusual baby cry.
 MUSIC: tense heartbeat drums, then a soft choir and the love theme when Bruno appears.
 

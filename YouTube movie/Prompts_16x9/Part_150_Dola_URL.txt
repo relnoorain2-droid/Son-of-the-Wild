@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S02_MarthaHayes_FULL.png, S05_TommyMiller_FULL.png, V04_Lily_VillageMom.png, V06_Frost_Kid.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -33,14 +34,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Morning, a small red one-room American country schoolhouse with a bell, a wooden porch, kids with lunch boxes.
 0–3s: Kid Frost squeezes through the schoolhouse door sideways; the door frame cracks.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 149's final image: the whole picnic laughing, soaked. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Kid Frost (cheerful young boy voice): "Sorry! Sorry! I'll pay for it!"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now First Day of School moves the story forward."
 3–12s: Martha is the teacher today, wearing glasses and holding chalk. Frost sits at a tiny desk; it collapses under him. The kids laugh.
-DIALOGUE 6–9s: Martha (warm Southern voice, smiling): "Floor's fine too, honey. Sit on the floor."
+DIALOGUE 6–9s: Lily (young emotional American woman): "This is First Day of School, and my heart knows the danger is real."
 12–22s: Martha writes letters on the chalkboard. Frost holds a tiny piece of chalk in his huge hand very carefully, tongue out, concentrating, and slowly writes on his little slate.
-DIALOGUE 15–18s: Tommy (whispering): "What are you writing?"
-DIALOGUE 18–20s: Kid Frost (proud whisper): "My first word."
+DIALOGUE 15–18s: Frost (deep young heroic voice): "I will not let First Day of School break the people I love."
+DIALOGUE 18–20s: Martha (warm Southern voice): "Breathe first; First Day of School can wait one second."
 22–30s: At the end of school, Lily waits outside. Frost runs to her and shows the slate: it says "MOM" in big shaky letters. Lily's eyes fill with tears and she hugs him. Final frame: the slate with "MOM" between them.
-DIALOGUE 26–29s: Lily (emotional): "That's the best thing anyone has ever written."
+DIALOGUE 26–29s: Tommy (young excited man): "I saw First Day of School with my own eyes."
 SFX: school bell, door frame crack, desk collapsing, kids laughing, chalk scratching, footsteps.
 MUSIC: playful school-day tune, turning into the soft Frost theme on piano.
 

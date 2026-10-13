@@ -11,6 +11,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: K02_RedDragon.png, K03_SmallDragons.png, V04_Lily_VillageMom.png, V08_Frost_Powered.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -33,13 +34,13 @@ CAST NOTE: King Magnus = an old cruel king, scar on his left cheek, long silver-
 The sky above Thorne Castle at sunset.
 0–3s: The cracked crystal explodes in a gigantic blast of pure BLUE light that spreads across the whole sky like a wave.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 298's final image: In the storm clouds above them, the giant face of Elder Orin appears, glowing blue, eyes open. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: King Magnus (screaming): "NOOOOO!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Free moves the story forward."
 3–12s: The blue wave passes over every dragon in the sky. One by one, their red eyes change to warm gold. They stop attacking, shake their heads like waking from a nightmare, and look around in wonder.
-DIALOGUE 6–11s: NARRATOR (deep cinematic Hindi trailer voice): "For the first time in a hundred years... the dragons were free."
+DIALOGUE 6–11s: Lily (young emotional American woman): "This is Free, and my heart knows the danger is real."
 12–22s: Dozens of dragons fly in joyful circles above the castle, roaring happily, breathing harmless golden fire into the sky like fireworks. On the ground, Lily, Hank, Martha, Sarah, Tommy, Rose and the whole army look up, crying and cheering.
-DIALOGUE 16–19s: Sarah (crying, laughing): "Look at them! They're dancing!"
+DIALOGUE 16–19s: Frost (deep young heroic voice): "I will not let Free break the people I love."
 22–30s: In the middle of the light, Frost falls from the sky, exhausted, his glow fading. Final frame: Frost falling, eyes closed, toward the ground far below.
-DIALOGUE 26–29s: Lily (screaming): "FROST!"
+DIALOGUE 26–29s: Frost (deep young heroic voice): "Father, guide me through Free."
 SFX: a gigantic crystal explosion, a blue energy wave, dragons' confused growls turning into happy roars, golden fire bursts, a cheering army, wind as Frost falls.
 MUSIC: a massive, joyful, triumphant orchestra and choir, then a sudden worried note.
 

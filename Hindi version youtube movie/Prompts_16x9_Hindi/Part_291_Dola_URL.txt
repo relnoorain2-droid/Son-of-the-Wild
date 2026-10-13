@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L08_Battlefield.png, S02_MarthaHayes_FULL.png, V04_Lily_VillageMom.png, V10_Damian_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -35,15 +36,15 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 The muddy battlefield in front of the castle, smoke and fire.
 0–3s: Prince Damian, covered in mud from head to toe, staggers out of the smoke holding his sword, furious. He sees Lily alone.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 290's final image: Lily looks up at the gigantic Great Red Dragon circling the castle, the king on its head, the red crystal glowing. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Prince Damian (smooth voice turned crazy): "YOU! You ruined EVERYTHING!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Lily vs Damian moves the story forward."
 3–12s: He swings his sword; Lily ducks and rolls in the mud. She has no weapon.
-DIALOGUE 6–8s: Lily (shouting): "Somebody! A weapon!"
-DIALOGUE 8–11s: Martha (from far away, throwing her frying pan through the air): "LILY! CATCH!"
+DIALOGUE 6–8s: Prince Damian (smooth cold prince voice): "Lily vs Damian will look like kindness if you obey."
+DIALOGUE 8–11s: Lily (young emotional American woman): "I have to survive Lily vs Damian without losing myself."
 12–22s: The frying pan spins through the air in slow motion. Lily catches it perfectly. She blocks Damian's sword — CLANG! — sparks fly. They fight: sword vs frying pan. Damian swings; Lily blocks again and again.
-DIALOGUE 17–20s: Prince Damian (furious): "A frying pan?! AGAIN?!"
-DIALOGUE 20–22s: Lily (fierce): "It worked the first time!"
+DIALOGUE 17–20s: Martha (warm Southern voice): "Breathe first; Lily vs Damian can wait one second."
+DIALOGUE 20–22s: Martha (warm Southern voice): "Lily vs Damian needs steady hands, honey."
 22–30s: Damian knocks the pan out of Lily's hands with a powerful strike. She falls back into the mud. He raises his sword above her. Final frame: the sword above Lily, her face brave, not afraid.
-DIALOGUE 27–29s: Prince Damian (cold): "Goodbye, wife."
+DIALOGUE 27–29s: Prince Damian (smooth cold prince voice): "Smile through Lily vs Damian; the court is watching."
 SFX: squelching mud, a crazy shout, sword swings, a roll in the mud, a frying pan spinning through the air, a metal CLANG, sparks, a pan flying away, a body falling in mud.
 MUSIC: intense duel music with a heroic sting for the catch.
 

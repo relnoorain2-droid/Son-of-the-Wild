@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C04_Bruno_FULL.png, K01_DarkBigfoot.png, K02_RedDragon.png, V11_KingMagnus_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -30,13 +31,13 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 Riverbank at sunset, orange sky, smoke, the whole army in front of Bruno.
 0–3s: Bruno stands alone, wounded, facing dark Bigfoots, soldiers and the red dragon with King Magnus on its back.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 102's final image: Build into the hook: The river pulls her into darkness. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 0–3s: King Magnus (deep cold voice): "Where is the girl, beast?"
+DIALOGUE 0–3s: NARRATOR (cinematic story voice): "Now The Last Stand moves the story forward."
 3–8s: Bruno smiles.
-DIALOGUE 4–7s: Bruno (deep, proud, calm): "Gone. Where you never find her."
+DIALOGUE 4–7s: Bruno (very deep gentle Bigfoot voice): "The Last Stand means Bruno must stay gentle and close."
 8–20s: Bruno roars and charges into the army in slow motion. He throws soldiers, knocks down two dark Bigfoots, and grabs a small dragon out of the air. Shot in silhouette against the orange sunset, heroic.
-DIALOGUE 12–15s: NARRATOR (deep cinematic trailer voice): "He fought for every second she needed."
+DIALOGUE 12–15s: King Magnus (deep rough commanding king): "No one defies me after The Last Stand."
 20–30s: King Magnus raises his staff; a huge red lightning blast hits Bruno. In slow motion, Bruno falls to his knees, looks toward the river one last time and smiles. Then he slowly falls forward into the grass, in silhouette. No blood, no gore. Final frame: Bruno's open hand resting in the grass; beside it, a single small blue wildflower slowly blooms in the sunset light.
-DIALOGUE 26–29s: Bruno (deep final whisper): "Be... happy... Lily."
+DIALOGUE 26–29s: Dark Bigfoot (deep savage Bigfoot voice): "Your soft heart will lose during The Last Stand."
 SFX: battle cries, roars, impacts, dragon screech, magical lightning blast, heavy fall, then total silence, wind.
 MUSIC: epic tragic choir and orchestra, fading to a single soft violin note.
 

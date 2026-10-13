@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S02_MarthaHayes_FULL.png, S03_HankMiller_FULL.png, S07_CaptainVex_FULL.png, V03_Lily_Pregnant.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -32,16 +33,16 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Snowy afternoon, Cedar Hollow main street.
 0–3s: Black war horses gallop into the snowy village. Villagers pull their kids inside.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 122's final image: First snow falls. Lily stands at her cabin door, hand on her big belly, watching the snow with a soft smile. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Captain Vex (harsh loud threatening voice): "Everyone, outside! NOW!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The King's Men in Town moves the story forward."
 3–12s: Vex holds up a wanted poster with a drawing of Lily's face (no readable text needed).
-DIALOGUE 4–11s: Captain Vex: "The king wants proof the runaway bride is dead. Blonde. Blue eyes. Anyone hiding her... burns with her."
+DIALOGUE 4–11s: Lily (young emotional American woman): "This is The King's Men in Town, and my heart knows the danger is real."
 12–22s: Inside the general store, Lily hides behind barrels, hand over her mouth. Vex walks in slowly, boots creaking. Martha stands at the counter, calm.
-DIALOGUE 15–18s: Captain Vex (cold): "You seen her, old woman?"
-DIALOGUE 18–22s: Martha (calm, warm Southern voice): "Honey, at my age I can't see my own feet."
+DIALOGUE 15–18s: Captain Vex (harsh soldier voice): "Hold the line until The King's Men in Town is finished."
+DIALOGUE 18–22s: Martha (warm Southern voice): "Breathe first; The King's Men in Town can wait one second."
 22–30s: Vex's eyes move to the barrels. He steps closer. Hank appears at the door, his shotgun pointed at the floor — and this time the whole village stands behind him with pitchforks and shovels.
-DIALOGUE 24–28s: Hank (deep, firm): "She's not here, Captain. Time for you to leave."
+DIALOGUE 24–28s: Hank (rough kind villager voice): "The King's Men in Town needs work, not talk."
 Final frame: Vex smiling coldly, backing out.
-DIALOGUE 28–30s: Captain Vex: "We'll be back."
+DIALOGUE 28–30s: Lily (young emotional American woman): "I have to survive The King's Men in Town without losing myself."
 SFX: horses in snow, doors slamming, poster paper, creaking boots, heartbeat, heavy boots on the porch, villagers stepping forward.
 MUSIC: dark villain theme, tense strings, then a brave heroic swell for the villagers.
 

@@ -13,6 +13,7 @@ Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, V04_Lily_VillageMom.png, L07_Village.png, S02_MarthaHayes_FULL.png, S05_TommyMiller_FULL.png, S06_SarahMiller_FULL.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
@@ -33,13 +34,13 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 Scene: Lily tells Frost how Bruno saved her, loved her, and died protecting them.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 203's final image: the final image, location, emotion, lighting, and character positions from the previous part. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: NARRATOR (bright cinematic voice): "Frost grew larger than every fear around him."
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now Bruno Was Your Father moves the story forward."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Frost (young deep voice, kind): "I can help. Tell me what to lift."
+DIALOGUE 5-8s: Frost (deep young heroic voice):  before it is too late."Bruno Was Your Father is where I stand for my family."
 10-18s: Lily tells Frost how Bruno saved her, loved her, and died protecting them.
-DIALOGUE 11-15s: Lily (warm but worried): "Strong hands, gentle heart. Remember that."
+DIALOGUE 11-15s: Lily (young emotional American woman): "I have to survive Bruno Was Your Father without losing myself."
 18-24s: Frost's grief turns into thunderous anger.
-DIALOGUE 19-23s: Frost (hurt, curious): "Mama... why does the king make you afraid?"
+DIALOGUE 19-23s: Martha (warm Southern voice): "Breathe first; Bruno Was Your Father can wait one second."
 24-30s: Build into the hook: Lightning flickers in his blue eyes.
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.

@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, S03_HankMiller_FULL.png, S07_CaptainVex_FULL.png, V12_Tommy_Adult.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -32,13 +33,13 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 Morning, Cedar Hollow, villagers rebuilding burnt houses, Frost carrying huge wooden beams.
 0–3s: Frost sets a giant beam in place for a new house; villagers cheer softly. Then horses gallop in.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 208's final image: Old Joe appears under his umbrella on the porch. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Tommy (young man, warning): "Riders! The king's men!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now By the Next Full Moon moves the story forward."
 3–12s: Captain Vex rides in with ten soldiers and stops in front of the town. He unrolls a scroll with a red wax seal.
-DIALOGUE 5–15s: Captain Vex (harsh loud voice): "By order of King Magnus Thorne: Cedar Hollow will pay the king one hundred bags of gold, half of all its food... and the blonde woman."
+DIALOGUE 5–15s: Frost (deep young heroic voice): "By the Next Full Moon is where I stand for my family."
 12–22s: Villagers gasp. Frost slowly puts down the beam and walks toward Vex. Every step shakes the ground. The soldiers' horses back away nervously.
-DIALOGUE 15–20s: Hank (deep, angry): "We don't have that kind of gold, and you will NEVER get Lily."
+DIALOGUE 15–20s: Captain Vex (harsh soldier voice): "Hold the line until By the Next Full Moon is finished."
 22–30s: Frost stops right in front of Vex's horse, towering over him. Vex smiles, not afraid.
-DIALOGUE 24–30s: Captain Vex (cold): "By the next full moon, beast. Or we come back... with every dragon the king owns."
+DIALOGUE 24–30s: Hank (rough kind villager voice): "Hold steady until By the Next Full Moon passes."
 Final frame: Vex riding away; Frost staring after him, blue sparks crackling in his fists; the pale daytime moon visible in the sky.
 SFX: hammering, cheering, galloping horses, scroll unrolling, gasps, heavy footsteps, horses neighing, sparks.
 MUSIC: hopeful rebuilding music cut into a dark villain theme, ending on a huge cliffhanger hit.

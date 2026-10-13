@@ -9,6 +9,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, L03_DeepForest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -27,13 +28,13 @@ CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal 
 The Deep Wild, foggy forest floor.
 0–3s: Frost gets up angry and charges at Old Scar. They crash together like two trucks.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 239's final image: Old Scar swipes and sends Frost flying backward through two small trees. Frost lands hard and looks up, stunned. Final frame: the giant bear standing over him, roaring. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Frost (deep, roaring): "Fine! Then we do it the hard way!"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now The Iron Trap moves the story forward."
 3–12s: An epic wrestling fight: Frost throws a punch; Old Scar blocks it with his giant paw and throws Frost to the ground; they roll down a slope through ferns.
-DIALOGUE 7–9s: Frost (straining): "You're... strong... old man!"
+DIALOGUE 7–9s: Frost (deep young heroic voice): "The Iron Trap is where I stand for my family."
 12–22s: Frost pins the bear's front leg — and suddenly the bear cries out in real pain, not anger. Frost stops and looks down: Old Scar's back leg is caught in a huge rusty iron trap, chained to a tree. The trap has a red snake-and-crown symbol: the crest of King Magnus Thorne.
-DIALOGUE 17–21s: Frost (quiet, shocked): "The king's hunters... you've been trapped all this time."
+DIALOGUE 17–21s: Frost (deep young heroic voice): "I will not let The Iron Trap break the people I love."
 22–30s: Frost slowly lets go and steps back. Old Scar growls, but he's limping, tired and in pain. Frost's face changes from anger to understanding. Final frame: close-up of the rusty trap with the king's crest.
-DIALOGUE 26–29s: Frost (soft): "You're not angry. You're hurting."
+DIALOGUE 26–29s: Frost (deep young heroic voice): "Father, guide me through The Iron Trap."
 SFX: a heavy crash, roars, punches, rolling through ferns, a painful bear cry, chain clanking, heavy breathing.
 MUSIC: intense fight drums, then a sudden emotional cello note.
 

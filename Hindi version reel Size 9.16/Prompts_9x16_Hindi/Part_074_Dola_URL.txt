@@ -12,6 +12,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C01_Lily_FULL.png, C04_Bruno_FACE.png, C04_Bruno_FULL.png, L04_BrunoCave.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -32,16 +33,16 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 After the storm, a clear night, millions of stars, the campfire glowing at the cave entrance. Fully tasteful and family-safe: only loving looks, hand-holding and a warm hug.
 0–3s: Lily sits beside Bruno by the fire, wrapped in a blanket, resting her head on his big arm.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 073's final image: both laughing through tears. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 0–3s: NARRATOR (deep cinematic Hindi trailer voice): "Some love stories don't need words..."
+DIALOGUE 0–3s: NARRATOR (cinematic story voice): "Now Under the Stars moves the story forward."
 3–14s: They look up at the stars. A shooting star crosses the sky.
-DIALOGUE 5–7s: Lily (soft): "Make a wish, Bruno."
-DIALOGUE 8–12s: Bruno (deep, gentle): "Bruno wish... Lily never leave."
-DIALOGUE 12–14s: Lily (smiling): "Then it already came true."
+DIALOGUE 5–7s: Lily (young emotional American woman): "This is Under the Stars, and my heart knows the danger is real."
+DIALOGUE 8–12s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through Under the Stars."
+DIALOGUE 12–14s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in Under the Stars, but Bruno stays calm."
 14–24s: She takes his giant hand with both of hers. He gently pulls her close into a warm hug. Slow push-in on their faces, firelight glowing.
-DIALOGUE 18–21s: Lily (whispering): "I love you, Bruno."
-DIALOGUE 21–23s: Bruno (deep whisper): "Bruno love Lily. Forever."
+DIALOGUE 18–21s: Bruno (very deep gentle Bigfoot voice): "Under the Stars means Bruno must stay gentle and close."
+DIALOGUE 21–23s: Lily (young emotional American woman): "I have to survive Under the Stars without losing myself."
 24–30s: The camera slowly tilts away from them up to the campfire sparks rising into the starry sky, and the fire slowly burns down. Fade to black.
-DIALOGUE 27–30s: NARRATOR: "...and that night, the forest kept their secret."
+DIALOGUE 27–30s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in Under the Stars, but Bruno stays calm right now."
 SFX: soft crackling fire, crickets, distant owl, gentle breeze.
 MUSIC: slow romantic piano and violin love theme.
 

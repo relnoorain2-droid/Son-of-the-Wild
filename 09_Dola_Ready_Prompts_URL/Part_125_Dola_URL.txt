@@ -9,6 +9,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L06_AbandonedCabin.png, V03_Lily_Pregnant.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -26,13 +27,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Snowy night, inside the cabin, a fire in the stove, candles.
 0–3s: Lily (9 months pregnant) stands up from her chair and freezes. Water splashes on the wooden floor near her feet (shown only on the floor, tasteful).
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 124's final image: Build into the hook: A baby cry begins before dawn. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (soft, shocked): "Oh no... oh, it's time."
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now It's Time moves the story forward."
 3–12s: She grabs the edge of the table as the first contraction hits, breathing hard.
-DIALOGUE 5–8s: Lily (breathing, scared): "Okay, okay... breathe, Lily. Breathe."
+DIALOGUE 5–8s: Lily (young emotional American woman): "This is It's Time, and my heart knows the danger is real."
 12–22s: She stumbles to the window and sees the warm lights of Martha's house in the distance through the snow. She reaches for the door... then stops.
-DIALOGUE 14–21s: Lily (whispering, torn): "If I call them... and the baby looks like his father... they'll be scared. They'll send us away."
+DIALOGUE 14–21s: Lily (young emotional American woman): "I have to survive It's Time without losing myself."
 22–30s: She slowly locks the door and closes the curtains. She lights more candles, holding her belly, tears in her eyes but determined. Final frame: Lily alone in the candlelight, looking up.
-DIALOGUE 25–29s: Lily (whispering): "Bruno... if you can hear me... stay with me tonight."
+DIALOGUE 25–29s: Lily (young emotional American woman): "After It's Time, I cannot ignore the truth anymore."
 SFX: water drip on floor, heavy breathing, snow wind, creaking floor, door lock click, curtain, candle lighting.
 MUSIC: tense heartbeat drums, then a soft emotional choir.
 

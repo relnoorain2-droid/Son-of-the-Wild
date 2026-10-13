@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: K06_WarMammoth.png, S03_HankMiller_FULL.png, V08_Frost_Powered.png, V10_Damian_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -33,13 +34,13 @@ CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal 
 Morning, the wide valley in front of Thorne Castle, fog and dust, two armies facing each other.
 0–3s: The castle gate crashes open. Prince Damian rides out on the lead war mammoth, sword raised; fifty armored mammoths thunder behind him.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 275's final image: Build into the hook: Magnus screams for the T-Rex. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Prince Damian (smooth arrogant voice, screaming): "CRUSH THEM!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Mammoths vs Bison moves the story forward."
 3–12s: Frost raises his glowing hand and roars a deep animal call. From the hills, hundreds of American bison charge down, led by grizzly bears, Old Scar in front.
-DIALOGUE 6–9s: Frost (deep, thunderous): "WILD ONES... NOW!"
+DIALOGUE 6–9s: Frost (deep young heroic voice): "Mammoths vs Bison is where I stand for my family."
 12–22s: Slow-motion wide shot: the two stampedes crash together in the middle of the valley; dust explodes into the air; mammoths and bison push horn against tusk; bears knock soldiers off mammoths.
-DIALOGUE 16–19s: Hank (riding an elk, shouting): "YEE-HAW! Now THAT'S a rodeo!"
+DIALOGUE 16–19s: Prince Damian (smooth cold prince voice): "Smile through Mammoths vs Bison; the court is watching."
 22–30s: Old Scar stands up on his hind legs and roars at a mammoth twice his size; the mammoth backs away. Damian, struggling to control his mammoth, looks at the battle in shock. Final frame: dust and chaos, bison everywhere.
-DIALOGUE 27–30s: Prince Damian (shocked): "Since when do BEARS fight in wars?!"
+DIALOGUE 27–30s: Hank (rough kind villager voice): "Hold steady until Mammoths vs Bison passes."
 SFX: gate crashing, mammoth trumpets, a deep animal call, a huge bison stampede, a massive collision, roaring bears, hooves, dust, shouts.
 MUSIC: epic battle orchestra with heavy war drums and choir.
 

@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, S02_MarthaHayes_FULL.png, S03_HankMiller_FULL.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -33,14 +34,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night, a town meeting inside a half-burnt wooden church, lanterns, villagers on benches.
 0–3s: A frightened villager man stands up and points at Lily.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 210's final image: mother and son holding each other in moonlight as a wolf howls outside. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–5s: Villager man (scared, angry American voice): "Just give them the woman! Then they'll leave us alone!"
+DIALOGUE 1–5s: NARRATOR (cinematic story voice): "Now Give Her Up? moves the story forward."
 3–12s: The room explodes with shouting. Hank slams his hand on the table.
-DIALOGUE 5–11s: Hank (deep rural voice, furious): "Lily has been one of us for years! We don't hand our family to murderers!"
-DIALOGUE 11–13s: Martha (Southern voice): "Shame on you, Walter!"
+DIALOGUE 5–11s: Lily (young emotional American woman): "This is Give Her Up?, and my heart knows the danger is real."
+DIALOGUE 11–13s: Frost (deep young heroic voice): "I will not let Give Her Up? break the people I love."
 12–22s: Lily slowly stands up. The room goes silent.
-DIALOGUE 14–20s: Lily (soft, brave, trembling): "He's right. If I go to the king, nobody else has to die. I'll go."
+DIALOGUE 14–20s: Martha (warm Southern voice): "Breathe first; Give Her Up? can wait one second."
 22–30s: The church doors burst open — Frost ducks inside, the whole building creaking. He stands beside his mother.
-DIALOGUE 25–30s: Frost (deep powerful voice, calm and final): "Nobody is going anywhere. If they want my mother... they come through me."
+DIALOGUE 25–30s: Hank (rough kind villager voice): "Give Her Up? needs work, not talk."
 Final frame: the villagers slowly standing up behind Frost, one by one.
 SFX: murmuring, shouting, table slam, church doors bursting, wood creaking, benches scraping as people stand.
 MUSIC: tense strings, building into a brave heroic theme.

@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L03_DeepForest.png, S04_OldJoeWhitaker_FULL.png, V07_Frost_Teen.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -30,13 +31,13 @@ FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07
 Night, a violent thunderstorm on a hill above Cedar Hollow, dark clouds, rain.
 0–3s: A lightning bolt strikes a tree right next to Teen Frost; the tree explodes into sparks.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 173's final image: Frost closes his eyes, breathes slowly, and holds a new egg very, very gently. He opens his eyes. The egg is perfect. Then a tiny crack appears on it — and a baby chick pops its head out. Frost gasps with joy. Final frame: the tiny chick sitting in Frost's giant palm, chirping. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Teen Frost (scared, voice cracking): "Whoa!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Lightning moves the story forward."
 3–12s: Blue electric sparks jump from the burning tree onto Frost's hands. Instead of hurting him, they crawl across his fingers. His eyes glow electric blue.
-DIALOGUE 6–9s: Teen Frost (panicked): "What's happening to me? Stop! STOP!"
+DIALOGUE 6–9s: Frost (deep young heroic voice): "Lightning is where I stand for my family."
 12–22s: He shakes his hands; a blue bolt shoots out of his palm and blasts a rock into pieces. He falls back in the mud, shocked, staring at his glowing hands.
-DIALOGUE 16–19s: Teen Frost (breathing hard): "Did I... do that?"
+DIALOGUE 16–19s: Old Joe (old wise American man): "Lightning means the forest is answering."
 22–30s: Lightning flashes. In the bright light, Old Joe stands at the edge of the hill under a big umbrella, leaning on his walking stick, watching calmly.
-DIALOGUE 25–29s: Old Joe (slow raspy wise voice): "Yes, son. You did. And that's only the beginning."
+DIALOGUE 25–29s: Old Joe (old wise American man): "Listen close before Lightning chooses you."
 Final frame: blue sparks fading in Frost's hands, Old Joe's face lit by lightning.
 SFX: thunder, heavy rain, lightning crack, tree explosion, electric crackling, blast, rock shattering, mud splash.
 MUSIC: dramatic storm orchestra, a powerful magical choir hit when the bolt fires.

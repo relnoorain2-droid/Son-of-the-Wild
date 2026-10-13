@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FACE.png, C05_Frost_FULL.png, L03_DeepForest.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -32,13 +33,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night, outside the cabin, at the edge of the forest. A storm is gathering above.
 0–3s: Frost walks out of the cabin and punches a huge boulder; it explodes into pieces.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 206's final image: Build into the hook: Magnus's soldiers return with dragons. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Frost (deep, roaring with rage): "HE KILLED MY FATHER!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now I Will Not Spare Him moves the story forward."
 3–12s: His eyes glow electric blue. Blue lightning crackles across his whole body. The clouds above swirl and thunder answers him. Trees bend in the wind.
-DIALOGUE 6–11s: Frost (thunderous voice): "He hurt my mother! He burned my home! He killed my friends!"
+DIALOGUE 6–11s: Lily (young emotional American woman): "This is I Will Not Spare Him, and my heart knows the danger is real."
 12–22s: He rips a dead pine tree out of the ground and throws it into the forest. Lightning strikes the ground around him three times.
-DIALOGUE 15–20s: Frost (roaring to the sky): "I WILL NOT SPARE HIM! Do you hear me, Magnus? I'M COMING FOR YOU!"
+DIALOGUE 15–20s: Frost (deep young heroic voice): "I will not let I Will Not Spare Him break the people I love."
 22–30s: He falls to his knees in the mud, breathing hard, blue sparks fading, rain starting to fall. Lily runs out into the storm. Final frame: Frost kneeling, fists in the mud, lightning above.
-DIALOGUE 27–29s: Lily (screaming): "FROST! STOP!"
+DIALOGUE 27–29s: Frost (deep young heroic voice): "Father, guide me through I Will Not Spare Him."
 SFX: boulder explosion, electric crackling, thunder, wind howling, tree ripping out, lightning strikes, rain.
 MUSIC: powerful dark epic choir and drums, building to a peak.
 

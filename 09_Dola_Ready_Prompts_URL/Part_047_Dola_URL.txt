@@ -12,6 +12,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C01_Lily_FULL.png, C04_Bruno_FACE.png, C04_Bruno_FULL.png, L04_BrunoCave.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -29,15 +30,15 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night inside the waterfall cave, campfire light.
 0–3s: Lily grabs Bruno's huge finger with both hands, tears falling.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 046's final image: Bruno stands up and looks out through the waterfall. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 0–3s: Lily (soft young American woman, crying): "No, Bruno, please! I can't go back!"
+DIALOGUE 0–3s: NARRATOR (cinematic story voice): "Now I Can't Go Back moves the story forward."
 3–14s: Close-up on Lily, desperate and emotional.
-DIALOGUE 4–12s: Lily: "If I go home, the king's soldiers will find me. If they find me, they'll kill me... and maybe my mother too."
-DIALOGUE 12–17s: Lily: "I ran away from my own wedding. There is no home for me anymore."
+DIALOGUE 4–12s: Lily (young emotional American woman): "This is I Can't Go Back, and my heart knows the danger is real."
+DIALOGUE 12–17s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through I Can't Go Back."
 14–22s: Bruno looks at her for a long moment. His eyes become wet. He slowly kneels down.
-DIALOGUE 17–19s: Bruno (deep slow voice, soft): "King... hurt you?"
-DIALOGUE 19–22s: Lily (nodding, whispering): "He throws girls like me to the beasts."
+DIALOGUE 17–19s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in I Can't Go Back, but Bruno stays calm."
+DIALOGUE 19–22s: Bruno (very deep gentle Bigfoot voice): "I Can't Go Back means Bruno must stay gentle and close."
 22–30s: Bruno gently wipes a tear from her cheek with one huge fingertip.
-DIALOGUE 23–27s: Bruno (deep warm gravelly voice, a promise): "Then stay. Here, nobody hurts you. Bruno promise."
+DIALOGUE 23–27s: Lily (young emotional American woman): "I have to survive I Can't Go Back without losing myself."
 Final frame: Lily hugs his giant arm; Bruno looks out at the dark forest, protective.
 SFX: crying, fire crackling, waterfall in the background, soft breathing.
 MUSIC: emotional piano and cello theme, rising softly at the promise.

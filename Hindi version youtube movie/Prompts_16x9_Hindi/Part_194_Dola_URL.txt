@@ -13,6 +13,7 @@ Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, V04_Lily_VillageMom.png, L07_Village.png, S02_MarthaHayes_FULL.png, S05_TommyMiller_FULL.png, S06_SarahMiller_FULL.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -36,13 +37,13 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 Scene: Frost protects Old Joe and orders the soldiers to leave.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 193's final image: Build into the hook: A soldier shoves Old Joe. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: NARRATOR (bright cinematic voice): "Frost grew larger than every fear around him."
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now Frost Steps Forward moves the story forward."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Frost (young deep voice, kind): "I can help. Tell me what to lift."
+DIALOGUE 5-8s: Frost (deep young heroic voice):  with everyone watching."Frost Steps Forward is where I stand for my family."
 10-18s: Frost protects Old Joe and orders the soldiers to leave.
-DIALOGUE 11-15s: Lily (warm but worried): "Strong hands, gentle heart. Remember that."
+DIALOGUE 11-15s: Lily (young emotional American woman): "I have to survive Frost Steps Forward without losing myself."
 18-24s: The soldiers laugh until he lifts their wagon.
-DIALOGUE 19-23s: Frost (hurt, curious): "Mama... why does the king make you afraid?"
+DIALOGUE 19-23s: Martha (warm Southern voice): "Breathe first; Frost Steps Forward can wait one second."
 24-30s: Build into the hook: One soldier rides away to report him.
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.

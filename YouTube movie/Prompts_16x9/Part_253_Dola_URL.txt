@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, C06_ElderOrin_FULL.png, V04_Lily_VillageMom.png, V09_Bruno_Spirit.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -33,13 +34,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night at Bruno's stone grave by the river, the full moon directly above, Western fantasy style, like a knight kneeling before a king.
 0–3s: Frost kneels on one knee at the stone circle, both hands on the stones, head raised to the full moon.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 252's final image: Lily falls to her knees in front of the stones and puts both hands on them, crying. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Frost (deep, emotional, loud): "FATHER!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Father! moves the story forward."
 3–12s: Silence. Then wind rises. The glowing flowers lift into the air and spin around him. The clouds part in a perfect circle around the moon.
-DIALOGUE 6–10s: Frost (shouting to the sky, tears): "I passed the trials! I'm ready! Father, please... I need you!"
+DIALOGUE 6–10s: Lily (young emotional American woman): "This is Father!, and my heart knows the danger is real."
 12–22s: In the sky, made of moonlight and stars, the giant glowing spirit of Bruno appears, smiling down at his son.
-DIALOGUE 15–20s: Bruno (spirit voice, very deep slow warm gravelly, echoing from the sky): "Frost... my son. Bruno always here."
+DIALOGUE 15–20s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through Father!."
 22–30s: Behind Bruno, even bigger, appears Elder Orin: ancient, with a long white beard, glowing blue tattoos, holding a staff with a shining BLUE crystal. Lily and Old Joe step back in awe. Final frame: father and grandfather in the sky, the son kneeling below.
-DIALOGUE 26–29s: Elder Orin (ancient, very deep, echoing voice): "The blood of Orin... has returned."
+DIALOGUE 26–29s: Frost (deep young heroic voice): "Father, guide me through Father!."
 SFX: wind rising, flowers swirling, a deep magical hum, clouds rumbling, a soft heavenly chime, echoing voices.
 MUSIC: building epic choir, a huge emotional swell when Bruno appears, then ancient powerful horns for Orin.
 

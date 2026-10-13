@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C06_ElderOrin_FULL.png, V04_Lily_VillageMom.png, V08_Frost_Powered.png, V09_Bruno_Spirit.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -32,14 +33,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Late night, a quiet hill above the celebration, a sky full of stars, the party lights glowing below.
 0–3s: Frost and Lily sit on the hill looking at the stars. Frost holds the small glowing blue crystal.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 311's final image: the final image, location, emotion, lighting, and character positions from the previous part. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Frost (deep, soft): "Mom... do you think Dad would be proud?"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Home moves the story forward."
 3–12s: Lily leans on his huge arm, just like she leaned on Bruno's long ago.
-DIALOGUE 4–12s: Lily (soft, smiling): "Frost, you had every reason to hate. And you chose to protect. He'd be the proudest giant in the whole sky."
+DIALOGUE 4–12s: Lily (young emotional American woman): "This is Home, and my heart knows the danger is real."
 12–22s: The stars begin to glow brighter. In the sky, made of starlight, Bruno appears, smiling down at them. Behind him, Elder Orin nods. Bruno raises his giant hand in a wave.
-DIALOGUE 15–20s: Bruno (spirit voice, very deep slow warm gravelly, echoing softly): "Bruno so proud. Be happy, my family. Forever."
+DIALOGUE 15–20s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through Home."
 22–30s: Frost and Lily wave back to the sky, tears and smiles. The spirits slowly fade into the stars. The camera rises slowly over the hill, over the party, over the forest, over the mountains, into the stars.
-DIALOGUE 24–27s: Lily (whispering): "He's home, Bruno. We're all home."
-DIALOGUE 27–30s: NARRATOR (deep cinematic Hindi trailer voice): "Strong hands... gentle heart. The End."
+DIALOGUE 24–27s: Frost (deep young heroic voice): "Father, guide me through Home."
+DIALOGUE 27–30s: Elder Orin (ancient calm forest elder): "Home begins when anger ends."
 Final frame: the sky full of stars, one star shaped like a giant handprint glowing softly.
 SFX: night wind, distant party music, crickets, a soft magical shimmer, Bruno's echoing voice, a final gentle chime.
 MUSIC: the love theme and the Frost theme together, building to a beautiful final orchestral chord, then fading to silence.

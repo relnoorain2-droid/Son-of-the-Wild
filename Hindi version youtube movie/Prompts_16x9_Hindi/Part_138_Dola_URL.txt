@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L06_AbandonedCabin.png, S05_TommyMiller_FULL.png, S06_SarahMiller_FULL.png, V05_Frost_Baby.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -35,13 +36,13 @@ FROST AGE LOCK: Frost is a newborn/baby here. Use only V05_Frost_Baby.png for Fr
 Afternoon, the forest edge behind the cabin.
 0–3s: Tommy and Sarah sneak toward Lily's cabin with a homemade gift basket.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 137's final image: Build into the hook: Her father pulls her away. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Tommy (excited young boy, whispering): "Let's surprise Miss Lily's baby!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now MONSTER! moves the story forward."
 3–12s: Baby Frost (now a bit bigger, crawling fast) crawls out of the bushes holding Sarah's dropped teddy bear in his mouth like a puppy. The kids freeze.
-DIALOGUE 7–9s: Sarah (small cute girl voice): "Tommy... is that a puppy?"
-DIALOGUE 9–11s: Tommy (shaking): "That's NOT a puppy."
+DIALOGUE 7–9s: Frost (deep young heroic voice): "MONSTER! is where I stand for my family."
+DIALOGUE 9–11s: Tommy (young excited man): "MONSTER! is going to change this town."
 12–22s: Frost happily crawls toward them and lets out his little roar. The kids scream and Frost screams back, scared too. All three scream at each other.
 22–30s: Tommy grabs Sarah and runs toward the village, screaming. Frost sits alone holding the teddy bear, confused and sad. Final frame: Tommy running into the village street.
-DIALOGUE 25–29s: Tommy (screaming at the top of his lungs): "MONSTER! THERE'S A MONSTER AT MISS LILY'S HOUSE!"
+DIALOGUE 25–29s: Sarah (young village woman): "The town has to understand MONSTER!."
 SFX: footsteps in leaves, bushes rustling, baby grunts, little roar, triple screaming, running, village dogs barking.
 MUSIC: comedic suspense, a funny triple-scream sting, then worried strings.
 

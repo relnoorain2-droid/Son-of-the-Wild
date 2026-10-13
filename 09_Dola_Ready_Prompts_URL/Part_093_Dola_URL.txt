@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C04_Bruno_FULL.png, V03_Lily_Pregnant.png, V10_Damian_Battle.png, V11_KingMagnus_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -28,16 +29,16 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 The valley in front of the cave, smoke and fire around.
 0–3s: Damian's sword swings down at Lily — a huge black hand grabs the blade and bends it like a spoon.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 092's final image: Damian drags Lily out of the cave toward his horse. He sees her belly and stops, shocked, then disgusted. Final frame: Damian's sword rising toward Lily. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Bruno (deep, furious): "Hands off... my family."
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Hands Off My Family moves the story forward."
 3–12s: Prince Damian stares at his bent sword, then at Bruno, and smiles nervously.
-DIALOGUE 5–8s: Prince Damian (nervous, fake laugh): "Let's... talk about this like gentlemen?"
+DIALOGUE 5–8s: Lily (young emotional American woman): "This is Hands Off My Family, and my heart knows the danger is real."
 8–14s: Bruno picks Damian up by his cape and throws him far across the valley; he lands face-first in a pile of mammoth dung. Soldiers try not to laugh.
-DIALOGUE 12–14s: Prince Damian (muffled, disgusted): "Ughh! Father!"
+DIALOGUE 12–14s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through Hands Off My Family."
 14–22s: Bruno lifts Lily into his arms. He has burn marks on his back and is breathing heavily, limping.
-DIALOGUE 16–19s: Lily (crying): "You're hurt, Bruno!"
-DIALOGUE 19–22s: Bruno (deep, trying to smile): "Bruno is fine. Bruno... totally fine."
+DIALOGUE 16–19s: Prince Damian (smooth cold prince voice): "By tomorrow, Hands Off My Family will feel like destiny."
+DIALOGUE 19–22s: King Magnus (deep rough commanding king): "Hands Off My Family belongs under my crown."
 22–30s: Bruno runs with Lily toward the forest. Behind them, King Magnus raises his staff; the red crystal charges with red lightning. Final frame: the red bolt flying toward Bruno's back.
-DIALOGUE 26–28s: King Magnus (booming): "NO ONE ESCAPES ME!"
+DIALOGUE 26–28s: Lily (young emotional American woman): "I have to survive Hands Off My Family without losing myself."
 SFX: metal bending, nervous laugh, whoosh of throw, comedic squelch landing, soldiers snickering, heavy limping footsteps, magical lightning charge, crackling bolt.
 MUSIC: heroic hit, a quick comedic sting on the dung landing, then dark rising tension.
 

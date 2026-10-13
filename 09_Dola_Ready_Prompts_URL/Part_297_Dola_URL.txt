@@ -10,6 +10,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: V08_Frost_Powered.png, V09_Bruno_Spirit.png, V11_KingMagnus_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -27,13 +28,13 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 On the flying dragon's back, sunset, wind, clouds.
 0–3s: The king swings the staff down; a giant red lightning bolt flies at Frost.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 296's final image: The king blasts Frost with a huge red bolt. Frost slides backwards to the very edge of the dragon's back, his feet over the empty sky. Final frame: Frost at the edge, the king raising the staff for the final strike. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 0–2s: King Magnus (roaring): "DIE!"
+DIALOGUE 0–2s: NARRATOR (cinematic story voice): "Now Be Still in the final battle moves the story forward."
 3–12s: Time slows down. Everything goes quiet. Frost hears his father's deep voice in his mind and sees a faint golden memory of Bruno in the river.
-DIALOGUE 4–9s: Bruno (memory voice, deep, warm, echoing): "You don't fight the river, son. Be still. Let it come to you."
+DIALOGUE 4–9s: Bruno (very deep gentle Bigfoot voice): "Be Still in the final battle means Bruno must stay gentle and close."
 12–22s: Frost stops fighting. He opens his arms and lets the red lightning hit his chest. Instead of hurting him, the red lightning swirls into him... and slowly turns BLUE inside his body. His tattoos explode with light.
-DIALOGUE 17–20s: King Magnus (shocked, stepping back): "What? That's... that's impossible!"
+DIALOGUE 17–20s: Frost (deep young heroic voice): "I will not let Be Still in the final battle break the people I love."
 22–30s: Frost stands up, calm, glowing brighter than ever, red-turned-blue lightning dancing around him.
-DIALOGUE 25–29s: Frost (deep, calm, powerful): "My grandfather's power never belonged to you."
+DIALOGUE 25–29s: King Magnus (deep rough commanding king): "Let the kingdom remember Be Still."
 Final frame: the king's face in fear for the first time, the crystal on his staff flickering between red and blue.
 SFX: a red lightning crack, time slowing (deep whoosh), silence, Bruno's echoing voice, the lightning absorbed, a color-shifting magical hum, a huge power surge, the crystal flickering.
 MUSIC: silence, then Bruno's love theme, then a massive, triumphant heroic choir.

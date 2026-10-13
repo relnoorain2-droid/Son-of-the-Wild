@@ -11,6 +11,7 @@ Status: canon-safe opening version
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C02_KingMagnus_FULL.png, K01_DarkBigfoot.png, K02_RedDragon.png, V01_Lily_Wedding.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -33,13 +34,13 @@ CHARACTER LOCK: Keep Lily and King Magnus identical to attached images. Dark Big
 Scene: Night castle courtyard lit by torches, alarm bells ringing, Western dark-fantasy castle in the Pacific Northwest forest.
 0-3s: Lily drops from the bedsheet rope into a haystack, rolls out, and runs toward a side gate.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 036's final image: Build into the hook: A guard finds a piece of her veil. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-3s: Lily (out of breath, determined): "Okay... just run."
+DIALOGUE 1-3s: NARRATOR (cinematic story voice): "Now The Trackers moves the story forward."
 3-12s: Guards rush past with lanterns. A dark Bigfoot guard stands nearby and sniffs the air, alert but not chained. Lily hides behind a cart and holds her breath.
 12-18s: The red Western dragon on the tower wakes up, glowing eyes scanning the courtyard. King Magnus appears on a high balcony in a black fur cloak.
-DIALOGUE 13-17s: King Magnus (deep booming voice): "She ran? Then the forest will hide the truth."
-DIALOGUE 17-19s: Prince Damian (off-screen, angry): "Find her!"
+DIALOGUE 13-17s: Lily (young emotional American woman): "This is The Trackers, and my heart knows the danger is real."
+DIALOGUE 17-19s: King Magnus (deep rough commanding king): "No one defies me after The Trackers."
 18-26s: Lily tears the long train from her gown so she can run, sprints through the side gate, and slides under it at the last second as it closes.
-DIALOGUE 23-26s: King Magnus (cold): "Send the trackers."
+DIALOGUE 23-26s: Dark Bigfoot (deep savage Bigfoot voice): "Your soft heart will lose during The Trackers."
 26-30s: Trained wolf trackers leap from the courtyard and sniff Lily's trail toward the forest gate. Final frame: Lily disappearing into the moonlit trees.
 SFX: alarm bells, haystack thump, running footsteps, guards shouting, Bigfoot sniffing, dragon breathing, fabric ripping, gate grinding, wolves howling.
 MUSIC: intense action orchestra with fast drums and brass.

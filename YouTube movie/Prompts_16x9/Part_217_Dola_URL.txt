@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, K03_SmallDragons.png, L07_Village.png, V12_Tommy_Adult.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -32,13 +33,13 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 Night, the sky above Cedar Hollow, full moon, smoke.
 0–3s: Three smaller dragons dive at the village and breathe fire on the log wall.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 216's final image: Frost stands in the middle of the circle of defeated dark Bigfoots, steam rising from his white fur in the moonlight. The soldiers start backing away. Final frame: low-angle hero shot of Frost and the full moon. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Villager (shouting): "Dragons! The wall's on fire!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Dragon Catcher moves the story forward."
 3–12s: Frost crouches, then jumps an incredible height into the air — higher than the trees — and grabs a dragon by the tail in mid-air.
-DIALOGUE 6–8s: Frost (deep, shouting): "Get away from my home!"
+DIALOGUE 6–8s: Frost (deep young heroic voice): "Dragon Catcher is where I stand for my family."
 12–22s: He spins the dragon around and throws it into a second dragon; they tumble out of the sky and crash into the forest. He lands on the back of the third dragon and rides it like a bucking horse.
-DIALOGUE 16–19s: Tommy (on the wall, amazed): "He's RIDING it! He's riding a dragon!"
+DIALOGUE 16–19s: Frost (deep young heroic voice): "I will not let Dragon Catcher break the people I love."
 22–30s: Frost steers the dragon down into the river; it crashes into the water with a giant splash and flies away, wet and scared. Frost lands on his feet in the shallow water. Final frame: Frost in the river, fire behind him, the full moon above.
-DIALOGUE 26–29s: Frost (deep, smiling, shaking water off): "Like father, like son."
+DIALOGUE 26–29s: Frost (deep young heroic voice): "Father, guide me through Dragon Catcher."
 SFX: dragon dives, fire whoosh, a massive jump whoosh, tail grab, dragon screeches, a mid-air crash, trees breaking, bucking wings, a giant splash.
 MUSIC: epic adventure orchestra with a heroic choir.
 

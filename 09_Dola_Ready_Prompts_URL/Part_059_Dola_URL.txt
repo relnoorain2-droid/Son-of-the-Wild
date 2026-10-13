@@ -12,6 +12,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C01_Lily_FULL.png, C04_Bruno_FULL.png, K01_DarkBigfoot.png, S07_CaptainVex_FULL.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -29,15 +30,15 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Evening, the waterfall pool, orange sunset turning to dusk.
 0–3s: Bruno bursts out through the waterfall, tackling the dark Bigfoot into the pool; a giant wave of water explodes.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 058's final image: The dark Bigfoot pushes its face through the waterfall. Its red eyes meet Bruno's amber eyes, inches apart. It snarls, showing its fangs. Bruno slowly stands up to full height. Final frame: both giants face to face, the waterfall between them. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Captain Vex (harsh voice, shocked): "Another one?!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Bigfoot vs Bigfoot moves the story forward."
 3–14s: Epic fight in knee-deep water: the dark Bigfoot swings its iron shackles; Bruno blocks with his forearm, punches back. They crash into rocks. Guards step back in fear.
-DIALOGUE 6–8s: Bruno (deep roaring voice): "You don't touch her!"
-DIALOGUE 10–12s: Lily (from the cave, screaming): "Bruno, behind you!"
+DIALOGUE 6–8s: Lily (young emotional American woman): "This is Bigfoot vs Bigfoot, and my heart knows the danger is real."
+DIALOGUE 10–12s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through Bigfoot vs Bigfoot."
 14–22s: Bruno ducks a punch, lifts the dark Bigfoot over his head in slow motion and throws it across the pool into the trees. It lands with a crash and runs away whimpering.
 22–30s: Bruno turns to the soldiers and lets out a huge roar. The guards drop their torches and run. Captain Vex backs away slowly, pointing at Bruno.
-DIALOGUE 23–28s: Captain Vex (angry, retreating): "The king will hear about you, beast. And he will come himself!"
+DIALOGUE 23–28s: Captain Vex (harsh soldier voice): "The king wants Bigfoot vs Bigfoot before dawn."
 Final frame: Lily runs out and hugs Bruno's leg as he breathes hard in the dusk, steam rising from his fur.
-DIALOGUE 28–30s: Lily (soft, relieved): "You came back for me."
+DIALOGUE 28–30s: Dark Bigfoot (deep savage Bigfoot voice): "Bigfoot vs Bigfoot ends under the dark pack."
 SFX: water explosion, punches and heavy thuds, chains swinging, rock crash, roars, tree crash, whimpering, torches dropping in water, soldiers running.
 MUSIC: epic heavy action score with drums and brass, ending with a soft warm resolve.
 

@@ -14,6 +14,7 @@ Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: V03_Lily_Pregnant.png, C04_Bruno_FULL.png, C02_KingMagnus_FULL.png, K02_RedDragon.png, K04_TRex.png, K06_WarMammoth.png, L03_DeepForest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -36,13 +37,13 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 Scene: A huge Western dragon circles the waterfall cave.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 095's final image: Build into the hook: Bruno turns and growls. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: NARRATOR (urgent cinematic voice): "But King Magnus had not forgotten the bride who escaped."
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now The Dragon Overhead moves the story forward."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Lily (protective, frightened): "Bruno, our baby... they found us."
+DIALOGUE 5-8s: Lily (young emotional American woman):  before it is too late."This is The Dragon Overhead, and my heart knows the danger is real."
 10-18s: A huge Western dragon circles the waterfall cave.
-DIALOGUE 11-15s: Bruno (deep, firm): "Lily run. Child live."
+DIALOGUE 11-15s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through The Dragon Overhead."
 18-24s: Lily hides underwater behind the falls, holding her breath.
-DIALOGUE 19-23s: King Magnus (booming rage): "Leave no witness in my forest."
+DIALOGUE 19-23s: King Magnus (deep rough commanding king): "Let the kingdom remember The Dragon Overhead."
 24-30s: Build into the hook: The dragon's eye looks straight at the waterfall.
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.

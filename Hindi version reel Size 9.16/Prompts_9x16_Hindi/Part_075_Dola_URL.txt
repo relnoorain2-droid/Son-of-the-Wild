@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C01_Lily_FULL.png, C04_Bruno_FULL.png, L05_River.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -31,14 +32,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Morning by the river, a few weeks later. Fall leaves on the ground.
 0–3s: Lily suddenly turns away from a bowl of fish and feels sick, holding her mouth.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 074's final image: The camera slowly tilts away from them up to the campfire sparks rising into the starry sky, and the fire slowly burns down. Fade to black. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: NARRATOR (deep trailer voice): "A few weeks later..."
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Bad Berries? moves the story forward."
 3–12s: Bruno panics, running in circles, holding different leaves and berries.
-DIALOGUE 4–7s: Bruno (deep, panicked): "Lily eat bad berries? Bruno find medicine!"
-DIALOGUE 7–9s: Lily (weak, laughing): "Bruno, I'm okay!"
+DIALOGUE 4–7s: Lily (young emotional American woman): "This is Bad Berries?, and my heart knows the danger is real."
+DIALOGUE 7–9s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through Bad Berries?."
 12–22s: Bruno brings her a whole pile of random things: leaves, mushrooms, a pinecone, and a very confused live frog. Lily laughs and feels sick again.
-DIALOGUE 14–17s: Bruno (serious): "Frog is medicine." Lily: "Frog is NOT medicine!"
+DIALOGUE 14–17s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in Bad Berries?, but Bruno stays calm."
 22–30s: Lily goes quiet, then slowly places her hand on her belly. Her eyes widen with realization. Bruno stops, the frog jumping out of his hand. Final frame: close-up of Lily's shocked, emotional face.
-DIALOGUE 25–28s: Lily (whispering, shocked): "Bruno... I don't think it was the berries."
+DIALOGUE 25–28s: Bruno (very deep gentle Bigfoot voice): "Bad Berries? means Bruno must stay gentle and close."
 SFX: retching (mild, off-screen), running footsteps, leaves rustling, frog croak, laughing, sudden silence.
 MUSIC: comedic plucky strings, then a soft magical chime at the realization.
 

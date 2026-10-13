@@ -12,6 +12,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, C05_Frost_FACE.png, L06_AbandonedCabin.png, S04_OldJoeWhitaker_FULL.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -33,13 +34,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Inside Lily's cabin, days later, rain on the windows. Frost lies on a huge bed made from three beds pushed together.
 0–3s: Frost tries to make lightning in his palm. Only a tiny weak spark appears, then dies.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 224's final image: Build into the hook: Old Joe whispers that strength alone is not enough. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Frost (deep voice, weak, frustrated): "It's gone. My power's almost gone."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now I'm Not Strong Enough moves the story forward."
 3–12s: He turns his face to the wall.
-DIALOGUE 5–14s: Frost (broken): "I lost, Mom. One dragon... one chain... and I lost. The king has a hundred dragons. I'm not strong enough. I'll never be strong enough."
+DIALOGUE 5–14s: Lily (young emotional American woman): "This is I'm Not Strong Enough, and my heart knows the danger is real."
 12–22s: Lily holds his hand silently, not knowing what to say. The door opens; Old Joe walks in, shaking rain off his umbrella. He puts the small carved Bigfoot-with-a-staff on the table.
-DIALOGUE 16–20s: Old Joe (slow raspy wise voice): "You're right, son. You're not strong enough. Not yet."
+DIALOGUE 16–20s: Frost (deep young heroic voice): "I will not let I'm Not Strong Enough break the people I love."
 22–30s: Frost and Lily look at him.
-DIALOGUE 24–29s: Old Joe (serious): "Remember when I told you 'not yet'? Well... now it's time."
+DIALOGUE 24–29s: Old Joe (old wise American man): "Listen close before I'm Not Strong Enough chooses you."
 Final frame: close-up of the carved figure, a faint blue glow appearing in its tiny wooden eyes.
 SFX: rain, a weak electric fizzle, heavy sigh, door opening, umbrella shaking, a carving placed on wood, a soft magical hum.
 MUSIC: sad cello, then a mysterious magical tone.

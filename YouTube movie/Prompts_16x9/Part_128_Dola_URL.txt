@@ -10,6 +10,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L06_AbandonedCabin.png, V04_Lily_VillageMom.png, V05_Frost_Baby.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -32,14 +33,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Inside the cabin, candlelight, snow falling outside the window.
 0–3s: Lily lifts a small bundle wrapped in the old patchwork quilt. The quilt moves. A tiny white furry hand pokes out.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 127's final image: Build into the hook: Someone knocks on the cabin door. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Lily (soft, breathless): "Let me see you, little one..."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Hello, Frost moves the story forward."
 3–12s: She slowly opens the quilt: a newborn WHITE baby Bigfoot with fluffy snow-white fur, a pale-pink face and big blue eyes exactly like Lily's. Lily gasps.
-DIALOGUE 6–9s: Lily (shocked whisper): "You're... white. Like the snow."
+DIALOGUE 6–9s: Frost (deep young heroic voice): "Hello, Frost is where I stand for my family."
 12–22s: The baby looks at her and grabs her finger tightly. Lily laughs and cries at the same time. Snowflakes outside start glowing softly for a moment, like magic.
-DIALOGUE 14–17s: Lily (emotional): "You have my eyes... and your papa's grip."
-DIALOGUE 18–21s: Lily (to the window, tearful smile): "Bruno, look. Look at our son."
+DIALOGUE 14–17s: Lily (young emotional American woman): "I have to survive Hello, Frost without losing myself."
+DIALOGUE 18–21s: Lily (young emotional American woman): "After Hello, Frost, I cannot ignore the truth anymore."
 22–30s: She holds him close to her face; the baby makes a tiny happy grunt.
-DIALOGUE 25–29s: Lily (soft, loving): "Hello, Frost. Welcome to the world."
+DIALOGUE 25–29s: Lily (young emotional American woman): "This is Hello, Frost, and my heart knows the danger is real."
 Final frame: Lily kissing the baby's furry forehead, candles glowing, snow outside.
 SFX: quilt rustle, tiny baby grunts and coos, a magical chime as snowflakes glow, crackling fire.
 MUSIC: beautiful emotional orchestra with soft choir, a new gentle "Frost theme" on piano.

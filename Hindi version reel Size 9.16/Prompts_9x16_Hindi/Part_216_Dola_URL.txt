@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, K01_DarkBigfoot.png, L08_Battlefield.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -32,13 +33,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night battlefield in front of the log wall, full moon, fire and smoke.
 0–3s: Six dark Bigfoots with glowing red eyes surround Frost in a circle, growling.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 215's final image: A dark Bigfoot climbs out of a pit right in front of Frost. Frost cracks his knuckles. Final frame: Frost smiling, blue sparks in his eyes. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Frost (deep powerful voice, calm): "Six? Only six?"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Frost vs the Dark Bigfoots moves the story forward."
 3–14s: Fast, epic choreography: Frost catches the first punch, flips the attacker over his shoulder into the second; he ducks, spins, and slams two more together; blue lightning sparks with every hit.
-DIALOGUE 7–9s: Frost (fighting, roaring): "This is for my father!"
+DIALOGUE 7–9s: Frost (deep young heroic voice): "Frost vs the Dark Bigfoots is where I stand for my family."
 14–22s: The last two jump on his back. He roars, his whole body flashes with blue lightning, and they are thrown off, landing far away and running into the forest whimpering.
-DIALOGUE 17–19s: Lily (on the wall, shouting): "That's my boy!"
+DIALOGUE 17–19s: Lily (young emotional American woman): "I have to survive Frost vs the Dark Bigfoots without losing myself."
 22–30s: Frost stands in the middle of the circle of defeated dark Bigfoots, steam rising from his white fur in the moonlight. The soldiers start backing away. Final frame: low-angle hero shot of Frost and the full moon.
-DIALOGUE 26–29s: Frost (deep, to the soldiers): "Who's next?"
+DIALOGUE 26–29s: Dark Bigfoot (deep savage Bigfoot voice): "Your soft heart will lose during Frost vs the Dark Bigfoots."
 SFX: growls, heavy punches, body slams, electric crackles, roars, a big electric blast, whimpering, soldiers' armor clanking backwards.
 MUSIC: heroic action score with massive drums and brass.
 

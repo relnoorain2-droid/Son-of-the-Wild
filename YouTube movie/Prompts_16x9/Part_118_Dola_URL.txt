@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L06_AbandonedCabin.png, S02_MarthaHayes_FULL.png, S03_HankMiller_FULL.png, V03_Lily_Pregnant.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -32,16 +33,16 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night, inside the cabin, storm outside.
 0–3s: Hank Miller (50, cowboy hat, beard, plaid shirt) steps in holding a lantern high, an old shotgun pointed down at the floor — then sees Lily's pregnant belly and immediately steps back.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 117's final image: The door handle turns. A man's shadow with a shotgun appears in the doorway, lit by lightning. Final frame: Lily holding the burning stick up, the shadow stepping in. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Hank (deep friendly rural voice, shocked): "Whoa, whoa... ma'am, I'm sorry!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Hank and Martha moves the story forward."
 3–12s: Lily slowly lowers her burning stick, still shaking.
-DIALOGUE 4–8s: Lily (soft, scared): "I'm sorry too. I didn't know it was yours. I'll leave."
-DIALOGUE 8–11s: Hank (gentle): "Leave? In this storm? Not a chance."
+DIALOGUE 4–8s: Martha (warm Southern voice): "Hank and Martha needs steady hands, honey."
+DIALOGUE 8–11s: Lily (young emotional American woman): "I have to survive Hank and Martha without losing myself."
 12–22s: Martha Hayes (68, round glasses, white curly hair, cardigan) pushes past Hank holding an umbrella and a basket of food.
-DIALOGUE 13–17s: Martha (warm grandmotherly Southern voice): "Hank Miller, did you scare a pregnant girl with a shotgun?"
-DIALOGUE 17–19s: Hank (embarrassed): "...It wasn't loaded."
-DIALOGUE 19–22s: Martha: "That makes it worse!"
+DIALOGUE 13–17s: Hank (rough kind villager voice): "Hold steady until Hank and Martha passes."
+DIALOGUE 17–19s: Hank (rough kind villager voice): "Hank and Martha needs work, not talk."
+DIALOGUE 19–22s: Martha (warm Southern voice): "Nobody panics during Hank and Martha while I am here."
 22–30s: Martha wraps a warm blanket around Lily and hands her fresh bread. Lily bites it and starts crying from relief. Final frame: Martha hugging Lily, Hank awkwardly holding the lantern.
-DIALOGUE 25–29s: Martha (soft): "There, there, honey. You're safe now. You're in Cedar Hollow."
+DIALOGUE 25–29s: Lily (young emotional American woman): "After Hank and Martha, I cannot ignore the truth anymore."
 SFX: storm, lantern swing, boots stepping back, umbrella shaking, basket, crying, rain.
 MUSIC: tense strings resolving into warm, gentle country guitar.
 

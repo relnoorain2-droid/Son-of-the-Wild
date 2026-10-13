@@ -9,6 +9,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L02_KingCastle.png, V08_Frost_Powered.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -29,13 +30,13 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 Inside Thorne Castle, a dusty, gloomy old bedroom with red curtains, a broken bed, stone walls. Dust falling through a giant hole in the wall.
 0–3s: Frost lies in the rubble, coughing, slowly opening his eyes. Dust and small stones fall on him.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 288's final image: Build into the hook: Blue lightning gathers around Frost. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Frost (deep, groaning): "Ugh... where am I?"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The Room with the Names moves the story forward."
 3–12s: He sits up and sees the stone wall in front of him: dozens of women's names scratched into the stone ("Emily", "Sarah", "Kate"...), and below them, in big desperate scratches, the word "RUN".
-DIALOGUE 7–10s: Frost (whispering, realizing): "This is... the room. Mom's room."
+DIALOGUE 7–10s: Frost (deep young heroic voice): "The Room with the Names is where I stand for my family."
 12–22s: He touches the scratched names slowly with one glowing finger. He remembers his mother's story. His eyes fill with tears.
-DIALOGUE 15–20s: Frost (deep, emotional): "All of you... nobody came for you. I'm sorry I'm so late."
+DIALOGUE 15–20s: Frost (deep young heroic voice): "I will not let The Room with the Names break the people I love."
 22–30s: Frost picks up a sharp stone and carefully scratches one more line under all the names. Then he stands up, tattoos blazing. Final frame: the new words carved under "RUN": "NO MORE."
-DIALOGUE 27–29s: Frost (deep, determined): "No more. Never again."
+DIALOGUE 27–29s: Frost (deep young heroic voice): "Father, guide me through The Room with the Names."
 SFX: falling dust, coughing, stones rolling, stone scratching, a magical surge of power, distant battle noise.
 MUSIC: a quiet, haunting, emotional theme, rising to determination.
 

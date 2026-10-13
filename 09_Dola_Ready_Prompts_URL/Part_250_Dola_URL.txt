@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FACE.png, C05_Frost_FULL.png, S04_OldJoeWhitaker_FULL.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -29,13 +30,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Underwater vision world, then Mirror Lake at night.
 0–3s: The red-eyed reflection reaches toward Frost.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 249's final image: The real Frost floats in the dark, shaking his head, tears floating away from his eyes in the water. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Dark Reflection (cold): "Hate is power. Take it."
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now I Protect moves the story forward."
 3–12s: Frost hears his mother's voice echoing from above the water, and sees warm memories: baby Frost holding her finger; the "MOM" slate; Martha's sweater; the cradle Bruno built.
-DIALOGUE 4–8s: Lily (voice from above, echoing): "Strong hands... gentle heart, my love."
-DIALOGUE 8–12s: Frost (deep, calm, firm): "I won't destroy. I protect. That's what my father did."
+DIALOGUE 4–8s: Lily (young emotional American woman): "This is I Protect, and my heart knows the danger is real."
+DIALOGUE 8–12s: Frost (deep young heroic voice): "I will not let I Protect break the people I love."
 12–22s: Instead of fighting the dark reflection, Frost hugs it. The red eyes slowly turn blue. The dark self smiles softly and dissolves into thousands of blue lights.
 22–30s: Frost bursts out of Mirror Lake in a huge explosion of water and blue light, lands on the shore on one knee. A fourth glowing blue mark burns across his face like war paint, under his eyes. Lily runs to him. Final frame: Frost's face with the new glowing mark, eyes shining calm blue.
-DIALOGUE 27–30s: Old Joe (slow raspy voice, emotional): "Four. He's done it... the first since Orin."
+DIALOGUE 27–30s: Old Joe (old wise American man): "Listen close before I Protect chooses you."
 SFX: underwater hum, echoing voice, soft memory sounds, a gentle shimmer as the reflection dissolves, a massive water explosion, a heavy landing, a magical burning hum.
 MUSIC: dark tension melting into a beautiful, triumphant emotional choir.
 

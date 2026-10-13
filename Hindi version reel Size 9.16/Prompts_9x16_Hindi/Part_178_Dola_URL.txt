@@ -10,6 +10,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: K09_Wolves.png, V04_Lily_VillageMom.png, V07_Frost_Teen.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -31,13 +32,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Late afternoon, a huge wildfire racing through the pine forest toward Cedar Hollow, orange sky, smoke.
 0–3s: A wall of fire bursts over the hill; burning trees fall. The village bell rings.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 177's final image: The truck flies into a giant haystack and stops. Silence. Hay everywhere. Hank slowly climbs out, covered in hay, and lies down on the grass. Frost lifts the whole truck out of the haystack with both hands. Final frame: Frost holding the truck above his head. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Villager man (shouting): "The fire's coming! It's too fast!"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Wildfire moves the story forward."
 3–12s: Deer, elk and rabbits run in panic toward the village. Teen Frost runs toward the fire, not away.
-DIALOGUE 6–11s: Teen Frost (determined teenage voice): "I can't stop the fire... but I can stop it from reaching home."
+DIALOGUE 6–11s: Lily (young emotional American woman): "This is Wildfire, and my heart knows the danger is real."
 12–22s: Frost's eyes glow blue. He calls out with a deep animal rumble; elk, bears and wolves stop, turn, and help him: elk drag fallen logs, bears dig. Frost rips trees out of the ground and digs a wide trench with his bare hands — a firebreak.
-DIALOGUE 16–19s: Teen Frost (shouting to the animals): "Faster! Everyone together!"
+DIALOGUE 16–19s: Frost (deep young heroic voice): "I will not let Wildfire break the people I love."
 22–30s: The fire reaches the trench and stops, unable to cross. Rain begins to fall. Frost collapses to his knees, covered in ash, exhausted. The animals surround him. Final frame: the village safe behind him, the burnt forest in front.
-DIALOGUE 26–29s: Lily (running up, crying with relief): "You saved everyone, Frost!"
+DIALOGUE 26–29s: Frost (deep young heroic voice): "Father, guide me through Wildfire."
 SFX: roaring fire, falling trees, alarm bell, stampeding animals, magical hum, deep animal rumble, digging, trees ripping out, rain.
 MUSIC: intense epic action score with a heroic choir, resolving with gentle rain.
 

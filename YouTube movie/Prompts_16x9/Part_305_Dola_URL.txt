@@ -11,6 +11,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: K08_GrizzlyBear.png, V04_Lily_VillageMom.png, V08_Frost_Powered.png, V11_KingMagnus_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -34,15 +35,15 @@ CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal 
 The castle courtyard at dusk, the giant dark crack in the ground glowing faintly red from deep below.
 0–3s: Frost turns his back on the king and walks toward Lily. Behind him, King Magnus pulls a hidden dagger from his boot.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 304's final image: Frost stares at him for a long time. His fists glow. Then the glow fades. He lowers his hands. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: King Magnus (hissing): "If I lose everything... so do you!"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now The King's End moves the story forward."
 3–12s: The king charges at Lily with the dagger. Old Scar the giant grizzly jumps between them and knocks the king backward with one paw. The king stumbles toward the edge of the dark crack.
-DIALOGUE 6–9s: Lily (screaming): "Frost!"
+DIALOGUE 6–9s: Lily (young emotional American woman): "This is The King's End, and my heart knows the danger is real."
 12–22s: The ground at the edge breaks. The king slips and falls, grabbing the crumbling edge with one hand above the deep, dark abyss. Frost runs and reaches down his huge hand.
-DIALOGUE 15–19s: Frost (deep, urgent): "Take my hand! Magnus, TAKE IT!"
+DIALOGUE 15–19s: Frost (deep young heroic voice): "I will not let The King's End break the people I love."
 22–30s: The king looks at Frost's hand... the hand of the son of the giant he killed. His face fills with pride and hate.
-DIALOGUE 24–27s: King Magnus (cold, final): "Never... from a beast."
+DIALOGUE 24–27s: King Magnus (deep rough commanding king): "Let the kingdom remember The King's End."
 He lets go and falls into the darkness, disappearing into the same pit where he chained the dragon for a hundred years. No gore, just darkness. The crack slowly closes with a deep rumble. Final frame: Frost's empty hand still reaching down, Lily's hand on his shoulder.
-DIALOGUE 27–30s: Lily (soft): "You tried, my love. That's what matters."
+DIALOGUE 27–30s: King Magnus (deep rough commanding king): "The King's End belongs under my crown."
 SFX: a dagger drawn, charging footsteps, a bear roar and swipe, stumbling, ground breaking, a desperate grip, wind from the abyss, a fading scream, a deep earth rumble as the crack closes.
 MUSIC: a sudden action hit, tense strings, then a solemn, quiet ending.
 

@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L08_Battlefield.png, S02_MarthaHayes_FULL.png, S03_HankMiller_FULL.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -26,15 +27,15 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 The battlefield in front of Thorne Castle, soldiers in black helmets fighting villagers.
 0–3s: A line of the king's soldiers marches forward with shields. In front of them stands a line of grandmothers with frying pans.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 276's final image: Old Scar stands up on his hind legs and roars at a mammoth twice his size; the mammoth backs away. Damian, struggling to control his mammoth, looks at the battle in shock. Final frame: dust and chaos, bison everywhere. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Soldier (laughing): "Grandmas? They sent GRANDMAS?"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Grandma's Revenge moves the story forward."
 3–12s: Martha smiles sweetly.
-DIALOGUE 4–6s: Martha (warm Southern voice): "Frying Pan Brigade... SWING!"
+DIALOGUE 4–6s: Martha (warm Southern voice): "Grandma's Revenge needs steady hands, honey."
 The grandmothers swing their cast-iron pans: BONK! BONK! BONK! Soldiers spin around cross-eyed and fall over like dominoes, comedy style, no injuries shown.
 12–22s: Hank and the Pine Ridge sheriff fight back-to-back with rifles (firing into the air to scare horses) and lassos, roping soldiers like cattle.
-DIALOGUE 15–18s: Sheriff (Southern voice): "Hank, how many you got?"
-DIALOGUE 18–20s: Hank (deep rural voice): "Lost count at twelve!"
+DIALOGUE 15–18s: Hank (rough kind villager voice): "We fix what Grandma's Revenge broke before dark."
+DIALOGUE 18–20s: Hank (rough kind villager voice): "Hold steady until Grandma's Revenge passes."
 22–30s: A huge soldier with a giant axe stands over Martha. She looks up, then calmly hits his toe with the pan. He hops around screaming, holding his foot, and falls into a mud puddle. Final frame: Martha blowing on her frying pan like a cowboy.
-DIALOGUE 27–30s: Martha (proud): "Never underestimate a Southern grandma, honey."
+DIALOGUE 27–30s: Hank (rough kind villager voice): "Grandma's Revenge needs work, not talk."
 SFX: marching, laughter, multiple comedic metal BONKs, bodies flopping, lasso whoosh, rifle shots in the air, a toe bonk, screaming, a mud splash.
 MUSIC: fun Western action theme with comedic stings on each bonk.
 

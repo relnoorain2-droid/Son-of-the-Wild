@@ -13,6 +13,7 @@ Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: V02_Lily_Forest.png, C04_Bruno_FULL.png, L03_DeepForest.png, L04_BrunoCave.png, K08_GrizzlyBear.png, K09_Wolves.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -32,13 +33,13 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 Scene: Lily sings a small song Grace taught her while Bruno listens quietly.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 062's final image: Build into the hook: Bruno promises, 'Bruno stay.' Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: NARRATOR (warm cinematic voice): "The monster she feared became the only soul who protected her."
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now The Song From Home moves the story forward."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Bruno (very deep gentle giant voice): "Lily safe. Bruno not hurt Lily."
+DIALOGUE 5-8s: Bruno (very deep gentle Bigfoot voice):  now."The Song From Home means Bruno must stay gentle and close."
 10-18s: Lily sings a small song Grace taught her while Bruno listens quietly.
-DIALOGUE 11-15s: Lily (soft, slowly trusting): "You keep saving me... even when I am afraid of you."
+DIALOGUE 11-15s: Lily (young emotional American woman): "I have to survive The Song From Home without losing myself."
 18-24s: Bruno hums along in his deep voice.
-DIALOGUE 19-23s: Bruno (deep warm voice): "Bruno stay. Lily not alone."
+DIALOGUE 19-23s: Lily (young emotional American woman): "After The Song From Home, I cannot ignore the truth anymore."
 24-30s: Build into the hook: Lily cries because it feels like family.
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.

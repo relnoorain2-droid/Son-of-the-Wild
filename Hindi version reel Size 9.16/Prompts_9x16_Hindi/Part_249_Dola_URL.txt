@@ -9,6 +9,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -30,13 +31,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Underwater vision world: dark blue water, floating light particles, silence. Frost floats in the dark; his red-eyed reflection floats in front of him.
 0–3s: The dark reflection smiles coldly.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 248's final image: A giant red-eyed hand made of water bursts out of the lake, grabs Frost by the arm, and drags him under the surface. The lake goes completely still. Lily screams and runs to the edge; Old Joe holds her back. Final frame: the perfectly still lake reflecting the moon, no sign of Frost. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Dark Reflection (Frost's voice, cold and echoing): "Let me show you your future."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now The King Inside moves the story forward."
 3–14s: A vision appears around them: Frost, with RED glowing eyes, standing on a burning castle, wearing King Magnus's iron crown. Soldiers kneel in fear.
-DIALOGUE 7–14s: Dark Reflection: "You destroy the king... then you become the king. Stronger. Crueler. No one ever hurts you again."
+DIALOGUE 7–14s: Lily (young emotional American woman): "This is The King Inside, and my heart knows the danger is real."
 14–24s: The vision changes: Cedar Hollow. The villagers run from the red-eyed Frost in terror. Little children hide. Martha pulls the kids behind her. And Lily — his mother — looks at him with fear in her eyes.
-DIALOGUE 18–22s: Vision Lily (scared whisper): "Frost? Who... who are you?"
+DIALOGUE 18–22s: Frost (deep young heroic voice): "I will not let The King Inside break the people I love."
 24–30s: The real Frost floats in the dark, shaking his head, tears floating away from his eyes in the water.
-DIALOGUE 26–29s: Frost (deep, broken whisper): "No... that's not who I want to be."
+DIALOGUE 26–29s: Frost (deep young heroic voice): "Father, guide me through The King Inside."
 Final frame: the red-eyed reflection and the real Frost face to face in the dark water.
 SFX: underwater muffled hum, bubbles, distant fire, echoing screams, a child crying, a heartbeat.
 MUSIC: dark, eerie choir, turning sad and emotional.

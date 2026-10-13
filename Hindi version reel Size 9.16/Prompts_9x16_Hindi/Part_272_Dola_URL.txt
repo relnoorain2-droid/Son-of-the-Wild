@@ -11,6 +11,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L02_KingCastle.png, V08_Frost_Powered.png, V10_Damian_Battle.png, V11_KingMagnus_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -31,13 +32,13 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 Dawn, the open valley in front of Thorne Castle: the dark stone castle with red banners, dragons sleeping on its towers, war mammoths at the gate.
 0–3s: The army appears over the hill: thousands of people and animals in the morning fog, Frost glowing at the front.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 271's final image: Some of the kingdom's villagers step out and join the march with farm tools. The army grows bigger. Final frame: a long line of lanterns stretching behind the army into the dark. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Soldier on the castle wall (panicked): "Wake the king! WAKE THE KING!"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now MAGNUS! moves the story forward."
 3–12s: Alarm bells ring. On the highest balcony, King Magnus steps out, old but powerful, in black iron armor, holding his staff with the glowing red crystal. Prince Damian stands beside him, with the frying pan bruise still on his forehead.
-DIALOGUE 7–11s: King Magnus (deep, cold, booming): "So... the beast's son comes to die where his father did."
+DIALOGUE 7–11s: King Magnus (deep rough commanding king): "MAGNUS! belongs under my crown."
 12–22s: Frost flies up and lands on a rock in front of the whole army, face to face with the castle.
-DIALOGUE 15–22s: Frost (deep, thunderous, echoing through the valley): "MAGNUS! I am Frost, son of Bruno, grandson of Orin! I've come for my grandfather's crystal... and for you!"
+DIALOGUE 15–22s: Frost (deep young heroic voice): "I will not let MAGNUS! break the people I love."
 22–30s: King Magnus smiles and raises his staff; the red crystal flashes. On every tower, dragons open their glowing red eyes and roar. The mammoths stamp. The gates begin to open. Final frame: the gate opening, red eyes everywhere, Frost's blue eyes facing them.
-DIALOGUE 27–29s: King Magnus (shouting): "Then come and take it!"
+DIALOGUE 27–29s: Prince Damian (smooth cold prince voice): "By tomorrow, MAGNUS! will feel like destiny."
 SFX: fog, thousands of footsteps, alarm bells, armor, a landing boom, echoing voices, a crystal flash, dozens of dragon roars, mammoth stamping, gate chains grinding.
 MUSIC: massive epic standoff theme, building to an explosive cliffhanger hit.
 

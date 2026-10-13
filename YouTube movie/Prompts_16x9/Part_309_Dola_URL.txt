@@ -11,6 +11,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L01_LilyHouse.png, V04_Lily_VillageMom.png, V08_Frost_Powered.png, V14_Grace_Older.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -33,14 +34,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Evening, the front yard of Grace's small house in Millbrook.
 0–3s: Lily holds Grace's hand and leads her outside.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 308's final image: Mother and daughter hug in the doorway, both crying, holding each other tightly. Final frame: through the kitchen window behind them, two plates on the table and the little blue flower in its glass. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–5s: Lily (nervous, smiling): "Mama... there's someone you need to meet. Please don't scream."
+DIALOGUE 1–5s: NARRATOR (cinematic story voice): "Now Meet Your Grandson moves the story forward."
 3–12s: Frost steps out from behind the big oak tree, 11 feet tall, glowing slightly, trying to look small and friendly. He waves shyly. Grace looks up... and up... and up.
-DIALOGUE 7–10s: Frost (deep, gentle, nervous): "Hi, Grandma. I'm Frost."
+DIALOGUE 7–10s: Lily (young emotional American woman): "This is Meet Your Grandson, and my heart knows the danger is real."
 12–22s: Grace's eyes roll back and she faints. Frost catches her very gently in one hand, like a feather, and fans her face with a leaf. She wakes up, looks at him again.
-DIALOGUE 15–17s: Grace (weakly): "Lily... is he... eating enough?"
-DIALOGUE 17–20s: Lily (laughing, crying): "Mama, he eats a whole turkey for breakfast!"
+DIALOGUE 15–17s: Frost (deep young heroic voice): "I will not let Meet Your Grandson break the people I love."
+DIALOGUE 17–20s: Frost (deep young heroic voice): "Father, guide me through Meet Your Grandson."
 22–30s: Grace looks into Frost's eyes. She sees they are the same blue as Lily's. Her face softens; she reaches up and touches his furry cheek.
-DIALOGUE 24–28s: Grace (soft, tearful): "You have your mother's eyes. Come here, sweetheart."
+DIALOGUE 24–28s: Frost (deep young heroic voice): "Meet Your Grandson is where I stand for my family."
 Final frame: Frost kneeling down so tiny Grace can hug his huge head, Lily hugging them both.
 SFX: footsteps, a shy wave, a soft fainting fall caught, a leaf fanning, laughter, crying, crickets.
 MUSIC: comedic light music, turning into a warm, emotional family theme.

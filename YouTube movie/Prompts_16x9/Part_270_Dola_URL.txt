@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: K09_Wolves.png, S02_MarthaHayes_FULL.png, V04_Lily_VillageMom.png, V08_Frost_Powered.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -33,15 +34,15 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Dawn, a huge meadow. The whole army gathered: villagers from Cedar Hollow, Pine Ridge and Millbrook with rifles, pitchforks and frying pans; riders on elk and bison; bears, wolves, mountain lions; eagles on every tree. Frost stands on a big rock in front of them, glowing.
 0–3s: Frost raises his hand; everyone goes silent.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 269's final image: Frost looks at her for a long moment, then smiles and kneels so they're eye to eye. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Frost (deep, powerful voice, echoing): "Look around you!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now For Everyone He Hurt moves the story forward."
 3–20s: Slow camera moves across the faces of the army as he speaks.
-DIALOGUE 4–10s: Frost: "Farmers. Grandmothers. Wolves. Bears. Nobody thought we'd stand together. The king never thought so either."
-DIALOGUE 10–18s: Frost: "We don't march for revenge. We march for every bride he threw to the forest. For every town he burned."
-DIALOGUE 18–23s: Frost (emotional): "For my father, Bruno... who fought an army alone so I could live."
+DIALOGUE 4–10s: Lily (young emotional American woman): "This is For Everyone He Hurt, and my heart knows the danger is real."
+DIALOGUE 10–18s: Frost (deep young heroic voice): "I will not let For Everyone He Hurt break the people I love."
+DIALOGUE 18–23s: Martha (warm Southern voice): "Breathe first; For Everyone He Hurt can wait one second."
 20–30s: Frost raises his fist; lightning shoots into the sky.
-DIALOGUE 23–27s: Frost (roaring): "TODAY, NOBODY FIGHTS ALONE!"
+DIALOGUE 23–27s: Martha (warm Southern voice): "For Everyone He Hurt needs steady hands, honey."
 The entire army roars back; wolves howl, bears roar, eagles scream, people cheer. Final frame: wide shot of the huge army cheering under the sunrise.
-DIALOGUE 27–29s: Martha (shouting, raising her frying pan): "Let's GO, sugar!"
+DIALOGUE 27–29s: Lily (young emotional American woman): "I have to survive For Everyone He Hurt without losing myself."
 SFX: wind, total silence, echoing speech, a lightning crack, a massive roar of people and animals, howls, eagle screams.
 MUSIC: a big, emotional, epic war-speech theme with full orchestra and choir.
 

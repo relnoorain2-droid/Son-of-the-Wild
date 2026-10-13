@@ -10,6 +10,7 @@ Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C04_Bruno_FULL.png, L03_DeepForest.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -29,16 +30,16 @@ LILY LOOK LOCK: Lily always looks 22-24 years old, young, innocent, sweet and be
 Scene: Bright forest clearing near a huge old cedar tree, flowers, buzzing bees, sunlight through pine branches.
 0-4s: Lily tries to braid small flowers into Bruno's fur. Bruno stands perfectly still, looking proud and ridiculous.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 068's final image: Lily smiling with tears in her eyes, firelight on both faces. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: Lily (laughing): "Hold still. You look almost royal."
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now The Honey Apology moves the story forward."
 4-10s: Bruno notices a beehive and quietly reaches for honey to impress her. Lily turns and gasps.
-DIALOGUE 5-8s: Lily: "Bruno... please tell me you are not touching that hive."
-DIALOGUE 8-10s: Bruno (confident): "Bruno ask nicely."
+DIALOGUE 5-8s: Lily (young emotional American woman): "This is The Honey Apology, and my heart knows the danger is real."
+DIALOGUE 8-10s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through The Honey Apology."
 10-18s: Bees swarm around Bruno's face. He runs in circles, trying not to step on flowers. Lily laughs so hard she has to sit down.
-DIALOGUE 12-16s: Bruno (panicked whisper): "Tiny flying guards very angry!"
+DIALOGUE 12-16s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in The Honey Apology, but Bruno stays calm."
 18-25s: Bruno trips into a bush. Honey drips down his nose. Lily wipes it gently with a leaf.
-DIALOGUE 19-23s: Lily (soft, teasing): "Next time, let the bees keep their castle."
+DIALOGUE 19-23s: Bruno (very deep gentle Bigfoot voice): "The Honey Apology means Bruno must stay gentle and close."
 25-30s: Bruno gives Lily a tiny honeycomb piece he saved safely. She smiles and forgives him. Final frame: Bruno with flowers in his fur and honey on his nose.
-DIALOGUE 25-29s: Bruno (shy): "For Lily. Sweet, like laugh."
+DIALOGUE 25-29s: Lily (young emotional American woman): "I have to survive The Honey Apology without losing myself."
 SFX: bees buzzing, heavy Bigfoot footsteps, flowers rustling, Lily laughter, soft honey drip.
 MUSIC: playful woodland comedy music turning warm at the end.
 SUSPENSE HOOK LOCK:

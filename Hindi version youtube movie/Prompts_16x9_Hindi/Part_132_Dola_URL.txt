@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S02_MarthaHayes_FULL.png, V04_Lily_VillageMom.png, V05_Frost_Baby.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -35,14 +36,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Inside the cabin, soft morning light, soup spilled on the floor.
 0–3s: Lily kneels in front of Martha, holding baby Frost tightly, tears in her eyes.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 131's final image: Frost pops his head out of the clothes, a shirt on his head, and makes a tiny happy grunt. Martha drops the soup pot. She stares for a long moment. Final frame: Martha's glasses sliding down her nose. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Lily (soft, begging): "Please, Martha. Please don't tell anyone."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now A Baby Is a Baby moves the story forward."
 3–14s: Martha slowly sits down on a chair, staring at the baby.
-DIALOGUE 5–8s: Martha (shaky Southern voice): "Honey... who was his father?"
-DIALOGUE 8–14s: Lily (emotional): "The kindest, bravest soul I ever met. He gave his life so we could live."
+DIALOGUE 5–8s: Lily (young emotional American woman): "This is A Baby Is a Baby, and my heart knows the danger is real."
+DIALOGUE 8–14s: Frost (deep young heroic voice): "I will not let A Baby Is a Baby break the people I love."
 14–22s: Baby Frost reaches out his tiny furry hand toward Martha's glasses. Martha hesitates, then lets him hold her finger. He smiles. Her face softens completely.
-DIALOGUE 17–21s: Martha (whispering, melting): "Oh my... look at those blue eyes. He has your eyes."
+DIALOGUE 17–21s: Martha (warm Southern voice): "Breathe first; A Baby Is a Baby can wait one second."
 22–30s: Martha takes the baby in her arms and rocks him gently.
-DIALOGUE 23–30s: Martha (warm, firm): "A baby's a baby, Lily. And this one's got a grandma now. Your secret's safe with me."
+DIALOGUE 23–30s: Martha (warm Southern voice): "A Baby Is a Baby needs steady hands, honey."
 Final frame: Lily hugging Martha, Frost between them grabbing Martha's glasses.
 SFX: soft crying, chair creak, baby coos, gentle rocking.
 MUSIC: warm emotional piano and strings.

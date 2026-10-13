@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, L05_River.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -28,14 +29,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Sunny morning at a wide, far-away mountain river, pine forest, snowy peaks.
 0–3s: Frost stands knee-deep in the river; a gigantic salmon leaps and he catches it in mid-air with one hand.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 195's final image: Build into the hook: The royal horn answers from the hill. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Frost (deep powerful young male voice, laughing): "Got you! Mom, look at this monster!"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now The Biggest Fish moves the story forward."
 3–12s: The huge fish slaps Frost in the face with its tail and he falls backwards into the river with a giant splash. Lily laughs so hard she falls off her rock.
-DIALOGUE 6–11s: Lily (laughing): "Your father had the same fight with a fish! The fish won too!"
-DIALOGUE 11–13s: Frost (spitting water, grinning): "Rude fish!"
+DIALOGUE 6–11s: Lily (young emotional American woman): "This is The Biggest Fish, and my heart knows the danger is real."
+DIALOGUE 11–13s: Frost (deep young heroic voice): "I will not let The Biggest Fish break the people I love."
 12–22s: They sit together on the riverbank eating sandwiches. Lily leans on his huge arm, peaceful.
-DIALOGUE 14–18s: Lily (soft): "Sometimes I wish this day would never end."
+DIALOGUE 14–18s: Frost (deep young heroic voice): "Father, guide me through The Biggest Fish."
 22–30s: Frost suddenly stops chewing. He sniffs the air. His smile disappears. Over the mountains, far away, thick black smoke rises into the sky in the direction of Cedar Hollow. Final frame: Lily slowly standing up, the sandwich falling from her hand.
-DIALOGUE 26–29s: Frost (deep, worried whisper): "Mom... that smoke is coming from home."
+DIALOGUE 26–29s: Frost (deep young heroic voice): "The Biggest Fish is where I stand for my family."
 SFX: river flowing, a giant fish splash, slap, laughter, birds, then wind and distant faint explosions.
 MUSIC: happy acoustic guitar that slowly turns into a low ominous drone.
 

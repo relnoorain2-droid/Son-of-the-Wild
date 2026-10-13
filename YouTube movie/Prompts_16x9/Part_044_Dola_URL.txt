@@ -12,6 +12,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C01_Lily_FULL.png, C04_Bruno_FACE.png, C04_Bruno_FULL.png, L03_DeepForest.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -33,15 +34,15 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night forest clearing, moonlight, fireflies.
 0–3s: Bruno tilts his head like a curious dog, sniffs Lily's hair, and sneezes loudly. Lily screams and covers her face.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 043's final image: Silence. Bruno slowly turns toward Lily. She crawls backward, shaking. He kneels down to her eye level, calm. Final frame: close-up of his gentle amber eyes, and Lily's terrified face reflected in them. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (soft young American woman, scared): "Ahh! Don't!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now He Can Talk?! moves the story forward."
 3–12s: Bruno gently picks a leaf out of her hair and holds it out to her like a gift. Lily slowly lowers her hands, confused.
-DIALOGUE 5–9s: Bruno (very deep slow warm gravelly voice, simple words): "Don't be afraid. Bruno... not hurt you."
+DIALOGUE 5–9s: Lily (young emotional American woman): "This is He Can Talk?!, and my heart knows the danger is real."
 12–20s: Lily's jaw drops. She points at him, then at herself.
-DIALOGUE 12–15s: Lily (shocked, half laughing): "You... you can TALK?"
-DIALOGUE 15–18s: Bruno (proud, nodding): "Bruno talk. Bruno also... sing. Badly."
-DIALOGUE 18–20s: Lily laughs through her tears.
+DIALOGUE 12–15s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through He Can Talk?!."
+DIALOGUE 15–18s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in He Can Talk?!, but Bruno stays calm."
+DIALOGUE 18–20s: Bruno (very deep gentle Bigfoot voice): "He Can Talk?! means Bruno must stay gentle and close."
 20–30s: She tries to stand but cries out in pain, her foot cut and bleeding a little. Bruno immediately scoops her up in his arms like a feather. In the distance, wolves howl again — many of them, closer. Bruno turns his head toward the sound, serious. Final frame: dozens of glowing eyes appearing between the trees.
-DIALOGUE 26–29s: Bruno (low, serious): "They come back. Hold on."
+DIALOGUE 26–29s: Lily (young emotional American woman): "I have to survive He Can Talk?! without losing myself."
 SFX: sniffing, loud comical sneeze, scream, leaf rustle, Lily's laugh, pain gasp, wolves howling closer, branches cracking.
 MUSIC: light playful woodwinds for the comedy, turning into tense drums at the end.
 

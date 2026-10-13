@@ -11,6 +11,7 @@ Status: ready - CANON SAFE DOLA VERSION
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C02_KingMagnus_FULL.png, C03_PrinceDamian_FULL.png, K01_DarkBigfoot.png, S07_CaptainVex_FULL.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -34,14 +35,14 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 Morning, the dark castle throne hall and the forest gate outside the castle.
 0-3s: Prince Damian storms in with a bandage wrapped around his head, furious, kicking over a chair.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 055's final image: Build into the hook: A torch flickers across the river. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: Prince Damian (smooth voice now furious): "She hit me with a tray, Father!"
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now The Hunt Begins moves the story forward."
 3-12s: King Magnus on his throne almost smiles, then his face turns cold.
-DIALOGUE 4-6s: King Magnus (deep cold voice): "Then she is braver than you."
-DIALOGUE 6-12s: King Magnus: "No one embarrasses Thorne Castle. Captain Vex, bring her back before sunrise."
+DIALOGUE 4-6s: Prince Damian (smooth cold prince voice): "The Hunt Begins will look like kindness if you obey."
+DIALOGUE 6-12s: King Magnus (deep rough commanding king): "No one defies me after The Hunt Begins."
 12-22s: At the forest gate, Captain Vex and soldiers with torches find Lily's torn white veil caught on a bush, and next to it a giant bare footprint, much bigger than a man's. Vex kneels and measures it with his whole arm.
-DIALOGUE 16-19s: Captain Vex (harsh, surprised): "This is not a bear... something carried her."
+DIALOGUE 16-19s: Captain Vex (harsh soldier voice): "The king wants The Hunt Begins before dawn."
 22-30s: From the fog, an armored dark Bigfoot tracker steps forward with glowing red eyes. It sniffs the veil, growls, and points toward the waterfall.
-DIALOGUE 25-29s: Captain Vex (cold smile): "Find the trail. The king wants answers."
+DIALOGUE 25-29s: Dark Bigfoot (deep savage Bigfoot voice): "The Hunt Begins ends under the dark pack."
 Final frame: the dark Bigfoot's red eyes glowing in the fog.
 SFX: chair crash, echoing footsteps, armor, torch fire, deep sniffing, growl, whistle, forest wind.
 MUSIC: dark villain theme with low brass and war drums.

@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S02_MarthaHayes_FULL.png, S05_TommyMiller_FULL.png, S06_SarahMiller_FULL.png, V03_Lily_Pregnant.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -33,16 +34,16 @@ CAST NOTE: Hank = a sturdy farmer, grey-brown beard, worn cowboy hat, plaid shir
 A warm montage around the cabin and the village, seasons changing from fall to first snow.
 0–3s: Lily (now around 8 months pregnant) fixes the cabin roof with a hammer, Hank holding the ladder nervously.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 121's final image: Lily stands up quickly, scared her secret is out. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Hank (deep friendly rural voice, worried): "Ma'am, please let me do that!"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Months Go By moves the story forward."
 3–12s: Montage: Lily painting the cabin, planting flowers; Martha knitting tiny baby socks (very big ones, by mistake); Lily laughing at the giant socks.
-DIALOGUE 6–10s: Martha (warm Southern voice): "I don't know why, but I made them extra big."
-DIALOGUE 10–12s: Lily (nervous laugh): "They might... fit perfectly."
+DIALOGUE 6–10s: Lily (young emotional American woman): "This is Months Go By, and my heart knows the danger is real."
+DIALOGUE 10–12s: Martha (warm Southern voice): "Nobody panics during Months Go By while I am here."
 12–22s: Tommy and Sarah (7, blonde pigtails, teddy bear) bring her a wooden toy horse they made.
-DIALOGUE 14–17s: Sarah (small cute girl voice): "It's for the baby! I painted it myself!"
-DIALOGUE 17–21s: Tommy (excited): "And I didn't help at all. That's why it's ugly."
+DIALOGUE 14–17s: Tommy (young excited man): "Tell me someone else saw Months Go By."
+DIALOGUE 17–21s: Sarah (young village woman): "Months Go By does not feel ordinary."
 22–30s: First snow falls. Lily stands at her cabin door, hand on her big belly, watching the snow with a soft smile.
-DIALOGUE 23–28s: Martha (off-screen, calling): "When that baby comes, you send for me right away, you hear?"
-DIALOGUE 28–30s: Lily (whispering to the snow): "Like the first snow... Frost."
+DIALOGUE 23–28s: Lily (young emotional American woman): "I have to survive Months Go By without losing myself."
+DIALOGUE 28–30s: Martha (warm Southern voice): "Breathe first; Months Go By can wait one second."
 SFX: hammer, ladder creak, paintbrush, knitting needles, kids laughing, gentle snowfall wind.
 MUSIC: warm, happy Americana with soft piano, turning magical as the snow falls.
 

@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S03_HankMiller_FULL.png, S05_TommyMiller_FULL.png, V04_Lily_VillageMom.png, V06_Frost_Kid.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -36,15 +37,15 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Bright summer day at a lake near Cedar Hollow, families having a picnic, pine trees, mountains.
 0–3s: Kid Frost runs down a wooden dock at full speed and jumps high into the air.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 148's final image: Build into the hook: The farmer removes his hat in respect. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Kid Frost (cheerful young boy voice, slightly deep): "CANNONBAAALL!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Cannonball! moves the story forward."
 3–10s: He hits the lake; a giant wave flies up and completely soaks the entire village picnic: sandwiches, pies, and Hank in his cowboy hat.
-DIALOGUE 5–10s: NARRATOR (deep cinematic Hindi trailer voice): "Two summers later... Frost had grown faster than any child in America."
+DIALOGUE 5–10s: Lily (young emotional American woman): "This is Cannonball!, and my heart knows the danger is real."
 10–20s: Everyone stands frozen and dripping. Hank slowly lifts his soaked hat; a small fish flops out of it.
-DIALOGUE 13–16s: Hank (deep rural voice, deadpan): "...Lily."
-DIALOGUE 16–20s: Lily (trying not to laugh): "Frost Carter, get out of that lake right now!"
+DIALOGUE 13–16s: Frost (deep young heroic voice): "I will not let Cannonball! break the people I love."
+DIALOGUE 16–20s: Hank (rough kind villager voice): "Hold steady until Cannonball! passes."
 20–30s: Frost pops up from the water with a huge innocent smile, Tommy and Sarah cheering on his shoulders. Everyone bursts out laughing, even Hank. Final frame: the whole picnic laughing, soaked.
-DIALOGUE 23–26s: Tommy (excited young boy): "Do it again, Frost! Do it again!"
-DIALOGUE 26–30s: Kid Frost (grinning): "Mom said no... but she didn't say no TWICE!"
+DIALOGUE 23–26s: Tommy (young excited man): "I saw Cannonball! with my own eyes."
+DIALOGUE 26–30s: Lily (young emotional American woman): "I have to survive Cannonball! without losing myself."
 SFX: running on a wooden dock, a giant splash, wave crash, dripping water, fish flop, laughter.
 MUSIC: bright, bouncy American summer country-pop with banjo and drums.
 

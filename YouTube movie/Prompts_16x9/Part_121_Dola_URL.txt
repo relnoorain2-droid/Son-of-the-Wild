@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L07_Village.png, S04_OldJoeWhitaker_FULL.png, V03_Lily_Pregnant.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -31,16 +32,16 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Evening, the porch of the general store in Cedar Hollow, an old rocking chair, a lantern.
 0–3s: Old Joe Whitaker (80, long white beard, wool coat, walking stick) grabs Lily's wrist as she walks past. She jumps.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 120's final image: warm kitchen family moment. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Old Joe (slow raspy wise old man): "Sit with me a minute, young lady."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Old Joe Knows moves the story forward."
 3–14s: She sits, nervous. Old Joe looks deep into her eyes.
-DIALOGUE 5–10s: Old Joe: "You came out of the deep forest. Nobody comes out of the deep forest."
-DIALOGUE 10–13s: Lily (nervous laugh): "I just... followed the river."
+DIALOGUE 5–10s: Old Joe (old wise American man): "I have heard old stories about Old Joe Knows."
+DIALOGUE 10–13s: Lily (young emotional American woman): "I have to survive Old Joe Knows without losing myself."
 14–22s: Old Joe pulls a small old carved wooden figure from his pocket: a Bigfoot holding a staff. Lily's eyes widen.
-DIALOGUE 15–22s: Old Joe (whispering): "When I was a boy, I saw the giants of the forest. Gentle ones. Did you see them too?"
+DIALOGUE 15–22s: Lily (young emotional American woman): "After Old Joe Knows, I cannot ignore the truth anymore."
 22–30s: Lily stands up quickly, scared her secret is out.
-DIALOGUE 23–27s: Lily (soft, nervous): "I... I don't know what you mean. Goodnight, Joe."
+DIALOGUE 23–27s: Lily (young emotional American woman): "This is Old Joe Knows, and my heart knows the danger is real."
 Old Joe smiles knowingly as she leaves.
-DIALOGUE 27–30s: Old Joe (to himself, quietly): "The old blood of Orin is back."
+DIALOGUE 27–30s: Old Joe (old wise American man): "Old Joe Knows means the forest is answering."
 Final frame: close-up of the carved Bigfoot figure in his old hands.
 SFX: rocking chair creak, crickets, lantern hum, footsteps on wooden porch.
 MUSIC: mysterious soft woodwinds and a low magical tone.

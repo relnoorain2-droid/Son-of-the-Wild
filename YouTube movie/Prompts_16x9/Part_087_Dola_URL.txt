@@ -14,6 +14,7 @@ Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: V03_Lily_Pregnant.png, C04_Bruno_FULL.png, C02_KingMagnus_FULL.png, K02_RedDragon.png, K04_TRex.png, K06_WarMammoth.png, L03_DeepForest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -33,13 +34,13 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 Scene: King Magnus studies smoke rising beyond the forbidden forest and suspects the escaped bride survived.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 086's final image: The waterfall splits — Bruno steps out slowly and stands alone in front of the cave, facing the whole army. He pounds his chest once. Final frame: one black Bigfoot vs. an entire army. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: NARRATOR (urgent cinematic voice): "But King Magnus had not forgotten the bride who escaped."
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now Magnus Finds Smoke moves the story forward."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Lily (protective, frightened): "Bruno, our baby... they found us."
+DIALOGUE 5-8s: King Magnus (deep rough commanding king):  tonight."Magnus Finds Smoke belongs under my crown."
 10-18s: King Magnus studies smoke rising beyond the forbidden forest and suspects the escaped bride survived.
-DIALOGUE 11-15s: Bruno (deep, firm): "Lily run. Child live."
+DIALOGUE 11-15s: Lily (young emotional American woman): "I have to survive Magnus Finds Smoke without losing myself."
 18-24s: He orders Vex to bring the army.
-DIALOGUE 19-23s: King Magnus (booming rage): "Leave no witness in my forest."
+DIALOGUE 19-23s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in Magnus Finds Smoke, but Bruno stays calm."
 24-30s: Build into the hook: A dragon lifts its head behind the castle.
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.

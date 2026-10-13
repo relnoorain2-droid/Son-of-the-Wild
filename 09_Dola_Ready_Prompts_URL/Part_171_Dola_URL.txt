@@ -11,6 +11,7 @@ Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L07_Village.png, S05_TommyMiller_FULL.png, V04_Lily_VillageMom.png, V07_Frost_Teen.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -27,16 +28,16 @@ FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07
 Scene: Cedar Hollow schoolhouse porch, sunny afternoon, wooden doorway, kids watching from a safe distance.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 170's final image: Frost pulls his head out, holds a hammer, hits one nail — and the whole porch collapses. Silence. A shingle falls on his head. Final frame: Frost slowly turning to his mother with an innocent face. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 0-5s: Teen Frost tries to enter the schoolhouse sideways. His shoulders get stuck in the doorway.
-DIALOGUE 1-4s: Tommy (teen voice, laughing): "Frost, the door did not shrink. You grew again."
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now Doorway Problem moves the story forward."
 5-12s: Frost tries to smile, embarrassed. Lily arrives carrying books and gives him a look.
-DIALOGUE 6-9s: Lily (firm mother voice): "Please tell me you did not break another building."
-DIALOGUE 9-12s: Frost (awkward): "Technically... building holding me."
+DIALOGUE 6-9s: Lily (young emotional American woman): "This is Doorway Problem, and my heart knows the danger is real."
+DIALOGUE 9-12s: Frost (deep young heroic voice): "I will not let Doorway Problem break the people I love."
 12-20s: Kids laugh. Frost looks hurt and angry for a moment, then takes a breath.
-DIALOGUE 13-17s: Lily (soft warning): "Gentle heart, remember?"
-DIALOGUE 17-20s: Frost (calming): "Gentle heart."
+DIALOGUE 13-17s: Tommy (young excited man): "Tell me someone else saw Doorway Problem."
+DIALOGUE 17-20s: Tommy (young excited man): "I saw Doorway Problem with my own eyes."
 20-27s: Frost carefully removes the door frame without breaking it, steps inside, then holds it back in place.
 27-30s: Everyone claps. Tommy pins a handmade sign beside the door reading only rough marks, not readable. Final frame: Frost ducking proudly.
-DIALOGUE 27-30s: Tommy: "New rule: Frost uses the barn door."
+DIALOGUE 27-30s: Lily (young emotional American woman): "I have to survive Doorway Problem without losing myself."
 SFX: wood creak, kids laughing, careful lifting, applause.
 MUSIC: playful teen comedy with warm community tone.
 SUSPENSE HOOK LOCK:

@@ -12,6 +12,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, C04_Bruno_FULL.png, C05_Frost_FACE.png, V04_Lily_VillageMom.png, V09_Bruno_Spirit.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -37,16 +38,16 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night, inside the cabin, candlelight. Lily holds the small framed flower.
 0–3s: Lily smiles through tears.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 204's final image: Build into the hook: Lightning flickers in his blue eyes. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 0–4s: Lily (soft): "No. My heart only had one husband. Your father. Bruno."
+DIALOGUE 0–4s: NARRATOR (cinematic story voice): "Now Your Father, Bruno moves the story forward."
 3–24s: Flashback montage in warm golden light, with Lily's voice-over:
   3–9s: Bruno catching the grizzly's claw; Bruno saying "Bruno also sing. Badly."; Bruno shaking water on Lily.
-  DIALOGUE 4–10s: Lily (voice-over): "He saved me from the beasts. He was gentle, and funny, and he sang so badly."
+  DIALOGUE 4–10s: Bruno (very deep gentle Bigfoot voice): "Your Father, Bruno means Bruno must stay gentle and close."
   9–16s: Bruno spinning her in the meadow; Bruno shouting "BRUNO WILL BE PAPA!"
-  DIALOGUE 10–15s: Lily (voice-over): "When he found out about you, his roar shook the whole forest."
+  DIALOGUE 10–15s: Lily (young emotional American woman): "I have to survive Your Father, Bruno without losing myself."
   16–24s: Bruno alone at sunset facing the army; the red lightning; Bruno falling in silhouette (no gore).
-  DIALOGUE 17–26s: Lily (voice-over, breaking): "The king's army came. He pushed me into the river to save us... and he fought them all alone. King Magnus killed him."
+  DIALOGUE 17–26s: Frost (deep young heroic voice): "Father, guide me through Your Father, Bruno."
 24–30s: Back to the present. Frost has tears running down his face.
-DIALOGUE 26–30s: Lily (crying): "His last words were your name, Frost. He named you."
+DIALOGUE 26–30s: Frost (deep young heroic voice): "Your Father, Bruno is where I stand for my family."
 Final frame: Frost looking at the flower in the frame, his hands shaking.
 SFX: soft echo for flashbacks, Bruno's roar, laughter, war horns, red lightning, then silence and crying.
 MUSIC: Bruno's love theme, swelling into tragic choir, then silence.

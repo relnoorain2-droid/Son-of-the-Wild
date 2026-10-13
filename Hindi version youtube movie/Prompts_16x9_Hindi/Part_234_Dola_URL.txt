@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, S04_OldJoeWhitaker_FULL.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -35,17 +36,17 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night inside the cabin. Old Joe unrolls a very old deerskin map on the table, with four strange symbols drawn on it.
 0–3s: Old Joe taps the map with his stick.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 233's final image: Build into the hook: The mountain shakes. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–6s: Old Joe (slow raspy voice): "Orin's power sleeps in your blood. Pass his Four Trials to wake it."
+DIALOGUE 1–6s: NARRATOR (cinematic story voice): "Now The Four Trials moves the story forward."
 3–20s: Close-ups of the map as Old Joe points to each symbol (each glows softly blue when touched):
-DIALOGUE 6–9s: Old Joe: "STRENGTH — move the Bear Rock."
-DIALOGUE 9–13s: Old Joe: "THE WILD — earn the trust of the wildest beast."
-DIALOGUE 13–17s: Old Joe: "THE STORM — touch the lightning on Thunder Peak."
-DIALOGUE 17–21s: Old Joe: "And THE HEART... face what you fear most."
-DIALOGUE 21–24s: Lily (scared): "Joe... how many giants survived these trials?"
+DIALOGUE 6–9s: Lily (young emotional American woman): "This is The Four Trials, and my heart knows the danger is real."
+DIALOGUE 9–13s: Frost (deep young heroic voice): "I will not let The Four Trials break the people I love."
+DIALOGUE 13–17s: Old Joe (old wise American man): "Listen close before The Four Trials chooses you."
+DIALOGUE 17–21s: Old Joe (old wise American man): "I have heard old stories about The Four Trials."
+DIALOGUE 21–24s: Lily (young emotional American woman): "I have to survive The Four Trials without losing myself."
 20–30s: Old Joe is silent for a moment.
-DIALOGUE 24–26s: Old Joe (quietly): "Only one. Orin himself."
+DIALOGUE 24–26s: Frost (deep young heroic voice): "Father, guide me through The Four Trials."
 Lily grabs Frost's arm in fear. Frost stands up slowly, his head almost touching the ceiling, and puts his hand on the map.
-DIALOGUE 26–29s: Frost (deep, calm, determined): "Then I'll be the second."
+DIALOGUE 26–29s: Old Joe (old wise American man): "I have heard old stories about The Four Trials right now."
 Final frame: Frost's hand on the map, all four symbols glowing blue at once.
 SFX: map unrolling, stick tapping, soft magical hums for each symbol, fireplace crackle, a powerful chime at the end.
 MUSIC: mystical, building heroic theme.

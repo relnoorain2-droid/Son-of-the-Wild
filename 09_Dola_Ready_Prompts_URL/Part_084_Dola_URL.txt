@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C02_KingMagnus_FULL.png, C03_PrinceDamian_FULL.png, C04_Bruno_FULL.png, V03_Lily_Pregnant.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -27,13 +28,13 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 0–3s: High above the forest, a bald eagle with a tiny red crystal on its leg band circles over the waterfall.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 083's final image: snow drifting outside the warm cave. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: NARRATOR (deep trailer voice): "But the king's eyes were everywhere."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now The King's Eyes moves the story forward."
 3–10s: From the eagle's point of view: pregnant Lily and Bruno picking apples by the river, laughing. The eagle screeches and flies away toward the dark castle.
 10–20s: Castle throne hall. King Magnus holds his staff; the red crystal glows and shows a floating magical image of Lily and Bruno. Prince Damian stares, shocked and furious.
-DIALOGUE 12–15s: Prince Damian (smooth voice turning furious): "My bride... with a BEAST?"
-DIALOGUE 15–19s: King Magnus (deep, slow, menacing): "No one humiliates the house of Thorne."
+DIALOGUE 12–15s: Lily (young emotional American woman): "This is The King's Eyes, and my heart knows the danger is real."
+DIALOGUE 15–19s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through The King's Eyes."
 20–30s: King Magnus stands up. Through the giant window, the red dragon roars, mammoths raise their tusks, and dozens of dark Bigfoots pull at their chains. The king slams his staff.
-DIALOGUE 23–28s: King Magnus (booming): "Prepare the dragons. Prepare the army. This time... I go myself!"
+DIALOGUE 23–28s: Prince Damian (smooth cold prince voice): "By tomorrow, The King's Eyes will feel like destiny."
 Final frame: the red dragon taking off from the tower, fire lighting the sky.
 SFX: eagle screech, wind, magical crystal hum, staff slam echo, dragon roar, mammoth trumpets, chains rattling, war horns.
 MUSIC: happy melody cut by a dark villain theme, building into massive war drums and choir.

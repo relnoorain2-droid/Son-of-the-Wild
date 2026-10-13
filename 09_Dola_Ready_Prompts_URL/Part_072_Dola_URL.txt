@@ -12,6 +12,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C01_Lily_FULL.png, C04_Bruno_FULL.png, L03_DeepForest.png, L04_BrunoCave.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -29,14 +30,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night, a violent thunderstorm over the redwood forest, lightning flashing.
 0–3s: A huge lightning bolt hits a giant redwood next to the cave; the tree starts falling toward the entrance where Lily stands.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 071's final image: The branch snaps; Lily falls — Bruno leaps onto the log and catches her wrist at the last second, hanging over the waterfall edge. He pulls her up into his arms. Final frame: both soaked and breathing hard on the riverbank, Lily clinging to him. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (screaming): "Bruno!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The Storm moves the story forward."
 3–12s: Bruno jumps in front of her and catches the burning falling tree on his back, roaring with effort, then pushes it aside into the river with a massive splash.
-DIALOGUE 7–9s: Bruno (deep, straining): "Get inside!"
+DIALOGUE 7–9s: Lily (young emotional American woman): "This is The Storm, and my heart knows the danger is real."
 12–22s: Inside the cave, Lily, shaking, wraps a blanket around Bruno and cleans a small burn mark on his shoulder with a wet cloth.
-DIALOGUE 14–17s: Lily (soft, emotional): "You keep risking your life for me. Why?"
-DIALOGUE 17–21s: Bruno (deep warm voice, looking down): "Because Lily is... Bruno's whole world."
+DIALOGUE 14–17s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through The Storm."
+DIALOGUE 17–21s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in The Storm, but Bruno stays calm."
 22–30s: Lightning flashes outside; in the light, they look into each other's eyes. Lily gently places her hand on his huge cheek.
-DIALOGUE 24–27s: Lily (whispering): "And you're mine, Bruno."
+DIALOGUE 24–27s: Bruno (very deep gentle Bigfoot voice): "The Storm means Bruno must stay gentle and close."
 Final frame: her small hand on his face, rain pouring behind them.
 SFX: thunder cracks, lightning, tree splitting and burning, heavy rain, roar, giant splash, fire crackle.
 MUSIC: dramatic stormy orchestra, then a soft romantic piano theme.

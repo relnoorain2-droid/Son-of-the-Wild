@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L07_Village.png, S05_TommyMiller_FULL.png, S06_SarahMiller_FULL.png, V06_Frost_Kid.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -32,15 +33,15 @@ FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient f
 Halloween night in Cedar Hollow, carved pumpkins glowing on porches, orange string lights, kids in costumes.
 0–3s: Kid Frost walks down the street wearing a white bedsheet ghost costume that only covers his head and shoulders; his whole furry body sticks out underneath.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 164's final image: Build into the hook: A black royal banner appears on the far road. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Kid Frost (cheerful young boy voice, proud): "Boooo! I'm a ghost!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Trick or Treat moves the story forward."
 3–12s: Tommy (dressed as a cowboy) and Sarah (dressed as a witch) walk beside him trying not to laugh.
-DIALOGUE 5–9s: Tommy (young boy, laughing): "Frost, you look like a ghost that ate a bear."
-DIALOGUE 9–11s: Sarah (small cute girl voice): "A big, fluffy ghost!"
+DIALOGUE 5–9s: Frost (deep young heroic voice): "Trick or Treat is where I stand for my family."
+DIALOGUE 9–11s: Tommy (young excited man): "Trick or Treat is going to change this town."
 12–22s: They knock on a door. A visiting tourist couple from the city opens it, looks at Frost and gasps.
-DIALOGUE 14–19s: Tourist man (amazed American voice): "Honey, look at this costume! That's the most realistic Bigfoot costume I've ever seen!"
-DIALOGUE 19–21s: Kid Frost (confused): "...Thank you?"
+DIALOGUE 14–19s: Sarah (young village woman): "The town has to understand Trick or Treat."
+DIALOGUE 19–21s: Sarah (young village woman): "Trick or Treat does not feel ordinary."
 22–30s: The tourists give Frost the entire candy bowl. Frost walks away happily hugging the giant bowl while the other kids stare in jealousy. Final frame: Frost winking at the camera from under his tiny ghost sheet.
-DIALOGUE 26–29s: Kid Frost (whispering, grinning): "Best... costume... ever."
+DIALOGUE 26–29s: Frost (deep young heroic voice): "I will not let Trick or Treat break the people I love."
 SFX: spooky wind, door knock, doorbell, gasp, candy rattling, kids laughing, an owl hoot.
 MUSIC: playful spooky Halloween tune with xylophone and pizzicato strings.
 

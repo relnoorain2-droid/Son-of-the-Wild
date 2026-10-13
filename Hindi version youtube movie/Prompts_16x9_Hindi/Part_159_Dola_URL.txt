@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C02_KingMagnus_FULL.png, C03_PrinceDamian_FULL.png, S07_CaptainVex_FULL.png, V06_Frost_Kid.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -34,15 +35,15 @@ FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient f
 
 0–3s: A scruffy fur hunter hiding in the snowy trees at the edge of Cedar Hollow watches Kid Frost playing with the kids, through a brass spyglass.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 158's final image: Frost pulls Tommy out of the water with one arm and slides back to shore as the ice collapses behind them. He wraps the shivering Tommy in his warm white fur. Final frame: Tommy hugging Frost, teeth chattering. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Hunter (rough greedy Hindi male voice, whispering): "A white one... with blue eyes."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now The White Beast moves the story forward."
 3–12s: Night. The hunter kneels in front of Captain Vex at a campfire in the forest.
-DIALOGUE 5–12s: Hunter: "A white beast lives with the villagers. They call it Frost. Its mother is a blonde woman."
-DIALOGUE 12–14s: Captain Vex (harsh voice, slowly smiling): "A blonde woman..."
+DIALOGUE 5–12s: Frost (deep young heroic voice): "The White Beast is where I stand for my family."
+DIALOGUE 12–14s: Prince Damian (smooth cold prince voice): "Smile through The White Beast; the court is watching."
 12–22s: Thorne Castle throne hall. King Magnus, a little older and greyer, listens. Prince Damian, older too, with a scar on his forehead from the silver tray, stands up angrily.
-DIALOGUE 14–17s: Prince Damian (smooth voice, bitter): "The girl who hit me... is ALIVE?"
-DIALOGUE 17–21s: King Magnus (deep menacing voice): "And the beast had a son."
+DIALOGUE 14–17s: King Magnus (deep rough commanding king): "Let the kingdom remember The White Beast."
+DIALOGUE 17–21s: Captain Vex (harsh soldier voice): "By the crown, The White Beast begins now."
 22–30s: King Magnus stands and looks out of the window at his dragons.
-DIALOGUE 24–29s: King Magnus (cold and slow): "Not yet. Let the boy grow. Let them feel safe. Then... we take everything."
+DIALOGUE 24–29s: Frost (deep young heroic voice): "I will not let The White Beast break the people I love."
 Final frame: the red dragon's glowing eye opening in the dark.
 SFX: snow crunching, spyglass click, campfire crackle, echoing throne hall, dragon breathing.
 MUSIC: dark villain theme, low brass and a slow, ominous drumbeat.

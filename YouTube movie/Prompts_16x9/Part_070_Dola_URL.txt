@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C01_Lily_FULL.png, C04_Bruno_FULL.png, L04_BrunoCave.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -32,15 +33,15 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night by the campfire outside the waterfall cave, stars above.
 0–3s: Lily pulls Bruno up by his giant finger; he almost trips over a log.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 069's final image: Bruno with flowers in his fur and honey on his nose. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Lily (laughing): "Come on, I'm teaching you to dance!"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Dancing Lesson moves the story forward."
 3–12s: Lily shows a simple country two-step. Bruno copies her very badly, stomping so hard the ground shakes and a pinecone falls on his head.
-DIALOGUE 5–8s: Bruno (deep, confused): "Left foot... which one is left?"
-DIALOGUE 8–12s: Lily: "Both of your feet are huge, just pick one!"
+DIALOGUE 5–8s: Lily (young emotional American woman): "This is Dancing Lesson, and my heart knows the danger is real."
+DIALOGUE 8–12s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through Dancing Lesson."
 12–22s: Bruno lifts Lily and spins her round and round in the air; she laughs and screams happily. A family of raccoons peeks from the bushes, watching.
-DIALOGUE 15–17s: Lily (laughing): "Too fast, Bruno! Too fast!"
+DIALOGUE 15–17s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in Dancing Lesson, but Bruno stays calm."
 22–30s: Bruno gets dizzy, wobbles, and falls backward onto a pile of leaves with Lily landing safely on his big belly. The raccoons applaud with their tiny paws. Final frame: both lying there laughing under the stars.
-DIALOGUE 24–27s: Bruno (dizzy, deep voice): "Bruno... is good dancer?"
-DIALOGUE 27–30s: Lily (laughing): "The best in the whole forest."
+DIALOGUE 24–27s: Bruno (very deep gentle Bigfoot voice): "Dancing Lesson means Bruno must stay gentle and close."
+DIALOGUE 27–30s: Lily (young emotional American woman):  this time."I have to survive Dancing Lesson without losing myself."
 SFX: stomping, ground thump, pinecone bonk, spinning whoosh, laughing, heavy fall into leaves, tiny raccoon claps.
 MUSIC: lively American country fiddle and banjo dance tune.
 

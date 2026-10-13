@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S04_OldJoeWhitaker_FULL.png, S11_Rose_FULL.png, V04_Lily_VillageMom.png, V08_Frost_Powered.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -30,15 +31,15 @@ CAST NOTE: Hank = a sturdy farmer, grey-brown beard, worn cowboy hat, plaid shir
 Night, inside Cedar Hollow's rebuilt wooden church, now a war room: a big map of Thorne Castle on the table, lanterns, villagers gathered.
 0–3s: Rose slams her old hand on the castle map.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 262's final image: Rose grabs Frost's hand. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Rose (old British-accented voice, urgent): "Listen. The dragons are not the king's friends."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now The Dragons Are Slaves moves the story forward."
 3–12s: Close-up of Rose, eyes wet.
-DIALOGUE 4–10s: Rose: "I've seen them crying in their chains. The red crystal controls their minds."
-DIALOGUE 10–13s: Frost (deep, shocked): "They're... prisoners. Like Old Scar was."
+DIALOGUE 4–10s: Lily (young emotional American woman): "This is The Dragons Are Slaves, and my heart knows the danger is real."
+DIALOGUE 10–13s: Frost (deep young heroic voice): "I will not let The Dragons Are Slaves break the people I love."
 12–22s: Old Joe leans over the map.
-DIALOGUE 14–19s: Old Joe (slow raspy voice): "Orin's crystal. Break the red magic... and every dragon goes free."
-DIALOGUE 19–22s: Hank (deep rural voice): "So we don't fight a hundred dragons..."
+DIALOGUE 14–19s: Rose (old nervous castle maid): "If The Dragons Are Slaves begins, you must be ready to run."
+DIALOGUE 19–22s: Old Joe (old wise American man): "I have heard old stories about The Dragons Are Slaves."
 22–30s: Frost puts his glowing finger on the castle's highest tower on the map.
-DIALOGUE 24–29s: Frost (deep, determined): "...we just have to take back my grandfather's crystal."
+DIALOGUE 24–29s: Lily (young emotional American woman): "I have to survive The Dragons Are Slaves without losing myself."
 Final frame: the tower on the map glowing blue under Frost's finger.
 SFX: hand slam, lantern hum, murmurs, map paper, a soft magical glow sound.
 MUSIC: mysterious, rising strategic war theme.

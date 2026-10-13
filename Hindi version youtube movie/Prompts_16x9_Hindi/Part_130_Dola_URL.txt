@@ -10,6 +10,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L06_AbandonedCabin.png, V04_Lily_VillageMom.png, V05_Frost_Baby.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -35,15 +36,15 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Next morning, inside the cabin, bright winter sunlight.
 0–3s: Lily, tired but happy, tries to feed baby Frost; he grabs a lock of her hair and won't let go.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 129's final image: Build into the hook: A man shouts, 'Monster!' Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Lily (laughing, in pain): "Ow, ow! Frost, that's Mommy's hair!"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Strong Baby moves the story forward."
 3–12s: She gives him the painted wooden toy horse; he squeezes it and it cracks in half. Lily stares.
-DIALOGUE 6–10s: Lily (shocked): "One day old... and you just broke a horse."
+DIALOGUE 6–10s: Lily (young emotional American woman): "This is Strong Baby, and my heart knows the danger is real."
 12–22s: Frost tries to roar like his father; only a tiny squeaky "roar" comes out. Lily bursts out laughing. Frost looks offended and tries again — this time a little louder, and a cup falls off the shelf.
-DIALOGUE 16–19s: Lily (laughing, proud): "Okay, okay! That one was scary!"
+DIALOGUE 16–19s: Frost (deep young heroic voice): "I will not let Strong Baby break the people I love."
 22–30s: Knock, knock, knock. Lily freezes.
-DIALOGUE 24–28s: Martha (warm Southern voice, from outside): "Lily, honey? I brought you some soup! Open up, it's freezing!"
+DIALOGUE 24–28s: Frost (deep young heroic voice): "Father, guide me through Strong Baby."
 Final frame: Lily looking in panic between the door and the furry white baby.
-DIALOGUE 28–30s: Lily (whispering): "Oh no."
+DIALOGUE 28–30s: Frost (deep young heroic voice): "Strong Baby is where I stand for my family."
 SFX: baby grunts, hair tug, wood cracking, tiny squeaky roar, louder baby roar, cup falling, knocking.
 MUSIC: playful comedic strings, a sudden stop with the knock.
 

@@ -12,6 +12,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, K01_DarkBigfoot.png, K02_RedDragon.png, S02_MarthaHayes_FULL.png, S03_HankMiller_FULL.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -30,13 +31,13 @@ CAST NOTE: Tommy = a young man (about 22), messy brown hair, light freckles, red
 Cedar Hollow under attack in daylight: smoke, fire on rooftops, people running.
 0–3s: The red dragon swoops low over Main Street and breathes fire onto the roof of the general store.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 196's final image: Frost suddenly stops chewing. He sniffs the air. His smile disappears. Over the mountains, far away, thick black smoke rises into the sky in the direction of Cedar Hollow. Final frame: Lily slowly standing up, the sandwich falling from her hand. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Villager woman (screaming): "DRAGONS! Run! Get the children!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Fire Over Cedar Hollow moves the story forward."
 3–12s: Dark Bigfoots with red eyes smash through fences and porches; mammoths knock over the water tower; soldiers on black horses ride through the streets.
-DIALOGUE 6–9s: Hank (deep rural voice, shouting with his shotgun): "Everybody to the church cellar! GO!"
+DIALOGUE 6–9s: Frost (deep young heroic voice): "Fire Over Cedar Hollow is where I stand for my family."
 12–22s: Hank shoots at a dark Bigfoot; it barely notices and swats his shotgun away. Tommy (young man) pulls his father out of the way just in time.
-DIALOGUE 15–18s: Tommy (shouting): "Dad, we can't fight them! Come on!"
+DIALOGUE 15–18s: Martha (warm Southern voice): "Nobody panics during Fire Over Cedar Hollow while I am here."
 22–30s: Martha herds a group of crying children into a cellar under the church and closes the heavy wooden door. Through the cracks we see fire light and shadows of monsters passing. Final frame: Martha holding the children close in the dark, praying.
-DIALOGUE 26–30s: Martha (whispering, shaking Southern voice): "Hush now, babies. Frost will come. Frost always comes."
+DIALOGUE 26–30s: Hank (rough kind villager voice): "Hold steady until Fire Over Cedar Hollow passes."
 SFX: dragon roar, fire whoosh, screaming, crashing wood, mammoth trumpets, galloping horses, shotgun blast, cellar door slam, muffled chaos.
 MUSIC: dark intense war orchestra with heavy drums.
 

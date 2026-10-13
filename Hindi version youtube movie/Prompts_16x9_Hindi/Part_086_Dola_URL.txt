@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C04_Bruno_FULL.png, K04_TRex.png, V10_Damian_Battle.png, V11_KingMagnus_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -34,13 +35,13 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 Daytime, a wide valley in the redwood forest in front of the waterfall, smoke and dust.
 0–3s: Giant redwood trees crash down as a T-rex in an iron war harness bursts through the forest, roaring.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 085's final image: A massive shadow passes over them. They look up: the huge red dragon flies over the treetops, followed by three smaller dragons, blocking the sun. Final frame: the dragon's shadow covering Lily's terrified face. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: NARRATOR (deep cinematic trailer voice): "The army of King Magnus Thorne."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now The Army of Thorne moves the story forward."
 3–14s: Epic wide shots: woolly mammoths in dark-red war armor marching, dark Bigfoots with red eyes in chains, soldiers in black helmets with spears, a giant anaconda sliding through the river, and King Magnus in black iron armor landing on the back of the huge red dragon.
-DIALOGUE 8–12s: King Magnus (deep booming menacing voice): "Come out, beast! I know you're hiding my son's bride!"
+DIALOGUE 8–12s: Bruno (very deep gentle Bigfoot voice): "The Army of Thorne means Bruno must stay gentle and close."
 14–22s: Prince Damian rides forward on a black war horse in spiked black armor and red cape, sword raised.
-DIALOGUE 16–21s: Prince Damian (smooth arrogant voice, angry): "Lily! Come out and I might let you live... as my servant!"
+DIALOGUE 16–21s: Prince Damian (smooth cold prince voice): "Smile through The Army of Thorne; the court is watching."
 22–30s: The waterfall splits — Bruno steps out slowly and stands alone in front of the cave, facing the whole army. He pounds his chest once. Final frame: one black Bigfoot vs. an entire army.
-DIALOGUE 26–29s: Bruno (very deep gravelly voice, calm and brave): "You want her? Come through Bruno."
+DIALOGUE 26–29s: King Magnus (deep rough commanding king): "Let the kingdom remember The Army of Thorne."
 SFX: trees crashing, T-rex roar, mammoth trumpets, marching army, chains, dragon landing, horse neigh, waterfall, single heavy chest pound.
 MUSIC: massive epic dark orchestra and choir, then silence before Bruno's line.
 

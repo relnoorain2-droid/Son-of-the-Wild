@@ -10,6 +10,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: K02_RedDragon.png, V08_Frost_Powered.png, V11_KingMagnus_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -31,13 +32,13 @@ CAST NOTE: the Great Red Dragon = three times bigger than any other dragon, dark
 The sky above Thorne Castle at sunset, clouds and smoke.
 0–3s: The Great Red Dragon grabs Frost out of the air with its giant claw and squeezes him.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 294's final image: The dragon recovers and swings around; Frost and the dragon circle each other above the clouds, the sun setting behind them. Final frame: a giant red dragon vs a glowing blue giant, face to face in the sky. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Frost (deep, straining in pain): "Aaargh!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The Eagles moves the story forward."
 3–12s: King Magnus points his staff; red lightning wraps around Frost's body, mixing with the claw's grip. Frost's blue light flickers weaker and weaker.
-DIALOGUE 6–10s: King Magnus (cruel): "Squeeze, my pet. Squeeze until the light goes out."
+DIALOGUE 6–10s: Frost (deep young heroic voice): "The Eagles is where I stand for my family."
 12–22s: A loud scream from above: hundreds of bald eagles dive out of the clouds and attack the dragon's face and eyes, pecking and clawing. The dragon roars and shakes its head, blinded.
-DIALOGUE 16–19s: Frost (weak, smiling): "Thanks... friends."
+DIALOGUE 16–19s: King Magnus (deep rough commanding king): "No one defies me after The Eagles."
 22–30s: The dragon's claw opens. Frost falls out and catches the edge of the dragon's huge wing, holding on with one hand high above the ground. Final frame: Frost hanging from the dragon's wing, the battlefield tiny far below.
-DIALOGUE 27–30s: Frost (deep, gritting teeth): "Don't look down... don't look down..."
+DIALOGUE 27–30s: King Magnus (deep rough commanding king): "Let the kingdom remember The Eagles."
 SFX: a claw grab, bones-creaking squeeze (no injury), red lightning crackling, weakening hum, a sky full of eagle screams, a roaring blinded dragon, a falling whoosh, a grab.
 MUSIC: desperate dark music, then a soaring heroic theme with the eagles.
 

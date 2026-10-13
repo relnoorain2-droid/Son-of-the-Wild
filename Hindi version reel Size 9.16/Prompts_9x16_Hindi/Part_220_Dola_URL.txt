@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, K02_RedDragon.png, S07_CaptainVex_FULL.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -32,13 +33,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night, the cliff above a huge waterfall, full moon, smoke and fire.
 0–3s: Frost roars; blue lightning explodes out of his chest and the red chains shatter into pieces. Soldiers fly backwards.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 219's final image: Frost looks at his mother, closes his eyes, and whispers his father's words. A tiny blue spark returns in his chest. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Frost (deep, thunderous): "ENOUGH!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The Fall moves the story forward."
 3–12s: Frost punches the red dragon's jaw; it staggers. He grabs Captain Vex off its back and throws him into the trees.
-DIALOGUE 6–9s: Captain Vex (screaming as he flies): "Kill him! KILL HIIIM!"
+DIALOGUE 6–9s: Lily (young emotional American woman): "This is The Fall, and my heart knows the danger is real."
 12–22s: The red dragon swings its massive tail and hits Frost full in the chest. He is knocked backwards off the cliff edge. In slow motion, Frost falls toward the giant waterfall, reaching out a hand toward the village.
-DIALOGUE 15–18s: Frost (deep, falling, whispering): "Mom..."
+DIALOGUE 15–18s: Frost (deep young heroic voice): "I will not let The Fall break the people I love."
 22–30s: He disappears into the white roaring water far below. Lily, on the wall, screams with everything she has. Final frame: the empty waterfall in the moonlight, foam and mist, no sign of Frost.
-DIALOGUE 25–29s: Lily (screaming, breaking): "FROOOOST!"
+DIALOGUE 25–29s: Captain Vex (harsh soldier voice): "The king wants The Fall before dawn."
 SFX: electric explosion, chains shattering, a massive punch, dragon roar, body thrown, a giant tail whoosh, heavy impact, wind rushing, waterfall roar, scream echoing.
 MUSIC: epic heroic swell, then a tragic choir as he falls, ending in silence with only the waterfall.
 

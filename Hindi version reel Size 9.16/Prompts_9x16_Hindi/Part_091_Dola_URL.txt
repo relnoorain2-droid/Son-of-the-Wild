@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C04_Bruno_FULL.png, K04_TRex.png, L08_Battlefield.png, V11_KingMagnus_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -30,13 +31,13 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 The valley near the waterfall cliff, dust and smoke, sunlight.
 0–3s: The T-rex snaps its huge jaws at Bruno; he rolls aside just in time, the teeth biting into the ground.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 090's final image: Five dark Bigfoots lie groaning around him. Bruno breathes hard, steam rising from his black fur. The soldiers step back in fear. Damian's horse rears up. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Bruno (deep grunt): "Too slow!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Bigfoot vs T-Rex moves the story forward."
 3–14s: Bruno jumps onto the T-rex's back and grabs its war harness like reins. The T-rex bucks and spins, smashing trees. Soldiers scatter.
-DIALOGUE 7–10s: King Magnus (from the dragon, booming): "Shake him off!"
+DIALOGUE 7–10s: Bruno (very deep gentle Bigfoot voice): "Bigfoot vs T-Rex means Bruno must stay gentle and close."
 14–22s: Bruno pulls the harness hard and steers the T-rex toward the edge of the waterfall cliff.
-DIALOGUE 17–19s: Bruno (deep, straining): "Bruno... ride... dinosaur!"
+DIALOGUE 17–19s: King Magnus (deep rough commanding king): "No one defies me after Bigfoot vs T-Rex."
 22–30s: At the very edge, Bruno jumps off; the T-rex skids, can't stop, and falls over the cliff into the river far below with a giant splash. Bruno lands on one knee, exhausted. Final frame: the king's face, angry, his red crystal glowing.
-DIALOGUE 27–29s: King Magnus (cold and quiet): "Enough. Dragons."
+DIALOGUE 27–29s: King Magnus (deep rough commanding king): "Let the kingdom remember Bigfoot vs T-Rex."
 SFX: giant jaw snap, ground crunch, T-rex roars, trees breaking, harness straining, skidding claws, falling roar, huge splash, heavy breathing.
 MUSIC: epic adventure orchestra with a triumphant hit, then a dark sting on the king's line.
 

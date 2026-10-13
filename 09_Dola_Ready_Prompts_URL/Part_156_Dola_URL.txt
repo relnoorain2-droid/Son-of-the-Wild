@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L07_Village.png, S02_MarthaHayes_FULL.png, V06_Frost_Kid.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -27,14 +28,14 @@ FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient f
 Daytime, the Cedar Hollow general store.
 0–3s: Three scruffy bandits in dusty cowboy hats and bandanas kick open the general store door.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 155's final image: Frost leaning his head down so Lily can kiss his forehead. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Bandit leader (rough American male voice): "Nobody move! Hand over the money!"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Bandits in Town moves the story forward."
 3–12s: Martha stands behind the counter, calm, arms crossed.
-DIALOGUE 5–8s: Martha (warm Southern voice, unimpressed): "Boys, you picked the wrong store."
-DIALOGUE 8–10s: Bandit leader (laughing): "Says who, granny?"
+DIALOGUE 5–8s: Frost (deep young heroic voice): "Bandits in Town is where I stand for my family."
+DIALOGUE 8–10s: Martha (warm Southern voice): "Nobody panics during Bandits in Town while I am here."
 12–22s: A huge shadow covers the bandits. They slowly turn around. Kid Frost stands in the doorway eating an ice cream cone.
-DIALOGUE 15–18s: Kid Frost (cheerful, casual): "Hi! Are you guys buying something?"
+DIALOGUE 15–18s: Martha (warm Southern voice): "Breathe first; Bandits in Town can wait one second."
 22–30s: The bandits scream, drop the money bag, and run so fast that one loses his pants and runs off in his heart-patterned underwear. Frost catches the money bag and gives it back to Martha. Final frame: Frost licking his ice cream, confused.
-DIALOGUE 26–29s: Kid Frost (confused): "Was it something I said?"
+DIALOGUE 26–29s: Martha (warm Southern voice): "Bandits in Town needs steady hands, honey."
 SFX: door kicked open, boots, bandit laughter, deep shadow whoosh, screaming, running, pants dropping, bell on the store door, ice cream lick.
 MUSIC: classic Western standoff whistle and guitar, then comedic chase music.
 

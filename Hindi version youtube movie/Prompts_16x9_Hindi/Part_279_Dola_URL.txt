@@ -11,6 +11,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: K01_DarkBigfoot.png, K04_TRex.png, L08_Battlefield.png, V08_Frost_Powered.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -35,13 +36,13 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 The battlefield in front of Thorne Castle, smoke, fire, dust.
 0–3s: Twenty dark Bigfoots charge Frost from all sides. Behind them, a huge T-rex in an iron war harness — with an old scar on its head from falling off a cliff years ago — roars.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 278's final image: A small young green dragon looks at Sarah. For a moment its red eyes flicker to their natural gold color. It whimpers. Sarah slowly reaches out. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Frost (deep voice, smiling): "Oh. You again."
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The T-Rex Returns moves the story forward."
 3–12s: Frost moves like lightning: blue energy blasts throw the dark Bigfoots back like bowling pins; he flips one over his shoulder, slides between two others and knocks their heads together.
-DIALOGUE 7–11s: Frost (deep, fighting): "My father threw you off a cliff! Want round two?"
+DIALOGUE 7–11s: Frost (deep young heroic voice): "The T-Rex Returns is where I stand for my family."
 12–22s: The T-rex bites down at Frost; he catches its upper and lower jaws with his bare hands and holds its mouth open, his feet sliding back in the dirt.
-DIALOGUE 16–19s: Frost (straining, joking): "Brush... your... TEETH!"
+DIALOGUE 16–19s: Dark Bigfoot (deep savage Bigfoot voice): "We will crush anyone standing in The T-Rex Returns."
 22–30s: He spins the T-rex by its jaw and throws it into the castle moat with a giant splash. The remaining dark Bigfoots look at each other... and run away. Final frame: Frost standing alone, electricity crackling, the T-rex's tail sinking in the moat.
-DIALOGUE 27–30s: Frost (deep, calm): "Guess it runs in the family."
+DIALOGUE 27–30s: Dark Bigfoot (deep savage Bigfoot voice): "Your soft heart will lose during The T-Rex Returns."
 SFX: charging footsteps, roars, electric blasts, bodies thrown, a head-bonk, giant jaws snapping, feet sliding, a massive spin and splash, Bigfoots running.
 MUSIC: heroic action theme with brass and drums.
 

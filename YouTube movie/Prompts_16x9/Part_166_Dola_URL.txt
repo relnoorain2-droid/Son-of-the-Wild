@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: K09_Wolves.png, L07_Village.png, S03_HankMiller_FULL.png, V06_Frost_Kid.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -32,15 +33,15 @@ FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient f
 Early morning fog over Hank's sheep farm at the edge of Cedar Hollow, wooden fences, a red farmhouse.
 0–3s: A pack of grey timber wolves jumps the fence; the sheep scatter, bleating.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 165's final image: The tourists give Frost the entire candy bowl. Frost walks away happily hugging the giant bowl while the other kids stare in jealousy. Final frame: Frost winking at the camera from under his tiny ghost sheet. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Hank (deep rural voice, running out with a pitchfork in his pajamas): "WOLVES! Get away from my sheep!"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Sit! moves the story forward."
 3–12s: The wolves turn and snarl at Hank. He freezes. Kid Frost jumps over the fence and lands between them.
-DIALOGUE 6–8s: Kid Frost (calm but serious young boy voice): "Hey! Leave them alone!"
+DIALOGUE 6–8s: Frost (deep young heroic voice): "Sit! is where I stand for my family."
 12–22s: Frost's eyes glow soft blue. He points at the ground and speaks; a low rumbling animal sound echoes. The wolves stop snarling, look at each other... and sit down like obedient dogs.
-DIALOGUE 14–16s: Kid Frost: "Sit!"
-DIALOGUE 17–19s: Kid Frost (surprised whisper): "Wait... that actually worked?"
+DIALOGUE 14–16s: Hank (rough kind villager voice): "We fix what Sit! broke before dark."
+DIALOGUE 17–19s: Hank (rough kind villager voice): "Hold steady until Sit! passes."
 22–30s: The wolves roll over on command. One licks Hank's hand. Hank stares, speechless, still in his pajamas. Final frame: Hank holding his pitchfork while a wolf wags its tail at him.
-DIALOGUE 22–24s: Kid Frost (cheerful young boy voice, testing it): "Roll over!"
-DIALOGUE 26–29s: Hank (deadpan): "I need more coffee for this."
+DIALOGUE 22–24s: Hank (rough kind villager voice): "Sit! needs work, not talk."
+DIALOGUE 26–29s: Frost (deep young heroic voice): "I will not let Sit! break the people I love."
 SFX: sheep bleating, fence creaking, snarling, magical hum, low rumbling, wolves whining happily, tail thumping, licking.
 MUSIC: tense drums, then a magical chime, then comedic light music.
 

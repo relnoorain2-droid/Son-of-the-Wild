@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S11_Rose_FULL.png, V08_Frost_Powered.png, V11_KingMagnus_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -28,13 +29,13 @@ CAST NOTE: the Great Red Dragon = three times bigger than any other dragon, dark
 The castle courtyard at dusk, smoke clearing, a giant dark crack in the ground in the middle of the courtyard where the Great Red Dragon was once chained.
 0–3s: King Magnus crawls out of the rubble: his armor broken, his crown cracked, his staff an empty stick. He looks old and small.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 303's final image: Lily hugs him, crying and laughing. The Great Red Dragon gently nudges Frost with its nose, making a deep purring sound like a giant cat. Final frame: Frost hugging the dragon's nose, Lily laughing. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: King Magnus (weak, bitter): "My power... my dragons... everything."
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Finish It moves the story forward."
 3–12s: His own people surround him: farmers, servants, the freed brides, holding torches. Mammoths and wolves stand behind them. Nobody bows.
-DIALOGUE 6–11s: Rose (old British voice, firm): "You don't have any power anymore, Magnus. You never did. You stole it."
+DIALOGUE 6–11s: Frost (deep young heroic voice): "Finish It is where I stand for my family."
 12–22s: Frost walks through the crowd and stands in front of the king. The king laughs bitterly and spreads his arms.
-DIALOGUE 15–19s: King Magnus (cold): "Well? Go on, beast. Finish it. Like I finished your father."
+DIALOGUE 15–19s: Rose (old nervous castle maid): "I have seen what comes after Finish It."
 22–30s: Frost stares at him for a long time. His fists glow. Then the glow fades. He lowers his hands.
-DIALOGUE 25–29s: Frost (deep, calm): "No. My father wouldn't. And neither will I."
+DIALOGUE 25–29s: King Magnus (deep rough commanding king): "Let the kingdom remember Finish It."
 Final frame: the king staring up at Frost in total shock.
 SFX: rubble shifting, crawling, torches crackling, quiet crowd, animal breathing, a glow humming, then fading.
 MUSIC: tense silence, then a gentle, wise, emotional note.

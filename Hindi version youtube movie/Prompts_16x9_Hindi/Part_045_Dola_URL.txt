@@ -12,6 +12,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C01_Lily_FULL.png, C04_Bruno_FULL.png, K09_Wolves.png, K10_MountainLion.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -36,13 +37,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night, misty redwood forest.
 0–3s: A mountain lion leaps from a tree branch straight at Bruno, who is carrying Lily in one arm. He swats it away mid-air with his free hand.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 044's final image: dozens of glowing eyes appearing between the trees. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (screaming): "Bruno, above you!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Hold On! moves the story forward."
 3–14s: Bruno runs through the forest with Lily on his shoulder, wolves chasing from both sides. He jumps over a fallen giant redwood trunk; a wolf bites his leg, he kicks it into the ferns.
-DIALOGUE 6–9s: Bruno (deep gravelly voice, strained): "These... not normal wolves. King's wolves."
-DIALOGUE 9–11s: Lily (scared): "They're hunting me!"
+DIALOGUE 6–9s: Lily (young emotional American woman): "This is Hold On!, and my heart knows the danger is real."
+DIALOGUE 9–11s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through Hold On!."
 14–22s: Bruno stops at the edge of a cliff above a waterfall. The wolves and the mountain lion surround them, snarling. No way out.
-DIALOGUE 17–19s: Bruno (calm, deep): "You trust Bruno?"
-DIALOGUE 19–21s: Lily (shaking): "...Yes!"
+DIALOGUE 17–19s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in Hold On!, but Bruno stays calm."
+DIALOGUE 19–21s: Bruno (very deep gentle Bigfoot voice): "Hold On! means Bruno must stay gentle and close."
 22–30s: Bruno hugs Lily tight and jumps off the cliff into the waterfall in slow motion; the moon behind them. The wolves stop at the edge, howling. Final frame: a huge splash in the dark pool below.
 SFX: mountain lion screech, heavy swat impact, running footsteps, wolf snarls and bites, kick thud, waterfall roar, wind rush, giant splash.
 MUSIC: fast action orchestra and drums, swelling to an epic choir during the jump.

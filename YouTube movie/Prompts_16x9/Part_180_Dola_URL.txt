@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S02_MarthaHayes_FULL.png, V04_Lily_VillageMom.png, V07_Frost_Teen.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -32,14 +33,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 A sunny afternoon party in Cedar Hollow's town square, balloons, bunting, picnic tables.
 0–3s: Villagers wheel out a giant birthday cake the size of a pickup truck.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 179's final image: Back at the cabin, Frost gently crushes the leaves in his palm, just like Bruno did years ago, and places them on Lily's forehead. By morning, the sun comes in and Lily opens her eyes, smiling, the fever gone. Final frame: Frost asleep on the floor beside her bed, still holding her hand. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Everyone (cheerful crowd): "SURPRISE! Happy birthday, Frost!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Happy Birthday, Frost moves the story forward."
 3–12s: Frost covers his mouth, overwhelmed. He leans in to blow out the candles — his breath blows away every hat, a balloon stand, and Martha's big church hat flies off and lands on a goat.
-DIALOGUE 7–10s: Martha (shocked, then laughing, pointing at the goat): "Oh, for heaven's sake! That's my Sunday hat!"
+DIALOGUE 7–10s: Frost (deep young heroic voice): "Happy Birthday, Frost is where I stand for my family."
 12–22s: Gifts: Sarah (now about 14, blonde braid, yellow sweater) gives him a drawing of the whole village holding hands with him; Martha gives him a hand-knitted sweater that is HUGE — it finally fits.
-DIALOGUE 16–19s: Martha (proud): "I've been knitting this one for three years."
-DIALOGUE 19–21s: Teen Frost (shy, emotional): "It fits... it actually fits!"
+DIALOGUE 16–19s: Lily (young emotional American woman): "I have to survive Happy Birthday, Frost without losing myself."
+DIALOGUE 19–21s: Martha (warm Southern voice): "Breathe first; Happy Birthday, Frost can wait one second."
 22–30s: Lily gives the last gift: the small dried flower from Bruno, now in a little wooden frame.
-DIALOGUE 25–29s: Lily (soft): "From your father. He'd want you to have it."
+DIALOGUE 25–29s: Martha (warm Southern voice): "Happy Birthday, Frost needs steady hands, honey."
 Final frame: Frost holding the tiny frame to his chest, tears in his eyes, the whole village smiling.
 SFX: cheering, balloons, a huge whoosh of breath, hats flying, laughter, paper rustling, gentle applause.
 MUSIC: happy birthday-style party music, turning into the soft Frost theme.

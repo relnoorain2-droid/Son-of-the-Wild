@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C01_Lily_FULL.png, C04_Bruno_FULL.png, L05_River.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -35,15 +36,15 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Bright afternoon by a wide mountain river surrounded by tall pines, sunbeams.
 0–3s: Lily swings on a long vine swing high over the river, screaming with joy, hair flying.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 056's final image: From the fog, an armored dark Bigfoot tracker steps forward with glowing red eyes. It sniffs the veil, growls, and points toward the waterfall. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (soft voice, laughing loudly): "Higher, Bruno! Higher!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The Vine Swing moves the story forward."
 3–12s: Bruno pushes the swing with one finger and Lily flies high above the treetops, laughing.
-DIALOGUE 6–9s: Bruno (deep happy voice): "Lily fly like bird!"
-DIALOGUE 9–11s: Lily: "Your turn! Come on!"
+DIALOGUE 6–9s: Lily (young emotional American woman): "This is The Vine Swing, and my heart knows the danger is real."
+DIALOGUE 9–11s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through The Vine Swing."
 12–22s: Bruno looks at the thin vine, then at himself, unsure. He grabs it anyway and swings out over the river, smiling like a kid...
-DIALOGUE 15–17s: Bruno (excited): "Bruno is bird!"
+DIALOGUE 15–17s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in The Vine Swing, but Bruno stays calm."
 22–30s: SNAP — the vine breaks. Bruno freezes in mid-air for a second like a cartoon, looks at the camera, then falls into the river with a giant splash that soaks Lily from head to toe. Final frame: Bruno pops up with a fish on his head, Lily laughing on the riverbank.
-DIALOGUE 24–25s: Bruno (tiny voice in mid-air): "Uh oh."
-DIALOGUE 27–30s: Lily (laughing): "Bruno is definitely NOT a bird!"
+DIALOGUE 24–25s: Bruno (very deep gentle Bigfoot voice): "The Vine Swing means Bruno must stay gentle and close."
+DIALOGUE 27–30s: Lily (young emotional American woman): "I have to survive The Vine Swing without losing myself."
 SFX: vine creaking, wind whoosh, laughter, loud snap, comedic whistle fall, giant splash, water dripping.
 MUSIC: joyful upbeat country-folk with fiddle, cutting to silence on the snap, then a comedic "boing".
 

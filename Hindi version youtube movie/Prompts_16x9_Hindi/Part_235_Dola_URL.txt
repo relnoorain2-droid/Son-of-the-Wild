@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, L03_DeepForest.png, S04_OldJoeWhitaker_FULL.png, V12_Tommy_Adult.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -35,13 +36,13 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 Morning, a high mountain meadow above the forest. In the middle stands a gigantic grey boulder, as big as a house, shaped a little like a sleeping bear. A giant old Bigfoot handprint is carved into its side.
 0–3s: Frost, Old Joe and Tommy walk out of the trees and stop. Frost looks up at the boulder.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 234's final image: Frost's hand on the map, all four symbols glowing blue at once. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Frost (deep voice, swallowing): "That's... a mountain, not a rock."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Trial 1 The Bear Rock moves the story forward."
 3–12s: Old Joe points at a cliff edge about fifty yards away.
-DIALOGUE 5–10s: Old Joe (slow raspy voice): "Push the Bear Rock to the edge. That's it. That's the first trial."
-DIALOGUE 10–14s: Tommy (young man, grinning): "Easy. Ten bucks says he does it in five minutes."
+DIALOGUE 5–10s: Frost (deep young heroic voice): "Trial 1 The Bear Rock is where I stand for my family."
+DIALOGUE 10–14s: Old Joe (old wise American man): "Trial 1 The Bear Rock means the forest is answering."
 12–22s: Frost puts both hands on the rock, plants his feet, and pushes with a huge roar. His muscles bulge, the ground under his feet cracks... the rock doesn't move even a little.
 22–30s: He tries again, roaring louder. He slips and falls flat on his face in the grass. Silence. A small bird lands on his head.
-DIALOGUE 26–29s: Tommy (handing money to Old Joe, sighing): "...Okay. Double or nothing on tomorrow."
+DIALOGUE 26–29s: Old Joe (old wise American man): "Listen close before Trial 1 The Bear Rock chooses you."
 Final frame: Frost lying face down, the giant rock not moved at all.
 SFX: wind on the mountain, footsteps, a massive straining roar, ground cracking, a slip, a body thud, bird chirping, money rustling.
 MUSIC: epic music that builds and then deflates comically.

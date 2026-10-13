@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, L07_Village.png, S02_MarthaHayes_FULL.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -33,13 +34,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Late afternoon, Cedar Hollow in ruins: burnt houses, smoke, broken fences, the fallen church tower.
 0–3s: Frost runs over the hill at full speed carrying Lily in his arms, and stops at the top. He sees the ruins below.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 198's final image: The king raises his staff; red lightning blasts the town's church bell tower and it crashes down. He climbs back onto his dragon. Final frame: Old Joe watching the dragon fly away, holding the little carved Bigfoot in his fist. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Frost (deep, shocked whisper): "No... no, no, no..."
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Too Late moves the story forward."
 3–12s: They walk through the burning streets. The water tower is broken. The schoolhouse where he wrote "MOM" is half burnt. His slate lies in the ashes.
-DIALOGUE 6–9s: Lily (crying): "Martha? MARTHA! Hank! Anyone!"
+DIALOGUE 6–9s: Lily (young emotional American woman): "This is Too Late, and my heart knows the danger is real."
 12–22s: Frost hears knocking under the collapsed church tower. He lifts the giant fallen bell tower off the cellar door with a roar. The door opens: Martha and the children climb out, covered in dust, alive.
-DIALOGUE 15–19s: Martha (crying, weak Southern voice): "I told them... I told them Frost would come."
+DIALOGUE 15–19s: Frost (deep young heroic voice): "I will not let Too Late break the people I love."
 22–30s: The children run and hug Frost's legs. Frost kneels and wraps his arms around all of them at once, tears running into his white fur. Final frame: Frost holding the kids, the burnt town behind him.
-DIALOGUE 26–29s: Frost (deep, broken voice): "I'm sorry. I'm so sorry I wasn't here."
+DIALOGUE 26–29s: Martha (warm Southern voice): "Breathe first; Too Late can wait one second."
 SFX: running, fire crackling, wind, crying, knocking, heavy stone lifting, roar, door creaking, children sobbing.
 MUSIC: tragic strings and slow piano.
 

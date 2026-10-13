@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: K02_RedDragon.png, L02_KingCastle.png, S11_Rose_FULL.png, V11_KingMagnus_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -34,13 +35,13 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 Thorne Castle's highest tower, dark storm clouds gathering, battlefield below.
 0–3s: King Magnus watches his army falling apart. His face twists with rage.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 283's final image: The lead mammoth turns, lifts Damian off its back with its trunk, and drops him headfirst into a big pile of mud. All fifty mammoths trumpet together and walk to stand behind Frost's army. Final frame: Damian sitting in the mud, the mammoths behind Frost. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: King Magnus (deep, furious): "Useless! All of you, USELESS!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The Great Red Dragon moves the story forward."
 3–12s: He holds the staff with both hands and slams the red crystal into the stone floor of the tower. The whole castle shakes. A giant crack opens in the castle courtyard; red light pours out of it.
-DIALOGUE 6–11s: King Magnus (shouting a dark spell, echoing): "RISE, Great One! Rise and burn them ALL!"
+DIALOGUE 6–11s: Rose (old nervous castle maid): "Remember The Great Red Dragon, child. It is your warning."
 12–22s: From under the castle, a gigantic red dragon rises: three times bigger than any dragon before, scales like dark lava, horns like a crown, wings that cover the sun, eyes blazing red. The ground cracks, towers fall.
-DIALOGUE 17–22s: Rose (from the tunnel entrance, horrified): "The Great Red... he's been chained under the castle for a hundred years!"
+DIALOGUE 17–22s: King Magnus (deep rough commanding king): "No one defies me after The Great Red Dragon."
 22–30s: The Great Red Dragon roars so loud that every fighter on the battlefield, human and animal, freezes and covers their ears. King Magnus climbs onto its head. Final frame: the king standing on the gigantic dragon's head, the sun blocked by its wings.
-DIALOGUE 27–29s: King Magnus (laughing madly): "NOW it ends!"
+DIALOGUE 27–29s: King Magnus (deep rough commanding king): "Let the kingdom remember The Great Red Dragon."
 SFX: an enraged shout, crystal slam, a castle-shaking quake, a ground crack, a deep red magical roar, collapsing towers, giant wing beats, a world-shaking dragon roar.
 MUSIC: terrifying epic choir and orchestra, the biggest dark theme in the movie.
 

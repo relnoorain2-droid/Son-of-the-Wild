@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S03_HankMiller_FULL.png, S05_TommyMiller_FULL.png, S06_SarahMiller_FULL.png, V06_Frost_Kid.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -32,13 +33,13 @@ FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient f
 Night, Fourth of July celebration in Cedar Hollow: American flags, a small parade, food stands, families on blankets, string lights.
 0–3s: A wooden cart full of fireworks catches a spark and starts fizzing and rolling downhill toward the crowd.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 168's final image: Lily (emotional): "This was his home. This is where he loved us. This was your father's home, Frost." Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Hank (shouting): "The fireworks cart! Everybody MOVE!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Fourth of July moves the story forward."
 3–12s: Rockets start shooting sideways from the cart; people dive to the ground. The cart speeds toward a group of children.
-DIALOGUE 6–8s: Sarah (screaming): "Frost!"
+DIALOGUE 6–8s: Frost (deep young heroic voice): "Fourth of July is where I stand for my family."
 12–22s: Kid Frost sprints, grabs the fizzing cart with both hands, spins around like an Olympic hammer thrower, and launches the entire cart high into the night sky.
-DIALOGUE 15–17s: Kid Frost (straining): "Go... UP!"
+DIALOGUE 15–17s: Hank (rough kind villager voice): "We fix what Fourth of July broke before dark."
 22–30s: The cart explodes high above the town into the biggest, most beautiful fireworks show anyone has ever seen: red, white and blue. The whole village cheers. Frost sits down, covered in soot, smiling. Final frame: fireworks reflected in Frost's blue eyes.
-DIALOGUE 26–29s: Tommy (amazed): "Best Fourth of July EVER!"
+DIALOGUE 26–29s: Tommy (young excited man): "Tell me someone else saw Fourth of July."
 SFX: fuse fizzing, wooden wheels rolling, rockets whooshing, screams, a massive throw whoosh, giant firework explosions, crowd cheering.
 MUSIC: patriotic American brass march, building to a triumphant finale.
 

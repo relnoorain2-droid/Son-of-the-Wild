@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L07_Village.png, S02_MarthaHayes_FULL.png, V08_Frost_Powered.png, V13_Sarah_Adult.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -28,13 +29,13 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 Daytime above the redwood forest, then Cedar Hollow main street.
 0–3s: Powered Frost crouches on a cliff and jumps. Instead of falling, he flies forward through the air in a giant leap, blue energy trailing behind him like a comet.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 259's final image: Silence. Hank's coffee mug slowly tips over in his frozen hand, the coffee pouring onto his boots. Tommy's jaw is on the floor. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Frost (deep, laughing with joy): "WHOOOAAA!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now He Can Fly?! moves the story forward."
 3–12s: He soars over the treetops, over a waterfall, past a flock of geese (one goose stares at him in shock), over the river.
-DIALOGUE 7–10s: Frost (deep, amazed): "Dad, are you seeing this?!"
+DIALOGUE 7–10s: Frost (deep young heroic voice): "He Can Fly?! is where I stand for my family."
 12–22s: In Cedar Hollow, Martha is hanging laundry. A shadow passes over her. She looks up, squints, and adjusts her glasses.
-DIALOGUE 16–20s: Martha (warm Southern voice): "Is that an eagle? A hot-air balloon? ...Is that FROST?"
+DIALOGUE 16–20s: Martha (warm Southern voice): "Nobody panics during He Can Fly?! while I am here."
 22–30s: Frost lands in the middle of Main Street with a huge BOOM; a ring of dust and wind blows all of Martha's laundry away. Grown-up Sarah runs up laughing. Final frame: a pair of Hank's underwear landing on Frost's head.
-DIALOGUE 26–29s: Martha (hands on hips): "Young man, you are picking up every sock."
+DIALOGUE 26–29s: Martha (warm Southern voice): "Breathe first; He Can Fly?! can wait one second."
 SFX: a jump whoosh, rushing wind, joyful shout, geese honking, laundry flapping, a huge landing boom, dust whoosh, laughter.
 MUSIC: soaring, joyful adventure theme, ending with a comedic sting.
 

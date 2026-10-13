@@ -10,6 +10,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L06_AbandonedCabin.png, V04_Lily_VillageMom.png, V07_Frost_Teen.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -28,15 +29,15 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Morning, inside Lily's cozy cabin.
 0–3s: Teen Frost (8 feet tall now) wakes up, stretches, stands up — and his head goes straight through the cabin roof. Shingles fly.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 169's final image: The cart explodes high above the town into the biggest, most beautiful fireworks show anyone has ever seen: red, white and blue. The whole village cheers. Frost sits down, covered in soot, smiling. Final frame: fireworks reflected in Frost's blue eyes. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Teen Frost (energetic teenage boy voice, voice cracking): "Oh no. Not AGAIN!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Growth Spurt moves the story forward."
 3–12s: Outside, the camera shows his head sticking out of the roof. A bird sits on his head. Lily walks out with coffee.
-DIALOGUE 5–10s: NARRATOR (deep cinematic trailer voice): "A few more years... Bruno's Bigfoot genes made Frost shoot up faster than the cabin could survive."
-DIALOGUE 10–13s: Lily (sighing, smiling): "That's the third roof this year, honey."
+DIALOGUE 5–10s: Lily (young emotional American woman): "This is Growth Spurt, and my heart knows the danger is real."
+DIALOGUE 10–13s: Frost (deep young heroic voice): "I will not let Growth Spurt break the people I love."
 12–22s: Frost tries to speak deeply like a man, but his voice cracks high and low.
-DIALOGUE 14–19s: Teen Frost (deep voice) "Mom, I am a grown-up now—" (voice cracks very high) "—and I can fix it MYSELF!"
-DIALOGUE 19–21s: Lily (laughing): "Sure you can, big man."
+DIALOGUE 14–19s: Frost (deep young heroic voice): "Father, guide me through Growth Spurt."
+DIALOGUE 19–21s: Frost (deep young heroic voice): "Growth Spurt is where I stand for my family."
 22–30s: Frost pulls his head out, holds a hammer, hits one nail — and the whole porch collapses. Silence. A shingle falls on his head. Final frame: Frost slowly turning to his mother with an innocent face.
-DIALOGUE 27–29s: Teen Frost (tiny voice): "...Can Hank fix it?"
+DIALOGUE 27–29s: Lily (young emotional American woman): "I have to survive Growth Spurt without losing myself."
 SFX: stretching groan, roof crash, shingles flying, bird chirp, coffee sip, voice crack, hammer tap, porch collapse, shingle bonk.
 MUSIC: upbeat comedic country-rock.
 

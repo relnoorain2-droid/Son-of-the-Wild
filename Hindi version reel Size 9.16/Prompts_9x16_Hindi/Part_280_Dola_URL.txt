@@ -11,6 +11,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: K01_DarkBigfoot.png, V04_Lily_VillageMom.png, V08_Frost_Powered.png, V11_KingMagnus_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -32,13 +33,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 The battlefield, Thorne Castle's highest tower above.
 0–3s: On the highest tower, King Magnus raises his staff. The red crystal glows brighter than ever.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 279's final image: He spins the T-rex by its jaw and throws it into the castle moat with a giant splash. The remaining dark Bigfoots look at each other... and run away. Final frame: Frost standing alone, electricity crackling, the T-rex's tail sinking in the moat. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: King Magnus (deep, menacing): "Enough games, boy."
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Red Lightning moves the story forward."
 3–12s: A huge bolt of RED lightning shoots from the tower and hits Frost in the chest. He is thrown back across the battlefield and crashes into the ground, leaving a long trench.
-DIALOGUE 6–8s: Lily (screaming from the battlefield): "FROST!"
+DIALOGUE 6–8s: Lily (young emotional American woman): "This is Red Lightning, and my heart knows the danger is real."
 12–22s: Frost tries to stand. His blue tattoos flicker on and off. The red magic crawls over his fur like chains. Dark Bigfoots that ran away come back and pile on top of him, holding him down.
-DIALOGUE 16–20s: Frost (deep, weak, straining): "My power... it's fighting me..."
+DIALOGUE 16–20s: Frost (deep young heroic voice): "I will not let Red Lightning break the people I love."
 22–30s: King Magnus laughs from the tower, his voice echoing over the whole battlefield.
-DIALOGUE 24–29s: King Magnus (booming): "Your grandfather's crystal... killing his own grandson! How poetic!"
+DIALOGUE 24–29s: King Magnus (deep rough commanding king): "Let the kingdom remember Red Lightning."
 Final frame: Frost buried under dark Bigfoots, only his flickering blue hand visible.
 SFX: crystal charging hum, a huge red lightning crack, a body thrown, a crash and dirt explosion, flickering electricity, heavy bodies piling on, the king's echoing laugh.
 MUSIC: dark, desperate orchestra, choir hitting a low note.

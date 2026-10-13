@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, K09_Wolves.png, K10_MountainLion.png, S04_OldJoeWhitaker_FULL.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -36,13 +37,13 @@ CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal 
 The Deep Wild, sunrise, golden light through the giant trees.
 0–3s: Old Scar slowly walks up to Frost, lowers his giant head, and touches his forehead to Frost's chest.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 241's final image: Suddenly three fluffy bear cubs tumble out of a hollow log and climb all over Frost, pulling his ears and fur, playing. Frost laughs. Old Scar watches. Final frame: one cub sitting on Frost's head, chewing his ear. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Frost (deep whisper, amazed): "...Thank you."
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now King of the Wild moves the story forward."
 3–14s: All around them, the animals of the Deep Wild step out of the fog: wolves, mountain lions, elk with huge antlers, bison, a bald eagle landing on a branch. One by one, they all bow their heads to Frost.
-DIALOGUE 7–11s: NARRATOR (deep cinematic Hindi trailer voice): "The wild does not follow the strongest... it follows the kindest."
+DIALOGUE 7–11s: Frost (deep young heroic voice): "King of the Wild is where I stand for my family."
 14–22s: A burning blue light runs down Frost's LEFT forearm and forms a second glowing mark, matching the first. He holds both arms up, staring.
-DIALOGUE 17–19s: Frost (deep, emotional): "Two."
+DIALOGUE 17–19s: Old Joe (old wise American man): "King of the Wild means the forest is answering."
 22–30s: Frost walks out of the Deep Wild. Old Scar walks beside him like a giant dog, the three cubs riding on his back, and the animals follow. Old Joe is waiting at the edge of the forest; his jaw drops. Final frame: Frost leading a parade of wild animals out of the forest.
-DIALOGUE 26–29s: Old Joe (slow raspy voice, smiling): "Trial two... complete. Show-off."
+DIALOGUE 26–29s: Old Joe (old wise American man): "Listen close before King of the Wild chooses you."
 SFX: soft bear breathing, animal footsteps, wolves, an eagle screech, a magical burning hum, heavy paws, cubs squeaking.
 MUSIC: majestic, emotional orchestra with choir.
 

@@ -14,6 +14,7 @@ Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: V03_Lily_Pregnant.png, V04_Lily_VillageMom.png, L06_AbandonedCabin.png, L07_Village.png, S02_MarthaHayes_FULL.png, S03_HankMiller_FULL.png, S04_OldJoeWhitaker_FULL.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -33,13 +34,13 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 Scene: Lily wakes on a muddy riverbank far from the battlefield, pregnant and alone.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 104's final image: Night. Moonlight. The log with unconscious Lily drifts gently out of the forest onto a calm river. A soft heartbeat sound starts: two heartbeats, one big, one small. Final frame: close-up of Lily's hand resting on her belly, and the belly moves gently. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: NARRATOR (sad cinematic voice): "Far from Bruno, Lily had to survive for the child he saved."
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now Riverbank Alone moves the story forward."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Lily (weak but determined): "I am still here, little one. We are still here."
+DIALOGUE 5-8s: Lily (young emotional American woman):  with everyone watching."This is Riverbank Alone, and my heart knows the danger is real."
 10-18s: Lily wakes on a muddy riverbank far from the battlefield, pregnant and alone.
-DIALOGUE 11-15s: Martha (warm older woman): "You look like you walked out of a nightmare, honey."
+DIALOGUE 11-15s: Martha (warm Southern voice): "Nobody panics during Riverbank Alone while I am here."
 18-24s: She calls Bruno's name but only hears water.
-DIALOGUE 19-23s: Lily (guarded whisper): "My husband is gone. Please... that is all I can say."
+DIALOGUE 19-23s: Hank (rough kind villager voice): "Hold steady until Riverbank Alone passes."
 24-30s: Build into the hook: She sees an abandoned cabin through fog.
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.

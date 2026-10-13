@@ -13,6 +13,7 @@ Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: V02_Lily_Forest.png, C04_Bruno_FULL.png, L03_DeepForest.png, L04_BrunoCave.png, K08_GrizzlyBear.png, K09_Wolves.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -35,13 +36,13 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 Scene: At night wolves surround Lily but do not attack yet.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 037's final image: Lily disappearing into the moonlit trees. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: NARRATOR (deep cinematic voice): "Lily escaped the castle, but the forest had its own teeth."
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now The Wolf Circle moves the story forward."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Lily (breathless, terrified): "Please... just let me live through this night."
+DIALOGUE 5-8s: Lily (young emotional American woman):  before it is too late."This is The Wolf Circle, and my heart knows the danger is real."
 10-18s: At night wolves surround Lily but do not attack yet.
-DIALOGUE 11-15s: Captain Vex (distant harsh shout): "Find her before sunrise!"
+DIALOGUE 11-15s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through The Wolf Circle."
 18-24s: She backs toward a cliff with nowhere to run.
-DIALOGUE 19-23s: Lily (whispering): "If I go back, I die. If I stay here... maybe I die too."
+DIALOGUE 19-23s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in The Wolf Circle, but Bruno stays calm."
 24-30s: Build into the hook: A huge growl silences the wolves.
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.

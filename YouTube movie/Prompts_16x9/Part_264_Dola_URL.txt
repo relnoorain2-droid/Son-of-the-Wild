@@ -9,6 +9,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S03_HankMiller_FULL.png, V08_Frost_Powered.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -30,15 +31,15 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 Daytime, the main street of another small American mountain town called Pine Ridge: a diner, a gas station, a sheriff's office.
 0–3s: Frost lands from the sky in the middle of Main Street. People scream; a sheriff draws his pistol.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 263's final image: Frost puts his glowing finger on the castle's highest tower on the map. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Sheriff (deep Southern-American voice, shaking): "Don't you move, monster!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now It's the Costume Guy! moves the story forward."
 3–12s: Hank steps out from behind Frost, raising his hands.
-DIALOGUE 4–11s: Hank (deep rural voice): "Easy, Sheriff! He's with us. The king who's been burning towns... we're going to stop him. We need help."
-DIALOGUE 11–14s: Sheriff (unconvinced): "And why should we trust a Bigfoot?"
+DIALOGUE 4–11s: Frost (deep young heroic voice): "It's the Costume Guy! is where I stand for my family."
+DIALOGUE 11–14s: Hank (rough kind villager voice): "We fix what It's the Costume Guy! broke before dark."
 12–22s: From the diner, the tourist couple from the Halloween part runs out, excited, pointing.
-DIALOGUE 14–20s: Tourist woman (excited American voice): "Honey! It's the COSTUME GUY from Cedar Hollow! He gave us the best Halloween ever!"
-DIALOGUE 20–22s: Frost (deep, embarrassed): "...Hi again."
+DIALOGUE 14–20s: Hank (rough kind villager voice): "Hold steady until It's the Costume Guy! passes."
+DIALOGUE 20–22s: Hank (rough kind villager voice): "It's the Costume Guy! needs work, not talk."
 22–30s: The sheriff lowers his gun, then looks at the burnt barn on the edge of his town — burned by the king's dragons last month.
-DIALOGUE 25–29s: Sheriff (firm): "The king burned my brother's farm. Pine Ridge rides with you."
+DIALOGUE 25–29s: Frost (deep young heroic voice): "I will not let It's the Costume Guy! break the people I love."
 Final frame: townspeople stepping forward with rifles and horses.
 SFX: landing boom, screams, pistol cock, diner door bell, excited shouting, horses.
 MUSIC: tense Western standoff, a comedic beat, then a proud heroic swell.

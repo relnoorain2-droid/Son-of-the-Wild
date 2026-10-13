@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: K03_SmallDragons.png, S07_CaptainVex_FULL.png, V12_Tommy_Adult.png, V13_Sarah_Adult.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -30,14 +31,14 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 The underground dragon pens beneath Thorne Castle, torchlight, chains.
 0–3s: Captain Vex steps out of the shadows with his axe, blocking the tunnel.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 281's final image: Frost's eyes snap open, bright blue. The red chains of magic crack. He roars and stands up, throwing the last dark Bigfoots off him in every direction. His tattoos blaze brighter than ever. Final frame: Frost standing tall, Lily beside him, Old Scar and the wolves around them. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Captain Vex (harsh voice, cruel smile): "Well, well. Rats in my dungeon."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Free the Dragons moves the story forward."
 3–12s: Tommy steps in front of Sarah, raising a pitchfork. Vex snaps it in half with one swing of his axe.
-DIALOGUE 5–8s: Tommy (shaking but brave): "You'll have to go through me!"
-DIALOGUE 8–10s: Captain Vex (laughing): "Gladly, boy."
+DIALOGUE 5–8s: Captain Vex (harsh soldier voice): "By the crown, Free the Dragons begins now."
+DIALOGUE 8–10s: Captain Vex (harsh soldier voice): "Hold the line until Free the Dragons is finished."
 12–22s: Behind them, Sarah and Rose use a big iron key ring and a hammer to break the chain on the young green dragon's leg. The chain snaps. The dragon's eyes change from red to gold.
-DIALOGUE 16–19s: Sarah (shouting): "You're FREE! Go!"
+DIALOGUE 16–19s: Captain Vex (harsh soldier voice): "The king wants Free the Dragons before dawn."
 22–30s: Vex raises his axe over Tommy — and the young green dragon blasts him with a burst of (golden) fire from behind, not burning him but launching him into a pile of hay. The dragon grabs Vex by the back of his armor and flies away with him through a hole in the cave ceiling, Vex screaming. Final frame: Tommy on the ground, staring up, the dragon flying away with Vex dangling.
-DIALOGUE 27–30s: Tommy (shocked, laughing): "Did a dragon just... take out the trash?"
+DIALOGUE 27–30s: Captain Vex (harsh soldier voice): "By the crown, Free the Dragons begins now right now."
 SFX: footsteps, a cruel laugh, a pitchfork snapping, chain hammering, a chain snapping, a happy dragon chirp, a fire burst, a hay pile thump, wing beats, Vex screaming fading away.
 MUSIC: tense villain theme, then a heroic, joyful dragon theme.
 

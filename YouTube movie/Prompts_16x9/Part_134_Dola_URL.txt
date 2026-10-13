@@ -11,6 +11,7 @@ Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L06_AbandonedCabin.png, S02_MarthaHayes_FULL.png, V04_Lily_VillageMom.png, V05_Frost_Baby.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -31,15 +32,15 @@ FROST AGE LOCK: Frost is a newborn/baby here. Use only V05_Frost_Baby.png for Fr
 Scene: Lily's small cabin, morning, baby blankets, flour sack, sunlight through wooden window.
 0-5s: Baby Frost sneezes. The sneeze blasts flour from a bowl into the air like a white cloud.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 133's final image: Frost wakes up, sees a butterfly, and chases it, stumbling on his chubby legs, then falls into a pile of flowers. He sneezes; petals explode everywhere. Final frame: Frost covered in flower petals, giggling. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: Lily (startled laugh): "Oh! Frost, sweetheart!"
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now Tiny Giant Trouble moves the story forward."
 5-12s: Martha enters and finds Lily, baby Frost, and the table covered in flour. Frost blinks innocently.
-DIALOGUE 6-10s: Martha (trying not to laugh): "Well, I asked for white flour, not a white thunderstorm."
+DIALOGUE 6-10s: Lily (young emotional American woman): "This is Tiny Giant Trouble, and my heart knows the danger is real."
 12-20s: Lily tries to scold Frost gently, but Frost smiles with tiny blue eyes and reaches for her finger.
-DIALOGUE 13-17s: Lily (fake stern): "No more giant sneezes in the kitchen."
-DIALOGUE 17-20s: Martha (soft): "Good luck teaching that to a baby built like a barrel."
+DIALOGUE 13-17s: Frost (deep young heroic voice): "I will not let Tiny Giant Trouble break the people I love."
+DIALOGUE 17-20s: Martha (warm Southern voice): "Breathe first; Tiny Giant Trouble can wait one second."
 20-27s: Frost sneezes again, softer this time, blowing flour only onto Martha's apron. Everyone goes silent.
 27-30s: Martha looks down, then laughs. Lily laughs too. Final frame: baby Frost giggling in Lily's arms.
-DIALOGUE 27-30s: Martha: "All right. He is adorable. I surrender."
+DIALOGUE 27-30s: Martha (warm Southern voice): "Tiny Giant Trouble needs steady hands, honey."
 SFX: baby sneeze boom, flour puff, soft baby giggle, Lily laugh, Martha apron flap.
 MUSIC: playful baby comedy music with warm family ending.
 SUSPENSE HOOK LOCK:

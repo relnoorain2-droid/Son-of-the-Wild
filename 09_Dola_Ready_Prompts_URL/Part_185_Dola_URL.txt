@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, L03_DeepForest.png, S03_HankMiller_FULL.png, V12_Tommy_Adult.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -28,14 +29,14 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 Afternoon, a mountain road above Cedar Hollow, a steep cliff, a logging truck driving down.
 0–3s: Rocks start falling from the mountain. A massive rockslide thunders down toward the road where Hank's pickup truck and Tommy are driving.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 184's final image: The old wooden bridge over the river cracks and collapses while a horse cart is on it. Frost jumps into the river and holds the entire bridge up on his shoulders while the cart crosses safely. Final frame: Frost standing in the river holding the bridge above his head, the sun behind him. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Tommy (young man voice, screaming): "Dad, LOOK OUT!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Rockslide moves the story forward."
 3–12s: Boulders the size of houses bounce down the slope. Frost, nearby, sprints up the road.
-DIALOGUE 6–8s: Frost (deep powerful voice): "Hank! Stop the truck!"
+DIALOGUE 6–8s: Frost (deep young heroic voice): "Rockslide is where I stand for my family."
 12–22s: Frost jumps in front of the truck and catches a giant boulder with both hands, his feet sliding back on the road. He throws it off the cliff. He punches another into pieces. He shields the truck with his back as the last rocks hit him and bounce off his fur without hurting him.
-DIALOGUE 17–19s: Frost (straining): "Not today!"
+DIALOGUE 17–19s: Hank (rough kind villager voice): "We fix what Rockslide broke before dark."
 22–30s: The dust settles. The truck is safe. Frost stands up, shakes rocks off his fur like a dog, unhurt. Hank and Tommy stare. Final frame: a huge boulder broken on Frost's back, Frost smiling.
-DIALOGUE 24–28s: Hank (stunned, deep voice): "Son... the rocks broke on YOU."
-DIALOGUE 28–30s: Frost (shrugs): "Felt like rain."
+DIALOGUE 24–28s: Hank (rough kind villager voice): "Hold steady until Rockslide passes."
+DIALOGUE 28–30s: Hank (rough kind villager voice): "Rockslide needs work, not talk."
 SFX: rumbling mountain, crashing boulders, tires screeching, heavy catch impact, feet sliding, punch shattering rock, rocks bouncing, dust settling.
 MUSIC: intense action drums and brass, with a cool heroic sting at the end.
 

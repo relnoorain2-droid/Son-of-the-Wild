@@ -10,6 +10,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L05_River.png, V03_Lily_Pregnant.png, V09_Bruno_Spirit.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -34,13 +35,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Daytime, standing in the shallow river near the cabin, sunlight on the water.
 0–3s: Lily tries to grab a salmon with her bare hands, slips and falls on her bottom with a splash.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 115's final image: The snake strikes; she blocks with the broom, sweeps it into an old bucket, slams a pan on top and kicks the bucket out of the door. She falls back onto the bed, breathing hard, then laughs. Final frame: Lily lying on the dusty bed with her hand on her belly, smiling. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (frustrated): "Oh, come ON!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Like Bruno Taught Me moves the story forward."
 3–12s: She tries again and again; the fish slip through her hands. A fish slaps her face. She laughs and almost cries.
-DIALOGUE 6–10s: Lily (to herself): "How did you make it look so easy, Bruno?"
+DIALOGUE 6–10s: Bruno (very deep gentle Bigfoot voice): "Like Bruno Taught Me means Bruno must stay gentle and close."
 12–22s: She closes her eyes. Soft memory flashback in warm golden light: Bruno standing in the river behind her, gently guiding her hands. A faint glowing outline of Bruno appears beside her.
-DIALOGUE 14–18s: Bruno (memory voice, very deep slow warm gravelly, echoing softly): "Be still. Like the river. Fish come to you."
+DIALOGUE 14–18s: Lily (young emotional American woman): "I have to survive Like Bruno Taught Me without losing myself."
 22–30s: Lily stays very still, hands in the water... and suddenly catches a big salmon. She holds it up, shocked and happy. Final frame: Lily laughing and crying, looking up at the sky.
-DIALOGUE 25–28s: Lily (happy tears): "I did it! Bruno, I did it!"
+DIALOGUE 25–28s: Lily (young emotional American woman): "After Like Bruno Taught Me, I cannot ignore the truth anymore."
 SFX: splashes, slipping, fish slap, laughter, gentle magical chime for the memory, water flowing, big catch splash.
 MUSIC: playful plucky strings, then the soft love theme from earlier parts.
 

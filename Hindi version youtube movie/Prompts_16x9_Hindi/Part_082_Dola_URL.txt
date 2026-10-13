@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C04_Bruno_FULL.png, L04_BrunoCave.png, V03_Lily_Pregnant.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -34,15 +35,15 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Inside the waterfall cave, a few months later. Lily is visibly pregnant (around 5 months), wearing a big oversized brown flannel-style wrap.
 0–3s: A loud CRASH: Bruno proudly drags in a whole small pine tree.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 081's final image: He carefully sets her down, kneels, and puts his ear on her belly like listening. He gasps. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: NARRATOR (deep trailer voice): "Months passed..."
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now A Cradle for the Baby moves the story forward."
 3–12s: Bruno tries to build a baby cradle with his giant hands; sticks keep snapping.
-DIALOGUE 5–8s: Bruno (deep, determined): "Bruno build bed for baby. Strong bed."
-DIALOGUE 9–13s: Lily (laughing, holding her belly): "Gentle, Bruno! It's for a baby, not a bear!"
+DIALOGUE 5–8s: Lily (young emotional American woman): "This is A Cradle for the Baby, and my heart knows the danger is real."
+DIALOGUE 9–13s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through A Cradle for the Baby."
 12–22s: Finally Bruno shows a lopsided but sweet wooden cradle lined with moss and flowers. He tests it by sitting in it himself — it collapses completely.
-DIALOGUE 17–19s: Bruno (deadpan): "...Bruno build another one."
+DIALOGUE 17–19s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in A Cradle for the Baby, but Bruno stays calm."
 22–30s: Lily sits beside him, takes his hand and smiles softly.
-DIALOGUE 21–27s: Lily (soft): "If it's a boy, I want him to be strong and kind... like his father."
-DIALOGUE 27–30s: Bruno (deep, emotional): "And beautiful... like his mother."
+DIALOGUE 21–27s: Bruno (very deep gentle Bigfoot voice): "A Cradle for the Baby means Bruno must stay gentle and close."
+DIALOGUE 27–30s: Lily (young emotional American woman):  now."I have to survive A Cradle for the Baby without losing myself."
 Final frame: both looking at the broken cradle, laughing.
 SFX: tree dragging crash, sticks snapping, wood creaking, cradle collapsing, laughter, waterfall in the background.
 MUSIC: playful country-folk guitar, softening into the love theme.

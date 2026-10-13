@@ -9,6 +9,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L06_AbandonedCabin.png, V03_Lily_Pregnant.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -30,14 +31,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night, inside the old cabin during a rainstorm, a small fire in the wood stove.
 0–3s: Lightning flashes; rain leaks through the roof into a bucket. Lily sits wrapped in the old quilt, talking to her belly.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 116's final image: Lily stays very still, hands in the water... and suddenly catches a big salmon. She holds it up, shocked and happy. Final frame: Lily laughing and crying, looking up at the sky. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 0–4s: Lily (soft, tired): "Don't be scared of the thunder, baby. Mama's here."
+DIALOGUE 0–4s: NARRATOR (cinematic story voice): "Now Someone's at the Door moves the story forward."
 3–14s: She hums the first line of Song 1 softly, voice shaking.
-DIALOGUE 5–10s: Lily (singing softly): "It's you and me and the wild... running free like a child..."
-DIALOGUE 10–13s: She stops, emotional: "Your papa used to sing it so badly."
+DIALOGUE 5–10s: Lily (young emotional American woman): "This is Someone's at the Door, and my heart knows the danger is real."
+DIALOGUE 10–13s: Lily (young emotional American woman): "I have to survive Someone's at the Door without losing myself."
 14–22s: Outside, heavy footsteps on the porch. A lantern light shines through the broken window. Lily freezes and grabs a burning stick from the stove.
-DIALOGUE 17–19s: Lily (whispering, scared): "Who's there?"
+DIALOGUE 17–19s: Lily (young emotional American woman): "After Someone's at the Door, I cannot ignore the truth anymore."
 22–30s: The door handle turns. A man's shadow with a shotgun appears in the doorway, lit by lightning. Final frame: Lily holding the burning stick up, the shadow stepping in.
-DIALOGUE 26–30s: Man's voice (deep rural American male, rough): "Whoever's in my granddaddy's cabin... you'd better come out slow."
+DIALOGUE 26–30s: Lily (young emotional American woman): "This is Someone's at the Door, and my heart knows the danger is real right now."
 SFX: thunder, rain, dripping into a bucket, fire crackle, soft humming, heavy boots on wood, lantern creak, door handle, a floorboard creak.
 MUSIC: soft lullaby melody, then suspense strings and a sharp hit.
 

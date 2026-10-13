@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L02_KingCastle.png, S11_Rose_FULL.png, V08_Frost_Powered.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -30,14 +31,14 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 The next morning, Thorne Castle courtyard full of sunlight. People tearing down the red banners. Freed mammoths and dragons resting outside the walls.
 0–3s: The kingdom's people pull down a giant red banner; it falls, and sunlight floods the courtyard for the first time in years.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 306's final image: Build into the hook: A bright star shaped like a giant hand glows above them. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: NARRATOR (deep cinematic Hindi trailer voice): "The kingdom of Thorne was finally free."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Not a King moves the story forward."
 3–12s: Rose and Emily (the former bride) walk up to Frost holding the king's old iron crown on a pillow. The whole crowd kneels.
-DIALOGUE 6–11s: Rose (old British voice, emotional): "The people have decided. You saved us. You should be our king."
+DIALOGUE 6–11s: Frost (deep young heroic voice): "Not a King is where I stand for my family."
 12–22s: Frost picks up the heavy crown, looks at it... and gently puts it on Rose's head instead. It's too big; it slides over her eyes. Everyone laughs.
-DIALOGUE 14–23s: Frost (deep, smiling): "I'm not a king. I'm just a guy from Cedar Hollow. You, the brides, the people who stood up — you should lead together."
-DIALOGUE 23–26s: Rose (pushing the crown up, laughing): "Well, I'll need a smaller crown."
+DIALOGUE 14–23s: Rose (old nervous castle maid): "I have seen what comes after Not a King."
+DIALOGUE 23–26s: Rose (old nervous castle maid): "If Not a King begins, you must be ready to run."
 22–30s: The crowd cheers. A freed baby dragon lands on Frost's head and refuses to leave. Final frame: Frost with a baby dragon on his head, the crowd cheering in the sunlight.
-DIALOGUE 26–30s: Frost (deep, laughing): "Okay, okay, you can come home with me too."
+DIALOGUE 26–30s: Rose (old nervous castle maid): "Remember Not a King, child. It is your warning."
 SFX: a banner tearing and falling, a cheering crowd, a crown on a pillow, kneeling, laughter, a tiny dragon chirp and flap.
 MUSIC: warm, triumphant, hopeful theme with a playful ending.
 

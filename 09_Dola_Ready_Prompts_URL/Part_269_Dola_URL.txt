@@ -9,6 +9,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: V04_Lily_VillageMom.png, V08_Frost_Powered.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -27,14 +28,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night, the last night before the march, a quiet hill above the camp, the full moon.
 0–3s: Frost finds Lily putting on an old leather jacket and boots, tying her hair back.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 268's final image: Old Joe walks up and takes the stolen map back. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Frost (deep, worried): "Mom, what are you doing?"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Through the Front Door moves the story forward."
 3–12s: Lily turns, calm and strong.
-DIALOGUE 4–6s: Lily (firm): "I'm coming with you."
-DIALOGUE 6–11s: Frost (pleading): "No. Mom, it's too dangerous. Stay here with Martha. Please."
+DIALOGUE 4–6s: Lily (young emotional American woman): "This is Through the Front Door, and my heart knows the danger is real."
+DIALOGUE 6–11s: Frost (deep young heroic voice): "I will not let Through the Front Door break the people I love."
 12–22s: Lily takes his huge glowing hand.
-DIALOGUE 13–25s: Lily (strong, emotional): "Years ago I climbed out of that castle's window in a wedding dress and ran for my life. This time, I'm walking in through the front door. Next to my son."
+DIALOGUE 13–25s: Frost (deep young heroic voice): "Father, guide me through Through the Front Door."
 22–30s: Frost looks at her for a long moment, then smiles and kneels so they're eye to eye.
-DIALOGUE 25–29s: Frost (deep, proud): "Then stay close to me, Mom. Always."
+DIALOGUE 25–29s: Frost (deep young heroic voice): "Through the Front Door is where I stand for my family."
 Final frame: mother and son forehead to forehead under the full moon.
 SFX: wind, leather jacket zipping, boots, distant campfire sounds, crickets.
 MUSIC: emotional strings, rising into a proud heroic theme.

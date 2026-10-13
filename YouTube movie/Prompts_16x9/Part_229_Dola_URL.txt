@@ -12,6 +12,7 @@ Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, V09_Bruno_Spirit.png, C06_ElderOrin_FULL.png, V04_Lily_VillageMom.png, L03_DeepForest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -32,13 +33,13 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 Scene: Frost enters Bruno's cave and feels memories in the walls.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 228's final image: Build into the hook: The token begins to glow. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: NARRATOR (mystical cinematic voice): "Frost needed more than strength. He needed the truth of his bloodline."
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now The Silent Cave moves the story forward."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Frost (deep, emotional): "Father... if you can hear me, help me protect them."
+DIALOGUE 5-8s: Bruno (very deep gentle Bigfoot voice):  while it still matters."The Silent Cave means Bruno must stay gentle and close."
 10-18s: Frost enters Bruno's cave and feels memories in the walls.
-DIALOGUE 11-15s: Bruno Spirit (echoing gentle giant voice): "Frost good son. Bruno proud."
+DIALOGUE 11-15s: Frost (deep young heroic voice): "I will not let The Silent Cave break the people I love."
 18-24s: He hears Bruno's voice but cannot see him.
-DIALOGUE 19-23s: Elder Orin (ancient echoing voice): "Power without mercy becomes another crown of cruelty."
+DIALOGUE 19-23s: Lily (young emotional American woman): "After The Silent Cave, I cannot ignore the truth anymore."
 24-30s: Build into the hook: A blue light opens deeper inside.
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.

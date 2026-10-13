@@ -10,6 +10,7 @@ Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C04_Bruno_FULL.png, L04_BrunoCave.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -28,17 +29,17 @@ LILY LOOK LOCK: Lily always looks 22-24 years old, sweet, soft fair face, big bl
 Scene: Morning inside Bruno's cave behind the waterfall, warm firelight, moss beds, forest light at the cave mouth.
 0-4s: Bruno proudly places breakfast in front of Lily: berries, roots, and one very large wiggling beetle on a leaf. Lily freezes.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 052's final image: He then proudly offers a dripping wild honeycomb instead, with a few bees buzzing around his head. He tries to stay brave while a bee stings his nose. He freezes, eyes watering. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: Bruno (deep gentle voice): "Bruno make breakfast. Best cave breakfast."
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now The First Argument moves the story forward."
 4-9s: Lily tries to smile but pushes the beetle away with one finger.
-DIALOGUE 4-7s: Lily (trying not to hurt him): "That is... very kind. But I do not eat things that wave back."
-DIALOGUE 7-9s: Bruno (hurt, quiet): "Lily not like Bruno food."
+DIALOGUE 4-7s: Bruno (very deep gentle Bigfoot voice): "The First Argument means Bruno must stay gentle and close."
+DIALOGUE 7-9s: Lily (young emotional American woman): "I have to survive The First Argument without losing myself."
 9-17s: Bruno turns away like an offended giant child, sitting with his back to her. Lily realizes she hurt his feelings.
-DIALOGUE 10-14s: Lily (soft apology): "Hey. I did not mean it like that."
-DIALOGUE 14-17s: Bruno (stubborn): "Bruno fine. Bruno not sad."
+DIALOGUE 10-14s: Lily (young emotional American woman): "After The First Argument, I cannot ignore the truth anymore."
+DIALOGUE 14-17s: Lily (young emotional American woman): "This is The First Argument, and my heart knows the danger is real."
 17-25s: Lily sits beside him and eats one berry dramatically. Bruno peeks at her, still pretending to be angry.
-DIALOGUE 18-22s: Lily (playful): "See? I trust the berries. Just not the dancing bug."
+DIALOGUE 18-22s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through The First Argument."
 25-30s: Bruno snorts a laugh, then carefully flicks the beetle outside. Lily laughs too. Final frame: both eating berries by the fire.
-DIALOGUE 25-29s: Bruno (gentle): "No dancing bug for Lily."
+DIALOGUE 25-29s: Lily (young emotional American woman): "After The First Argument, I cannot ignore the truth anymore right now."
 SFX: waterfall rumble, tiny beetle legs, fire crackle, Bruno snort laugh, Lily giggle.
 MUSIC: warm playful acoustic strings with soft comedy beats.
 SUSPENSE HOOK LOCK:

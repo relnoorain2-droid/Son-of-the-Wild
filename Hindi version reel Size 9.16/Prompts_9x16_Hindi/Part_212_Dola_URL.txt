@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, S02_MarthaHayes_FULL.png, S03_HankMiller_FULL.png, V12_Tommy_Adult.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -31,14 +32,14 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 Daytime montage in Cedar Hollow, everyone preparing for battle.
 0–3s: Frost pushes giant tree trunks into the ground one after another, building a tall log wall around the village like a fort.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 211's final image: The church doors burst open — Frost ducks inside, the whole building creaking. He stands beside his mother. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–5s: NARRATOR (deep cinematic Hindi trailer voice): "Cedar Hollow had seven days to get ready for war."
+DIALOGUE 1–5s: NARRATOR (cinematic story voice): "Now Getting Ready moves the story forward."
 3–12s: Tommy and the young men dig deep pits and cover them with branches. Hank pours buckets of slippery bacon grease onto a muddy hill road.
-DIALOGUE 6–9s: Tommy (young man voice, grinning): "Mammoths on grease. This I gotta see."
+DIALOGUE 6–9s: Frost (deep young heroic voice): "Getting Ready is where I stand for my family."
 12–22s: Martha sits on her porch sharpening... a big cast-iron frying pan, very seriously, with a whetstone. Frost stares at her.
-DIALOGUE 15–18s: Frost (deep voice, confused): "Grandma... you can't sharpen a frying pan."
-DIALOGUE 18–21s: Martha (warm Southern voice, dead serious): "Watch me, sugar."
+DIALOGUE 15–18s: Martha (warm Southern voice): "Nobody panics during Getting Ready while I am here."
+DIALOGUE 18–21s: Hank (rough kind villager voice): "Hold steady until Getting Ready passes."
 22–30s: Frost practices his lightning: he aims at a row of tin cans on a fence; the bolt misses and blows up Hank's outhouse instead. Hank comes out of the smoke with his newspaper. Final frame: everyone frozen, staring at Hank.
-DIALOGUE 27–29s: Hank (deadpan, covered in soot): "...I was IN there."
+DIALOGUE 27–29s: Hank (rough kind villager voice): "Getting Ready needs work, not talk."
 SFX: logs thudding into the ground, shovels digging, grease splashing, whetstone scraping metal, electric zap, outhouse explosion, newspaper rustle.
 MUSIC: upbeat training-montage rock with country guitar, comedic sting at the end.
 

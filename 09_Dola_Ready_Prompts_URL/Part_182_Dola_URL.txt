@@ -11,6 +11,7 @@ Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L07_Village.png, S06_SarahMiller_FULL.png, V04_Lily_VillageMom.png, V07_Frost_Teen.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -27,16 +28,16 @@ FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07
 Scene: Cedar Hollow town square before the harvest dance, lanterns, wooden stage, flower garlands, sunset.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 181's final image: the whole town in one big hug. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 0-5s: Frost carries too many lantern poles at once to help decorate. He trips and knocks down half the dance garlands.
-DIALOGUE 1-4s: Sarah (teen girl, shocked): "Frost!"
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now Dance Floor Apology moves the story forward."
 5-12s: Frost gets embarrassed and defensive as villagers stare.
-DIALOGUE 5-9s: Frost (upset): "I was trying to help."
-DIALOGUE 9-12s: Lily (gentle but firm): "Then help by fixing it, not by hiding."
+DIALOGUE 5-9s: Lily (young emotional American woman): "This is Dance Floor Apology, and my heart knows the danger is real."
+DIALOGUE 9-12s: Frost (deep young heroic voice): "I will not let Dance Floor Apology break the people I love."
 12-20s: Frost walks away angry, then sees Sarah quietly gathering broken flowers alone.
-DIALOGUE 14-18s: Sarah (soft): "You do not have to be small to be careful."
+DIALOGUE 14-18s: Sarah (young village woman): "The town has to understand Dance Floor Apology."
 20-27s: Frost returns and builds a beautiful flower arch higher than any ladder could reach.
-DIALOGUE 21-25s: Frost (sincere): "I am sorry. I got mad because I felt foolish."
+DIALOGUE 21-25s: Sarah (young village woman): "Dance Floor Apology does not feel ordinary."
 27-30s: Sarah smiles, Lily nods proudly, villagers cheer. Final frame: lanterns glowing under Frost's tall flower arch.
-DIALOGUE 27-30s: Lily: "That is how a strong heart apologizes."
+DIALOGUE 27-30s: Lily (young emotional American woman): "I have to survive Dance Floor Apology without losing myself."
 SFX: poles clattering, crowd gasp, flowers rustling, hammer taps, cheering.
 MUSIC: soft Americana dance tune growing warm and proud.
 SUSPENSE HOOK LOCK:

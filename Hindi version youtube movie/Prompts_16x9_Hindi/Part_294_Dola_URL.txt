@@ -10,6 +10,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: K02_RedDragon.png, V08_Frost_Powered.png, V11_KingMagnus_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -35,13 +36,13 @@ CAST NOTE: the Great Red Dragon = three times bigger than any other dragon, dark
 The sky above Thorne Castle, dark storm clouds and fire, the battlefield far below.
 0–3s: Frost launches into the sky like a blue rocket toward the gigantic Great Red Dragon.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 293's final image: The women put Damian in the same iron chains the king used for the dragons and lead him away to the castle — to the old bedroom with the names on the wall. Lily watches, tears in her eyes. Final frame: the women walking away with Damian in chains, the sun breaking through the smoke behind them. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Frost (deep, roaring): "MAGNUS! IT'S JUST YOU AND ME NOW!"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Lightning vs Fire moves the story forward."
 3–12s: The Great Red Dragon breathes a massive river of fire at him. Frost fires a giant bolt of blue lightning back. Fire and lightning meet in the middle of the sky in a huge explosion of red and blue light.
-DIALOGUE 7–10s: King Magnus (on the dragon's head, laughing): "Your father screamed like that too!"
+DIALOGUE 7–10s: Frost (deep young heroic voice): "Lightning vs Fire is where I stand for my family."
 12–22s: Frost flies through the explosion, dodging the dragon's snapping jaws, and blasts lightning into its wing. The dragon spins and roars in rage.
-DIALOGUE 16–20s: Frost (shouting): "My father never screamed! He saved everyone he loved!"
+DIALOGUE 16–20s: King Magnus (deep rough commanding king): "No one defies me after Lightning vs Fire."
 22–30s: The dragon recovers and swings around; Frost and the dragon circle each other above the clouds, the sun setting behind them. Final frame: a giant red dragon vs a glowing blue giant, face to face in the sky.
-DIALOGUE 27–29s: King Magnus (cold): "Then you'll die like him."
+DIALOGUE 27–29s: King Magnus (deep rough commanding king): "Let the kingdom remember Lightning vs Fire."
 SFX: a rocket launch boom, wind, a massive fire breath, a lightning crack, a huge explosion in the sky, jaws snapping, a wing blast, a dragon roar, wind howling.
 MUSIC: epic sky-battle orchestra with huge drums and a heroic choir.
 

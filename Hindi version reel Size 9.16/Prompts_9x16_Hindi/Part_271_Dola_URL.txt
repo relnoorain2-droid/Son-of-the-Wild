@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S04_OldJoeWhitaker_FULL.png, S11_Rose_FULL.png, V04_Lily_VillageMom.png, V08_Frost_Powered.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -32,14 +33,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Epic march montage through the Pacific Northwest: redwood forests, river crossings, mountain passes, from sunrise to sunset.
 0–3s: Aerial drone shot: a huge army moving through the giant redwood forest, Frost glowing at the front, Lily beside him on a big elk.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 270's final image: wide shot of the huge army cheering under the sunrise. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: NARRATOR (deep cinematic Hindi trailer voice): "They marched for three days."
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The March moves the story forward."
 3–12s: Bison pull wagons across a river; bears carry supply crates; eagles fly scouting above. Kids from the villages wave goodbye from a hill.
-DIALOGUE 6–9s: Old Joe (riding in a wagon, to Rose): "Never thought I'd live to see this."
-DIALOGUE 9–11s: Rose (old British voice, smiling): "Neither did I, love."
+DIALOGUE 6–9s: Lily (young emotional American woman): "This is The March, and my heart knows the danger is real."
+DIALOGUE 9–11s: Frost (deep young heroic voice): "I will not let The March break the people I love."
 12–22s: Night: they pass small, poor villages of the king's kingdom. Frightened people peek from windows... then one by one, they light lanterns and put them in their windows: a secret sign of support.
-DIALOGUE 15–19s: Lily (amazed, emotional): "Frost, look. They're lighting lanterns for us."
+DIALOGUE 15–19s: Rose (old nervous castle maid): "If The March begins, you must be ready to run."
 22–30s: Some of the kingdom's villagers step out and join the march with farm tools. The army grows bigger. Final frame: a long line of lanterns stretching behind the army into the dark.
-DIALOGUE 26–29s: Frost (deep, moved): "The people are rising."
+DIALOGUE 26–29s: Old Joe (old wise American man): "I have heard old stories about The March."
 SFX: marching thousands, animal footsteps, wagon wheels, river splashing, eagle cries, lanterns lighting, quiet voices joining.
 MUSIC: a heroic marching theme with drums and a slow-building choir.
 

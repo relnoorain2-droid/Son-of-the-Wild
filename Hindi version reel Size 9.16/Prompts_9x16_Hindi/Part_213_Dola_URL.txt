@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, K08_GrizzlyBear.png, K09_Wolves.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -32,14 +33,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night, the roof of Lily's cabin, a huge full moon rising over the mountains.
 0–3s: Frost and Lily sit on the roof watching the giant full moon rise.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 212's final image: Frost practices his lightning: he aims at a row of tin cans on a fence; the bolt misses and blows up Hank's outhouse instead. Hank comes out of the smoke with his newspaper. Final frame: everyone frozen, staring at Hank. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–5s: Lily (soft): "Your father and I used to watch the stars like this."
+DIALOGUE 1–5s: NARRATOR (cinematic story voice): "Now The Full Moon moves the story forward."
 3–12s: Lily takes his huge hand.
-DIALOGUE 5–10s: Lily (emotional): "Whatever happens tomorrow, remember what he always said: strong hands... gentle heart."
-DIALOGUE 10–12s: Frost (deep, soft): "I remember, Mom."
+DIALOGUE 5–10s: Lily (young emotional American woman): "This is The Full Moon, and my heart knows the danger is real."
+DIALOGUE 10–12s: Frost (deep young heroic voice): "I will not let The Full Moon break the people I love."
 12–22s: Howls echo from the forest. Out of the trees come dozens of wolves, two grizzly bears, elk and mountain lions, gathering silently around the log wall, glowing eyes in the moonlight. Frost's eyes glow blue; he smiles.
-DIALOGUE 16–20s: Frost (deep, moved): "They came. They came to fight with us."
+DIALOGUE 16–20s: Frost (deep young heroic voice): "Father, guide me through The Full Moon."
 22–30s: Far away over the hills, war horns blow. Torches appear by the hundreds along the ridge. Dragons' fiery breath lights up the sky. Final frame: Frost standing up on the roof, the full moon behind him, facing the coming army.
-DIALOGUE 26–29s: Frost (deep, calm, ready): "Here they come."
+DIALOGUE 26–29s: Frost (deep young heroic voice): "The Full Moon is where I stand for my family."
 SFX: night crickets, wolves howling, bear grunts, animal footsteps, war horns, distant dragon roars.
 MUSIC: soft emotional strings, then a magical choir for the animals, then deep war drums.
 

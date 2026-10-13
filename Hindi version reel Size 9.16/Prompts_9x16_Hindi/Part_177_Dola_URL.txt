@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L07_Village.png, S03_HankMiller_FULL.png, V07_Frost_Teen.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -30,14 +31,14 @@ FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07
 Daytime, a dirt road outside Cedar Hollow, an old red pickup truck.
 0–3s: Teen Frost squeezes into the driver's seat of Hank's old pickup truck. His head pushes through the roof, his knees around his ears.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 176's final image: The crowd explodes in cheers. The lumberjacks' jaws drop. One of them faints. Frost receives a giant blue-ribbon trophy and grins shyly. Final frame: Frost holding the tiny trophy in his huge hand. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Hank (deep rural voice, nervous, in the passenger seat): "Okay, son. Nice and easy."
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Driving Lesson moves the story forward."
 3–12s: Frost carefully touches the gas pedal with one huge toe. The truck rockets forward. Hank screams.
-DIALOGUE 5–7s: Hank (screaming): "EASY, I SAID EASY!"
-DIALOGUE 7–9s: Teen Frost (panicked, voice cracking): "This IS easy!"
+DIALOGUE 5–7s: Frost (deep young heroic voice): "Driving Lesson is where I stand for my family."
+DIALOGUE 7–9s: Hank (rough kind villager voice): "We fix what Driving Lesson broke before dark."
 12–22s: The truck bounces through a cornfield, corn flying everywhere, through a farmer's laundry line (a shirt lands on Hank's face), and through a small creek.
-DIALOGUE 16–19s: Teen Frost: "Which one is the brake?!"
+DIALOGUE 16–19s: Hank (rough kind villager voice): "Hold steady until Driving Lesson passes."
 22–30s: The truck flies into a giant haystack and stops. Silence. Hay everywhere. Hank slowly climbs out, covered in hay, and lies down on the grass. Frost lifts the whole truck out of the haystack with both hands. Final frame: Frost holding the truck above his head.
-DIALOGUE 26–29s: Teen Frost (proud): "Good news! I found the brake!"
+DIALOGUE 26–29s: Hank (rough kind villager voice): "Driving Lesson needs work, not talk."
 SFX: engine roar, tires spinning, screaming, corn stalks breaking, laundry flapping, water splash, hay explosion, silence, metal creaking.
 MUSIC: fast comedic country chase music.
 

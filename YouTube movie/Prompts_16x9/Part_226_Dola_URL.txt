@@ -13,6 +13,7 @@ Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, V04_Lily_VillageMom.png, L07_Village.png, S02_MarthaHayes_FULL.png, S05_TommyMiller_FULL.png, S06_SarahMiller_FULL.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -33,13 +34,13 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 Scene: Old Joe reveals Bruno came from an ancient Bigfoot bloodline.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 225's final image: Frost and Lily look at him. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: NARRATOR (bright cinematic voice): "Frost grew larger than every fear around him."
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now Old Joe's Secret moves the story forward."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Frost (young deep voice, kind): "I can help. Tell me what to lift."
+DIALOGUE 5-8s: Lily (young emotional American woman):  tonight."This is Old Joe's Secret, and my heart knows the danger is real."
 10-18s: Old Joe reveals Bruno came from an ancient Bigfoot bloodline.
-DIALOGUE 11-15s: Old Joe (raspy wise voice): "That is why he grew so fast. Bruno's ancient Bigfoot blood woke up inside him."
+DIALOGUE 11-15s: Frost (deep young heroic voice): "I will not let Old Joe's Secret break the people I love."
 18-24s: He says Elder Orin's power sleeps in Frost.
-DIALOGUE 19-23s: Frost (deep stunned voice): "Then my size was never a curse?"
+DIALOGUE 19-23s: Martha (warm Southern voice): "Breathe first; Old Joe's Secret can wait one second."
 24-30s: Build into the hook: Frost looks toward the deep forest.
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.

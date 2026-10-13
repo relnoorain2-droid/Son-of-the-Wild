@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L05_River.png, S02_MarthaHayes_FULL.png, V04_Lily_VillageMom.png, V05_Frost_Baby.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -32,14 +33,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Spring montage by the river near the cabin, sunny, flowers blooming.
 0–3s: Lily tries to give baby Frost a bath in a wooden tub; he splashes so hard that Lily is completely soaked.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 132's final image: Martha takes the baby in her arms and rocks him gently. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (laughing, dripping): "Frost! Every single time!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Bath Time moves the story forward."
 3–12s: Frost crawls out of the tub, grabs a young pine tree and pulls it out of the ground, roots and all, then looks proud.
-DIALOGUE 6–10s: NARRATOR (deep cinematic trailer voice): "Frost was growing fast... and getting stronger every day."
-DIALOGUE 10–13s: Lily (hands on hips): "Put the tree back, young man."
+DIALOGUE 6–10s: Lily (young emotional American woman): "This is Bath Time, and my heart knows the danger is real."
+DIALOGUE 10–13s: Frost (deep young heroic voice): "I will not let Bath Time break the people I love."
 12–22s: Martha babysits; she reads a picture book to Frost on the porch. He falls asleep on her lap and starts snoring loudly like a bear, shaking the porch.
-DIALOGUE 16–19s: Martha (whispering, amused Southern voice): "Lord, he snores like my late husband."
+DIALOGUE 16–19s: Martha (warm Southern voice): "Breathe first; Bath Time can wait one second."
 22–30s: Frost wakes up, sees a butterfly, and chases it, stumbling on his chubby legs, then falls into a pile of flowers. He sneezes; petals explode everywhere. Final frame: Frost covered in flower petals, giggling.
-DIALOGUE 27–29s: Lily (laughing): "Bless you, baby!"
+DIALOGUE 27–29s: Martha (warm Southern voice): "Bath Time needs steady hands, honey."
 SFX: splashing, laughing, roots ripping, tree thump, page turning, loud snoring, wooden porch creaking, giggles, sneeze, petals.
 MUSIC: bright happy country-folk with banjo and whistling.
 

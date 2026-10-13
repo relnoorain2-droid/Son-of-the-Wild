@@ -14,6 +14,7 @@ Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L02_KingCastle.png, C02_KingMagnus_FULL.png, C03_PrinceDamian_FULL.png, S08_KingdomGuards_FULL.png, S09_Brides_FULL.png, S11_Rose_FULL.png, L03_DeepForest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
@@ -33,13 +34,13 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 Scene: Nobles raise glasses while Damian calls the bride his queen for one night.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 006's final image: Build into the hook: A maid drops a cup in fear. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: NARRATOR (deep cinematic American trailer voice): "In Thorne Kingdom, every smile hid a royal secret."
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now The Royal Toast moves the story forward."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Prince Damian (smooth cold voice): "Do not be afraid. The crown only chooses what belongs to it."
+DIALOGUE 5-8s: Prince Damian (smooth cold prince voice):  now."The Royal Toast will look like kindness if you obey."
 10-18s: Nobles raise glasses while Damian calls the bride his queen for one night.
-DIALOGUE 11-15s: First Bride (frightened young American woman): "Why is everyone looking at me like goodbye?"
+DIALOGUE 11-15s: Rose (old nervous castle maid): "I have seen what comes after The Royal Toast."
 18-24s: The bride asks why everyone keeps avoiding her eyes.
-DIALOGUE 19-23s: King Magnus (deep rough commanding voice): "The tradition continues before sunrise."
+DIALOGUE 19-23s: King Magnus (deep rough commanding king): "Let the kingdom remember The Royal Toast."
 24-30s: Build into the hook: Damian says, 'Tomorrow I will show you our private forest.'
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.

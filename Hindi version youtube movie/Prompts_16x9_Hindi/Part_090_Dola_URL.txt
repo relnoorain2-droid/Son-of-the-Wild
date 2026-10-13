@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C04_Bruno_FULL.png, K01_DarkBigfoot.png, V03_Lily_Pregnant.png, V10_Damian_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -35,13 +36,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 The valley in front of the waterfall, dust, smoke, daylight.
 0–3s: Prince Damian points his sword.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 089's final image: Build into the hook: A soldier's horn sounds outside. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 0–2s: Prince Damian (arrogant shout): "Kill him!"
+DIALOGUE 0–2s: NARRATOR (cinematic story voice): "Now Bruno vs the Dark Bigfoots moves the story forward."
 3–14s: Five dark Bigfoots with red eyes charge Bruno at once. Bruno grabs the first one and throws it into the second, ducks a punch, and slams a third into the ground with both fists.
-DIALOGUE 7–9s: Bruno (deep roaring voice): "Bruno protect family!"
+DIALOGUE 7–9s: Bruno (very deep gentle Bigfoot voice): "Bruno vs the Dark Bigfoots means Bruno must stay gentle and close."
 14–22s: Two grab his arms from behind. Bruno roars, flexes, and smashes them together, then spins and kicks the last one into the river.
-DIALOGUE 16–18s: Lily (from inside the cave, crying out): "Bruno, be careful!"
+DIALOGUE 16–18s: Lily (young emotional American woman): "I have to survive Bruno vs the Dark Bigfoots without losing myself."
 22–30s: Five dark Bigfoots lie groaning around him. Bruno breathes hard, steam rising from his black fur. The soldiers step back in fear. Damian's horse rears up.
-DIALOGUE 25–28s: Prince Damian (nervous, trying to sound brave): "...Send in the T-rex."
+DIALOGUE 25–28s: Prince Damian (smooth cold prince voice): "By tomorrow, Bruno vs the Dark Bigfoots will feel like destiny."
 Final frame: the T-rex's giant head lowering behind Bruno, roaring.
 SFX: heavy footsteps, punches and body slams, roars, ground cracks, splash, groaning, horse neigh, T-rex roar.
 MUSIC: intense heroic action drums and brass.

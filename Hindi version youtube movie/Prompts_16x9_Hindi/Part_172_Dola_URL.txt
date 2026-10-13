@@ -9,6 +9,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L07_Village.png, V07_Frost_Teen.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -34,13 +35,13 @@ CAST NOTE: Tommy = a teenage boy (about 17), messy brown hair, freckles, red cap
 Afternoon, a grassy field next to Cedar Hollow's wooden water tower.
 0–3s: Teen Frost and Tommy, now a teenager (about 17, messy brown hair, freckles, red cap), play American football. Tommy throws; Frost catches the ball and runs.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 171's final image: Frost ducking proudly. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Tommy (teen boy voice): "Go long, Frost! GO LONG!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now I Break Everything moves the story forward."
 3–12s: Frost runs too fast, can't stop, and crashes straight into the town water tower. The tower tips over in slow motion.
-DIALOGUE 6–8s: Teen Frost (panicked, voice cracking): "No no no no no!"
+DIALOGUE 6–8s: Frost (deep young heroic voice): "I Break Everything is where I stand for my family."
 12–22s: A huge wave of water floods Main Street: a man on a bicycle gets washed away (laughing, safe), chickens float by in a bucket, Martha's laundry flies everywhere. Villagers, soaked, stare at Frost.
-DIALOGUE 15–18s: Villager man (angry, dripping): "FROST! That's the third time this month!"
+DIALOGUE 15–18s: Frost (deep young heroic voice): "I will not let I Break Everything break the people I love."
 22–30s: Frost walks away alone, sits by the river, and drops the football. His face is sad.
-DIALOGUE 24–28s: Teen Frost (quiet, sad): "I'm too big. Too strong. I break everything I touch."
+DIALOGUE 24–28s: Frost (deep young heroic voice): "Father, guide me through I Break Everything."
 Final frame: Frost's reflection in the river, looking lonely.
 SFX: football throw, running thuds, wood cracking, tower crash, a huge water wave, bicycle bell, chickens clucking, angry shouting, river flowing.
 MUSIC: energetic sports music, a comedic crash, then soft sad guitar.

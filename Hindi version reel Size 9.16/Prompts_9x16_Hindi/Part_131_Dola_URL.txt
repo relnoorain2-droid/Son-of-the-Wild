@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L06_AbandonedCabin.png, S02_MarthaHayes_FULL.png, V04_Lily_VillageMom.png, V05_Frost_Baby.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -32,14 +33,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Inside the cabin, morning.
 0–3s: Lily quickly hides baby Frost in a laundry basket under a pile of clothes and opens the door with a huge fake smile.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 130's final image: Knock, knock, knock. Lily freezes. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (nervous): "Martha! Hi! What a surprise!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The Socks Fit moves the story forward."
 3–12s: Martha walks in with a pot of soup and sees Lily is no longer pregnant.
-DIALOGUE 5–10s: Martha (warm Southern voice, shocked): "Lily! You had the baby? All alone? Why didn't you call me?"
-DIALOGUE 10–12s: Lily (nervous): "It... happened fast."
+DIALOGUE 5–10s: Lily (young emotional American woman): "This is The Socks Fit, and my heart knows the danger is real."
+DIALOGUE 10–12s: Frost (deep young heroic voice): "I will not let The Socks Fit break the people I love."
 12–22s: Martha looks around excitedly. The laundry basket moves. A tiny white furry foot pokes out wearing one of the EXTRA BIG socks Martha knitted. Martha slowly looks at it.
-DIALOGUE 16–18s: Martha (confused): "...Is that my sock?"
+DIALOGUE 16–18s: Martha (warm Southern voice): "Breathe first; The Socks Fit can wait one second."
 22–30s: Frost pops his head out of the clothes, a shirt on his head, and makes a tiny happy grunt. Martha drops the soup pot. She stares for a long moment. Final frame: Martha's glasses sliding down her nose.
-DIALOGUE 26–29s: Martha (in a tiny shocked voice): "Well... I guess the socks fit."
+DIALOGUE 26–29s: Martha (warm Southern voice): "The Socks Fit needs steady hands, honey."
 SFX: rustling clothes, door opening, basket wobbling, tiny grunt, soup pot clang, dramatic silence.
 MUSIC: sneaky comedic pizzicato, stopping dead for the reveal, then one comedic note.
 

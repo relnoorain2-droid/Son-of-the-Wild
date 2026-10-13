@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S03_HankMiller_FULL.png, S04_OldJoeWhitaker_FULL.png, S06_SarahMiller_FULL.png, V06_Frost_Kid.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -31,13 +32,13 @@ FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient f
 Late afternoon in Cedar Hollow, near the general store.
 0–3s: A huge grizzly bear smashes through a fence into the village street. People scream and run.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 151's final image: The ball finally falls from the sky and lands right in Frost's hand. The crowd goes wild. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Villager woman (screaming): "BEAR! Get inside!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The Bear Whisperer moves the story forward."
 3–12s: The bear roars at little Sarah, who is frozen in the middle of the street. Hank runs for his shotgun. Kid Frost steps in front of Sarah.
-DIALOGUE 7–9s: Hank (shouting): "Frost, get away from it!"
+DIALOGUE 7–9s: Frost (deep young heroic voice): "The Bear Whisperer is where I stand for my family."
 12–22s: Frost doesn't fight. He looks into the bear's eyes. His own eyes glow softly blue for a moment. He speaks calmly; we hear a low, soft rumbling sound like an animal language, and the bear slowly stops roaring.
-DIALOGUE 14–19s: Kid Frost (calm young boy voice): "Hey, big guy. You're just hungry, huh? Nobody wants to hurt you."
+DIALOGUE 14–19s: Hank (rough kind villager voice): "We fix what The Bear Whisperer broke before dark."
 22–30s: The bear sniffs Frost's hand, lies down, and lets Sarah pet its nose. Frost gives the bear a basket of apples from the store. Everyone watches in total silence. Final frame: the grizzly walking calmly back into the forest with an apple in its mouth.
-DIALOGUE 25–29s: Old Joe (from the porch, slow raspy voice): "He speaks to the wild... just like the old legends."
+DIALOGUE 25–29s: Old Joe (old wise American man): "Listen close before The Bear Whisperer chooses you."
 SFX: fence crash, screams, roar, running, a soft magical hum, low gentle rumbling, sniffing, apple crunch.
 MUSIC: tense drums, then a magical soft choir and gentle strings.
 

@@ -14,6 +14,7 @@ Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: V03_Lily_Pregnant.png, V04_Lily_VillageMom.png, L06_AbandonedCabin.png, L07_Village.png, S02_MarthaHayes_FULL.png, S03_HankMiller_FULL.png, S04_OldJoeWhitaker_FULL.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -36,13 +37,13 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 Scene: Lily chooses not to call the villagers because she fears what they will see.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 123's final image: Vex's eyes move to the barrels. He steps closer. Hank appears at the door, his shotgun pointed at the floor — and this time the whole village stands behind him with pitchforks and shovels. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: NARRATOR (sad cinematic voice): "Far from Bruno, Lily had to survive for the child he saved."
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now No One Must Know moves the story forward."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Lily (weak but determined): "I am still here, little one. We are still here."
+DIALOGUE 5-8s: Lily (young emotional American woman):  tonight."This is No One Must Know, and my heart knows the danger is real."
 10-18s: Lily chooses not to call the villagers because she fears what they will see.
-DIALOGUE 11-15s: Martha (warm older woman): "You look like you walked out of a nightmare, honey."
+DIALOGUE 11-15s: Martha (warm Southern voice): "Nobody panics during No One Must Know while I am here."
 18-24s: She prepares the cabin alone.
-DIALOGUE 19-23s: Lily (guarded whisper): "My husband is gone. Please... that is all I can say."
+DIALOGUE 19-23s: Hank (rough kind villager voice): "Hold steady until No One Must Know passes."
 24-30s: Build into the hook: A baby cry begins before dawn.
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.

@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S03_HankMiller_FULL.png, S04_OldJoeWhitaker_FULL.png, S06_SarahMiller_FULL.png, V05_Frost_Baby.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -36,15 +37,15 @@ CAST NOTE: Tommy = a cheerful boy (10–14), messy brown hair, freckles, red cap
 Dusk at the forest edge near the cabin, torches.
 0–3s: From a tree branch above, a mountain lion leaps down toward little Sarah.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 140's final image: Villagers slowly lower their pitchforks. Some women wipe their eyes. Hank lowers his pitchfork completely. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Hank (screaming): "SARAH!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The First Roar moves the story forward."
 3–12s: Slow motion: before anyone can move, baby Frost jumps in front of Sarah and lets out a ROAR — not a squeak this time, but a deep powerful roar. For one second his blue eyes glow and tiny blue sparks crackle in his fur.
 12–20s: The mountain lion freezes mid-air, lands, and runs away in terror into the forest. Everyone stares, stunned. Frost sits down, sneezes, and looks proud.
-DIALOGUE 14–17s: Tommy (shocked young boy): "Whoa... he SAVED her!"
-DIALOGUE 17–19s: Sarah (hugging him): "My hero!"
+DIALOGUE 14–17s: Frost (deep young heroic voice): "The First Roar is where I stand for my family."
+DIALOGUE 17–19s: Hank (rough kind villager voice): "We fix what The First Roar broke before dark."
 20–30s: The crowd erupts in cheers. Hank kneels down and gently pats Frost's head.
-DIALOGUE 22–25s: Hank (deep friendly voice, smiling): "Welcome to Cedar Hollow, little fella."
+DIALOGUE 22–25s: Old Joe (old wise American man): "Listen close before The First Roar chooses you."
 In the back, Old Joe leans on his stick, staring at the fading blue sparks.
-DIALOGUE 27–30s: Old Joe (slow raspy wise voice, whispering): "Blue fire... the blood of Orin is awake."
+DIALOGUE 27–30s: Sarah (young village woman): "The First Roar does not feel ordinary."
 Final frame: close-up of Old Joe's serious eyes.
 SFX: mountain lion screech, slow-motion whoosh, powerful roar, electric crackle, big cat running away, cheers, sneeze.
 MUSIC: epic heroic swell, then a happy cheer moment, ending on a mysterious magical tone.

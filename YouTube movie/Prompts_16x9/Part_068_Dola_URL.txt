@@ -12,6 +12,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C01_Lily_FULL.png, C04_Bruno_FACE.png, C04_Bruno_FULL.png, L04_BrunoCave.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -33,7 +34,7 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Sunset to night montage around the waterfall cave and a hilltop overlooking the forest.
 0–3s: Bruno and Lily sit on a hilltop watching a huge orange sunset, Lily leaning on his arm.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 067's final image: both laughing in the sunny meadow. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 0–3s: Lily (soft): "I never want this day to end."
+DIALOGUE 0–3s: NARRATOR (cinematic story voice): "Now Big Old Hands moves the story forward."
 3–25s: Lily SINGS, soft and sweet, lip-synced, with Bruno humming deeply:
   3–11s: "Big old hands and a gentle heart, the forest knew we'd never be apart."
   — Shots: Bruno teaching Lily to catch a fish with her hands; she falls in, he laughs a deep belly laugh.
@@ -42,10 +43,10 @@ DIALOGUE 0–3s: Lily (soft): "I never want this day to end."
   19–25s: "...no one can find us here, you and me and the wild."
   — Shots: by the campfire, Lily braids little flowers into Bruno's black fur; he pretends to be annoyed but smiles.
 25–30s: Bruno looks at her with soft eyes.
-DIALOGUE 26–29s: Bruno (deep warm voice, shy): "Before Lily... Bruno was alone. Now Bruno is... happy."
+DIALOGUE 26–29s: Lily (young emotional American woman): "This is Big Old Hands, and my heart knows the danger is real."
 Final frame: Lily smiling with tears in her eyes, firelight on both faces.
-DIALOGUE 8-11s: Lily (soft, smiling): "Your hands are big... but they are gentle."
-DIALOGUE 14-17s: Bruno (deep careful voice): "Bruno careful with Lily. Always."
+DIALOGUE 8-11s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through Big Old Hands."
+DIALOGUE 14-17s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in Big Old Hands, but Bruno stays calm."
 SFX: crickets, fireflies' soft hum (magical), splash, Bruno's belly laugh, fire crackle.
 MUSIC: same song melody, gentle acoustic guitar and soft strings, slowing down at the end.
 

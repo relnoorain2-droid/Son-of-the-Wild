@@ -10,6 +10,7 @@ Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, L06_AbandonedCabin.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -33,17 +34,17 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 Scene: Night inside Lily's cabin, full moon light through the window, map on table, distant thunder over the forest.
 0-5s: Frost packs a rope, an axe, and a blanket, determined to face King Magnus alone.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 209's final image: Captain Vex (cold): "By the next full moon, beast. Or we come back... with every dragon the king owns." Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: Lily (alarmed): "Where do you think you are going?"
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now Mother and Son Fight moves the story forward."
 5-12s: Frost turns, angry and scared under the anger.
-DIALOGUE 5-9s: Frost (deep young adult voice): "To end this before he hurts anyone else."
-DIALOGUE 9-12s: Lily (firm): "You are not walking into the king's trap."
+DIALOGUE 5-9s: Lily (young emotional American woman): "This is Mother and Son Fight, and my heart knows the danger is real."
+DIALOGUE 9-12s: Frost (deep young heroic voice): "I will not let Mother and Son Fight break the people I love."
 12-20s: Frost slams his hand on the table, cracking it. He instantly regrets scaring her.
-DIALOGUE 13-17s: Frost: "I am not a child anymore!"
-DIALOGUE 17-20s: Lily (voice shaking): "No. You are my child."
+DIALOGUE 13-17s: Frost (deep young heroic voice): "Father, guide me through Mother and Son Fight."
+DIALOGUE 17-20s: Frost (deep young heroic voice): "Mother and Son Fight is where I stand for my family."
 20-27s: Frost turns away, breathing hard. Lily touches Bruno's old carved token on the table.
-DIALOGUE 21-25s: Lily: "Your father was brave. He also listened when love told him to wait."
+DIALOGUE 21-25s: Lily (young emotional American woman): "I have to survive Mother and Son Fight without losing myself."
 27-30s: Frost softens and kneels, sorry. Final frame: mother and son holding each other in moonlight as a wolf howls outside.
-DIALOGUE 27-30s: Frost (quiet): "Then tell me how to be brave without losing you."
+DIALOGUE 27-30s: Frost (deep young heroic voice): "Father, guide me through Mother and Son Fight right now."
 SFX: bag packing, thunder, table crack, quiet breathing, wolf howl.
 MUSIC: tense emotional strings resolving into soft piano.
 SUSPENSE HOOK LOCK:

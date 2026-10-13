@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: K03_SmallDragons.png, S11_Rose_FULL.png, V04_Lily_VillageMom.png, V13_Sarah_Adult.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -32,14 +33,14 @@ CAST NOTE: Tommy = a young man (about 22), messy brown hair, light freckles, red
 The underground dragon pens beneath the castle, then the battlefield.
 0–3s: Sarah, Tommy and Rose smash the last iron chain with a hammer. Dozens of dragons are free of their chains.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 289's final image: Frost picks up a sharp stone and carefully scratches one more line under all the names. Then he stands up, tattoos blazing. Final frame: the new words carved under "RUN": "NO MORE." Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Tommy (excited young man): "That's all of them! They're free!"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Chains Aren't Enough moves the story forward."
 3–12s: But the dragons' eyes are still glowing red. They don't fly away. They slowly turn toward the kids, growling, under the crystal's control.
-DIALOGUE 6–9s: Sarah (scared, backing up): "Tommy... why are they still red?"
-DIALOGUE 9–13s: Rose (old British voice, horrified): "The chains were never the real prison. It's the CRYSTAL!"
+DIALOGUE 6–9s: Lily (young emotional American woman): "This is Chains Aren't Enough, and my heart knows the danger is real."
+DIALOGUE 9–13s: Rose (old nervous castle maid): "I have seen what comes after Chains Aren't Enough."
 12–22s: The dragons fly up out of the cave toward the battlefield under the king's command. On the battlefield, Lily, Hank and Old Scar hold the line as more dragons dive at them.
-DIALOGUE 16–20s: Hank (shouting): "Lily! More dragons! We can't hold them much longer!"
+DIALOGUE 16–20s: Rose (old nervous castle maid): "If Chains Aren't Enough begins, you must be ready to run."
 22–30s: Lily looks up at the gigantic Great Red Dragon circling the castle, the king on its head, the red crystal glowing.
-DIALOGUE 25–29s: Lily (whispering, hoping): "Come on, Frost... the crystal. Get the crystal."
+DIALOGUE 25–29s: Rose (old nervous castle maid): "Remember Chains Aren't Enough, child. It is your warning."
 Final frame: the red crystal glowing like a red star above the battlefield.
 SFX: hammer on chain, chain breaking, dragons growling, wings, battle noise, dragon dives, shouts.
 MUSIC: hope turning into danger, tense battle drums.

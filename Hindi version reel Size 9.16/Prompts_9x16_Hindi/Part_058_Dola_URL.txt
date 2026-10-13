@@ -12,6 +12,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C01_Lily_FULL.png, C04_Bruno_FULL.png, K01_DarkBigfoot.png, S07_CaptainVex_FULL.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -32,14 +33,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Evening, the waterfall pool and the cave behind it, orange sunset light.
 0–3s: Lily washes fruit by the pool and suddenly freezes: torches are moving between the trees across the water.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 057's final image: SNAP — the vine breaks. Bruno freezes in mid-air for a second like a cartoon, looks at the camera, then falls into the river with a giant splash that soaks Lily from head to toe. Final frame: Bruno pops up with a fish on his head, Lily laughing on the riverbank. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (whispering, scared): "Bruno... soldiers!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now They Found Us moves the story forward."
 3–12s: Bruno silently pulls Lily behind the waterfall into the cave and covers the fire with his huge hand, the flames dying.
-DIALOGUE 6–8s: Bruno (very low whisper): "Quiet. Not move."
+DIALOGUE 6–8s: Lily (young emotional American woman): "This is They Found Us, and my heart knows the danger is real."
 12–22s: Through the falling water we see Captain Vex and guards at the pool. The dark Bigfoot with glowing red eyes sniffs the air and walks into the pool, coming closer and closer to the waterfall.
-DIALOGUE 13–16s: Captain Vex (harsh voice): "The smell stops here. She's close."
-DIALOGUE 17–20s: Lily (inner whisper, praying): "Please go away, please go away..."
+DIALOGUE 13–16s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through They Found Us."
+DIALOGUE 17–20s: Captain Vex (harsh soldier voice): "The king wants They Found Us before dawn."
 22–30s: The dark Bigfoot pushes its face through the waterfall. Its red eyes meet Bruno's amber eyes, inches apart. It snarls, showing its fangs. Bruno slowly stands up to full height. Final frame: both giants face to face, the waterfall between them.
-DIALOGUE 27–29s: Bruno (deep, dangerous growl): "Wrong cave."
+DIALOGUE 27–29s: Dark Bigfoot (deep savage Bigfoot voice): "They Found Us ends under the dark pack."
 SFX: torches crackling, footsteps in water, waterfall roar, fire hissing out, deep sniffing, snarl, heartbeat, low growl.
 MUSIC: slow suspense strings and heartbeat drum, ending on a big orchestral hit.
 

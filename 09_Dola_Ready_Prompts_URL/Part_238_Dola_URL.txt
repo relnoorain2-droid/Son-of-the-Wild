@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, S04_OldJoeWhitaker_FULL.png, V13_Sarah_Adult.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -27,13 +28,13 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 Sunset at the Bear Rock meadow. The whole village has come to watch.
 0–3s: Frost stands in front of the Bear Rock once more. Behind him, the entire village stands quietly holding lanterns.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 237's final image: Frost does push-ups with Hank, Tommy, Sarah and Martha all sitting on his back, counting together. Final frame: Frost on push-up number 1000, everyone cheering on his back. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Sarah (young woman now, calling out): "You can do it, Frost! We're all here!"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Something to Protect moves the story forward."
 3–12s: Frost closes his eyes. Quick memory flashes: baby Frost giving Sarah her teddy; the children in the cellar; Martha's sweater; his mother's face.
-DIALOGUE 6–10s: Frost (deep, quiet): "I'm not pushing for me. I'm pushing for them."
+DIALOGUE 6–10s: Frost (deep young heroic voice): "Something to Protect is where I stand for my family."
 12–22s: He places his hand inside the giant carved handprint. It fits perfectly now. He pushes. The ground shakes. With a deep grinding sound, the Bear Rock moves... an inch... a foot... then rolls slowly across the meadow.
-DIALOGUE 16–19s: Frost (roaring with everything): "FOR CEDAR HOLLOOOOW!"
+DIALOGUE 16–19s: Old Joe (old wise American man): "Something to Protect means the forest is answering."
 22–30s: The rock rolls off the cliff edge and crashes down the mountain. The village explodes in cheers. A glowing blue mark burns itself onto Frost's right forearm like a tattoo, shining. Frost stares at it in wonder. Final frame: the glowing blue mark on his arm, lanterns behind him.
-DIALOGUE 27–29s: Old Joe (smiling, slow raspy voice): "Trial one... complete."
+DIALOGUE 27–29s: Old Joe (old wise American man): "Listen close before Something to Protect chooses you."
 SFX: lanterns, wind, memory echoes, deep stone grinding, ground rumbling, a huge roar, the rock tumbling, massive crash below, cheering, a magical burning hum.
 MUSIC: emotional build-up to a huge triumphant orchestral and choir climax.
 

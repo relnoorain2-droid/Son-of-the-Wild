@@ -12,6 +12,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C01_Lily_FULL.png, C04_Bruno_FULL.png, K08_GrizzlyBear.png, L03_DeepForest.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -36,14 +37,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night, giant misty redwood forest, moonlight.
 0–3s: Slow motion: the grizzly bear's giant claw swings down at Lily (torn muddy dress, blonde, blue eyes) — and a huge black furry hand catches the bear's arm in mid-air. Lily's eyes go wide.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 042's final image: the bear's giant claw swinging down toward her in slow motion... cut to black. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: NARRATOR (deep cinematic Hindi trailer voice): "She thought it was the end..."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now The Shadow Arrives moves the story forward."
 3–12s: Reveal Bruno: a 9-foot gentle black Bigfoot with a small white crescent patch on his chest, amber eyes. He pushes the bear back. The bear roars and charges again; Bruno grabs it and throws it against a tree, bark exploding.
-DIALOGUE 7–9s: Bruno (very deep slow warm gravelly voice, firm): "Go away. Leave her!"
+DIALOGUE 7–9s: Lily (young emotional American woman): "This is The Shadow Arrives, and my heart knows the danger is real."
 12–22s: The bear swipes; Bruno ducks, then lets out a massive chest-pounding roar that shakes leaves from the trees. The bear backs off, scared, and runs into the darkness.
 22–30s: Silence. Bruno slowly turns toward Lily. She crawls backward, shaking. He kneels down to her eye level, calm. Final frame: close-up of his gentle amber eyes, and Lily's terrified face reflected in them.
-DIALOGUE 25–28s: Lily (soft young Hindi-dubbed woman, trembling whisper): "Please... don't eat me."
-DIALOGUE 14-16s: Lily (shaking, whispering): "Who... who are you?"
-DIALOGUE 18-21s: Bruno (very deep gentle voice): "Bruno. Forest friend."
+DIALOGUE 25–28s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through The Shadow Arrives."
+DIALOGUE 14-16s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in The Shadow Arrives, but Bruno stays calm."
+DIALOGUE 18-21s: Bruno (very deep gentle Bigfoot voice): "The Shadow Arrives means Bruno must stay gentle and close."
 SFX: claw whoosh, heavy grab impact, bear roars, tree crack, bark splinters, giant chest pounding, Bigfoot roar, leaves falling, bear running away, heavy breathing.
 MUSIC: huge heroic brass hit at the reveal, epic fight drums, then soft mysterious strings at the end.
 

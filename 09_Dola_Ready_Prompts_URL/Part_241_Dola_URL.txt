@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FACE.png, C05_Frost_FULL.png, L03_DeepForest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -28,13 +29,13 @@ CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal 
 The Deep Wild, foggy forest floor, soft beams of light through the trees.
 0–3s: Frost kneels down slowly in front of Old Scar, hands open, eyes no longer glowing.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 240's final image: Frost slowly lets go and steps back. Old Scar growls, but he's limping, tired and in pain. Frost's face changes from anger to understanding. Final frame: close-up of the rusty trap with the king's crest. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Frost (deep, very gentle): "I won't fight you. Let me help."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Gentle Heart moves the story forward."
 3–12s: He reaches for the trap. Old Scar panics and bites down on Frost's shoulder (no blood, just a hard grip on the fur). Frost groans in pain but does NOT fight back.
-DIALOGUE 7–10s: Frost (through gritted teeth, calm): "It's okay... it's okay. Strong hands... gentle heart."
+DIALOGUE 7–10s: Frost (deep young heroic voice): "Gentle Heart is where I stand for my family."
 12–22s: With the bear still holding his shoulder, Frost grips the iron jaws of the trap with both hands and slowly pulls them apart; the metal screams and bends. The bear's leg slides free. Old Scar lets go of Frost's shoulder and stares at him.
 22–30s: Suddenly three fluffy bear cubs tumble out of a hollow log and climb all over Frost, pulling his ears and fur, playing. Frost laughs. Old Scar watches. Final frame: one cub sitting on Frost's head, chewing his ear.
-DIALOGUE 26–29s: Frost (laughing): "Hey! Ow! Okay, okay, you win!"
-DIALOGUE 18-21s: NARRATOR (deep cinematic American voice): "The beast expected anger... but Frost chose mercy."
+DIALOGUE 26–29s: Frost (deep young heroic voice): "I will not let Gentle Heart break the people I love."
+DIALOGUE 18-21s: Frost (deep young heroic voice): "Father, guide me through Gentle Heart."
 SFX: soft footsteps, a deep growl, a painful grunt, metal straining and bending, the trap clanging open, playful cub squeaks, laughing.
 MUSIC: emotional strings with tension, then a sweet playful melody when the cubs appear.
 

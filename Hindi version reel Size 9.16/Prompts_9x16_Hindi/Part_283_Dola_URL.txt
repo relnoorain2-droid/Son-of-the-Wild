@@ -11,6 +11,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: K06_WarMammoth.png, L08_Battlefield.png, V08_Frost_Powered.png, V10_Damian_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -31,13 +32,13 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 The battlefield, war mammoths still rampaging, Prince Damian whipping his mammoth with a chain.
 0–3s: Damian whips his mammoth; it screams in pain.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 282's final image: Vex raises his axe over Tommy — and the young green dragon blasts him with a burst of (golden) fire from behind, not burning him but launching him into a pile of hay. The dragon grabs Vex by the back of his armor and flies away with him through a hole in the cave ceiling, Vex screaming. Final frame: Tommy on the ground, staring up, the dragon flying away with Vex dangling. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Prince Damian (cruel, shouting): "Faster, you stupid beast!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Gentle Giants moves the story forward."
 3–12s: Frost walks calmly into the path of fifty charging war mammoths. He doesn't raise his fists. His eyes glow soft blue and he speaks with a deep, gentle animal rumble.
-DIALOGUE 6–11s: Frost (deep, gentle): "You don't have to fight for him. He hurts you. I won't."
+DIALOGUE 6–11s: Frost (deep young heroic voice): "Gentle Giants is where I stand for my family."
 12–22s: The lead mammoth slows down... stops right in front of Frost... and lowers its trunk to touch his hand. One by one, all fifty mammoths stop. They shake off their heavy war armor; it falls to the ground with loud clangs.
-DIALOGUE 17–20s: Prince Damian (panicking): "What are you doing?! I command you! ATTACK!"
+DIALOGUE 17–20s: Prince Damian (smooth cold prince voice): "Smile through Gentle Giants; the court is watching."
 22–30s: The lead mammoth turns, lifts Damian off its back with its trunk, and drops him headfirst into a big pile of mud. All fifty mammoths trumpet together and walk to stand behind Frost's army. Final frame: Damian sitting in the mud, the mammoths behind Frost.
-DIALOGUE 27–29s: Frost (deep, calm, to Damian): "They were never yours."
+DIALOGUE 27–29s: Prince Damian (smooth cold prince voice): "By tomorrow, Gentle Giants will feel like destiny."
 SFX: whip crack, mammoth screams, thundering footsteps slowing, a deep gentle rumble, armor clanging to the ground, a trunk lifting, a mud splash, fifty mammoths trumpeting.
 MUSIC: tense, then a beautiful, majestic, emotional swell.
 

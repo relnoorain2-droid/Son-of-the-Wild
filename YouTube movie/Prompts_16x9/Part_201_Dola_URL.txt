@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, S03_HankMiller_FULL.png, V04_Lily_VillageMom.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -32,13 +33,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Sunset on a hill above Cedar Hollow, a small cemetery with simple fresh wooden crosses, villagers in dark clothes, a fiddle lying on one grave.
 0–3s: Villagers stand silently around the new graves. A fiddle rests on one of them — the fiddle player who started the village song.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 200's final image: Build into the hook: Frost asks, 'What did he do to us?' Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: NARRATOR (deep cinematic American trailer voice): "Cedar Hollow lost seven good people that day."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now It's My Fault moves the story forward."
 3–12s: Hank, his arm in a sling, places a hat on a grave. Tommy holds his father's shoulder.
-DIALOGUE 5–13s: Hank (deep voice, broken): "They asked for the white one... and his mother. A king on a dragon. Who in God's name are these people, Lily?"
+DIALOGUE 5–13s: Lily (young emotional American woman): "This is It's My Fault, and my heart knows the danger is real."
 12–22s: Everyone turns to Lily. She falls to her knees in front of the graves, crying.
-DIALOGUE 14–19s: Lily (sobbing): "It's my fault. They came for me. I brought this on all of you."
+DIALOGUE 14–19s: Frost (deep young heroic voice): "I will not let It's My Fault break the people I love."
 22–30s: Martha kneels and holds her. Frost stands behind them, his fists slowly clenching, a tiny blue spark crackling between his fingers.
-DIALOGUE 25–29s: Frost (deep, quiet, dangerous): "Mom. Who is the king?"
+DIALOGUE 25–29s: Hank (rough kind villager voice): "Hold steady until It's My Fault passes."
 Final frame: close-up of Frost's blue eyes, starting to glow.
 SFX: wind, crows, quiet sobbing, a soft electric crackle.
 MUSIC: sad funeral violin, then a low tense drone.

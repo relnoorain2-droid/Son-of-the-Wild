@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S03_HankMiller_FULL.png, V04_Lily_VillageMom.png, V05_Frost_Baby.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -35,16 +36,16 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Dusk, in front of Lily's cabin, villagers with torches and pitchforks.
 0–3s: An angry crowd of villagers marches up the path with torches; Hank leads them, holding a lantern and a pitchfork.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 138's final image: Tommy grabs Sarah and runs toward the village, screaming. Frost sits alone holding the teddy bear, confused and sad. Final frame: Tommy running into the village street. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Hank (deep rural Hindi voice, angry and scared): "Lily! Bring out that creature!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Torches at the Door moves the story forward."
 3–12s: Lily steps out of the cabin and stands in front of the door, arms wide.
-DIALOGUE 4–6s: Villager man (angry): "It'll eat our children!"
-DIALOGUE 6–9s: Villager woman (scared): "It's one of those forest beasts!"
-DIALOGUE 9–12s: Lily (firm, shaking): "He's a BABY! He's my son!"
+DIALOGUE 4–6s: Lily (young emotional American woman): "This is Torches at the Door, and my heart knows the danger is real."
+DIALOGUE 6–9s: Frost (deep young heroic voice): "I will not let Torches at the Door break the people I love."
+DIALOGUE 9–12s: Hank (rough kind villager voice): "Hold steady until Torches at the Door passes."
 12–22s: The crowd goes silent. Hank lowers his pitchfork a little, confused.
-DIALOGUE 13–17s: Hank: "Your son? Lily... what in God's name happened in that forest?"
-DIALOGUE 17–24s: Lily (emotional): "His father saved my life from the king's beasts. He died protecting us. That's all you need to know."
+DIALOGUE 13–17s: Hank (rough kind villager voice): "Torches at the Door needs work, not talk."
+DIALOGUE 17–24s: Lily (young emotional American woman): "I have to survive Torches at the Door without losing myself."
 22–30s: Behind her, the cabin door creaks open. Baby Frost crawls out holding the teddy bear. The crowd raises their pitchforks in panic. Lily turns, terrified. Final frame: a dozen torches pointing at the tiny white baby.
-DIALOGUE 27–29s: Lily (screaming): "Frost, NO! Go back inside!"
+DIALOGUE 27–29s: Frost (deep young heroic voice): "Father, guide me through Torches at the Door."
 SFX: marching footsteps, crackling torches, angry murmurs, door creak, crowd gasping, pitchforks raised.
 MUSIC: tense dramatic strings and drums.
 

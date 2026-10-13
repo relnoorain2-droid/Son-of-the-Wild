@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: K09_Wolves.png, S04_OldJoeWhitaker_FULL.png, V08_Frost_Powered.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -30,15 +31,15 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 Night at the edge of the army camp, dark forest.
 0–3s: A scruffy fur hunter (the same one who spied on Frost years ago) creeps out of camp holding a stolen map. A wolf growls behind him.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 267's final image: Sarah sits down on Frost's other side. The three friends sit together like when they were kids, looking at the stars. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Hunter (rough greedy voice, whispering): "Easy, doggy..."
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The Spy moves the story forward."
 3–12s: Wolves surround him. He runs — straight into Frost's chest, bouncing off and falling on his back.
-DIALOGUE 5–8s: Frost (deep, calm, looming above him): "Going somewhere?"
-DIALOGUE 8–10s: Hunter (terrified): "Please! Don't eat me!"
+DIALOGUE 5–8s: Frost (deep young heroic voice): "The Spy is where I stand for my family."
+DIALOGUE 8–10s: Old Joe (old wise American man): "The Spy means the forest is answering."
 12–22s: Frost lifts him up by his coat, eye to eye. Frost's eyes glow; the hunter shakes.
-DIALOGUE 10–22s: Hunter (panicking, talking fast): "Okay! Okay! The king knows you're coming! He'll put the crystal on his staff and wake the Great Red Dragon! And the prince will lead fifty war mammoths through the front gate!"
+DIALOGUE 10–22s: Old Joe (old wise American man): "Listen close before The Spy chooses you."
 22–30s: Old Joe walks up and takes the stolen map back.
-DIALOGUE 22–25s: Old Joe (slow raspy voice): "Fifty mammoths, one giant dragon..."
-DIALOGUE 25–30s: Frost (deep, thinking, smiling slightly): "And one old secret tunnel he doesn't know Rose told us about."
+DIALOGUE 22–25s: Old Joe (old wise American man): "I have heard old stories about The Spy."
+DIALOGUE 25–30s: Frost (deep young heroic voice): "I will not let The Spy break the people I love."
 Final frame: Frost dropping the hunter into a pile of wolf-guarded hay.
 SFX: creeping footsteps, wolves growling, a body bounce, a thud, fabric gripped, a magical hum, paper, hay thump.
 MUSIC: suspense strings, an action hit, then a clever, confident theme.

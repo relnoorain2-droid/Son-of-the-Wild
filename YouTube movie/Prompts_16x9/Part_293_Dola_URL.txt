@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S11_Rose_FULL.png, V04_Lily_VillageMom.png, V08_Frost_Powered.png, V10_Damian_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -33,14 +34,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 The battlefield below the castle, smoke clearing.
 0–3s: Frost sets Damian down. Damian tries to run — and stops. A line of women blocks his way: grown women in simple dresses and farm clothes, holding pitchforks and torches.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 292's final image: Lily stands up, mud on her face, and puts her hand on Frost's arm. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Prince Damian (confused): "Who... who are you?"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The Brides moves the story forward."
 3–12s: Rose steps forward beside the women.
-DIALOGUE 4–12s: Rose (old British voice, proud): "Some of your brides survived the forest, Your Highness. The kingdom's villages hid them for years. They marched here today too."
+DIALOGUE 4–12s: Lily (young emotional American woman): "This is The Brides, and my heart knows the danger is real."
 12–22s: One woman steps forward and looks Damian right in the eyes.
-DIALOGUE 14–19s: Former Bride (strong adult American woman's voice): "My name is Emily. You threw me to the wolves. I'm still here."
-DIALOGUE 19–21s: Prince Damian (falling to his knees, crying): "I'm sorry... I'm sorry..."
+DIALOGUE 14–19s: Frost (deep young heroic voice): "I will not let The Brides break the people I love."
+DIALOGUE 19–21s: Rose (old nervous castle maid): "If The Brides begins, you must be ready to run."
 22–30s: The women put Damian in the same iron chains the king used for the dragons and lead him away to the castle — to the old bedroom with the names on the wall. Lily watches, tears in her eyes. Final frame: the women walking away with Damian in chains, the sun breaking through the smoke behind them.
-DIALOGUE 27–30s: Lily (soft): "Now he'll read their names every single day."
+DIALOGUE 27–30s: Prince Damian (smooth cold prince voice): "The Brides will look like kindness if you obey."
 SFX: footsteps stopping, torches, wind, chains clicking, Damian sobbing, marching away.
 MUSIC: a powerful, emotional theme of justice with strings and choir.
 

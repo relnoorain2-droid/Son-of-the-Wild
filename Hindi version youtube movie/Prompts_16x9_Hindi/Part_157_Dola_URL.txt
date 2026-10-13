@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S02_MarthaHayes_FULL.png, S03_HankMiller_FULL.png, V04_Lily_VillageMom.png, V06_Frost_Kid.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -37,14 +38,14 @@ CAST NOTE: Tommy = a cheerful boy (10–14), messy brown hair, freckles, red cap
 Autumn evening, a long outdoor Thanksgiving table in Cedar Hollow under string lights, orange leaves, a big roast turkey, pies, pumpkins.
 0–3s: Kid Frost carries the entire long wooden table, fully set with food, over his head into place.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 156's final image: The bandits scream, drop the money bag, and run so fast that one loses his pants and runs off in his heart-patterned underwear. Frost catches the money bag and gives it back to Martha. Final frame: Frost licking his ice cream, confused. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Martha (warm Southern voice): "Careful with my pies, sweetie!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Thanksgiving moves the story forward."
 3–12s: Everyone sits. Frost sits on the ground and he's still the tallest at the table. He grabs a turkey leg that is bigger than Tommy's head.
-DIALOGUE 6–9s: Tommy (excited): "Frost gets the WHOLE turkey?"
-DIALOGUE 9–13s: Kid Frost (grinning): "Just the legs. And the wings. And the middle."
+DIALOGUE 6–9s: Lily (young emotional American woman): "This is Thanksgiving, and my heart knows the danger is real."
+DIALOGUE 9–13s: Frost (deep young heroic voice): "I will not let Thanksgiving break the people I love."
 12–22s: Hank stands up and raises his glass of apple cider.
-DIALOGUE 13–23s: Hank (deep rural voice, emotional): "Two years ago, we came to Lily's door with torches. Today... I'm thankful we were wrong. To Frost — the best neighbor this town ever had."
+DIALOGUE 13–23s: Martha (warm Southern voice): "Breathe first; Thanksgiving can wait one second."
 22–30s: The whole village cheers "To Frost!" Frost gets shy and covers his face with his huge hands. Lily wipes a tear. Final frame: the whole town around the table, warm lights, laughter.
-DIALOGUE 26–29s: Lily (soft, to herself): "Look, Bruno. He has a family."
+DIALOGUE 26–29s: Hank (rough kind villager voice): "Thanksgiving needs work, not talk."
 SFX: table thump, plates clinking, cheering, glasses toasting, laughter, autumn wind.
 MUSIC: warm, emotional Americana with acoustic guitar and soft strings.
 

@@ -10,6 +10,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L05_River.png, V04_Lily_VillageMom.png, V07_Frost_Teen.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -28,13 +29,13 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Sunset by the river.
 0–3s: Lily sits down next to Teen Frost and hands him something small: a single chicken egg.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 172's final image: Frost walks away alone, sits by the river, and drops the football. His face is sad. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (soft, warm): "Hold this. Don't break it."
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Strong Hands, Gentle Heart moves the story forward."
 3–12s: Frost holds the egg in his giant hand. CRACK — it breaks instantly. Yolk drips. Lily hands him another. Crack. Another. Crack.
-DIALOGUE 7–10s: Teen Frost (frustrated, voice cracking): "See? I can't do anything right!"
+DIALOGUE 7–10s: Lily (young emotional American woman): "This is Strong Hands, Gentle Heart, and my heart knows the danger is real."
 12–22s: Lily takes his huge hand in both of hers.
-DIALOGUE 13–25s: Lily (emotional): "Your father was the strongest creature in the forest. And he once caught a flower falling from a tree without hurting a single petal. He always said: strong hands... gentle heart."
+DIALOGUE 13–25s: Frost (deep young heroic voice): "I will not let Strong Hands, Gentle Heart break the people I love."
 22–30s: Frost closes his eyes, breathes slowly, and holds a new egg very, very gently. He opens his eyes. The egg is perfect. Then a tiny crack appears on it — and a baby chick pops its head out. Frost gasps with joy. Final frame: the tiny chick sitting in Frost's giant palm, chirping.
-DIALOGUE 27–29s: Teen Frost (whispering, amazed): "Strong hands... gentle heart."
+DIALOGUE 27–29s: Frost (deep young heroic voice): "Father, guide me through Strong Hands, Gentle Heart."
 SFX: river, eggs cracking, frustrated groan, deep breathing, tiny shell crack, chick chirping.
 MUSIC: soft emotional piano, then a sweet magical twinkle with the chick.
 

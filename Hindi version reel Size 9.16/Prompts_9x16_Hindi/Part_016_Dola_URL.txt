@@ -14,6 +14,7 @@ Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L02_KingCastle.png, C02_KingMagnus_FULL.png, C03_PrinceDamian_FULL.png, S08_KingdomGuards_FULL.png, S09_Brides_FULL.png, S11_Rose_FULL.png, L03_DeepForest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -36,13 +37,13 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 Scene: At sunrise the gate is empty except for a fallen flower and carriage tracks.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 015's final image: Build into the hook: The forest shadows move behind her. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: NARRATOR (deep cinematic American trailer voice): "In Thorne Kingdom, every smile hid a royal secret."
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now The Forest Took Her moves the story forward."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Prince Damian (smooth cold voice): "Do not be afraid. The crown only chooses what belongs to it."
+DIALOGUE 5-8s: Rose (old nervous castle maid):  with everyone watching."Remember The Forest Took Her, child. It is your warning."
 10-18s: At sunrise the gate is empty except for a fallen flower and carriage tracks.
-DIALOGUE 11-15s: First Bride (frightened young American woman): "Why is everyone looking at me like goodbye?"
+DIALOGUE 11-15s: Prince Damian (smooth cold prince voice): "Smile through The Forest Took Her; the court is watching."
 18-24s: Vex reports that the tradition is complete.
-DIALOGUE 19-23s: King Magnus (deep rough commanding voice): "The tradition continues before sunrise."
+DIALOGUE 19-23s: King Magnus (deep rough commanding king): "Let the kingdom remember The Forest Took Her."
 24-30s: Build into the hook: King Magnus orders the kingdom bells to ring.
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.

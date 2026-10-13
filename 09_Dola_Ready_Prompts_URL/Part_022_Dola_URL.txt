@@ -14,6 +14,7 @@ Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C01_Lily_FULL.png, V01_Lily_Wedding.png, S01_GraceCarter_FULL.png, C03_PrinceDamian_FULL.png, S07_CaptainVex_FULL.png, S11_Rose_FULL.png, L02_KingCastle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
@@ -33,13 +34,13 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 Scene: Lily is brought before the kingdom square, surrounded by citizens who know the danger but cannot speak.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 021's final image: Build into the hook: Grace looks out the window and drops a cup. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: NARRATOR (deep cinematic American trailer voice): "Then the kingdom turned its eyes toward Lily Carter."
+DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now Chosen In Public moves the story forward."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Lily (young trembling American woman): "Mama... why are they all afraid to look at me?"
+DIALOGUE 5-8s: Lily (young emotional American woman): "This is Chosen In Public, and my heart knows the danger is real."
 10-18s: Lily is brought before the kingdom square, surrounded by citizens who know the danger but cannot speak.
-DIALOGUE 11-15s: Rose (old nervous castle maid, whispering): "Listen to me, child. Brides do not leave this castle happy."
+DIALOGUE 11-15s: Grace (worried loving mother): "Lily, stay close until Chosen In Public passes."
 18-24s: Grace begs from behind the guards while Lily tries to stay brave.
-DIALOGUE 19-23s: Prince Damian (soft false kindness): "Sleep early, Lily. Tomorrow I will show you our forest."
+DIALOGUE 19-23s: Rose (old nervous castle maid): "If Chosen In Public begins, you must be ready to run."
 24-30s: Build into the hook: Damian smiles at Lily and says, 'You are the one.'
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.

@@ -10,6 +10,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L01_LilyHouse.png, V04_Lily_VillageMom.png, V14_Grace_Older.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -27,15 +28,15 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Evening, Millbrook, Oregon: Lily's old small wooden house with peeling white paint and the rusty mailbox. Golden sunset light.
 0–4s: Lily walks slowly up the old dusty path. Through the kitchen window she sees the small blue wildflower she secretly left in the mailbox, now standing in a little glass of water on the table.
 OPENING CONTINUITY LOCK: The first 0-4 seconds must emotionally continue Part 307's final image: Frost with a baby dragon on his head, the crowd cheering in the sunlight, then gently transition to Lily arriving at her mother's old house at golden sunset. Keep the warm peaceful mood and do not make this feel like a random new movie.
-DIALOGUE 1–4s: Lily (whispering, shaking): "She found it... okay. You can do this."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Mama moves the story forward."
 4–12s: She knocks. Footsteps. The door opens slowly. Grace — her mother, now older, with white hair in a bun, a wooden cane and the same faded apron — stands there and freezes.
-DIALOGUE 7–9s: Grace (old, trembling, caring voice): "...Lily?"
-DIALOGUE 9–12s: Lily (crying): "Hi, Mama. I'm home."
+DIALOGUE 7–9s: Lily (young emotional American woman): "This is Mama, and my heart knows the danger is real."
+DIALOGUE 9–12s: Lily (young emotional American woman): "I have to survive Mama without losing myself."
 12–22s: Grace drops her cane and holds Lily's face with both shaking hands, touching her cheeks and her hair as if she can't believe it.
-DIALOGUE 13–17s: Grace (sobbing): "Every single night I set a plate for you. Every night."
-DIALOGUE 17–21s: Grace (crying and smiling): "And look at you... you haven't changed at all."
+DIALOGUE 13–17s: Lily (young emotional American woman): "After Mama, I cannot ignore the truth anymore."
+DIALOGUE 17–21s: Lily (young emotional American woman): "This is Mama, and my heart knows the danger is real right now."
 22–30s: Mother and daughter hug in the doorway, both crying, holding each other tightly. Final frame: through the kitchen window behind them, two plates on the table and the little blue flower in its glass.
-DIALOGUE 25–29s: Lily (crying into her shoulder): "I know, Mama. I saw the plate."
+DIALOGUE 25–29s: Lily (young emotional American woman): "I have to survive Mama without losing myself right now."
 SFX: footsteps on the dusty path, a soft knock, a door creak, a cane falling, sobbing, birds at sunset.
 MUSIC: the most emotional piano and string theme of the movie.
 

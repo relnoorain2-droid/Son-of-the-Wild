@@ -9,6 +9,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, V09_Bruno_Spirit.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -26,13 +27,13 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 Near the summit of Thunder Peak, inside the storm cloud: darkness, wind, lightning everywhere.
 0–3s: A lightning bolt hits the rock right next to Frost; the blast throws him off a ledge. He falls onto a lower ledge and lies there, smoking, exhausted.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 244's final image: He pulls himself up with a roar and keeps climbing, ice in his fur, eyes on the storm above. Final frame: Frost silhouetted against a giant lightning bolt. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Frost (groaning): "Aaagh!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Be Still moves the story forward."
 3–12s: He tries to stand and falls again. Rain beats on him. He looks up at the storm.
-DIALOGUE 5–12s: Frost (deep, broken, shouting into the storm): "I can't! I can't fight the sky! I'm not Orin! I'm not my father! I'm just... me!"
+DIALOGUE 5–12s: Bruno (very deep gentle Bigfoot voice): "Be Still means Bruno must stay gentle and close."
 12–22s: He lies back, giving up. The framed flower falls out of his chest fur onto the rock beside his face. He looks at it. Everything goes quiet. A soft golden glow appears; Bruno's translucent spirit kneels beside him, smiling.
-DIALOGUE 16–22s: Bruno (spirit voice, very deep slow warm gravelly, echoing): "You don't fight the river, son. Be still. Like the river. Let it come to you."
+DIALOGUE 16–22s: Frost (deep young heroic voice): "I will not let Be Still break the people I love."
 22–30s: Frost's eyes fill with tears. He reaches for his father's glowing hand, but the spirit fades. Frost picks up the flower, puts it back on his chest, and slowly stands up. Final frame: Frost standing, calm, facing the summit, the storm swirling around him.
-DIALOGUE 26–29s: Frost (deep whisper): "Be still... Thank you, Dad."
+DIALOGUE 26–29s: Frost (deep young heroic voice): "Father, guide me through Be Still."
 SFX: lightning blast, falling, heavy rain, wind, sudden silence, a soft magical chime, Bruno's echoing voice, then the storm returning.
 MUSIC: desperate storm music, then the soft love theme for Bruno, building to a determined swell.
 

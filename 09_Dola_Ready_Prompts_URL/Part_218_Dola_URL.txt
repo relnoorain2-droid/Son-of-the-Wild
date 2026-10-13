@@ -12,6 +12,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C05_Frost_FULL.png, S02_MarthaHayes_FULL.png, S03_HankMiller_FULL.png, V04_Lily_VillageMom.png, V10_Damian_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 EXACT 30-SECOND OUTPUT LOCK:
@@ -30,15 +31,15 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Night, inside the log wall, a burning corner of Cedar Hollow.
 0–3s: Prince Damian sneaks over a broken part of the wall while Frost is busy fighting outside. He grabs Lily by the arm.
 OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 217's final image: Frost steers the dragon down into the river; it crashes into the water with a giant splash and flies away, wet and scared. Frost lands on his feet in the shallow water. Final frame: Frost in the river, fire behind him, the full moon above. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Prince Damian (smooth, cruel): "You're coming home with me, wife."
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now The Frying Pan moves the story forward."
 3–12s: Lily struggles. Hank runs at Damian; Damian knocks the shotgun away with his sword and kicks Hank down.
-DIALOGUE 6–9s: Lily (fighting): "Let go of me, Damian!"
-DIALOGUE 9–12s: Prince Damian (laughing): "Nobody can save you this time."
+DIALOGUE 6–9s: Lily (young emotional American woman): "This is The Frying Pan, and my heart knows the danger is real."
+DIALOGUE 9–12s: Frost (deep young heroic voice): "I will not let The Frying Pan break the people I love."
 12–22s: Behind Damian, Martha walks up calmly, holding her sharpened cast-iron frying pan with both hands.
-DIALOGUE 15–17s: Martha (sweet Southern voice): "Excuse me, young man?"
-DIALOGUE 17–18s: Prince Damian (turning around): "What?"
+DIALOGUE 15–17s: Prince Damian (smooth cold prince voice): "By tomorrow, The Frying Pan will feel like destiny."
+DIALOGUE 17–18s: Martha (warm Southern voice): "The Frying Pan needs steady hands, honey."
 22–30s: BONK! Martha hits him on the head with the frying pan. Damian spins once, cross-eyed, exactly like on his wedding night years ago, and falls flat on his face in the mud. Lily stares at Martha, then laughs. Final frame: Martha blowing on the frying pan like a cowboy blowing on a gun.
-DIALOGUE 26–29s: Martha (proud): "Told you I could sharpen it."
+DIALOGUE 26–29s: Hank (rough kind villager voice): "We fix what The Frying Pan broke before dark."
 SFX: footsteps, struggle, sword clang, shotgun clatter, kick, a loud comedic metal "BONK", body flop into mud, laughter.
 MUSIC: tense music, then a comedic hit and a short victorious Western whistle.
 

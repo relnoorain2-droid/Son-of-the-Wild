@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S03_HankMiller_FULL.png, S06_SarahMiller_FULL.png, V04_Lily_VillageMom.png, V05_Frost_Baby.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -36,14 +37,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Dusk, in front of the cabin, torches.
 0–3s: Little Sarah slips out from behind Hank's legs and walks toward the baby.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 139's final image: Behind her, the cabin door creaks open. Baby Frost crawls out holding the teddy bear. The crowd raises their pitchforks in panic. Lily turns, terrified. Final frame: a dozen torches pointing at the tiny white baby. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Hank (panicked): "Sarah! Get back here!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The Teddy Bear moves the story forward."
 3–14s: Baby Frost crawls slowly toward Sarah and holds out the teddy bear to her, very gently. Everyone holds their breath.
-DIALOGUE 7–9s: Sarah (small cute girl voice): "That's... my bear."
-DIALOGUE 9–12s: Frost makes a soft, sweet little coo and pushes the bear into her hands.
+DIALOGUE 7–9s: Lily (young emotional American woman): "This is The Teddy Bear, and my heart knows the danger is real."
+DIALOGUE 9–12s: Frost (deep young heroic voice): "I will not let The Teddy Bear break the people I love."
 14–22s: Sarah smiles and hugs the teddy bear, then hugs Frost. Frost hugs her back very carefully, as if he knows he's strong.
-DIALOGUE 16–19s: Sarah (giggling): "He's soft! Daddy, he's like a cloud!"
+DIALOGUE 16–19s: Hank (rough kind villager voice): "Hold steady until The Teddy Bear passes."
 22–30s: Villagers slowly lower their pitchforks. Some women wipe their eyes. Hank lowers his pitchfork completely.
-DIALOGUE 24–28s: Hank (deep voice, emotional, embarrassed): "Well... I'll be. He brought her bear back."
+DIALOGUE 24–28s: Sarah (young village woman): "The Teddy Bear does not feel ordinary."
 Final frame: Lily crying with relief, Sarah and Frost hugging in the torchlight.
 SFX: soft footsteps, baby coo, giggling, pitchforks lowered, crackling torches, quiet sniffles.
 MUSIC: gentle piano, building into warm strings.

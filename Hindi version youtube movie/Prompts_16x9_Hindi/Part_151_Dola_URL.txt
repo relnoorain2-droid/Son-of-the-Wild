@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L07_Village.png, S03_HankMiller_FULL.png, S05_TommyMiller_FULL.png, V06_Frost_Kid.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -35,14 +36,14 @@ FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient f
 Sunny afternoon, a dusty small-town baseball field in Cedar Hollow, wooden bleachers full of villagers, an American flag on a pole.
 0–3s: Kid Frost holds a wooden baseball bat that looks like a toothpick in his huge hands.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 150's final image: At the end of school, Lily waits outside. Frost runs to her and shows the slate: it says "MOM" in big shaky letters. Lily's eyes fill with tears and she hugs him. Final frame: the slate with "MOM" between them. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Hank (as umpire, deep rural voice): "Batter up!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Home Run moves the story forward."
 3–12s: Tommy pitches. Frost swings — CRACK! The ball flies straight up into the sky and disappears into the clouds. Everyone looks up, waiting.
-DIALOGUE 7–10s: Tommy (shocked young boy): "Where... where did it go?"
-DIALOGUE 10–12s: Kid Frost (nervous): "Um... space?"
+DIALOGUE 7–10s: Frost (deep young heroic voice): "Home Run is where I stand for my family."
+DIALOGUE 10–12s: Hank (rough kind villager voice): "We fix what Home Run broke before dark."
 12–22s: Quick comedic cut: the crowd still looking up, eating popcorn. Martha falls asleep. A dog lies down. The sun moves across the sky.
-DIALOGUE 17–20s: NARRATOR (deep trailer voice, deadpan): "Two hours later..."
+DIALOGUE 17–20s: Tommy (young excited man): "Tell me someone else saw Home Run."
 22–30s: The ball finally falls from the sky and lands right in Frost's hand. The crowd goes wild.
-DIALOGUE 25–30s: Hank (laughing): "I don't know if that's a home run or a moon landing!"
+DIALOGUE 25–30s: Tommy (young excited man): "I saw Home Run with my own eyes."
 Final frame: villagers lifting Frost (with a lot of effort) and cheering.
 SFX: bat crack, whistle of the ball flying away, crickets, popcorn crunching, snoring, falling whistle, catch thump, cheering crowd.
 MUSIC: classic American ballpark organ tune, then triumphant brass.

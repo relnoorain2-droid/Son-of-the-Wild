@@ -10,6 +10,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: K02_RedDragon.png, V08_Frost_Powered.png, V11_KingMagnus_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -35,13 +36,13 @@ CAST NOTE: the Great Red Dragon = three times bigger than any other dragon, dark
 On top of the flying Great Red Dragon's back, high above the clouds, strong wind, sunset.
 0–3s: Frost climbs up the dragon's wing onto its back, the wind blasting his fur.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 295's final image: The dragon's claw opens. Frost falls out and catches the edge of the dragon's huge wing, holding on with one hand high above the ground. Final frame: Frost hanging from the dragon's wing, the battlefield tiny far below. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Frost (deep, shouting over the wind): "Your crystal, Magnus. GIVE IT BACK!"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now On the Dragon's Back moves the story forward."
 3–12s: King Magnus walks down the dragon's back toward him, holding the staff with both hands; the red crystal glows on top.
-DIALOGUE 5–13s: King Magnus (deep, slow, mocking): "This? Your grandfather was weak. He used it to help animals. I used it to rule them. That's the difference between us."
+DIALOGUE 5–13s: Frost (deep young heroic voice): "On the Dragon's Back is where I stand for my family."
 12–22s: They fight on the dragon's back: the king swings the staff like a war hammer; each hit blasts red lightning. Frost blocks with his glowing arms; sparks fly everywhere. The king is old but powerful with the crystal; he knocks Frost to his knees.
-DIALOGUE 17–20s: King Magnus (shouting): "Kneel! Like your father knelt!"
+DIALOGUE 17–20s: King Magnus (deep rough commanding king): "No one defies me after On the Dragon's Back."
 22–30s: The king blasts Frost with a huge red bolt. Frost slides backwards to the very edge of the dragon's back, his feet over the empty sky. Final frame: Frost at the edge, the king raising the staff for the final strike.
-DIALOGUE 27–29s: King Magnus (cold): "Say hello to Bruno."
+DIALOGUE 27–29s: King Magnus (deep rough commanding king): "Let the kingdom remember On the Dragon's Back."
 SFX: howling wind, wing beats, footsteps on scales, staff swings, red lightning blasts, blocks, a heavy knee impact, sliding claws.
 MUSIC: intense duel music with dark brass and drums.
 

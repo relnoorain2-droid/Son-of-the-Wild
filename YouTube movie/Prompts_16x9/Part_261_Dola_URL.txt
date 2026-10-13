@@ -11,6 +11,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S02_MarthaHayes_FULL.png, S03_HankMiller_FULL.png, V08_Frost_Powered.png, V12_Tommy_Adult.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -32,14 +33,14 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 Evening, a big bonfire in a field outside Cedar Hollow, villagers watching.
 0–3s: Hank nervously lifts a heavy steel sledgehammer next to Frost's huge forearm.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 260's final image: Frost lands in the middle of Main Street with a huge BOOM; a ring of dust and wind blows all of Martha's laundry away. Grown-up Sarah runs up laughing. Final frame: a pair of Hank's underwear landing on Frost's head. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: Hank (deep rural voice, nervous): "Son, are you SURE about this?"
+DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Unbreakable moves the story forward."
 3–12s: Frost nods. Hank swings the sledgehammer with all his strength into Frost's forearm. CLANG! The steel head bends and the wooden handle snaps in half, tiny blue sparks flashing on Frost's fur. Hank stares at the broken hammer.
-DIALOGUE 6–9s: Frost (deep, calm): "Felt like a tickle."
-DIALOGUE 9–11s: Tommy (shouting): "Okay, now the FIRE test!"
+DIALOGUE 6–9s: Frost (deep young heroic voice): "Unbreakable is where I stand for my family."
+DIALOGUE 9–11s: Martha (warm Southern voice): "Nobody panics during Unbreakable while I am here."
 12–22s: Frost walks straight into the middle of a giant roaring bonfire and stands inside it. The villagers gasp. Flames surround him, but his fur doesn't burn; blue light protects his body.
-DIALOGUE 16–19s: Frost (from inside the fire, calm): "Dragon fire won't stop me now."
+DIALOGUE 16–19s: Hank (rough kind villager voice): "Hold steady until Unbreakable passes."
 22–30s: He walks out of the fire completely unharmed. Martha hands him a stick with a marshmallow on it. He holds it near his own glowing arm and toasts it perfectly. Final frame: Frost eating a perfect golden marshmallow, villagers cheering.
-DIALOGUE 27–29s: Martha (Southern voice, impressed): "Well, that's handy."
+DIALOGUE 27–29s: Hank (rough kind villager voice): "Unbreakable needs work, not talk."
 SFX: a huge metal CLANG, a wooden handle snapping, tiny electric sparks, crackling bonfire, gasps, a deep fire roar, footsteps out of the flames, marshmallow sizzle, cheering.
 MUSIC: tense build-up, then a heroic and fun country-rock theme.
 

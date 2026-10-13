@@ -10,6 +10,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C06_ElderOrin_FULL.png, V08_Frost_Powered.png, V11_KingMagnus_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: YOUTUBE 16:9
@@ -32,13 +33,13 @@ CAST NOTE: the Great Red Dragon = three times bigger than any other dragon, dark
 On the flying dragon's back above the castle, the sun setting, storm clouds swirling.
 0–3s: Frost grabs the top of the king's staff with one hand. King Magnus holds the bottom with both hands. Tug of war.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 297's final image: Frost stands up, calm, glowing brighter than ever, red-turned-blue lightning dancing around him. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: King Magnus (desperate, straining): "Let GO, beast!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Take Back What Is Ours moves the story forward."
 3–12s: The crystal between them pulses red-blue-red-blue. Cracks of light spread across it. The Great Red Dragon below them roars in confusion, its eyes flickering.
-DIALOGUE 6–9s: Frost (straining, deep): "It... belongs... to my family!"
+DIALOGUE 6–9s: Frost (deep young heroic voice): "Take Back What Is Ours is where I stand for my family."
 12–22s: The crystal starts burning Frost's hand with red light. He grits his teeth. He's losing grip.
-DIALOGUE 15–18s: Frost (whispering, desperate): "Grandfather... help me."
+DIALOGUE 15–18s: King Magnus (deep rough commanding king): "No one defies me after Take Back What Is Ours."
 22–30s: In the storm clouds above them, the giant face of Elder Orin appears, glowing blue, eyes open.
-DIALOGUE 24–28s: Elder Orin (ancient, very deep, echoing across the sky): "Take back what is ours, child."
+DIALOGUE 24–28s: Elder Orin (ancient calm forest elder): "Be still, or Take Back What Is Ours will break you."
 The crystal turns completely blue for one second — and a deep crack runs right through it. Final frame: close-up of the crystal splitting, blinding light about to explode.
 SFX: wind, a struggle, a pulsing crystal hum, cracking crystal, a confused dragon roar, a burning hiss, Orin's thunderous echoing voice, a deep crack.
 MUSIC: a huge building choir and orchestra, cutting to silence on the crack.

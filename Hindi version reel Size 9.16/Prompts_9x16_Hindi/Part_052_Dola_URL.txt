@@ -12,6 +12,7 @@ Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C01_Lily_FULL.png, C04_Bruno_FULL.png, L04_BrunoCave.png, L05_River.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -32,14 +33,14 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 Morning, sunlight sparkling through the waterfall into the cave.
 0–3s: Lily wakes up under the bearskin. A giant live salmon flops right onto her lap, splashing her face.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 051's final image: Build into the hook: Both become shy and look away. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (screaming, then laughing): "AAH! What is this?!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Bigfoot Breakfast moves the story forward."
 3–12s: Bruno stands proudly at the entrance holding more flopping fish in both hands.
-DIALOGUE 4–7s: Bruno (deep voice, proud and happy): "Breakfast! Bruno catch. Very fresh."
-DIALOGUE 7–10s: Lily (laughing): "Bruno, it's still alive! It's looking at me!"
+DIALOGUE 4–7s: Lily (young emotional American woman): "This is Bigfoot Breakfast, and my heart knows the danger is real."
+DIALOGUE 7–10s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through Bigfoot Breakfast."
 12–22s: Bruno tries to help but the slippery salmon jumps out of his hands, slaps him in the face and lands back in the river. He stares, offended. Lily laughs so hard she falls over.
-DIALOGUE 15–18s: Bruno (deadpan, offended): "Rude fish."
+DIALOGUE 15–18s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in Bigfoot Breakfast, but Bruno stays calm."
 22–30s: He then proudly offers a dripping wild honeycomb instead, with a few bees buzzing around his head. He tries to stay brave while a bee stings his nose. He freezes, eyes watering.
-DIALOGUE 25–28s: Bruno (tiny voice, trying to be tough): "...Bruno fine. Bruno... totally fine."
+DIALOGUE 25–28s: Bruno (very deep gentle Bigfoot voice): "Bigfoot Breakfast means Bruno must stay gentle and close."
 Final frame: Lily laughing, tasting honey, Bruno's nose slightly swollen.
 SFX: fish flopping, water splash, slap, Lily laughing, bees buzzing, tiny sting sound, comedic gulp.
 MUSIC: bouncy happy country-folk banjo and fiddle.

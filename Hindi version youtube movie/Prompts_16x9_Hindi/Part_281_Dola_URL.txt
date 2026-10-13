@@ -11,6 +11,7 @@ Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: K08_GrizzlyBear.png, K09_Wolves.png, V04_Lily_VillageMom.png, V08_Frost_Powered.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
@@ -37,13 +38,13 @@ CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal 
 The battlefield, smoke and fire, Frost buried under dark Bigfoots.
 0–3s: Lily runs through the battle, dodging soldiers, straight toward the pile of dark Bigfoots.
 OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 280's final image: King Magnus laughs from the tower, his voice echoing over the whole battlefield. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: Lily (screaming): "GET OFF MY SON!"
+DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Get Up, Frost moves the story forward."
 3–12s: Old Scar crashes into the pile from one side, wolves from the other; they pull dark Bigfoots away one by one. Lily climbs onto the pile and finds Frost's face.
-DIALOGUE 7–10s: Frost (weak, deep whisper): "Mom... I can't. He's too strong. I'm sorry."
+DIALOGUE 7–10s: Frost (deep young heroic voice): "Get Up, Frost is where I stand for my family."
 12–22s: Lily holds his face with both hands, fire behind her, completely calm.
-DIALOGUE 13–23s: Lily (strong, emotional): "Listen to me. Your father didn't win because he was strong. He won because he never stopped standing up. Strong hands... gentle heart. NOW GET UP!"
+DIALOGUE 13–23s: Lily (young emotional American woman): "I have to survive Get Up, Frost without losing myself."
 22–30s: Frost's eyes snap open, bright blue. The red chains of magic crack. He roars and stands up, throwing the last dark Bigfoots off him in every direction. His tattoos blaze brighter than ever. Final frame: Frost standing tall, Lily beside him, Old Scar and the wolves around them.
-DIALOGUE 27–29s: Frost (deep, powerful): "Thanks, Mom."
+DIALOGUE 27–29s: Lily (young emotional American woman): "After Get Up, Frost, I cannot ignore the truth anymore."
 SFX: running, battle noise, bear roar, wolves snarling, heavy bodies pulled, a soft voice, magic cracking, a massive roar, bodies flying, electricity surging.
 MUSIC: desperate battle music, a moment of silence, then a huge heroic rising theme.
 
