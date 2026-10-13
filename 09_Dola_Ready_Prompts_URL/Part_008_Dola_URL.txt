@@ -1,0 +1,42 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
+
+FROST: Son of the Wild
+PART 008 - "The Escape"
+Punch: FUN + ACTION
+Status: canon-safe opening version
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep Lily, Damian, and Rose exactly identical to the attached reference images. Lily is 22, young, innocent, beautiful, blue eyes, honey-blonde hair.
+
+Scene: Candle-lit royal bedroom, tense but not romantic. Lily is fully dressed in her wedding gown. Rose hides near a curtain.
+0-3s: The door opens. Prince Damian enters with a smug smile and two goblets on a silver tray.
+DIALOGUE 1-3s: Prince Damian (smooth arrogant voice): "The ceremony is over, Lily."
+3-10s: Lily forces a sweet smile and points toward the window.
+DIALOGUE 4-7s: Lily (fake innocent voice): "Is that your dragon outside?"
+DIALOGUE 7-8s: Prince Damian: "Where?"
+8-15s: Damian turns toward the window. Lily quickly tips the goblets onto the floor and pulls the curtain cord. The room fills with harmless candle smoke and fluttering fabric. Rose opens a hidden servant door.
+DIALOGUE 11-14s: Rose (whispering, impressed): "Miss, move now!"
+15-23s: Lily runs through the hidden door with Rose guiding her through a narrow passage. Damian coughs in the smoke, confused but unharmed.
+DIALOGUE 16-20s: Lily (half laughing, half scared): "I am never following him into that forest."
+23-30s: Lily climbs down a bedsheet rope outside the castle wall under moonlight. Final frame: Damian reaches the window and realizes she is gone.
+DIALOGUE 26-29s: Prince Damian (angry shout): "GUARDS!"
+SFX: door creak, goblets clink, liquid splash, curtain whoosh, quick footsteps, wind outside, distant alarm bell.
+MUSIC: sneaky playful strings, then fast adventure drums.
+
+GLOBAL RULES:
+AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, vertical 9:16. SETTING: Fully American / Western, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no injury, no nudity, no romantic bedroom action.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 8 | Lily escapes before the prince can take her to the forbidden forest. #Bigfoot #Movie #Part8

@@ -1,0 +1,58 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
+
+FROST: Son of the Wild
+PART 074 - "Your Father's Home"
+Punch: EMOTION
+Status:-assets
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V09_Bruno_Spirit.png -> Variant Bruno_Spirit; L04_BrunoCave.png -> Location BrunoCave.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Late afternoon inside the waterfall cave, warm light through the water.
+0–3s: Lily runs into the cave, out of breath, scared.
+DIALOGUE 1–4s: Lily (soft young American woman, worried): "Frost! I've been looking everywhere for you!"
+3–12s: She sees where he is standing and freezes. She looks around the cave slowly: the bed, the fire pit, the broken cradle. Her hand covers her mouth.
+DIALOGUE 6–9s: Kid Frost (young boy voice): "Mom... you know this place?"
+DIALOGUE 9–12s: Lily (whispering, tears coming): "Better than any place in the world."
+12–22s: She kneels by the broken cradle and laughs through her tears.
+DIALOGUE 14–22s: Lily: "Your father built this for you. He sat in it to test it... and it broke. He was so embarrassed."
+DIALOGUE 22–24s: Kid Frost (laughing softly): "He sat in my cradle?"
+22–30s: Lily puts Frost's hand back on the giant handprint on the wall.
+DIALOGUE 24–30s: Lily (emotional): "This was his home. This is where he loved us. This was your father's home, Frost."
+The waterfall light flickers, and for a second a glowing outline of Bruno's hand appears over theirs. Final frame: three hands glowing together.
+SFX: running footsteps, waterfall, crying, soft laugh, a warm magical chime.
+MUSIC: the love theme, full emotional strings and piano.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 74 | "This was your father's home." 😭💙 #Bigfoot #Movie #Part74
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

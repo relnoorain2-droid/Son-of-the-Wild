@@ -1,0 +1,70 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
+
+FROST: Son of the Wild
+PART 130 - "Pulled Under"
+Punch: TWIST + CLIFFHANGER
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; C04_Bruno_FULL.png -> Bruno; V04_Lily_VillageMom.png -> Variant Lily_VillageMom.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+CAST NOTE: Old Joe = a very old man, long white beard, wool coat, walking stick.
+Night at Mirror Lake, then a dark vision inside the water.
+0–3s: The red-eyed reflection speaks with Frost's own voice, but colder.
+DIALOGUE 1–4s: Dark Reflection (Frost's deep voice, cold and echoing): "You know what you really want."
+3–14s: Images appear in the water: Bruno falling in the sunset; King Magnus laughing on his red dragon; Cedar Hollow burning; the seven graves.
+DIALOGUE 6–14s: Dark Reflection (whispering): "He killed your father. He burned your home. Don't just beat him... DESTROY him. Burn his whole kingdom. Every one of them."
+12–22s: Frost's eyes flicker between blue and red. His fists shake. Blue lightning around him starts turning dark red.
+DIALOGUE 16–19s: Frost (struggling, deep): "No... I... I want..."
+DIALOGUE 19–21s: Lily (from the shore, scared): "Frost? FROST!"
+22–30s: A giant red-eyed hand made of water bursts out of the lake, grabs Frost by the arm, and drags him under the surface. The lake goes completely still. Lily screams and runs to the edge; Old Joe holds her back. Final frame: the perfectly still lake reflecting the moon, no sign of Frost.
+DIALOGUE 27–30s: Old Joe (holding Lily, serious): "No! He has to fight this one alone."
+SFX: cold echoing voice, flashes of past sounds (war horns, a roar, fire), electric crackle turning darker, a sudden water explosion, a splash, then complete silence.
+MUSIC: dark, frightening choir and low drums, cut into silence.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 130 | The dark reflection pulled Frost UNDER the lake 😱🌊 Will hate win? #Bigfoot #Movie #Part130
+
+
+# FROST: Son of the Wild — PARTS 131–140 (Act 4: The Heart & The Power)
+Dola me kaise use karein:
+1. "Attach" me likhi images (Characters folder se) Dola me upload karo (max 4).
+2. PART ka poora block (PART se lekar CAPTION se pehle tak) copy karke Dola me paste karo.
+3. Video ready hone par CAPTION Facebook description me paste karo.
+
+Story so far (Part 131–140): Mirror Lake ke andar Frost ka laal aankhon wala "dark self" use dikhata hai ki nafrat use doosra zaalim raja bana degi. Frost nafrat ki jagah "protect" chunta hai aur 4th trial jeetta hai (4th mark, chehre pe). Phir Old Scar unhe nadi kinare le jaata hai jahan jungle ke jaanwaron ne Bruno ki kabr banayi thi. Poore chaand ki raat Frost papa ko pukarta hai: aasmaan me Bruno ki aatma aur Elder Orin aate hain, aur dada → papa → beta poori shakti utarti hai. Frost ka powered form (V08) jaagta hai. Phir powers ka test: bijli, udna, na tootne wali skin, jaanwaron ko bulana. Part 140 me raja ke kingdom se Rose (purani maid) bhaag kar aati hai: "The people will rise with you."
+
+Powered Frost look: V08_Frost_Powered (glowing electric-blue tattoos on arms, chest and face, eyes glowing blue).
+
+LILY RULE: Lily poori movie me hamesha 22–24 saal ki young, innocent aur khoobsurat dikhegi (har Lily wale part me "LOOK LOCK" line hai).
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

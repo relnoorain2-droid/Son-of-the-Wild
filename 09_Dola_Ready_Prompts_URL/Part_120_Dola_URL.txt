@@ -1,0 +1,67 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
+
+FROST: Son of the Wild
+PART 120 - "Something to Protect"
+Punch: WOW + EMOTION
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V13_Sarah_Adult.png -> Variant Sarah_Adult; S10_Villagers.png -> optional background group, skip unless you want crowd continuity; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+Sunset at the Bear Rock meadow. The whole village has come to watch.
+0–3s: Frost stands in front of the Bear Rock once more. Behind him, the entire village stands quietly holding lanterns.
+DIALOGUE 1–4s: Sarah (young woman now, calling out): "You can do it, Frost! We're all here!"
+3–12s: Frost closes his eyes. Quick memory flashes: baby Frost giving Sarah her teddy; the children in the cellar; Martha's sweater; his mother's face.
+DIALOGUE 6–10s: Frost (deep, quiet): "I'm not pushing for me. I'm pushing for them."
+12–22s: He places his hand inside the giant carved handprint. It fits perfectly now. He pushes. The ground shakes. With a deep grinding sound, the Bear Rock moves... an inch... a foot... then rolls slowly across the meadow.
+DIALOGUE 16–19s: Frost (roaring with everything): "FOR CEDAR HOLLOOOOW!"
+22–30s: The rock rolls off the cliff edge and crashes down the mountain. The village explodes in cheers. A glowing blue mark burns itself onto Frost's right forearm like a tattoo, shining. Frost stares at it in wonder. Final frame: the glowing blue mark on his arm, lanterns behind him.
+DIALOGUE 27–29s: Old Joe (smiling, slow raspy voice): "Trial one... complete."
+SFX: lanterns, wind, memory echoes, deep stone grinding, ground rumbling, a huge roar, the rock tumbling, massive crash below, cheering, a magical burning hum.
+MUSIC: emotional build-up to a huge triumphant orchestral and choir climax.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 120 | He finally moved the Bear Rock... TRIAL 1 COMPLETE ✅⚡ #Bigfoot #Movie #Part120
+
+
+# FROST: Son of the Wild — PARTS 121–130 (Act 4: The Trials – Wild & Storm)
+Dola me kaise use karein:
+1. "Attach" me likhi images (Characters folder se) Dola me upload karo (max 4).
+2. PART ka poora block (PART se lekar CAPTION se pehle tak) copy karke Dola me paste karo.
+3. Video ready hone par CAPTION Facebook description me paste karo.
+
+Story so far (Part 121–130): TRIAL 2 – THE WILD: jungle ka sabse khatarnak jaanwar "Old Scar" (ek bahut bada, purana grizzly) Frost ki power nahi maanta. Frost ladta hai aur haarta hai. Phir dekhta hai ki Old Scar ka pair raja ke shikariyon ke lohe ke trap me phansa hai. Frost bina lade, chot khaate hue use azaad karta hai, aur poora jungle uske aage jhuk jaata hai (2nd mark). TRIAL 3 – THE STORM: Thunder Peak ki chadhai toofan me. Frost girta hai, bijli use maarti hai, woh haar maanne wala hota hai, phir papa ki awaaz yaad aati hai "Be still. Like the river." Top par woh bijli ko apne andar le leta hai (3rd mark). TRIAL 4 – THE HEART shuru: Mirror Lake me sabse bada darr dikhta hai. Part 130 me vision Frost ko paani ke andar kheench leta hai.
+
+Marks: Trial 1 = right forearm ✅ | Trial 2 = left forearm | Trial 3 = chest | Trial 4 = face (Part 132)
+New creature (image nahi chahiye, prompt me describe hai): "Old Scar" — a gigantic ancient grizzly bear, twice normal size, silver-grey fur, a long white scar across one eye.
+
+LILY RULE: Lily poori movie me hamesha 22–24 saal ki young, innocent aur khoobsurat dikhegi (har Lily wale part me "LOOK LOCK" line hai).
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

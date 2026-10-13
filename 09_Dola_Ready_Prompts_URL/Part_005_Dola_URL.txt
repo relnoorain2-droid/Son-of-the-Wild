@@ -1,0 +1,40 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
+
+FROST: Son of the Wild
+PART 005 - "The Warning"
+Punch: TWIST + EMOTION
+Status: canon-safe opening version
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep Lily and Rose exactly identical to the attached reference images. Lily is 22, innocent, beautiful, blue eyes, honey-blonde hair. Rose is an older nervous castle maid with kind eyes.
+
+Scene: A candle-lit royal dressing room inside the Western dark-fantasy castle, white wedding gown, mirror, roses, moonlight through tall windows.
+0-3s: Lily stands before the mirror in a white royal wedding gown and veil. Rose adjusts the veil with trembling hands.
+DIALOGUE 1-4s: Rose (old nervous maid, soft whisper): "You look like an angel, miss."
+3-10s: Lily notices Rose's hands shaking and turns toward her.
+DIALOGUE 6-9s: Lily (soft, nervous): "Rose... why are you so afraid?"
+10-18s: Rose glances at the locked door, then silently points to faint scratch marks hidden behind the mirror frame, left by previous brides.
+DIALOGUE 12-17s: Rose (whispering, scared): "Every month, a bride sleeps in this room... and none of them ever come back."
+18-25s: Lily's smile fades. She touches the wall marks, realizing this wedding is hiding a secret.
+DIALOGUE 19-23s: Lily (whispering): "What happens after the ceremony?"
+25-30s: Heavy footsteps approach outside the door. Rose drops the hairbrush in fear. Final frame: Rose looking at Lily with urgent warning in her eyes.
+DIALOGUE 26-29s: Rose (shaking whisper): "Do not follow him into the forest."
+SFX: soft fabric rustle, candle crackle, distant footsteps, hairbrush drop.
+MUSIC: quiet sad piano turning into dark suspense strings.
+
+GLOBAL RULES:
+AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, vertical 9:16. SETTING: Fully American / Western castle, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no nudity, no forced physical contact.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 5 | Rose warns Lily: every bride enters this room... but none come back. #Bigfoot #Movie #Part5

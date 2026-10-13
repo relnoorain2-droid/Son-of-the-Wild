@@ -1,0 +1,271 @@
+# BIGFOOT MOVIE – CHARACTER SHEET
+Working title: "FROST: Son of the Wild"
+Ratio: 9:16 | 180 parts x 30 sec | English dialogue | USA setting
+
+==================================================================
+## 1. HOW TO USE
+==================================================================
+
+Har character ki 2 images ChatGPT se banao:
+  - FULL = poora body (head to toe)
+  - FACE = chehra close-up
+
+Steps:
+1. Neeche diya STYLE LOCK har ChatGPT prompt ke shuru me paste karo.
+2. Character ka prompt paste karo, image generate karo.
+3. FACE ke liye usi chat me likho:
+   Same character, same style, close-up portrait of face and shoulders, front facing, neutral grey background.
+4. File ka naam bilkul table jaisa rakho, jaise:  C01_Lily_FULL.png  /  C01_Lily_FACE.png
+5. Images isi folder me "Characters" sub-folder me rakho.
+
+RULE: Ek character ki image final ho gayi to wahi hamesha use karni hai. Dobara mat banana, warna chehra badal jayega.
+
+Naming code:
+  C = main character | V = variant (same character, alag look) | S = supporting
+  K = king's creatures / jungle animals | L = location
+
+STYLE LOCK (copy-paste, har prompt se pehle):
+----------------------------------------------------------------
+Hyper-realistic cinematic 3D animation style, Unreal Engine 5 quality, photorealistic skin, hair and fur detail, soft natural studio lighting, sharp focus, vertical 9:16 image, full body visible head to toe, character standing straight facing the camera, arms relaxed, plain light-grey studio background, no text, no logo, no watermark.
+----------------------------------------------------------------
+
+==================================================================
+## USA ONLY RULE (poori movie me lock)
+==================================================================
+Movie 100% American / Western rahegi. Koi Asian touch nahi.
+
+- Jagah: Pacific Northwest USA (Washington/Oregon) – redwood/pine jungle, log cabins, pickup trucks, general store.
+- Log: sab American naam, American chehre, American kapde (flannel, jeans, boots, cowboy hat).
+- Raja ka kingdom: European-style dark fantasy castle (Game of Thrones / Lord of the Rings jaisa), Asian palace nahi.
+- Dragons: sirf Western dragons (pankh, aag). Chinese/Asian dragon nahi.
+- "Haathi" = woolly mammoth. "Kabila" = chhota American gaon (Cedar Hollow).
+- Jaanwar: grizzly bear, timber wolves, mountain lion, bison, elk, bald eagle.
+- Power ritual: meditation/yoga/dhyan NAHI. Frost poore chaand ki raat ko apne baap ki kabr (grave) ke paas pathar pe ghutno ke bal baithkar baap ko pukarta hai – Western fantasy style.
+- Shaadi: Western royal wedding (white gown, veil, church-style hall, candles).
+- Music/song: American cinematic orchestra + soft country/folk song. Koi Asian instrument nahi.
+- Dialogue: sirf natural American English.
+- Har Dola prompt me yeh line: "Setting and people are fully American / Western, no Asian elements."
+
+==================================================================
+## LILY LOOK LOCK (poori movie me lock)
+==================================================================
+Lily poori movie me hamesha 22–24 saal ki dikhegi: young, innocent, sweet aur bahut khoobsurat.
+- Frost ke bade hone ke baad bhi (Part 52–180) Lily ka chehra bilkul wahi rahega. Kabhi buddhi, thaki hui ya wrinkles wali nahi.
+- Story me yeh movie ka magic hai, aur log hairaan hote hain: Damian (Part 104) "you're still beautiful", Rose (Part 140) "you haven't aged a day", maa Grace (Part 176) "you haven't changed at all".
+- Har Lily wale part me "LOOK LOCK" line pehle se likhi hai, aur skill file me bhi yeh rule hai.
+- Lily ki saari variant images (V01–V04) usi C01 FACE image se banao, taaki chehra same rahe.
+
+==================================================================
+## PUNCH RULE (har 30 sec part me lock)
+==================================================================
+Koi bhi part "khaali" nahi hoga. Har part ka structure:
+
+  0–3 sec  : HOOK – pehle 3 second me hi kuch chaunkane wala (action, cheekh, reveal, joke) taaki log scroll na karein
+  3–22 sec : STORY – kahani aage badhe, kam se kam 1 dialogue line
+  22–30 sec: PUNCH / CLIFFHANGER – end me jhatka, taaki log agla part dhoondhein
+
+Har part me in 5 me se kam se kam 1 punch zaroor:
+  1. ACTION   – fight, chase, dhamaka, jaanwar ka hamla
+  2. FUN      – Frost/Bruno ki masti, bachchon ke saath comedy, funny reaction
+  3. EMOTION  – aansu, pyaar, maa-beta moment
+  4. TWIST    – naya raaz, naya dushman, achanak reveal
+  5. WOW      – power, dragon, giant visual, slow-motion shot
+
+Ek jaisa punch lagataar 3 part se zyada nahi (variety rahe).
+
+STANDALONE RULE – har part akela bhi "best" lage:
+Viewer kisi bhi part (Part 10, Part 87...) se shuru kar sakta hai. Isliye har part:
+  - Bina pichhla part dekhe samajh aaye: pehli 1-2 lines me hi context mil jaaye
+    (jaise: "They killed my father... now they're coming for my mother!")
+  - Kam se kam 2-4 dialogue lines – koi bhi part bina voice ke nahi
+  - Har part me teeno audio: VOICE (dialogue) + SFX (sound effects) + MUSIC (background score)
+  - Har part me kam se kam 1 main character ka chehra clear dikhe
+  - End me ek sawal/jhatka jo agla part dekhne pe majboor kare – aur viewer Part 1 se dekhne ka bhi soche
+  - Har part apne aap me ek mini-story: hook -> kuch hota hai -> punch
+
+Har Dola prompt me audio aise likha jayega (taaki koi voice miss na ho):
+  DIALOGUE: [Character naam] ([voice lock]) says: "exact English line" – timing ke saath (jaise 4–7 sec)
+  SFX: kaun si awaaz kab
+  MUSIC: kis mood ka score
+Har part ka aakhri frame agle part ka pehla frame banega (continuity).
+
+==================================================================
+## 2. MAIN CHARACTERS (6)
+==================================================================
+
+------------------------------------------------------------------
+C01 – LILY CARTER  (Heroine, maa)
+Files: C01_Lily_FULL.png, C01_Lily_FACE.png
+Role: 22 saal ki garib, innocent, bahut khoobsurat American ladki. Movie ki maa.
+VOICE LOCK: young American woman, 22, soft gentle voice, warm and innocent, slight small-town Midwestern accent, trembles when scared.
+
+ChatGPT prompt:
+Lily, 22-year-old American Woman (Heroine Style):
+A breathtakingly beautiful 22-year-old American woman named Lily with a classic, cinematic beauty. She has smooth porcelain skin dusted with faint, natural freckles across her cheeks and a delicate, finely defined button nose. Her face features a soft oval shape, high subtle cheekbones, and a gentle jawline. She has large, expressive, radiant blue eyes that reflect a warm, resilient, and innocent spirit, paired with a subtle, sweet smile. Her long, sun-kissed honey-blonde hair falls in soft, voluminous waves past her shoulders.
+She has a slim build and average height. She wears a faded light-blue cotton sundress with a faint white floral pattern, a worn brown knit cardigan, and classic brown leather ankle boots. Simple, rustic small-town style, no heavy makeup, natural glow, no jewelry. An effortless, timeless American heroine aesthetic—clearly a young adult woman.
+
+------------------------------------------------------------------
+C02 – KING MAGNUS THORNE  (Jungle kingdom ka raja, main villain)
+Files: C02_KingMagnus_FULL.png, C02_KingMagnus_FACE.png
+Role: Bahut powerful, zaalim raja. Jungle ke beech bada mahal, dragons, mammoths, dinosaurs, dark Bigfoots uske paas.
+VOICE LOCK: deep, rough, commanding American male voice, age 55, slow and menacing, booming when angry.
+
+ChatGPT prompt:
+A powerful 55-year-old king named Magnus Thorne, tall and broad-shouldered, pale skin with a deep scar across his left cheek, cold grey eyes, long silver-grey hair pulled back, thick short grey beard. He wears a dark iron crown with antler-shaped spikes, heavy black and dark-red fur-trimmed royal armor, a long black bear-fur cloak, black leather gloves, and holds a tall dark wooden staff topped with a red glowing crystal. Cruel, proud, intimidating expression. Dark fantasy forest-king look.
+
+------------------------------------------------------------------
+C03 – PRINCE DAMIAN THORNE  (Raja ka beta, villain)
+Files: C03_PrinceDamian_FULL.png, C03_PrinceDamian_FACE.png
+Role: Har hafte nayi dulhan, phir use jungle me chhod deta hai. Lily se shaadi karta hai.
+VOICE LOCK: smooth, charming American male voice, age 27, arrogant and cold underneath, smirking tone.
+
+ChatGPT prompt:
+A handsome 27-year-old prince named Damian Thorne, tall and lean, pale skin, sharp jawline, slicked-back jet-black hair, icy grey eyes, clean-shaven, arrogant smirk. He wears a fitted black velvet royal coat with dark-red embroidery and silver buttons, a dark-red sash, black trousers, tall polished black leather boots, a thin silver crown circlet, and a silver ring with a red stone. Charming but dangerous look.
+
+------------------------------------------------------------------
+C04 – BRUNO  (Black Bigfoot, Lily ka pati, Frost ka baap)
+Files: C04_Bruno_FULL.png, C04_Bruno_FACE.png
+Role: Humble, seedha-saadha jungle ka Bigfoot. Lily ko bachata hai, pyaar hota hai, raja ki fauj se ladte hue mar jaata hai.
+VOICE LOCK: very deep, slow, warm male voice, gentle giant, calm and kind, slightly rough and gravelly, speaks simple short English sentences.
+
+ChatGPT prompt:
+A huge gentle Bigfoot named Bruno, 9 feet tall, massive muscular ape-like body covered in thick shaggy jet-black fur, darker leathery charcoal skin on face, palms and chest, wide flat nose, heavy brow, kind warm amber-brown eyes, calm humble expression. A small white patch of fur on his chest shaped like a crescent. Big strong hands, large bare feet. Realistic Pacific Northwest Bigfoot, not a cartoon, not a monster. Gentle giant look.
+
+------------------------------------------------------------------
+C05 – FROST  (White Bigfoot, Lily aur Bruno ka beta, HERO)
+Files: C05_Frost_FULL.png, C05_Frost_FACE.png   (yeh ADULT look hai; baby/kid/teen variants neeche)
+Role: Badla lene wala hero. Chehra thoda maa (Lily) jaisa. Powers: bijli, udna, jaanwaron se baat, na tootne wali skin.
+VOICE LOCK: deep powerful young male voice, age early 20s, calm and strong, American accent, rises into a thunderous roar when angry.
+
+ChatGPT prompt:
+A giant heroic white Bigfoot named Frost, 11 feet tall, extremely muscular, covered in thick snow-white fur with a slight silver shine. His face has light pale-pink skin and softer, more human-like features than a normal Bigfoot: big soft blue eyes exactly like a young blonde woman's, a smaller nose, gentle eyebrows, a hint of honey-blonde tint in the fur on top of his head. Along his shoulders, upper back and forearms are subtle pale silver dragon-like scale patterns woven into the fur. A small black crescent-shaped fur patch on his chest (from his father). Proud, kind, determined expression. Realistic, not a cartoon.
+
+------------------------------------------------------------------
+C06 – ELDER ORIN  (Bruno ka baap, Frost ka dada – mahan jaadugar Bigfoot, sirf aatma)
+Files: C06_ElderOrin_FULL.png, C06_ElderOrin_FACE.png
+Role: Power ritual me aasmaan me dikhta hai, shakti deta hai.
+VOICE LOCK: ancient, very deep, echoing wise male voice, slow, reverberating like it comes from the sky.
+
+ChatGPT prompt:
+An ancient wise sorcerer Bigfoot named Elder Orin, 10 feet tall, old and powerful, long flowing grey-black fur with silver streaks, long white fur beard, deep wrinkles on charcoal skin, glowing pale-blue eyes. Glowing blue runic tattoos on his arms and chest. Wears a necklace of carved bones and blue crystals and holds a tall gnarled wooden staff. Calm, wise, powerful expression.
+
+==================================================================
+## 3. VARIANTS (same character, alag time/look)
+==================================================================
+Variant images banate time CHARACTER ki FACE image ChatGPT me upload karke likho:
+"Use this exact same face and character, only change the following:"  ...phir neeche wala prompt.
+
+V01_Lily_Wedding.png – Lily in a white royal wedding gown with lace sleeves and a long veil, small silver tiara, hair in soft curls, nervous but beautiful expression.
+V02_Lily_Forest.png – Lily in the same light-blue dress but torn and muddy at the hem, bare dirty feet, messy hair with leaves, small scratches on arms, scared expression.
+V03_Lily_Pregnant.png – Lily about 8 months pregnant, still young (22) and beautiful, wearing an oversized brown flannel shirt over a long plain skirt, hair in a loose braid, soft hopeful expression, hands on her belly.
+V04_Lily_VillageMom.png – Lily as a young mother, still looks 23 (she never ages in this story): the exact same sweet, innocent, beautiful face, no wrinkles, no pregnancy, honey-blonde hair in a loose messy bun, red-and-black flannel shirt, jeans, work boots, warm gentle smile, a little braver look. (Part 52 se END tak yahi image.)
+V05_Frost_Baby.png – A newborn white baby Bigfoot, fluffy snow-white fur, pale-pink face, big blue eyes, tiny hands, cute and innocent, wrapped in an old patchwork quilt.
+V06_Frost_Kid.png – Frost as a 5-foot playful kid Bigfoot, snow-white fur, big blue eyes, curious happy face, small black crescent patch on chest.
+V07_Frost_Teen.png – Frost as an 8-foot teenage Bigfoot, leaner muscles, snow-white fur, first faint silver scale patterns on shoulders, energetic look.
+V08_Frost_Powered.png – Adult Frost after the power ritual: glowing electric-blue tribal tattoos on his arms, chest and face, eyes glowing blue, small blue lightning sparks around his hands, fur slightly brighter silver, fierce warrior expression.
+V09_Bruno_Spirit.png – Bruno as a translucent glowing blue spirit in the sky, soft light, peaceful smile.
+V10_Damian_Battle.png – Prince Damian in black spiked armor with a red cape and a long silver sword.
+V11_KingMagnus_Battle.png – King Magnus in full black iron battle armor riding on the back of the red dragon.
+V12_Tommy_Adult.png – (S05 Tommy ki FACE image se banao) Tommy Miller grown up, about 22: tall, lean young American man, messy brown hair, light freckles, friendly grin, red baseball cap, plaid flannel shirt, jeans, boots. (Part 88 se END tak)
+V13_Sarah_Adult.png – (S06 Sarah ki FACE image se banao) Sarah Miller grown up, about 19: young American woman, long blonde hair in a side braid, kind brave eyes, denim jacket over a yellow top, jeans, boots. (Part 88 se END tak)
+V14_Grace_Older.png – (S01 Grace ki image se banao) Grace Carter years later, about 62: white hair in a bun, deeper wrinkles, kind tired eyes, the same faded floral apron over a simple dress, wooden cane. (Part 176–179)
+
+==================================================================
+## 4. SUPPORTING CHARACTERS
+==================================================================
+
+S01_GraceCarter – Lily's mother, 50, poor, kind but helpless.
+  Prompt: A tired 50-year-old American woman, fair skin, greying blonde hair in a bun, worn floral apron over a faded dress, kind sad eyes.
+  VOICE: soft, tired, caring older American woman.
+
+S02_MarthaHayes – Gaon ki buzurg aurat, Lily ko sahara deti hai.
+  Prompt: A kind 68-year-old American woman, white curly short hair, round glasses, warm smile, knitted cardigan, long denim skirt.
+  VOICE: warm grandmotherly voice, slight Southern drawl.
+
+S03_HankMiller – Dayalu farmer, gaon ka leader.
+  Prompt: A sturdy 50-year-old American farmer, sun-tanned skin, brown beard with grey, worn cowboy hat, plaid shirt, denim overalls, work boots.
+  VOICE: deep friendly rural American male voice.
+
+S04_OldJoeWhitaker – Gaon ka buzurg kahani-sunane wala, jo Elder Orin ka raaz batata hai.
+  Prompt: A very old 80-year-old American man, long white beard, weathered face, wool coat, walking stick, wise eyes.
+  VOICE: slow, raspy, wise old man voice.
+
+S05_TommyMiller – Hank ka beta (10 saal), Frost ka dost. (Part 76 tak; teen parts me image nahi; Part 88 se V12)
+  Prompt: A cheerful 10-year-old American boy, messy brown hair, freckles, red cap, striped T-shirt, jeans.
+  VOICE: excited young boy voice.
+
+S06_SarahMiller – Hank ki beti (7 saal). (Part 84 tak; teen parts me image nahi; Part 88 se V13)
+  Prompt: A sweet 7-year-old American girl, blonde pigtails, yellow dress, holding a teddy bear.
+  VOICE: small cute girl voice.
+
+S07_CaptainVex – Raja ka commander / tax collector.
+  Prompt: A brutal 40-year-old soldier, shaved head, scar over eye, black leather and iron armor, wolf-fur shoulder cape, axe.
+  VOICE: harsh, loud, threatening male voice.
+
+S08_KingdomGuards – Raja ke sipahi (group).
+  Prompt: A group of royal guards in black iron helmets and dark-red tunics with spears and shields.
+
+S09_Brides – Pehle ki dulhanein (group, background only).
+  Prompt: Several young adult women in simple white wedding dresses, scared expressions.
+
+S10_Villagers – Gaon ke log (group).
+  Prompt: A group of rural American villagers, men and women of different ages, flannel shirts, jeans, overalls, boots.
+
+S11_Rose – Castle ki buzurg naukrani (maid), Lily ko sach batati hai. (Part 5, 7, 8 me zaroori)
+  Prompt: A kind 62-year-old castle maid, fair wrinkled skin, grey hair tucked under a white maid cap, black long-sleeve maid dress with white apron, nervous gentle eyes.
+  VOICE: old kind nervous maid, whispering, soft British accent.
+
+NARRATOR – koi image nahi, sirf awaaz.
+  VOICE: deep, cinematic American male movie-trailer voice, slow and dramatic.
+
+==================================================================
+## 5. CREATURES (Raja ki fauj + jungle ke jaanwar)
+==================================================================
+
+K01_DarkBigfoot – Raja ke khoonkhaar Bigfoots.
+  Prompt: A savage 10-foot Bigfoot with matted dark-brown fur, glowing red eyes, sharp fangs, scars, iron shackles and spiked collar.
+K02_RedDragon – Raja ka red dragon. Part 159 se "Great Red Dragon" (3x bada, castle ke neeche qaid) bhi isi image se banta hai; prompt me size likha hai.
+  Prompt: A massive Western dragon with dark-red scales, huge bat-like wings, long horns, glowing orange throat, fire in mouth.
+K03_SmallDragons – Chhote dragons (group).
+  Prompt: Small black-and-green Western dragons, size of horses, leathery wings, sharp claws.
+K04_TRex – Raja ka dinosaur.
+  Prompt: A huge realistic Tyrannosaurus rex with dark-green scales and an iron war harness.
+K05_Anaconda – Giant snake.
+  Prompt: A giant 60-foot anaconda with dark olive scales and yellow eyes.
+K06_WarMammoth – Raja ke "haathi" (USA version = woolly mammoth).
+  Prompt: A giant woolly mammoth with long brown fur, huge curved tusks, wearing dark-red war armor and a wooden battle platform on its back.
+K07_WarHorses – Raja ke ghode.
+  Prompt: Black war horses with dark-red armor and glowing eyes.
+K08_GrizzlyBear – Jungle ka bhaalu.
+  Prompt: A huge angry grizzly bear standing on hind legs, roaring.
+K09_Wolves – Bhediyon ka jhund.
+  Prompt: A pack of grey timber wolves with bared teeth.
+K10_MountainLion – Puma.
+  Prompt: A muscular mountain lion (cougar) crouching to attack.
+OLD SCAR – image ki zaroorat nahi. Har part me prompt ke andar describe hai: a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
+
+==================================================================
+## 6. LOCATIONS (USA – Pacific Northwest)
+==================================================================
+Location images ke liye STYLE LOCK me "full body character" wali line hata do aur "wide establishing shot, no people" likho.
+
+L01_LilyHouse – Small poor wooden house in a rural American town, peeling white paint, rusty mailbox, old pickup truck.
+L02_KingCastle – Massive dark stone castle hidden deep inside a giant redwood forest, red banners, dragons flying above.
+L03_DeepForest – Giant misty redwood and pine forest, ferns, moss, sun rays through fog.
+L04_BrunoCave – Cozy cave behind a waterfall with a campfire, moss and wildflowers.
+L05_River – Wide fast mountain river with rocks and white water, forest on both sides.
+L06_AbandonedCabin – Old abandoned log cabin by a river, broken window, wild grass.
+L07_Village – Small Washington-state village "Cedar Hollow": log cabins, general store, old pickup trucks, dirt road, mountains behind.
+L08_Battlefield – Open valley in front of the king's castle, smoke, fire, broken spears.
+
+==================================================================
+## 7. KAHANI ME KAUN KAB AATA HAI (quick map)
+==================================================================
+Act 1 (Part 1–40):    Lily, Grace, Rose, Magnus, Damian, Vex, Brides, Bruno, jungle animals, king's army
+Act 2 (Part 41–60):   Lily (pregnant -> young mom), Martha, Hank, Old Joe, Tommy, Sarah, baby Frost
+Act 3 (Part 61–100):  Kid Frost (61–75), Teen Frost (76–87), Adult Frost (88+), village, raid, the truth
+Act 4 (Part 101–140): Battle of Cedar Hollow, the 4 Trials, Old Scar, Elder Orin, Bruno spirit, powered Frost (136+)
+Act 5 (Part 141–180): Rose returns, army, final battle, Damian + King end, Grace reunion, celebration
+
+Frost ki image kab kaunsi: V05 baby (52–60) | V06 kid (61–75) | V07 teen (76–87) | C05 adult (88–135) | V08 powered (136–180)
+Lily ki image kab kaunsi: V02 forest (1, 10–28) | C01 (2–4) | V01 wedding (5–9) | V03 pregnant (29–51) | V04 young mom (52–180)

@@ -1,0 +1,55 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+
+FROST: Son of the Wild
+PART 065 - "The Barn Fire"
+Punch: ACTION
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S03_HankMiller_FULL.png -> Hank Miller; L07_Village.png -> Location Village.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Night, Hank's big red barn on fire on the edge of Cedar Hollow, flames and smoke, villagers with buckets.
+0–3s: The barn roof bursts into flames; horses scream inside.
+DIALOGUE 1–3s: Hank (desperate): "My horses! They're trapped inside!"
+3–12s: Villagers throw buckets of water but the fire is too big. Kid Frost runs past everyone straight into the burning barn.
+DIALOGUE 6–9s: Lily (screaming): "FROST! NO!"
+12–22s: Inside the barn: flames everywhere, smoke. Frost lifts a burning beam off a stall, grabs two frightened horses by their ropes, and shields them with his body from falling fire.
+DIALOGUE 15–18s: Kid Frost (coughing, brave): "Come on, come on! I got you!"
+22–30s: The barn doors explode open. Frost runs out carrying a young foal in his arms, with two horses running behind him. The barn collapses behind them. His white fur is black with soot. He coughs and smiles. Final frame: Hank hugging the foal, then hugging Frost.
+DIALOGUE 26–30s: Hank (emotional, deep voice): "Son... you're the bravest boy in this whole town."
+SFX: roaring fire, horses neighing, water splashes, wood cracking, coughing, doors bursting, barn collapsing.
+MUSIC: intense heroic action score, ending with a warm emotional swell.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 65 | He ran INTO the fire to save the horses 🔥🐴 #Bigfoot #Movie #Part65
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

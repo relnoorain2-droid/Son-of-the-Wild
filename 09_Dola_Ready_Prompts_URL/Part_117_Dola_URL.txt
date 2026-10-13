@@ -1,0 +1,55 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
+
+FROST: Son of the Wild
+PART 117 - "Trial 1: The Bear Rock"
+Punch: WOW + FUN
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V12_Tommy_Adult.png -> Variant Tommy_Adult; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; L03_DeepForest.png -> Location DeepForest.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+Morning, a high mountain meadow above the forest. In the middle stands a gigantic grey boulder, as big as a house, shaped a little like a sleeping bear. A giant old Bigfoot handprint is carved into its side.
+0–3s: Frost, Old Joe and Tommy walk out of the trees and stop. Frost looks up at the boulder.
+DIALOGUE 1–4s: Frost (deep voice, swallowing): "That's... a mountain, not a rock."
+3–12s: Old Joe points at a cliff edge about fifty yards away.
+DIALOGUE 5–10s: Old Joe (slow raspy voice): "Push the Bear Rock to the edge. That's it. That's the first trial."
+DIALOGUE 10–14s: Tommy (young man, grinning): "Easy. Ten bucks says he does it in five minutes."
+12–22s: Frost puts both hands on the rock, plants his feet, and pushes with a huge roar. His muscles bulge, the ground under his feet cracks... the rock doesn't move even a little.
+22–30s: He tries again, roaring louder. He slips and falls flat on his face in the grass. Silence. A small bird lands on his head.
+DIALOGUE 26–29s: Tommy (handing money to Old Joe, sighing): "...Okay. Double or nothing on tomorrow."
+Final frame: Frost lying face down, the giant rock not moved at all.
+SFX: wind on the mountain, footsteps, a massive straining roar, ground cracking, a slip, a body thud, bird chirping, money rustling.
+MUSIC: epic music that builds and then deflates comically.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 117 | Trial 1: move the Bear Rock... it didn't move even an inch 😂🪨 #Bigfoot #Movie #Part117
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

@@ -1,0 +1,75 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+K07_WarHorses.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K07_WarHorses/K07_WarHorses.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
+
+FROST: Son of the Wild
+PART 080 - "Not Yet"
+Punch: TWIST + CLIFFHANGER
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; S07_CaptainVex_FULL.png -> Captain Vex; K07_WarHorses.png -> Creature WarHorses.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+Night after the storm, inside Old Joe's small wooden house, a fireplace, old books, carved wooden figures on shelves.
+0–3s: Teen Frost, wet and shaking, sits on the floor of Old Joe's house. Old Joe hands him a cup of hot cocoa.
+DIALOGUE 1–3s: Teen Frost (scared, teenage voice): "Joe, what's wrong with me?"
+3–14s: Old Joe picks up the carved wooden Bigfoot holding a staff from his shelf.
+DIALOGUE 5–10s: Old Joe (slow raspy wise voice): "Nothing's wrong with you. There's an old power in your blood, son. Very old."
+DIALOGUE 10–14s: Teen Frost (eager): "Then teach me! Tell me everything!"
+14–22s: Old Joe puts the carving down and shakes his head.
+DIALOGUE 15–21s: Old Joe: "Not yet. Power before wisdom is just another storm. When the time comes... you'll know."
+22–30s: Outside on the dark hills above Cedar Hollow, three riders on black war horses watch the village lights through a spyglass. One of them is Captain Vex, older now, smiling.
+DIALOGUE 25–29s: Captain Vex (harsh voice, quiet and cruel): "The boy is ready. Tell the king."
+Final frame: Vex turning his horse and riding away into the dark.
+SFX: fireplace crackle, cocoa cup, rain dripping, wooden carving set down, wind on the hills, horse snort, galloping away.
+MUSIC: warm mysterious strings inside, dark villain theme outside.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 80 | Old Joe knows the secret of Frost's power... but the king's men are watching 👀🐎 #Bigfoot #Movie #Part80
+
+
+# FROST: Son of the Wild — PARTS 81–90 (Act 3: The Boy Who Became a Giant – Part 3)
+Dola me kaise use karein:
+1. "Attach" me likhi images (Characters folder se) Dola me upload karo (max 4).
+2. PART ka poora block (PART se lekar CAPTION se pehle tak) copy karke Dola me paste karo.
+3. Video ready hone par CAPTION Facebook description me paste karo.
+
+Story so far (Part 81–90): Teen Frost county fair jeetta hai, truck chalana seekhta hai, jungle ki aag se gaon bachata hai aur bimaar maa ke liye toofan me dawai laata hai. Gaon uska birthday manata hai aur SONG 2 "Cedar Hollow Home" gaata hai. Phir Frost poora jawan giant (11 feet) ban jaata hai: chalta hai to zameen hilti hai. Part 90 me maa-beta door nadi pe machhli pakadne jaate hain... aur pahadon ke peeche raja ki fauj gaon ki taraf badh rahi hai.
+
+Teen Frost: V07_Frost_Teen (Part 81–87)  |  Adult Frost: C05_Frost_FULL / C05_Frost_FACE (Part 88–90)
+Adult Frost voice: deep powerful young male voice, early 20s, calm and strong, American accent.
+
+SONG 2 — "Cedar Hollow Home" (original, upbeat American country-folk, whole village sings, Lily leads)
+  Verse:  "Porch lights on and the kettle's warm, / we stand together through every storm."
+  Chorus: "Oh Cedar Hollow, you're my home, / never gonna walk this road alone, / big or small, we're family, / here in Cedar Hollow... home."
+  Verse 2 (Part 87): "Muddy boots and a fiddle tune, / dancing under a harvest moon."
+
+LILY RULE: Lily poori movie me hamesha 22–24 saal ki young, innocent aur khoobsurat dikhegi (har Lily wale part me "LOOK LOCK" line hai).
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

@@ -1,0 +1,55 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
+K06_WarMammoth.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K06_WarMammoth/K06_WarMammoth.png
+V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
+
+FROST: Son of the Wild
+PART 105 - "Bacon Grease"
+Punch: ACTION + FUN
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V10_Damian_Battle.png -> Variant Damian_Battle; C05_Frost_FULL.png -> Frost; K06_WarMammoth.png -> Creature WarMammoth; K01_DarkBigfoot.png -> Creature DarkBigfoot.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+CAST NOTE: Tommy = a young man (about 22), messy brown hair, light freckles, red baseball cap, plaid flannel shirt; Hank = a sturdy farmer, grey-brown beard, worn cowboy hat, plaid shirt, overalls.
+Night battle in front of Cedar Hollow, full moon, torches, smoke.
+0–3s: Prince Damian swings his sword forward.
+DIALOGUE 0–2s: Prince Damian (screaming): "ATTACK!"
+3–12s: Three armored war mammoths charge up the hill road — and hit the greased mud. Their legs slide in every direction like on ice; they spin, crash into each other and slide all the way back down the hill, knocking over soldiers like bowling pins.
+DIALOGUE 7–10s: Tommy (young man, laughing on the wall): "TOLD YOU! Mammoths on grease!"
+12–22s: Dark Bigfoots charge the wall and fall straight into the hidden pits, one after another. Wolves leap out from the forest and bite at the soldiers' legs, chasing them away.
+DIALOGUE 15–18s: Hank (shouting): "The traps are working! Hold the wall!"
+22–30s: A dark Bigfoot climbs out of a pit right in front of Frost. Frost cracks his knuckles. Final frame: Frost smiling, blue sparks in his eyes.
+DIALOGUE 26–29s: Frost (deep, cool): "My turn."
+SFX: battle cries, mammoth trumpets, slipping and sliding, a huge crash, bowling-pin knock sounds, branches breaking, pits thudding, wolf snarls, soldiers yelling, knuckle cracks.
+MUSIC: epic battle music with a comedic sting for the mammoth slide.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 105 | War mammoths vs bacon grease 😂🦣 The traps worked! #Bigfoot #Movie #Part105
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

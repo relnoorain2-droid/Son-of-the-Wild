@@ -1,0 +1,57 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
+
+FROST: Son of the Wild
+PART 058 - "Torches at the Door"
+Punch: ACTION + EMOTION
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; S03_HankMiller_FULL.png -> Hank Miller; S10_Villagers.png -> optional background group, skip unless you want crowd continuity.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Dusk, in front of Lily's cabin, villagers with torches and pitchforks.
+0–3s: An angry crowd of villagers marches up the path with torches; Hank leads them, holding a lantern and a pitchfork.
+DIALOGUE 1–3s: Hank (deep rural American voice, angry and scared): "Lily! Bring out that creature!"
+3–12s: Lily steps out of the cabin and stands in front of the door, arms wide.
+DIALOGUE 4–6s: Villager man (angry): "It'll eat our children!"
+DIALOGUE 6–9s: Villager woman (scared): "It's one of those forest beasts!"
+DIALOGUE 9–12s: Lily (firm, shaking): "He's a BABY! He's my son!"
+12–22s: The crowd goes silent. Hank lowers his pitchfork a little, confused.
+DIALOGUE 13–17s: Hank: "Your son? Lily... what in God's name happened in that forest?"
+DIALOGUE 17–24s: Lily (emotional): "His father saved my life from the king's beasts. He died protecting us. That's all you need to know."
+22–30s: Behind her, the cabin door creaks open. Baby Frost crawls out holding the teddy bear. The crowd raises their pitchforks in panic. Lily turns, terrified. Final frame: a dozen torches pointing at the tiny white baby.
+DIALOGUE 27–29s: Lily (screaming): "Frost, NO! Go back inside!"
+SFX: marching footsteps, crackling torches, angry murmurs, door creak, crowd gasping, pitchforks raised.
+MUSIC: tense dramatic strings and drums.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 58 | The whole village came with torches... for a baby 😢🔥 #Bigfoot #Movie #Part58
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

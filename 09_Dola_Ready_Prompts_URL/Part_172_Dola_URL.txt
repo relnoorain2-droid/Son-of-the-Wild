@@ -1,0 +1,56 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
+
+FROST: Son of the Wild
+PART 172 - "Caught"
+Punch: WOW + EMOTION
+Status:-assets
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V12_Tommy_Adult.png -> Variant Tommy_Adult; K02_RedDragon.png -> Creature RedDragon.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+CAST NOTE: the Great Red Dragon = three times bigger than any other dragon, dark lava-red scales, horns like a crown, enormous wings.
+The sky above the battlefield at sunset.
+0–3s: Frost falls fast, eyes closed, toward the rocks.
+DIALOGUE 0–2s: Lily (screaming, running): "No, no, NO!"
+3–12s: A gigantic shadow dives below him. The Great Red Dragon, its eyes now warm gold, gently catches Frost on its back between its huge horns.
+DIALOGUE 6–9s: Tommy (shouting, amazed): "The big one CAUGHT him!"
+12–22s: The Great Red Dragon lands softly in front of Lily and lowers its giant head so Frost can slide down. Frost opens his eyes, weak, and holds up his hand: inside it, the pieces of the crystal have joined together into one small, pure BLUE crystal, glowing softly.
+DIALOGUE 16–20s: Frost (deep, weak, smiling): "Mom... I got Grandpa's crystal back."
+22–30s: Lily hugs him, crying and laughing. The Great Red Dragon gently nudges Frost with its nose, making a deep purring sound like a giant cat. Final frame: Frost hugging the dragon's nose, Lily laughing.
+DIALOGUE 27–29s: Frost (deep, laughing softly): "You're welcome, big guy."
+SFX: falling wind, a giant dive whoosh, a soft catch, wing beats, a gentle landing, a magical crystal hum, crying, a giant dragon purr.
+MUSIC: an emotional, beautiful, soaring theme.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 172 | The dragon that was trying to kill him... caught him 🐉🥹 #Bigfoot #Movie #Part172
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

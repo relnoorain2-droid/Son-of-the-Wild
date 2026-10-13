@@ -1,0 +1,57 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V14_Grace_Older.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V14_Grace_Older/V14_Grace_Older.png
+
+FROST: Son of the Wild
+PART 178 - "Everyone Together"
+Punch: FUN + WOW
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V14_Grace_Older.png -> Variant Grace_Older; S02_MarthaHayes_FULL.png -> Martha Hayes; S03_HankMiller_FULL.png -> Hank Miller.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+CAST NOTE: Tommy = a young man (about 22), messy brown hair, light freckles, red baseball cap, plaid flannel shirt; Sarah = a young woman (about 19), long blonde side braid, denim jacket; Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
+A giant celebration on a big meadow between Millbrook and the forest: long picnic tables, string lights, American flags, a stage, people from Millbrook, Cedar Hollow, Pine Ridge and the freed kingdom, plus mammoths, bears, wolves and dragons.
+0–3s: Dragons breathe golden fire into the sky, making giant fireworks shapes. Everyone cheers.
+DIALOGUE 1–3s: Tommy (shouting): "BEST FOURTH OF JULY EVER!"
+DIALOGUE 3–5s: Sarah (laughing): "Tommy, it's October!"
+3–12s: Martha and Grace sit next to each other at the table and instantly become best friends, comparing pie recipes.
+DIALOGUE 6–10s: Martha (Southern voice): "Honey, you put cinnamon in your apple pie too?"
+DIALOGUE 10–14s: Grace (delighted): "Of course! Where have you been all my life?"
+12–22s: Hank and the Pine Ridge sheriff arm-wrestle; Frost watches and puts one finger on the table — both of them push with all their strength and can't move it. Old Scar's cubs steal a whole pie. The baby dragon sleeps in Martha's knitting basket.
+DIALOGUE 17–20s: Hank (straining, red-faced): "Son... we know... you're strong!"
+22–30s: Tommy nervously asks grown-up Sarah to dance; she smiles and takes his hand. Everyone cheers "Finally!" Final frame: the huge happy crowd, people and animals together under the lights.
+DIALOGUE 27–29s: Everyone (cheering): "FINALLY!"
+SFX: dragon fireworks, cheering crowd, clinking plates, laughter, arm-wrestling grunts, cub squeaks, a sleeping dragon snore.
+MUSIC: joyful American country celebration music with fiddle, banjo and brass.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 178 | Three towns, a free kingdom, bears and dragons... ALL at one party 🎉🐉🐻 #Bigfoot #Movie #Part178
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

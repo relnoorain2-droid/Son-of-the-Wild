@@ -1,0 +1,54 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
+
+FROST: Son of the Wild
+PART 167 - "The Eagles"
+Punch: ACTION + WOW
+Status:-assets
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; K02_RedDragon.png -> Creature RedDragon.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+CAST NOTE: the Great Red Dragon = three times bigger than any other dragon, dark lava-red scales, horns like a crown, enormous wings.
+The sky above Thorne Castle at sunset, clouds and smoke.
+0–3s: The Great Red Dragon grabs Frost out of the air with its giant claw and squeezes him.
+DIALOGUE 1–3s: Frost (deep, straining in pain): "Aaargh!"
+3–12s: King Magnus points his staff; red lightning wraps around Frost's body, mixing with the claw's grip. Frost's blue light flickers weaker and weaker.
+DIALOGUE 6–10s: King Magnus (cruel): "Squeeze, my pet. Squeeze until the light goes out."
+12–22s: A loud scream from above: hundreds of bald eagles dive out of the clouds and attack the dragon's face and eyes, pecking and clawing. The dragon roars and shakes its head, blinded.
+DIALOGUE 16–19s: Frost (weak, smiling): "Thanks... friends."
+22–30s: The dragon's claw opens. Frost falls out and catches the edge of the dragon's huge wing, holding on with one hand high above the ground. Final frame: Frost hanging from the dragon's wing, the battlefield tiny far below.
+DIALOGUE 27–30s: Frost (deep, gritting teeth): "Don't look down... don't look down..."
+SFX: a claw grab, bones-creaking squeeze (no injury), red lightning crackling, weakening hum, a sky full of eagle screams, a roaring blinded dragon, a falling whoosh, a grab.
+MUSIC: desperate dark music, then a soaring heroic theme with the eagles.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 167 | The dragon was crushing Frost... then the EAGLES came 🦅🦅🦅 #Bigfoot #Movie #Part167
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

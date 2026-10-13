@@ -1,0 +1,56 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
+
+FROST: Son of the Wild
+PART 053 - "Strong Baby"
+Punch: FUN + CLIFFHANGER
+Status:-assets
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; L06_AbandonedCabin.png -> Location AbandonedCabin.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Next morning, inside the cabin, bright winter sunlight.
+0–3s: Lily, tired but happy, tries to feed baby Frost; he grabs a lock of her hair and won't let go.
+DIALOGUE 1–4s: Lily (laughing, in pain): "Ow, ow! Frost, that's Mommy's hair!"
+3–12s: She gives him the painted wooden toy horse; he squeezes it and it cracks in half. Lily stares.
+DIALOGUE 6–10s: Lily (shocked): "One day old... and you just broke a horse."
+12–22s: Frost tries to roar like his father; only a tiny squeaky "roar" comes out. Lily bursts out laughing. Frost looks offended and tries again — this time a little louder, and a cup falls off the shelf.
+DIALOGUE 16–19s: Lily (laughing, proud): "Okay, okay! That one was scary!"
+22–30s: Knock, knock, knock. Lily freezes.
+DIALOGUE 24–28s: Martha (warm Southern voice, from outside): "Lily, honey? I brought you some soup! Open up, it's freezing!"
+Final frame: Lily looking in panic between the door and the furry white baby.
+DIALOGUE 28–30s: Lily (whispering): "Oh no."
+SFX: baby grunts, hair tug, wood cracking, tiny squeaky roar, louder baby roar, cup falling, knocking.
+MUSIC: playful comedic strings, a sudden stop with the knock.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 53 | One day old and already breaking toys 😂 ...then grandma knocked 😳 #Bigfoot #Movie #Part53
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

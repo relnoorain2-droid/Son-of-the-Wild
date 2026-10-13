@@ -1,0 +1,41 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
+K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
+K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
+V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
+
+FROST: Son of the Wild
+PART 009 - "The Trackers"
+Punch: ACTION + WOW
+Status: canon-safe opening version
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep Lily and King Magnus identical to attached images. Dark Bigfoot guards and red dragon stay Western fantasy, not Asian.
+
+Scene: Night castle courtyard lit by torches, alarm bells ringing, Western dark-fantasy castle in the Pacific Northwest forest.
+0-3s: Lily drops from the bedsheet rope into a haystack, rolls out, and runs toward a side gate.
+DIALOGUE 1-3s: Lily (out of breath, determined): "Okay... just run."
+3-12s: Guards rush past with lanterns. A dark Bigfoot guard stands nearby and sniffs the air, alert but not chained. Lily hides behind a cart and holds her breath.
+12-18s: The red Western dragon on the tower wakes up, glowing eyes scanning the courtyard. King Magnus appears on a high balcony in a black fur cloak.
+DIALOGUE 13-17s: King Magnus (deep booming voice): "She ran? Then the forest will hide the truth."
+DIALOGUE 17-19s: Prince Damian (off-screen, angry): "Find her!"
+18-26s: Lily tears the long train from her gown so she can run, sprints through the side gate, and slides under it at the last second as it closes.
+DIALOGUE 23-26s: King Magnus (cold): "Send the trackers."
+26-30s: Trained wolf trackers leap from the courtyard and sniff Lily's trail toward the forest gate. Final frame: Lily disappearing into the moonlit trees.
+SFX: alarm bells, haystack thump, running footsteps, guards shouting, Bigfoot sniffing, dragon breathing, fabric ripping, gate grinding, wolves howling.
+MUSIC: intense action orchestra with fast drums and brass.
+
+GLOBAL RULES:
+AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, vertical 9:16. SETTING: Fully American / Western, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no restraints, no chains, no graphic animal attack, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 9 | Lily escapes the castle... and the king sends trackers into the forest. #Bigfoot #Movie #Part9

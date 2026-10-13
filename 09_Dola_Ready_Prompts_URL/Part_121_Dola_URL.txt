@@ -1,0 +1,53 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+
+FROST: Son of the Wild
+PART 121 - "Trial 2: Old Scar"
+Punch: ACTION + WOW
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; L03_DeepForest.png -> Location DeepForest.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+The "Deep Wild": the darkest, oldest part of the redwood forest, giant twisted trees, fog, strange silence. A glowing blue mark shines on Frost's right forearm.
+0–3s: Old Joe stops at the edge of the dark trees and won't go further.
+DIALOGUE 1–6s: Old Joe (slow raspy voice): "Trial two. Earn the trust of the king of the wild. Old Scar."
+3–12s: Frost walks in alone. Bones and claw marks on the trees. A deep growl shakes the ground. Out of the fog rises Old Scar: a gigantic ancient grizzly bear, twice the size of a normal bear, silver-grey fur, a long white scar over one eye.
+DIALOGUE 7–10s: Frost (deep voice, confident): "Easy, big guy. I'm a friend."
+12–22s: Frost's eyes glow blue; he uses the low animal rumble that always worked. Old Scar doesn't stop. He roars right in Frost's face, so loud Frost's fur blows back.
+DIALOGUE 16–18s: Frost (surprised): "Okay... that usually works."
+22–30s: Old Scar swipes and sends Frost flying backward through two small trees. Frost lands hard and looks up, stunned. Final frame: the giant bear standing over him, roaring.
+DIALOGUE 27–29s: Frost (groaning): "Definitely... not a friend."
+SFX: eerie silence, crunching bones, a deep earth-shaking growl, magical hum, a massive roar, a heavy swipe, trees snapping, a heavy landing.
+MUSIC: dark tense jungle drums, a heavy hit with the swipe, a small comedic beat at the end.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 121 | Trial 2: Old Scar, the king of the wild... he did NOT want to be friends 🐻😱 #Bigfoot #Movie #Part121
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

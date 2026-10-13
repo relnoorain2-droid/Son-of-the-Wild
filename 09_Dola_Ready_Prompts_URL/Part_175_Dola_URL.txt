@@ -1,0 +1,54 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+
+FROST: Son of the Wild
+PART 175 - "Not a King"
+Punch: EMOTION + FUN
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; S11_Rose_FULL.png -> Rose; S09_Brides.png -> optional background group, skip unless you want crowd continuity; L02_KingCastle.png -> Location KingCastle.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+The next morning, Thorne Castle courtyard full of sunlight. People tearing down the red banners. Freed mammoths and dragons resting outside the walls.
+0–3s: The kingdom's people pull down a giant red banner; it falls, and sunlight floods the courtyard for the first time in years.
+DIALOGUE 1–4s: NARRATOR (deep cinematic American trailer voice): "The kingdom of Thorne was finally free."
+3–12s: Rose and Emily (the former bride) walk up to Frost holding the king's old iron crown on a pillow. The whole crowd kneels.
+DIALOGUE 6–11s: Rose (old British voice, emotional): "The people have decided. You saved us. You should be our king."
+12–22s: Frost picks up the heavy crown, looks at it... and gently puts it on Rose's head instead. It's too big; it slides over her eyes. Everyone laughs.
+DIALOGUE 14–23s: Frost (deep, smiling): "I'm not a king. I'm just a guy from Cedar Hollow. You, the brides, the people who stood up — you should lead together."
+DIALOGUE 23–26s: Rose (pushing the crown up, laughing): "Well, I'll need a smaller crown."
+22–30s: The crowd cheers. A freed baby dragon lands on Frost's head and refuses to leave. Final frame: Frost with a baby dragon on his head, the crowd cheering in the sunlight.
+DIALOGUE 26–30s: Frost (deep, laughing): "Okay, okay, you can come home with me too."
+SFX: a banner tearing and falling, a cheering crowd, a crown on a pillow, kneeling, laughter, a tiny dragon chirp and flap.
+MUSIC: warm, triumphant, hopeful theme with a playful ending.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 175 | They offered Frost the crown... he put it on the old maid's head 👑😂 #Bigfoot #Movie #Part175
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

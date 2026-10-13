@@ -1,0 +1,55 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+
+FROST: Son of the Wild
+PART 142 - "It's the Costume Guy!"
+Punch: FUN + EMOTION
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; S03_HankMiller_FULL.png -> Hank Miller; S10_Villagers.png -> optional background group, skip unless you want crowd continuity.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+Daytime, the main street of another small American mountain town called Pine Ridge: a diner, a gas station, a sheriff's office.
+0–3s: Frost lands from the sky in the middle of Main Street. People scream; a sheriff draws his pistol.
+DIALOGUE 1–3s: Sheriff (deep Southern-American voice, shaking): "Don't you move, monster!"
+3–12s: Hank steps out from behind Frost, raising his hands.
+DIALOGUE 4–11s: Hank (deep rural voice): "Easy, Sheriff! He's with us. The king who's been burning towns... we're going to stop him. We need help."
+DIALOGUE 11–14s: Sheriff (unconvinced): "And why should we trust a Bigfoot?"
+12–22s: From the diner, the tourist couple from the Halloween part runs out, excited, pointing.
+DIALOGUE 14–20s: Tourist woman (excited American voice): "Honey! It's the COSTUME GUY from Cedar Hollow! He gave us the best Halloween ever!"
+DIALOGUE 20–22s: Frost (deep, embarrassed): "...Hi again."
+22–30s: The sheriff lowers his gun, then looks at the burnt barn on the edge of his town — burned by the king's dragons last month.
+DIALOGUE 25–29s: Sheriff (firm): "The king burned my brother's farm. Pine Ridge rides with you."
+Final frame: townspeople stepping forward with rifles and horses.
+SFX: landing boom, screams, pistol cock, diner door bell, excited shouting, horses.
+MUSIC: tense Western standoff, a comedic beat, then a proud heroic swell.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 142 | "It's the COSTUME GUY!" 😂 ...and the whole town joined Frost #Bigfoot #Movie #Part142
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

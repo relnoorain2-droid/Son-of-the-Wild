@@ -1,0 +1,58 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+
+FROST: Son of the Wild
+PART 049 - "The King's Men in Town"
+Punch: TWIST + ACTION
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; S07_CaptainVex_FULL.png -> Captain Vex; S03_HankMiller_FULL.png -> Hank Miller; S02_MarthaHayes_FULL.png -> Martha Hayes.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Snowy afternoon, Cedar Hollow main street.
+0–3s: Black war horses gallop into the snowy village. Villagers pull their kids inside.
+DIALOGUE 1–3s: Captain Vex (harsh loud threatening voice): "Everyone, outside! NOW!"
+3–12s: Vex holds up a wanted poster with a drawing of Lily's face (no readable text needed).
+DIALOGUE 4–11s: Captain Vex: "The king wants proof the runaway bride is dead. Blonde. Blue eyes. Anyone hiding her... burns with her."
+12–22s: Inside the general store, Lily hides behind barrels, hand over her mouth. Vex walks in slowly, boots creaking. Martha stands at the counter, calm.
+DIALOGUE 15–18s: Captain Vex (cold): "You seen her, old woman?"
+DIALOGUE 18–22s: Martha (calm, warm Southern voice): "Honey, at my age I can't see my own feet."
+22–30s: Vex's eyes move to the barrels. He steps closer. Hank appears at the door, his shotgun pointed at the floor — and this time the whole village stands behind him with pitchforks and shovels.
+DIALOGUE 24–28s: Hank (deep, firm): "She's not here, Captain. Time for you to leave."
+Final frame: Vex smiling coldly, backing out.
+DIALOGUE 28–30s: Captain Vex: "We'll be back."
+SFX: horses in snow, doors slamming, poster paper, creaking boots, heartbeat, heavy boots on the porch, villagers stepping forward.
+MUSIC: dark villain theme, tense strings, then a brave heroic swell for the villagers.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 49 | The king's men came looking for her... the whole town stood up 💪🏡 #Bigfoot #Movie #Part49
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

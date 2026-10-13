@@ -1,0 +1,56 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
+K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+
+FROST: Son of the Wild
+PART 103 - "The Full Moon"
+Punch: WOW + CLIFFHANGER
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K09_Wolves.png -> Creature Wolves; K08_GrizzlyBear.png -> Creature GrizzlyBear.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Night, the roof of Lily's cabin, a huge full moon rising over the mountains.
+0–3s: Frost and Lily sit on the roof watching the giant full moon rise.
+DIALOGUE 1–5s: Lily (soft): "Your father and I used to watch the stars like this."
+3–12s: Lily takes his huge hand.
+DIALOGUE 5–10s: Lily (emotional): "Whatever happens tomorrow, remember what he always said: strong hands... gentle heart."
+DIALOGUE 10–12s: Frost (deep, soft): "I remember, Mom."
+12–22s: Howls echo from the forest. Out of the trees come dozens of wolves, two grizzly bears, elk and mountain lions, gathering silently around the log wall, glowing eyes in the moonlight. Frost's eyes glow blue; he smiles.
+DIALOGUE 16–20s: Frost (deep, moved): "They came. They came to fight with us."
+22–30s: Far away over the hills, war horns blow. Torches appear by the hundreds along the ridge. Dragons' fiery breath lights up the sky. Final frame: Frost standing up on the roof, the full moon behind him, facing the coming army.
+DIALOGUE 26–29s: Frost (deep, calm, ready): "Here they come."
+SFX: night crickets, wolves howling, bear grunts, animal footsteps, war horns, distant dragon roars.
+MUSIC: soft emotional strings, then a magical choir for the animals, then deep war drums.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 103 | The night of the full moon... and the animals came to fight beside him 🐺🐻🌕 #Bigfoot #Movie #Part103
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

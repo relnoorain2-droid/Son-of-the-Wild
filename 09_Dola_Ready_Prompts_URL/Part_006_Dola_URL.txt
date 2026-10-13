@@ -1,0 +1,41 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
+
+FROST: Son of the Wild
+PART 006 - "I Do"
+Punch: EMOTION + TWIST
+Status: canon-safe opening version
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep Lily, Damian, and King Magnus exactly identical to the attached reference images. Lily is 22, young, innocent, beautiful, blue eyes, honey-blonde hair.
+
+Scene: A grand Western royal wedding hall inside the dark forest castle, candles, red banners, stone arches, royal guests, no Asian elements.
+0-3s: Lily stands at the altar in a white wedding gown, trying to stay calm. Prince Damian smiles beside her. King Magnus watches from a raised throne.
+DIALOGUE 1-4s: NARRATOR (deep cinematic American trailer voice): "Lily had one day to find the truth."
+3-12s: The old priest opens a black ceremony book. Damian offers Lily his hand with a polished, charming smile. Lily remembers Rose's warning and hesitates.
+DIALOGUE 5-8s: Prince Damian (smooth charming voice): "Do you accept the house of Thorne?"
+DIALOGUE 9-11s: Lily (soft, nervous): "...I do."
+12-20s: The hall applauds. Damian slides a silver ring on Lily's finger. Lily notices Rose watching from the back, silently shaking her head.
+DIALOGUE 14-18s: Rose (whispering from the crowd): "Not the forest... please remember."
+20-26s: King Magnus raises his staff and the red crystal glows. His smile is cold and unreadable.
+DIALOGUE 21-25s: King Magnus (deep commanding voice): "Tonight, the old tradition continues."
+26-30s: Lily looks from Rose to the dark forest visible through the stained-glass window. Final frame: Lily's frightened blue eyes.
+SFX: soft crowd murmur, ceremony book opening, ring sound, staff tap, crystal hum.
+MUSIC: solemn wedding strings shifting into dark suspense.
+
+GLOBAL RULES:
+AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, vertical 9:16. SETTING: Fully American / Western, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no nudity, no coercive physical contact.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 6 | Lily says "I do"... but Rose's warning keeps echoing. #Bigfoot #Movie #Part6

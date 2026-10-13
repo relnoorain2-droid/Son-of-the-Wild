@@ -1,0 +1,54 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+
+FROST: Son of the Wild
+PART 064 - "The Bear Whisperer"
+Punch: WOW + TWIST
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; S06_SarahMiller_FULL.png -> Sarah Miller; S03_HankMiller_FULL.png -> Hank Miller.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+Late afternoon in Cedar Hollow, near the general store.
+0–3s: A huge grizzly bear smashes through a fence into the village street. People scream and run.
+DIALOGUE 1–3s: Villager woman (screaming): "BEAR! Get inside!"
+3–12s: The bear roars at little Sarah, who is frozen in the middle of the street. Hank runs for his shotgun. Kid Frost steps in front of Sarah.
+DIALOGUE 7–9s: Hank (shouting): "Frost, get away from it!"
+12–22s: Frost doesn't fight. He looks into the bear's eyes. His own eyes glow softly blue for a moment. He speaks calmly; we hear a low, soft rumbling sound like an animal language, and the bear slowly stops roaring.
+DIALOGUE 14–19s: Kid Frost (calm young boy voice): "Hey, big guy. You're just hungry, huh? Nobody wants to hurt you."
+22–30s: The bear sniffs Frost's hand, lies down, and lets Sarah pet its nose. Frost gives the bear a basket of apples from the store. Everyone watches in total silence. Final frame: the grizzly walking calmly back into the forest with an apple in its mouth.
+DIALOGUE 25–29s: Old Joe (from the porch, slow raspy voice): "He speaks to the wild... just like the old legends."
+SFX: fence crash, screams, roar, running, a soft magical hum, low gentle rumbling, sniffing, apple crunch.
+MUSIC: tense drums, then a magical soft choir and gentle strings.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 64 | A grizzly attacked the town... Frost just TALKED to it 🐻✨ #Bigfoot #Movie #Part64
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

@@ -1,0 +1,41 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
+
+FROST: Son of the Wild
+PART 007 - "The Truth"
+Punch: TWIST + EMOTION
+Status: canon-safe opening version
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep Lily, Rose, and animal references identical to attached images. Lily is 22, innocent, beautiful, blue eyes, honey-blonde hair.
+
+Scene: Lily's castle bedroom at night, candles almost burned out, storm wind outside.
+0-3s: Lily steps close to Rose, desperate but gentle.
+DIALOGUE 0-3s: Lily (soft but urgent): "Rose, tell me the truth. Please."
+3-8s: Rose closes the door and whispers, crying quietly.
+DIALOGUE 3-10s: Rose (old nervous maid, whispering): "Every month a new bride. After the ceremony, guards escort her to the forbidden forest gate."
+8-18s: Flashback in cold blue moonlight: a young bride is escorted through a huge iron gate into a dark forest. The gate closes behind her. Glowing animal eyes appear far between the trees. Cut away before any harm is shown.
+DIALOGUE 11-17s: Rose (voice-over): "After that, the kingdom says the forest took her."
+18-25s: Back to Lily. She steps back, shaking, then becomes determined.
+DIALOGUE 19-23s: Lily (whispering): "Then I leave before he takes me there."
+25-30s: Footsteps and laughter approach in the hallway. Lily grabs a silver tray from the table, ready to improvise. Final frame: the door handle turning.
+DIALOGUE 25-29s: Rose (terrified whisper): "He's coming!"
+SFX: door lock click, forest wind, distant wolf howl, footsteps, door handle turning.
+MUSIC: dark emotional strings, rising suspense drums.
+
+GLOBAL RULES:
+AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, vertical 9:16. SETTING: Fully American / Western, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no graphic harm, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 7 | Rose reveals the forest secret. Lily has one chance to run. #Bigfoot #Movie #Part7

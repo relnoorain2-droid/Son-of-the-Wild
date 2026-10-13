@@ -1,0 +1,74 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
+
+FROST: Son of the Wild
+PART 020 - "Bigfoot vs Bigfoot"
+Punch: ACTION + WOW
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C04_Bruno_FULL.png -> Bruno; C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; S07_CaptainVex_FULL.png -> Captain Vex; K01_DarkBigfoot.png -> Creature DarkBigfoot.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Evening, the waterfall pool, orange sunset turning to dusk.
+0–3s: Bruno bursts out through the waterfall, tackling the dark Bigfoot into the pool; a giant wave of water explodes.
+DIALOGUE 1–3s: Captain Vex (harsh voice, shocked): "Another one?!"
+3–14s: Epic fight in knee-deep water: the dark Bigfoot swings its iron shackles; Bruno blocks with his forearm, punches back. They crash into rocks. Guards step back in fear.
+DIALOGUE 6–8s: Bruno (deep roaring voice): "You don't touch her!"
+DIALOGUE 10–12s: Lily (from the cave, screaming): "Bruno, behind you!"
+14–22s: Bruno ducks a punch, lifts the dark Bigfoot over his head in slow motion and throws it across the pool into the trees. It lands with a crash and runs away whimpering.
+22–30s: Bruno turns to the soldiers and lets out a huge roar. The guards drop their torches and run. Captain Vex backs away slowly, pointing at Bruno.
+DIALOGUE 23–28s: Captain Vex (angry, retreating): "The king will hear about you, beast. And he will come himself!"
+Final frame: Lily runs out and hugs Bruno's leg as he breathes hard in the dusk, steam rising from his fur.
+DIALOGUE 28–30s: Lily (soft, relieved): "You came back for me."
+SFX: water explosion, punches and heavy thuds, chains swinging, rock crash, roars, tree crash, whimpering, torches dropping in water, soldiers running.
+MUSIC: epic heavy action score with drums and brass, ending with a soft warm resolve.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 20 | Bigfoot vs the king's Bigfoot 🔥 Who won? Watch till the end! #Bigfoot #Movie #Part20
+
+
+# FROST: Son of the Wild — PARTS 21–30 (Act 1: Love in the Wild)
+Dola me kaise use karein:
+1. "Attach" me likhi images (Characters folder se) Dola me upload karo (max 4).
+2. PART ka poora block (PART se lekar CAPTION se pehle tak) copy karke Dola me paste karo.
+3. Video ready hone par CAPTION Facebook description me paste karo.
+
+Story so far (Part 21–30): Bruno ki jeet ke baad Lily aur Bruno jungle me khushi se rehte hain (Song 1: "You and Me and the Wild"). Dono me pyaar ho jaata hai. Kuch hafton baad pata chalta hai ki Lily maa banne wali hai. Part 30 me raja ka jaasoos baaz (eagle) unhe dekh leta hai aur King Magnus khud fauj lekar aane ka faisla karta hai.
+
+SONG 1 — "You and Me and the Wild" (original, soft American country-folk, Lily sings, Bruno hums)
+  Verse:  "No castle walls, no golden crown, / just a river song and the stars come down."
+  Chorus: "It's you and me and the wild, / running free like a child, / no one can find us here, / you and me and the wild."
+  Bridge (Part 22): "Big old hands and a gentle heart, / the forest knew we'd never be apart."
+
+LILY RULE: Lily poori movie me hamesha 22–24 saal ki young, innocent aur khoobsurat dikhegi (har Lily wale part me "LOOK LOCK" line hai).
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

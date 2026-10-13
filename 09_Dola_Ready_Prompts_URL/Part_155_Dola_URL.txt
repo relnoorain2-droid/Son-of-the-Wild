@@ -1,0 +1,56 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
+
+FROST: Son of the Wild
+PART 155 - "Red Lightning"
+Punch: ACTION + CLIFFHANGER
+Status:-assets
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K01_DarkBigfoot.png -> Creature DarkBigfoot.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+The battlefield, Thorne Castle's highest tower above.
+0–3s: On the highest tower, King Magnus raises his staff. The red crystal glows brighter than ever.
+DIALOGUE 1–3s: King Magnus (deep, menacing): "Enough games, boy."
+3–12s: A huge bolt of RED lightning shoots from the tower and hits Frost in the chest. He is thrown back across the battlefield and crashes into the ground, leaving a long trench.
+DIALOGUE 6–8s: Lily (screaming from the battlefield): "FROST!"
+12–22s: Frost tries to stand. His blue tattoos flicker on and off. The red magic crawls over his fur like chains. Dark Bigfoots that ran away come back and pile on top of him, holding him down.
+DIALOGUE 16–20s: Frost (deep, weak, straining): "My power... it's fighting me..."
+22–30s: King Magnus laughs from the tower, his voice echoing over the whole battlefield.
+DIALOGUE 24–29s: King Magnus (booming): "Your grandfather's crystal... killing his own grandson! How poetic!"
+Final frame: Frost buried under dark Bigfoots, only his flickering blue hand visible.
+SFX: crystal charging hum, a huge red lightning crack, a body thrown, a crash and dirt explosion, flickering electricity, heavy bodies piling on, the king's echoing laugh.
+MUSIC: dark, desperate orchestra, choir hitting a low note.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 155 | The king hit Frost with his grandfather's own crystal 😱🔴 #Bigfoot #Movie #Part155
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

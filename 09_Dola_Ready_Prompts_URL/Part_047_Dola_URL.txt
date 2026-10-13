@@ -1,0 +1,58 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+
+FROST: Son of the Wild
+PART 047 - "Old Joe Knows"
+Punch: TWIST
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; L07_Village.png -> Location Village.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Evening, the porch of the general store in Cedar Hollow, an old rocking chair, a lantern.
+0–3s: Old Joe Whitaker (80, long white beard, wool coat, walking stick) grabs Lily's wrist as she walks past. She jumps.
+DIALOGUE 1–4s: Old Joe (slow raspy wise old man): "Sit with me a minute, young lady."
+3–14s: She sits, nervous. Old Joe looks deep into her eyes.
+DIALOGUE 5–10s: Old Joe: "You came out of the deep forest. Nobody comes out of the deep forest."
+DIALOGUE 10–13s: Lily (nervous laugh): "I just... followed the river."
+14–22s: Old Joe pulls a small old carved wooden figure from his pocket: a Bigfoot holding a staff. Lily's eyes widen.
+DIALOGUE 15–22s: Old Joe (whispering): "When I was a boy, I saw the giants of the forest. Gentle ones. Did you see them too?"
+22–30s: Lily stands up quickly, scared her secret is out.
+DIALOGUE 23–27s: Lily (soft, nervous): "I... I don't know what you mean. Goodnight, Joe."
+Old Joe smiles knowingly as she leaves.
+DIALOGUE 27–30s: Old Joe (to himself, quietly): "The old blood of Orin is back."
+Final frame: close-up of the carved Bigfoot figure in his old hands.
+SFX: rocking chair creak, crickets, lantern hum, footsteps on wooden porch.
+MUSIC: mysterious soft woodwinds and a low magical tone.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 47 | The old man knows her secret... and who is "Orin"? 🤫 #Bigfoot #Movie #Part47
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

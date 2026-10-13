@@ -1,0 +1,54 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+
+FROST: Son of the Wild
+PART 075 - "Fourth of July"
+Punch: ACTION + WOW
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S03_HankMiller_FULL.png -> Hank Miller; S06_SarahMiller_FULL.png -> Sarah Miller; S05_TommyMiller_FULL.png -> Tommy Miller.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+Night, Fourth of July celebration in Cedar Hollow: American flags, a small parade, food stands, families on blankets, string lights.
+0–3s: A wooden cart full of fireworks catches a spark and starts fizzing and rolling downhill toward the crowd.
+DIALOGUE 1–3s: Hank (shouting): "The fireworks cart! Everybody MOVE!"
+3–12s: Rockets start shooting sideways from the cart; people dive to the ground. The cart speeds toward a group of children.
+DIALOGUE 6–8s: Sarah (screaming): "Frost!"
+12–22s: Kid Frost sprints, grabs the fizzing cart with both hands, spins around like an Olympic hammer thrower, and launches the entire cart high into the night sky.
+DIALOGUE 15–17s: Kid Frost (straining): "Go... UP!"
+22–30s: The cart explodes high above the town into the biggest, most beautiful fireworks show anyone has ever seen: red, white and blue. The whole village cheers. Frost sits down, covered in soot, smiling. Final frame: fireworks reflected in Frost's blue eyes.
+DIALOGUE 26–29s: Tommy (amazed): "Best Fourth of July EVER!"
+SFX: fuse fizzing, wooden wheels rolling, rockets whooshing, screams, a massive throw whoosh, giant firework explosions, crowd cheering.
+MUSIC: patriotic American brass march, building to a triumphant finale.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 75 | The fireworks cart was heading for the kids... so Frost threw it into the sky 🎆🇺🇸 #Bigfoot #Movie #Part75
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

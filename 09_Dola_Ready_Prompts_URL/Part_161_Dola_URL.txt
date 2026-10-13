@@ -1,0 +1,52 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+
+FROST: Son of the Wild
+PART 161 - "The Room with the Names"
+Punch: EMOTION + TWIST
+Status:-assets
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; L02_KingCastle.png -> Location KingCastle.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+Inside Thorne Castle, a dusty, gloomy old bedroom with red curtains, a broken bed, stone walls. Dust falling through a giant hole in the wall.
+0–3s: Frost lies in the rubble, coughing, slowly opening his eyes. Dust and small stones fall on him.
+DIALOGUE 1–3s: Frost (deep, groaning): "Ugh... where am I?"
+3–12s: He sits up and sees the stone wall in front of him: dozens of women's names scratched into the stone ("Emily", "Sarah", "Kate"...), and below them, in big desperate scratches, the word "RUN".
+DIALOGUE 7–10s: Frost (whispering, realizing): "This is... the room. Mom's room."
+12–22s: He touches the scratched names slowly with one glowing finger. He remembers his mother's story. His eyes fill with tears.
+DIALOGUE 15–20s: Frost (deep, emotional): "All of you... nobody came for you. I'm sorry I'm so late."
+22–30s: Frost picks up a sharp stone and carefully scratches one more line under all the names. Then he stands up, tattoos blazing. Final frame: the new words carved under "RUN": "NO MORE."
+DIALOGUE 27–29s: Frost (deep, determined): "No more. Never again."
+SFX: falling dust, coughing, stones rolling, stone scratching, a magical surge of power, distant battle noise.
+MUSIC: a quiet, haunting, emotional theme, rising to determination.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 161 | He crashed into the room where all the brides' names were scratched... and wrote "NO MORE" 😢✊ #Bigfoot #Movie #Part161
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+

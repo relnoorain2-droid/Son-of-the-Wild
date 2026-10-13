@@ -1,0 +1,58 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
+K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
+V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
+
+FROST: Son of the Wild
+PART 001 - "Run, Lily!"
+Punch: ACTION + WOW
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: 30 seconds
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; K08_GrizzlyBear.png -> Creature GrizzlyBear; K09_Wolves.png -> Creature Wolves.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Night, a giant misty redwood forest in the Pacific Northwest, cold blue moonlight through fog.
+0–3s: Extreme close-up of Lily's terrified face (22-year-old fair-skinned blonde woman, blue eyes, the girl in the reference image) breathing hard, then she bursts through ferns running straight toward the camera in a torn, muddy light-blue dress, barefoot.
+DIALOGUE 1–3s: Lily (young American woman, soft voice, terrified, out of breath): "Somebody... help me!"
+3–10s: Fast tracking shot beside her. Wolves howl. Glowing eyes appear in the dark behind her. She looks back in panic.
+DIALOGUE 4–10s: NARRATOR (deep cinematic American movie-trailer voice): "Three days ago, Lily Carter was just a poor girl from a small Oregon town..."
+10–18s: She squeezes inside a hollow redwood trunk and covers her mouth. The wolves rush past... then suddenly stop, whimper and run away in fear.
+DIALOGUE 13–16s: Lily (whispering, confused): "Why... why did they run?"
+18–26s: A deep growl right behind her. She slowly turns. A huge grizzly bear rises on its hind legs in front of the hollow tree, roaring in her face. Its giant claw swings down at her in slow motion.
+26–30s: A massive black furry hand shoots out of the darkness and catches the bear's arm in mid-air. Above it, only two calm amber eyes glow in the dark. Final frame: Lily looking up in shock.
+DIALOGUE 27–30s: NARRATOR: "...but tonight, the forest chose her."
+SFX: heavy breathing, running footsteps on leaves, wolf howls, wolves whimpering and running away, a deep bear growl, a massive roar, a claw whoosh, a heavy grab impact.
+MUSIC: fast pounding horror-chase orchestral score with drums, sudden silence with only a heartbeat at 10s, then a huge heroic brass hit when the black hand appears.
+CAMERA: handheld chase tracking, low angles, slow-motion claw swing, final low-angle shot looking up at the amber eyes.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 1 | She ran from a prince into the forest... then a giant black hand caught the bear 😱👣 #Bigfoot #Movie #Part1
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+
