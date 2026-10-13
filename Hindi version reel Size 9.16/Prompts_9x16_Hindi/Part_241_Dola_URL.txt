@@ -1,12 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 
 FROST: Son of the Wild
-PART 241 - "The Red Chains"
-Punch: ACTION + TWIST
+PART 241 - "Gentle Heart"
+Punch: EMOTION + FUN
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -24,26 +23,25 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S07_CaptainVex_FULL.png -> Captain Vex; K02_RedDragon.png -> Creature RedDragon.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; C05_Frost_FACE.png -> Frost; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night battlefield near a cliff above the waterfall outside Cedar Hollow, full moon, smoke.
-0–3s: A giant shadow covers the moon. The huge red dragon lands in front of Frost, Captain Vex riding on its back.
-DIALOGUE 1–4s: Captain Vex (harsh voice, smiling): "The king sent you a gift, beast."
-3–12s: Vex throws glowing red magical chains made from the king's crystal. They wrap around Frost's arms and neck; Frost's blue lightning flickers and dies.
-DIALOGUE 6–9s: Frost (deep, straining, shocked): "My power... it's gone!"
-DIALOGUE 9–12s: Captain Vex (laughing): "Magic chains for a magic beast."
-12–22s: The red dragon breathes fire around Frost; he can't break the chains. Soldiers pull the chains, dragging him to his knees toward the cliff edge. Lily screams from the wall.
-DIALOGUE 16–19s: Lily (screaming): "FROST! NO!"
-22–30s: Frost looks at his mother, closes his eyes, and whispers his father's words. A tiny blue spark returns in his chest.
-DIALOGUE 25–29s: Frost (deep whisper): "Strong hands... gentle heart."
-Final frame: the red chains starting to crack with blue light.
-SFX: giant wing beats, dragon landing, chains whipping, magical red hum, electric power dying, fire roar, soldiers grunting, a single crack of breaking magic.
-MUSIC: dark, desperate orchestra, then a quiet hopeful note.
+CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
+The Deep Wild, foggy forest floor, soft beams of light through the trees.
+0–3s: Frost kneels down slowly in front of Old Scar, hands open, eyes no longer glowing.
+DIALOGUE 1–4s: Frost (deep, very gentle): "I won't fight you. Let me help."
+3–12s: He reaches for the trap. Old Scar panics and bites down on Frost's shoulder (no blood, just a hard grip on the fur). Frost groans in pain but does NOT fight back.
+DIALOGUE 7–10s: Frost (through gritted teeth, calm): "It's okay... it's okay. Strong hands... gentle heart."
+12–22s: With the bear still holding his shoulder, Frost grips the iron jaws of the trap with both hands and slowly pulls them apart; the metal screams and bends. The bear's leg slides free. Old Scar lets go of Frost's shoulder and stares at him.
+22–30s: Suddenly three fluffy bear cubs tumble out of a hollow log and climb all over Frost, pulling his ears and fur, playing. Frost laughs. Old Scar watches. Final frame: one cub sitting on Frost's head, chewing his ear.
+DIALOGUE 26–29s: Frost (laughing): "Hey! Ow! Okay, okay, you win!"
+DIALOGUE 18-21s: NARRATOR (deep cinematic Hindi voice): "The beast expected anger... but Frost chose mercy."
+SFX: soft footsteps, a deep growl, a painful grunt, metal straining and bending, the trap clanging open, playful cub squeaks, laughing.
+MUSIC: emotional strings with tension, then a sweet playful melody when the cubs appear.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 242 - "The Fall": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 242 - "King of the Wild": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

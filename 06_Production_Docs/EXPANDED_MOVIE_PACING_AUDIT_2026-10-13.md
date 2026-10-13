@@ -41,7 +41,7 @@ The expanded story must keep this order:
 10. Lily becomes pregnant and the pregnancy is joy/hope.
 11. Magnus finds them, Bruno dies saving Lily and unborn Frost.
 12. Lily survives alone at Cedar Hollow.
-13. Frost is born, feared, then accepted through repeated good deeds.
+13. Frost is born, his fast Bigfoot-gene growth is explained, his image changes baby -> kid -> teen -> adult, and he is accepted through repeated good deeds.
 14. Frost learns truth only after Magnus harms Cedar Hollow.
 15. Frost loses once, then gains ancestral power through Bruno and Elder Orin.
 16. Frost defeats Magnus and the story ends with peace and Bruno's spirit.
@@ -88,8 +88,8 @@ Use instead:
 - 18 parts: Bruno/Lily protection, play, trust, love, pregnancy hope.
 - 10 parts: Magnus hunt and Bruno's last stand.
 - 12 parts: Lily alone in Cedar Hollow, pregnancy survival, villagers helping.
-- 15 parts: baby Frost feared, then slowly accepted.
-- 15 parts: kid/teen Frost helping village, comedy, mother-son emotion.
+- 15 parts: baby Frost feared, then slowly accepted, with V05_Frost_Baby only.
+- 15 parts: kid/teen Frost helping village, comedy, mother-son emotion, with clean V06 kid and V07 teen image changes.
 - 10 parts: Frost truth, first loss, training, Elder Orin power.
 - 10 parts: final war, liberation, Magnus defeat, emotional ending.
 

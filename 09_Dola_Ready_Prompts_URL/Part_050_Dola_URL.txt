@@ -7,7 +7,7 @@ K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of
 K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
 
 FROST: Son of the Wild
-PART 050 - "The Song From Home"
+PART 050 - "The Wrong Berries"
 Punch: EXPANDED CUT - FORWARD STORY BEAT
 Status: ready - EXPANDED CANON PACKAGE
 
@@ -29,22 +29,22 @@ Compose every shot for a vertical 9:16 reels frame. Keep faces, bodies, action, 
 
 CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: V02_Lily_Forest.png -> reference character/location; C04_Bruno_FULL.png -> reference character/location; L03_DeepForest.png -> reference character/location; L04_BrunoCave.png -> reference character/location; K08_GrizzlyBear.png -> reference character/location; K09_Wolves.png -> reference character/location.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
-Scene: Lily sings a small song Grace taught her while Bruno listens quietly.
+Scene: Lily almost eats poisonous berries, and Bruno gently knocks them away.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
 DIALOGUE 1-4s: NARRATOR (warm cinematic voice): "The monster she feared became the only soul who protected her."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
 DIALOGUE 5-8s: Bruno (very deep gentle giant voice): "Lily safe. Bruno not hurt Lily."
-10-18s: Lily sings a small song Grace taught her while Bruno listens quietly.
+10-18s: Lily almost eats poisonous berries, and Bruno gently knocks them away.
 DIALOGUE 11-15s: Lily (soft, slowly trusting): "You keep saving me... even when I am afraid of you."
-18-24s: Bruno hums along in his deep voice.
+18-24s: He shows her safe berries and makes a funny disgusted face.
 DIALOGUE 19-23s: Bruno (deep warm voice): "Bruno stay. Lily not alone."
-24-30s: Build into the hook: Lily cries because it feels like family.
+24-30s: Build into the hook: Lily laughs for the first time.
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.
 CAMERA: clear subject framing, expressive faces, one clean action beat, then a strong final hook.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 051 - "A Flower Crown": Lily cries because it feels like family. Keep continuity and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 051 - "River Lesson": Lily laughs for the first time. Keep continuity and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
@@ -55,7 +55,7 @@ TEXT RULE: On-screen text is allowed only for intentional short cinematic title/
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no gore, no blood spray, no nudity, no explicit wedding-night content, no restraints, no chains, no forced physical contact, no extra limbs, no face morphing, no character drift.
 
 FACEBOOK/REELS CAPTION AFTER DOWNLOAD
-Part 50 | The Song From Home - the story moves deeper. #Bigfoot #Movie #Part50
+Part 50 | The Wrong Berries - the story moves deeper. #Bigfoot #Movie #Part50
 
 DOLA STATUS
 [ ] Images loaded by raw URLs

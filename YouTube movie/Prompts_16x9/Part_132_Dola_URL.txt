@@ -1,14 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
-K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
-K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
-V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 
 FROST: Son of the Wild
-PART 132 - "Face to Face with a Grizzly"
-Punch: ACTION + CLIFFHANGER
-Status:-assets
+PART 132 - "A Baby Is a Baby"
+Punch: EMOTION
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -26,24 +24,27 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; K09_Wolves.png -> Creature Wolves; K08_GrizzlyBear.png -> Creature GrizzlyBear; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; S02_MarthaHayes_FULL.png -> Martha Hayes.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is a newborn/baby here. Use only V05_Frost_Baby.png for Frost; do not show kid, teen, adult, or powered Frost in this part.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, giant misty redwood forest, cold moonlight.
-0–3s: Lily (now in the torn, muddy short version of her dress, barefoot) runs between giant trees, wolves howling close behind.
-DIALOGUE 1–3s: Lily (terrified, out of breath): "Please, please, please..."
-3–12s: Wolves chase her; she climbs over a fallen redwood trunk and slides down a muddy slope into a creek, splashing.
-DIALOGUE 7–11s: NARRATOR (deep cinematic trailer voice): "No bride had ever survived a single night in this forest."
-12–20s: She hides inside a hollow tree, hand over her mouth. The wolves run past... then suddenly stop, whimper and run away in fear.
-DIALOGUE 16–18s: Lily (whispering, confused): "Why did they run away?"
-20–30s: A deep growl behind her. She slowly turns. A huge grizzly bear rises on its hind legs right in front of the hollow tree, roaring in her face, saliva flying. Lily screams and falls back. Final frame: the bear's giant claw swinging down toward her in slow motion... cut to black.
-DIALOGUE 27–29s: Lily (screaming): "NO!"
-SFX: running, wolves howling, mud slide, water splash, heavy breathing, wolves whimpering, deep bear growl, massive roar, scream.
-MUSIC: chase drums, sudden silence at 12s with only heartbeat, then a huge horror hit with the roar.
+Inside the cabin, soft morning light, soup spilled on the floor.
+0–3s: Lily kneels in front of Martha, holding baby Frost tightly, tears in her eyes.
+DIALOGUE 1–4s: Lily (soft, begging): "Please, Martha. Please don't tell anyone."
+3–14s: Martha slowly sits down on a chair, staring at the baby.
+DIALOGUE 5–8s: Martha (shaky Southern voice): "Honey... who was his father?"
+DIALOGUE 8–14s: Lily (emotional): "The kindest, bravest soul I ever met. He gave his life so we could live."
+14–22s: Baby Frost reaches out his tiny furry hand toward Martha's glasses. Martha hesitates, then lets him hold her finger. He smiles. Her face softens completely.
+DIALOGUE 17–21s: Martha (whispering, melting): "Oh my... look at those blue eyes. He has your eyes."
+22–30s: Martha takes the baby in her arms and rocks him gently.
+DIALOGUE 23–30s: Martha (warm, firm): "A baby's a baby, Lily. And this one's got a grandma now. Your secret's safe with me."
+Final frame: Lily hugging Martha, Frost between them grabbing Martha's glasses.
+SFX: soft crying, chair creak, baby coos, gentle rocking.
+MUSIC: warm emotional piano and strings.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 133 - "The Shadow Arrives": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 133 - "Bath Time": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -52,7 +53,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 132 | The wolves ran away... because something worse was coming 🐻😱 Part 13 tomorrow! #Bigfoot #Movie #Part132
+Part 132 | "A baby's a baby. And this one's got a grandma now." 🥹❤️ #Bigfoot #Movie #Part132
 
 DOLA STATUS
 [ ] Images uploaded

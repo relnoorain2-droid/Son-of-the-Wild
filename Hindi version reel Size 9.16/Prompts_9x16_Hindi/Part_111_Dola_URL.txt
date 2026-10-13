@@ -1,12 +1,14 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
-C06_ElderOrin_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C06_ElderOrin/C06_ElderOrin_FULL.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
 
 FROST: Son of the Wild
-PART 111 - "Father's Trail"
+PART 111 - "The Tax Wagon"
 Punch: EXPANDED CUT - FORWARD STORY BEAT
 Status: ready - EXPANDED CANON PACKAGE
 
@@ -29,24 +31,24 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 VERTICAL 9:16 FRAMING LOCK:
 Compose every shot for a vertical 9:16 reels frame. Keep faces, bodies, action, and title cards centered with safe top and bottom margins. Avoid tiny distant subjects and avoid cutting off heads or full-body action.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: V08_Frost_Powered.png -> reference character/location; V09_Bruno_Spirit.png -> reference character/location; C06_ElderOrin_FULL.png -> reference character/location; V04_Lily_VillageMom.png -> reference character/location; L03_DeepForest.png -> reference character/location.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: V03_Lily_Pregnant.png -> reference character/location; V04_Lily_VillageMom.png -> reference character/location; L06_AbandonedCabin.png -> reference character/location; L07_Village.png -> reference character/location; S02_MarthaHayes_FULL.png -> reference character/location; S03_HankMiller_FULL.png -> reference character/location; S04_OldJoeWhitaker_FULL.png -> reference character/location.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
-Scene: Frost follows old signs toward the part of the forest where Bruno once lived.
+Scene: King Magnus's men pass through Cedar Hollow collecting harsh taxes.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
-DIALOGUE 1-4s: NARRATOR (mystical cinematic voice): "Frost needed more than strength. He needed the truth of his bloodline."
+DIALOGUE 1-4s: NARRATOR (sad cinematic voice): "Far from Bruno, Lily had to survive for the child he saved."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Frost (deep, emotional): "Father... if you can hear me, help me protect them."
-10-18s: Frost follows old signs toward the part of the forest where Bruno once lived.
-DIALOGUE 11-15s: Bruno Spirit (echoing gentle giant voice): "Frost good son. Bruno proud."
-18-24s: Lily gives him Bruno's small carved token.
-DIALOGUE 19-23s: Elder Orin (ancient echoing voice): "Power without mercy becomes another crown of cruelty."
-24-30s: Build into the hook: The token begins to glow.
+DIALOGUE 5-8s: Lily (weak but determined): "I am still here, little one. We are still here."
+10-18s: King Magnus's men pass through Cedar Hollow collecting harsh taxes.
+DIALOGUE 11-15s: Martha (warm older woman): "You look like you walked out of a nightmare, honey."
+18-24s: Lily hides behind cabin curtains, terrified they will recognize her.
+DIALOGUE 19-23s: Lily (guarded whisper): "My husband is gone. Please... that is all I can say."
+24-30s: Build into the hook: Vex looks toward the cabin.
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.
 CAMERA: clear subject framing, expressive faces, one clean action beat, then a strong final hook.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 112 - "The Silent Cave": The token begins to glow. Keep continuity and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 112 - "Months Of Winter": Vex looks toward the cabin. Keep continuity and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
@@ -57,7 +59,7 @@ TEXT RULE: On-screen text is allowed only for intentional short cinematic title/
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no gore, no blood spray, no nudity, no explicit wedding-night content, no restraints, no chains, no forced physical contact, no extra limbs, no face morphing, no character drift.
 
 HINDI CAPTION AFTER DOWNLOAD
-भाग 111 | कहानी आगे बढ़ती है: Father's Trail #बिगफुट #फिल्म #भाग111
+भाग 111 | कहानी आगे बढ़ती है: The Tax Wagon #बिगफुट #फिल्म #भाग111
 
 DOLA STATUS
 [ ] Images loaded by raw URLs

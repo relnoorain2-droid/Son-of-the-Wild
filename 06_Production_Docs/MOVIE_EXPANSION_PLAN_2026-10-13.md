@@ -149,7 +149,7 @@ The story will not be disturbed if the added parts stay inside the existing cano
 5. Lily becomes pregnant.
 6. Magnus attacks, Bruno dies saving Lily and unborn Frost.
 7. Lily survives Cedar Hollow and Frost is born.
-8. Frost grows from feared baby to village protector.
+8. Frost grows fast because of Bruno's ancient Bigfoot genes and forest magic; his image changes cleanly from baby to kid to teen to adult while he becomes the village protector.
 9. King returns, Frost learns truth, loses once, trains, receives Elder Orin power.
 10. Frost wins the final war and the family/kingdom gets closure.
 

@@ -1,11 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
 
 FROST: Son of the Wild
-PART 222 - "The Biggest Fish"
-Punch: FUN + TWIST
+PART 222 - "Find Him"
+Punch: EMOTION + CLIFFHANGER
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -27,25 +29,26 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; L05_River.png -> Location River.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> reference character/location; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V12_Tommy_Adult.png -> Variant Tommy_Adult; S03_HankMiller_FULL.png -> Hank Miller; K09_Wolves.png -> Creature Wolves.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Sunny morning at a wide, far-away mountain river, pine forest, snowy peaks.
-0–3s: Frost stands knee-deep in the river; a gigantic salmon leaps and he catches it in mid-air with one hand.
-DIALOGUE 1–4s: Frost (deep powerful young male voice, laughing): "Got you! Mom, look at this monster!"
-3–12s: The huge fish slaps Frost in the face with its tail and he falls backwards into the river with a giant splash. Lily laughs so hard she falls off her rock.
-DIALOGUE 6–11s: Lily (laughing): "Your father had the same fight with a fish! The fish won too!"
-DIALOGUE 11–13s: Frost (spitting water, grinning): "Rude fish!"
-12–22s: They sit together on the riverbank eating sandwiches. Lily leans on his huge arm, peaceful.
-DIALOGUE 14–18s: Lily (soft): "Sometimes I wish this day would never end."
-22–30s: Frost suddenly stops chewing. He sniffs the air. His smile disappears. Over the mountains, far away, thick black smoke rises into the sky in the direction of Cedar Hollow. Final frame: Lily slowly standing up, the sandwich falling from her hand.
-DIALOGUE 26–29s: Frost (deep, worried whisper): "Mom... that smoke is coming from home."
-SFX: river flowing, a giant fish splash, slap, laughter, birds, then wind and distant faint explosions.
-MUSIC: happy acoustic guitar that slowly turns into a low ominous drone.
+Morning, along the wild river below the waterfall, rocks, mist, villagers searching.
+0–3s: Lily climbs over wet rocks along the river, calling out.
+DIALOGUE 1–4s: Lily (shouting): "FROST! FROST, CAN YOU HEAR ME?"
+3–12s: Hank, Tommy and villagers search with lanterns and ropes. Hours pass; the sun moves.
+DIALOGUE 6–10s: Hank (deep voice, gentle): "Lily... we've been searching all day. The river's too strong."
+DIALOGUE 10–12s: Lily (firm): "Then we search all night."
+12–22s: Lily kneels at the riverbank and calls into the forest like Frost used to — a soft, low call. One by one, the wolves from the battle appear from the trees.
+DIALOGUE 15–19s: Lily (to the wolves, desperate): "You loved him too. Please... find him."
+22–30s: The lead wolf sniffs the water, then runs downstream. The whole pack follows, then stops at a dark crack in the rocks behind a smaller waterfall and howls all together. Final frame: the wolves howling at the dark cave entrance.
+DIALOGUE 27–29s: Tommy (shouting): "They found something!"
+SFX: river, shouting, lanterns, footsteps on wet rock, soft calling, wolves approaching, running paws, howling.
+MUSIC: desperate searching strings, rising with the howls.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 223 - "Fire Over Cedar Hollow": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 223 - "Alive": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

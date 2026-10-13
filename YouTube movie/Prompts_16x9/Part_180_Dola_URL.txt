@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 180 - "Strong Baby"
-Punch: FUN + CLIFFHANGER
-Status:-assets
+PART 180 - "Happy Birthday, Frost"
+Punch: FUN + EMOTION
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -24,26 +24,27 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; L06_AbandonedCabin.png -> Location AbandonedCabin.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S02_MarthaHayes_FULL.png -> Martha Hayes.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07_Frost_Teen.png for present-day Frost; do not show baby, kid, adult, or powered Frost here.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Next morning, inside the cabin, bright winter sunlight.
-0–3s: Lily, tired but happy, tries to feed baby Frost; he grabs a lock of her hair and won't let go.
-DIALOGUE 1–4s: Lily (laughing, in pain): "Ow, ow! Frost, that's Mommy's hair!"
-3–12s: She gives him the painted wooden toy horse; he squeezes it and it cracks in half. Lily stares.
-DIALOGUE 6–10s: Lily (shocked): "One day old... and you just broke a horse."
-12–22s: Frost tries to roar like his father; only a tiny squeaky "roar" comes out. Lily bursts out laughing. Frost looks offended and tries again — this time a little louder, and a cup falls off the shelf.
-DIALOGUE 16–19s: Lily (laughing, proud): "Okay, okay! That one was scary!"
-22–30s: Knock, knock, knock. Lily freezes.
-DIALOGUE 24–28s: Martha (warm Southern voice, from outside): "Lily, honey? I brought you some soup! Open up, it's freezing!"
-Final frame: Lily looking in panic between the door and the furry white baby.
-DIALOGUE 28–30s: Lily (whispering): "Oh no."
-SFX: baby grunts, hair tug, wood cracking, tiny squeaky roar, louder baby roar, cup falling, knocking.
-MUSIC: playful comedic strings, a sudden stop with the knock.
+A sunny afternoon party in Cedar Hollow's town square, balloons, bunting, picnic tables.
+0–3s: Villagers wheel out a giant birthday cake the size of a pickup truck.
+DIALOGUE 1–3s: Everyone (cheerful crowd): "SURPRISE! Happy birthday, Frost!"
+3–12s: Frost covers his mouth, overwhelmed. He leans in to blow out the candles — his breath blows away every hat, a balloon stand, and Martha's big church hat flies off and lands on a goat.
+DIALOGUE 7–10s: Martha (shocked, then laughing, pointing at the goat): "Oh, for heaven's sake! That's my Sunday hat!"
+12–22s: Gifts: Sarah (now about 14, blonde braid, yellow sweater) gives him a drawing of the whole village holding hands with him; Martha gives him a hand-knitted sweater that is HUGE — it finally fits.
+DIALOGUE 16–19s: Martha (proud): "I've been knitting this one for three years."
+DIALOGUE 19–21s: Teen Frost (shy, emotional): "It fits... it actually fits!"
+22–30s: Lily gives the last gift: the small dried flower from Bruno, now in a little wooden frame.
+DIALOGUE 25–29s: Lily (soft): "From your father. He'd want you to have it."
+Final frame: Frost holding the tiny frame to his chest, tears in his eyes, the whole village smiling.
+SFX: cheering, balloons, a huge whoosh of breath, hats flying, laughter, paper rustling, gentle applause.
+MUSIC: happy birthday-style party music, turning into the soft Frost theme.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 181 - "The Socks Fit": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 181 - "Cedar Hollow Home": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -52,7 +53,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 180 | One day old and already breaking toys 😂 ...then grandma knocked 😳 #Bigfoot #Movie #Part180
+Part 180 | His birthday wish blew grandma's hat onto a goat 😂🎂 ...then mom gave him the last gift 🥹 #Bigfoot #Movie #Part180
 
 DOLA STATUS
 [ ] Images uploaded

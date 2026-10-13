@@ -1,13 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
-K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
-V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 
 FROST: Son of the Wild
-PART 131 - "The Trackers"
-Punch: ACTION + WOW
-Status: canon-safe opening version
+PART 131 - "The Socks Fit"
+Punch: FUN + TWIST
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -25,26 +25,41 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep Lily and King Magnus identical to attached images. Dark Bigfoot guards and red dragon stay Western fantasy, not Asian.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; S02_MarthaHayes_FULL.png -> Martha Hayes; L06_AbandonedCabin.png -> Location AbandonedCabin.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is a newborn/baby here. Use only V05_Frost_Baby.png for Frost; do not show kid, teen, adult, or powered Frost in this part.
 
-Scene: Night castle courtyard lit by torches, alarm bells ringing, Western dark-fantasy castle in the Pacific Northwest forest.
-0-3s: Lily drops from the bedsheet rope into a haystack, rolls out, and runs toward a side gate.
-DIALOGUE 1-3s: Lily (out of breath, determined): "Okay... just run."
-3-12s: Guards rush past with lanterns. A dark Bigfoot guard stands nearby and sniffs the air, alert but not chained. Lily hides behind a cart and holds her breath.
-12-18s: The red Western dragon on the tower wakes up, glowing eyes scanning the courtyard. King Magnus appears on a high balcony in a black fur cloak.
-DIALOGUE 13-17s: King Magnus (deep booming voice): "She ran? Then the forest will hide the truth."
-DIALOGUE 17-19s: Prince Damian (off-screen, angry): "Find her!"
-18-26s: Lily tears the long train from her gown so she can run, sprints through the side gate, and slides under it at the last second as it closes.
-DIALOGUE 23-26s: King Magnus (cold): "Send the trackers."
-26-30s: Trained wolf trackers leap from the courtyard and sniff Lily's trail toward the forest gate. Final frame: Lily disappearing into the moonlit trees.
-SFX: alarm bells, haystack thump, running footsteps, guards shouting, Bigfoot sniffing, dragon breathing, fabric ripping, gate grinding, wolves howling.
-MUSIC: intense action orchestra with fast drums and brass.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Inside the cabin, morning.
+0–3s: Lily quickly hides baby Frost in a laundry basket under a pile of clothes and opens the door with a huge fake smile.
+DIALOGUE 1–3s: Lily (nervous): "Martha! Hi! What a surprise!"
+3–12s: Martha walks in with a pot of soup and sees Lily is no longer pregnant.
+DIALOGUE 5–10s: Martha (warm Southern voice, shocked): "Lily! You had the baby? All alone? Why didn't you call me?"
+DIALOGUE 10–12s: Lily (nervous): "It... happened fast."
+12–22s: Martha looks around excitedly. The laundry basket moves. A tiny white furry foot pokes out wearing one of the EXTRA BIG socks Martha knitted. Martha slowly looks at it.
+DIALOGUE 16–18s: Martha (confused): "...Is that my sock?"
+22–30s: Frost pops his head out of the clothes, a shirt on his head, and makes a tiny happy grunt. Martha drops the soup pot. She stares for a long moment. Final frame: Martha's glasses sliding down her nose.
+DIALOGUE 26–29s: Martha (in a tiny shocked voice): "Well... I guess the socks fit."
+SFX: rustling clothes, door opening, basket wobbling, tiny grunt, soup pot clang, dramatic silence.
+MUSIC: sneaky comedic pizzicato, stopping dead for the reveal, then one comedic note.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 132 - "Face to Face with a Grizzly": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 132 - "A Baby Is a Baby": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
-AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, widescreen 16:9 cinematic movie frame. SETTING: Fully American / Western, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no restraints, no chains, no graphic animal attack, no nudity.
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 131 | Lily escapes the castle... and the king sends trackers into the forest. #Bigfoot #Movie #Part131
+Part 131 | Grandma Martha's extra big socks... finally made sense 😂🧦 #Bigfoot #Movie #Part131
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES

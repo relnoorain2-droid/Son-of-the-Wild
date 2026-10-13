@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 208 - "Strong Hands, Gentle Heart"
-Punch: EMOTION + FUN
-Status:-assets
+PART 208 - "I Can't Lose You Too"
+Punch: EMOTION
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,24 +21,28 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; L05_River.png -> Location River.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> reference character/location; C05_Frost_FACE.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Sunset by the river.
-0–3s: Lily sits down next to Teen Frost and hands him something small: a single chicken egg.
-DIALOGUE 1–3s: Lily (soft, warm): "Hold this. Don't break it."
-3–12s: Frost holds the egg in his giant hand. CRACK — it breaks instantly. Yolk drips. Lily hands him another. Crack. Another. Crack.
-DIALOGUE 7–10s: Teen Frost (frustrated, voice cracking): "See? I can't do anything right!"
-12–22s: Lily takes his huge hand in both of hers.
-DIALOGUE 13–25s: Lily (emotional): "Your father was the strongest creature in the forest. And he once caught a flower falling from a tree without hurting a single petal. He always said: strong hands... gentle heart."
-22–30s: Frost closes his eyes, breathes slowly, and holds a new egg very, very gently. He opens his eyes. The egg is perfect. Then a tiny crack appears on it — and a baby chick pops its head out. Frost gasps with joy. Final frame: the tiny chick sitting in Frost's giant palm, chirping.
-DIALOGUE 27–29s: Teen Frost (whispering, amazed): "Strong hands... gentle heart."
-SFX: river, eggs cracking, frustrated groan, deep breathing, tiny shell crack, chick chirping.
-MUSIC: soft emotional piano, then a sweet magical twinkle with the chick.
+Night, in the rain outside the cabin, then a quiet moment.
+0–3s: Lily grabs Frost's huge face with both hands in the rain.
+DIALOGUE 1–4s: Lily (crying): "Look at me! LOOK at me!"
+3–14s: Close-up on both faces, rain falling.
+DIALOGUE 4–9s: Lily (emotional): "Revenge already took your father from me. The king has dragons, an army, magic..."
+DIALOGUE 9–13s: Lily (breaking): "I can't lose you too, Frost. Please. I can't."
+14–22s: Frost's anger melts. He hugs his mother gently, his huge body protecting her from the rain.
+DIALOGUE 17–20s: Frost (deep, soft, broken): "I'm sorry, Mom. I'm sorry."
+22–30s: Old Joe appears under his umbrella on the porch.
+DIALOGUE 22–26s: Old Joe (slow raspy wise voice): "Anger without power is how good men die, son."
+DIALOGUE 26–30s: Frost (quietly, firm): "Then I'll wait. But if they come again... I fight."
+Final frame: Frost and Lily in the rain, Old Joe watching, lightning far away.
+SFX: heavy rain, crying, thunder rolling away, umbrella rain drops.
+MUSIC: soft, emotional piano and cello.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 209 - "Lightning": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 209 - "By the Next Full Moon": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -46,7 +51,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 208 | He broke every egg... until he remembered his father's words 🐣🥹 #Bigfoot #Movie #Part208
+Part 208 | "Revenge took your father. I can't lose you too." 💔 #Bigfoot #Movie #Part208
 
 DOLA STATUS
 [ ] Images uploaded

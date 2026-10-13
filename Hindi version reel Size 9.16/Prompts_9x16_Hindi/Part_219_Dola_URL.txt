@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
 
 FROST: Son of the Wild
-PART 219 - "The Giant"
-Punch: WOW
+PART 219 - "The Red Chains"
+Punch: ACTION + TWIST
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -24,24 +24,27 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; C05_Frost_FACE.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V12_Tommy_Adult.png -> Variant Tommy_Adult.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S07_CaptainVex_FULL.png -> Captain Vex; K02_RedDragon.png -> Creature RedDragon.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Morning, Cedar Hollow main street, mountains behind.
-0–3s: Extreme close-up of a giant white furry foot stepping onto the dirt road. BOOM. Coffee cups on a café table jump.
-DIALOGUE 1–4s: NARRATOR (deep cinematic Hindi trailer voice): "Years later... the boy became a giant."
-3–14s: Slow-motion reveal from feet to head: adult Frost, 11 feet tall, massive muscles, shining snow-white fur with subtle silver dragon-like scale patterns on his shoulders, blue eyes like his mother's, the black crescent patch on his chest. Every step makes the ground shake; windows rattle; birds fly up.
-DIALOGUE 9–12s: Tommy (now a young man, amazed): "Whoa... Frost, you got HUGE."
-14–22s: Frost waves to villagers who wave back. A little girl gives him a flower; he takes it very gently between two giant fingers.
-DIALOGUE 17–20s: Frost (deep powerful young male voice, calm and kind): "Thank you, sweetheart. I'll keep it safe."
-22–30s: The old wooden bridge over the river cracks and collapses while a horse cart is on it. Frost jumps into the river and holds the entire bridge up on his shoulders while the cart crosses safely. Final frame: Frost standing in the river holding the bridge above his head, the sun behind him.
-DIALOGUE 27–30s: Frost (calm, deep, smiling): "Take your time. I've got it."
-SFX: earth-shaking footsteps, rattling cups and windows, birds, cheering, wood cracking, a huge splash, horse hooves on wood.
-MUSIC: epic heroic theme with full orchestra and choir.
+Night battlefield near a cliff above the waterfall outside Cedar Hollow, full moon, smoke.
+0–3s: A giant shadow covers the moon. The huge red dragon lands in front of Frost, Captain Vex riding on its back.
+DIALOGUE 1–4s: Captain Vex (harsh voice, smiling): "The king sent you a gift, beast."
+3–12s: Vex throws glowing red magical chains made from the king's crystal. They wrap around Frost's arms and neck; Frost's blue lightning flickers and dies.
+DIALOGUE 6–9s: Frost (deep, straining, shocked): "My power... it's gone!"
+DIALOGUE 9–12s: Captain Vex (laughing): "Magic chains for a magic beast."
+12–22s: The red dragon breathes fire around Frost; he can't break the chains. Soldiers pull the chains, dragging him to his knees toward the cliff edge. Lily screams from the wall.
+DIALOGUE 16–19s: Lily (screaming): "FROST! NO!"
+22–30s: Frost looks at his mother, closes his eyes, and whispers his father's words. A tiny blue spark returns in his chest.
+DIALOGUE 25–29s: Frost (deep whisper): "Strong hands... gentle heart."
+Final frame: the red chains starting to crack with blue light.
+SFX: giant wing beats, dragon landing, chains whipping, magical red hum, electric power dying, fire roar, soldiers grunting, a single crack of breaking magic.
+MUSIC: dark, desperate orchestra, then a quiet hopeful note.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 220 - "Rockslide": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 220 - "The Fall": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
 V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 305 - "Finish It"
-Punch: TWIST + EMOTION
-Status: ready - URL PACKAGE
+PART 305 - "The King's End"
+Punch: ACTION + EMOTION
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -23,25 +24,28 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; S10_Villagers.png -> optional background group, skip unless you want crowd continuity; S11_Rose_FULL.png -> Rose.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K08_GrizzlyBear.png -> Creature GrizzlyBear.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powered.png for present-day Frost; do not revert to baby, kid, teen, or unpowered adult Frost unless a memory is explicitly shown.
 
-CAST NOTE: the Great Red Dragon = three times bigger than any other dragon, dark lava-red scales, horns like a crown, enormous wings.
-The castle courtyard at dusk, smoke clearing, a giant dark crack in the ground in the middle of the courtyard where the Great Red Dragon was once chained.
-0–3s: King Magnus crawls out of the rubble: his armor broken, his crown cracked, his staff an empty stick. He looks old and small.
-DIALOGUE 1–3s: King Magnus (weak, bitter): "My power... my dragons... everything."
-3–12s: His own people surround him: farmers, servants, the freed brides, holding torches. Mammoths and wolves stand behind them. Nobody bows.
-DIALOGUE 6–11s: Rose (old British voice, firm): "You don't have any power anymore, Magnus. You never did. You stole it."
-12–22s: Frost walks through the crowd and stands in front of the king. The king laughs bitterly and spreads his arms.
-DIALOGUE 15–19s: King Magnus (cold): "Well? Go on, beast. Finish it. Like I finished your father."
-22–30s: Frost stares at him for a long time. His fists glow. Then the glow fades. He lowers his hands.
-DIALOGUE 25–29s: Frost (deep, calm): "No. My father wouldn't. And neither will I."
-Final frame: the king staring up at Frost in total shock.
-SFX: rubble shifting, crawling, torches crackling, quiet crowd, animal breathing, a glow humming, then fading.
-MUSIC: tense silence, then a gentle, wise, emotional note.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
+The castle courtyard at dusk, the giant dark crack in the ground glowing faintly red from deep below.
+0–3s: Frost turns his back on the king and walks toward Lily. Behind him, King Magnus pulls a hidden dagger from his boot.
+DIALOGUE 1–4s: King Magnus (hissing): "If I lose everything... so do you!"
+3–12s: The king charges at Lily with the dagger. Old Scar the giant grizzly jumps between them and knocks the king backward with one paw. The king stumbles toward the edge of the dark crack.
+DIALOGUE 6–9s: Lily (screaming): "Frost!"
+12–22s: The ground at the edge breaks. The king slips and falls, grabbing the crumbling edge with one hand above the deep, dark abyss. Frost runs and reaches down his huge hand.
+DIALOGUE 15–19s: Frost (deep, urgent): "Take my hand! Magnus, TAKE IT!"
+22–30s: The king looks at Frost's hand... the hand of the son of the giant he killed. His face fills with pride and hate.
+DIALOGUE 24–27s: King Magnus (cold, final): "Never... from a beast."
+He lets go and falls into the darkness, disappearing into the same pit where he chained the dragon for a hundred years. No gore, just darkness. The crack slowly closes with a deep rumble. Final frame: Frost's empty hand still reaching down, Lily's hand on his shoulder.
+DIALOGUE 27–30s: Lily (soft): "You tried, my love. That's what matters."
+SFX: a dagger drawn, charging footsteps, a bear roar and swipe, stumbling, ground breaking, a desperate grip, wind from the abyss, a fading scream, a deep earth rumble as the crack closes.
+MUSIC: a sudden action hit, tense strings, then a solemn, quiet ending.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 306 - "The King's End": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 306 - "Peace Has A Sound": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

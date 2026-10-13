@@ -1,15 +1,14 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
-V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
-V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
-S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
+K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
+K04_TRex.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K04_TRex/K04_TRex.png
+K06_WarMammoth.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K06_WarMammoth/K06_WarMammoth.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 
 FROST: Son of the Wild
-PART 088 - "The Barn Fire Buckets"
+PART 088 - "The Army Enters"
 Punch: EXPANDED CUT - FORWARD STORY BEAT
 Status: ready - EXPANDED CANON PACKAGE
 
@@ -32,24 +31,24 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 VERTICAL 9:16 FRAMING LOCK:
 Compose every shot for a vertical 9:16 reels frame. Keep faces, bodies, action, and title cards centered with safe top and bottom margins. Avoid tiny distant subjects and avoid cutting off heads or full-body action.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: V04_Lily_VillageMom.png -> reference character/location; V05_Frost_Baby.png -> reference character/location; V06_Frost_Kid.png -> reference character/location; V07_Frost_Teen.png -> reference character/location; L07_Village.png -> reference character/location; S02_MarthaHayes_FULL.png -> reference character/location; S05_TommyMiller_FULL.png -> reference character/location; S06_SarahMiller_FULL.png -> reference character/location.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: V03_Lily_Pregnant.png -> reference character/location; C04_Bruno_FULL.png -> reference character/location; C02_KingMagnus_FULL.png -> reference character/location; K02_RedDragon.png -> reference character/location; K04_TRex.png -> reference character/location; K06_WarMammoth.png -> reference character/location; L03_DeepForest.png -> reference character/location.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
-Scene: Flames rise from a barn and villagers panic.
+Scene: Soldiers, mammoths, dark Bigfoots, and Western dragons move into the forest.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
-DIALOGUE 1-4s: NARRATOR (gentle cinematic voice): "Cedar Hollow feared the child before it understood his heart."
+DIALOGUE 1-4s: NARRATOR (urgent cinematic voice): "But King Magnus had not forgotten the bride who escaped."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Lily (protective mother): "His name is Frost. He is innocent."
-10-18s: Flames rise from a barn and villagers panic.
-DIALOGUE 11-15s: Martha (softening): "That baby is scared, not evil."
-18-24s: Frost carries water barrels too heavy for men.
-DIALOGUE 19-23s: Villager (fearful): "If he grows bigger, who will stop him?"
-24-30s: Build into the hook: The roof begins to fall.
+DIALOGUE 5-8s: Lily (protective, frightened): "Bruno, our baby... they found us."
+10-18s: Soldiers, mammoths, dark Bigfoots, and Western dragons move into the forest.
+DIALOGUE 11-15s: Bruno (deep, firm): "Lily run. Child live."
+18-24s: Animals flee before them.
+DIALOGUE 19-23s: King Magnus (booming rage): "Leave no witness in my forest."
+24-30s: Build into the hook: Bruno feels the ground trembling.
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.
 CAMERA: clear subject framing, expressive faces, one clean action beat, then a strong final hook.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 089 - "Under The Falling Beam": The roof begins to fall. Keep continuity and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 089 - "Hide The Cradle": Bruno feels the ground trembling. Keep continuity and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
@@ -60,7 +59,7 @@ TEXT RULE: On-screen text is allowed only for intentional short cinematic title/
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no gore, no blood spray, no nudity, no explicit wedding-night content, no restraints, no chains, no forced physical contact, no extra limbs, no face morphing, no character drift.
 
 HINDI CAPTION AFTER DOWNLOAD
-भाग 88 | कहानी आगे बढ़ती है: The Barn Fire Buckets #बिगफुट #फिल्म #भाग88
+भाग 88 | कहानी आगे बढ़ती है: The Army Enters #बिगफुट #फिल्म #भाग88
 
 DOLA STATUS
 [ ] Images loaded by raw URLs

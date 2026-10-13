@@ -1,13 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 304 - "Caught"
-Punch: WOW + EMOTION
-Status:-assets
+PART 304 - "Finish It"
+Punch: TWIST + EMOTION
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -25,25 +24,26 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V12_Tommy_Adult.png -> Variant Tommy_Adult; K02_RedDragon.png -> Creature RedDragon.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; S10_Villagers_FULL.png -> optional background group, skip unless you want crowd continuity; S11_Rose_FULL.png -> Rose.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powered.png for present-day Frost; do not revert to baby, kid, teen, or unpowered adult Frost unless a memory is explicitly shown.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 CAST NOTE: the Great Red Dragon = three times bigger than any other dragon, dark lava-red scales, horns like a crown, enormous wings.
-The sky above the battlefield at sunset.
-0–3s: Frost falls fast, eyes closed, toward the rocks.
-DIALOGUE 0–2s: Lily (screaming, running): "No, no, NO!"
-3–12s: A gigantic shadow dives below him. The Great Red Dragon, its eyes now warm gold, gently catches Frost on its back between its huge horns.
-DIALOGUE 6–9s: Tommy (shouting, amazed): "The big one CAUGHT him!"
-12–22s: The Great Red Dragon lands softly in front of Lily and lowers its giant head so Frost can slide down. Frost opens his eyes, weak, and holds up his hand: inside it, the pieces of the crystal have joined together into one small, pure BLUE crystal, glowing softly.
-DIALOGUE 16–20s: Frost (deep, weak, smiling): "Mom... I got Grandpa's crystal back."
-22–30s: Lily hugs him, crying and laughing. The Great Red Dragon gently nudges Frost with its nose, making a deep purring sound like a giant cat. Final frame: Frost hugging the dragon's nose, Lily laughing.
-DIALOGUE 27–29s: Frost (deep, laughing softly): "You're welcome, big guy."
-SFX: falling wind, a giant dive whoosh, a soft catch, wing beats, a gentle landing, a magical crystal hum, crying, a giant dragon purr.
-MUSIC: an emotional, beautiful, soaring theme.
+The castle courtyard at dusk, smoke clearing, a giant dark crack in the ground in the middle of the courtyard where the Great Red Dragon was once chained.
+0–3s: King Magnus crawls out of the rubble: his armor broken, his crown cracked, his staff an empty stick. He looks old and small.
+DIALOGUE 1–3s: King Magnus (weak, bitter): "My power... my dragons... everything."
+3–12s: His own people surround him: farmers, servants, the freed brides, holding torches. Mammoths and wolves stand behind them. Nobody bows.
+DIALOGUE 6–11s: Rose (old British voice, firm): "You don't have any power anymore, Magnus. You never did. You stole it."
+12–22s: Frost walks through the crowd and stands in front of the king. The king laughs bitterly and spreads his arms.
+DIALOGUE 15–19s: King Magnus (cold): "Well? Go on, beast. Finish it. Like I finished your father."
+22–30s: Frost stares at him for a long time. His fists glow. Then the glow fades. He lowers his hands.
+DIALOGUE 25–29s: Frost (deep, calm): "No. My father wouldn't. And neither will I."
+Final frame: the king staring up at Frost in total shock.
+SFX: rubble shifting, crawling, torches crackling, quiet crowd, animal breathing, a glow humming, then fading.
+MUSIC: tense silence, then a gentle, wise, emotional note.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 305 - "Finish It": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 305 - "The King's End": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -52,7 +52,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 304 | The dragon that was trying to kill him... caught him 🐉🥹 #Bigfoot #Movie #Part304
+Part 304 | "Finish it, like I finished your father." Frost's answer... 😶💙 #Bigfoot #Movie #Part304
 
 DOLA STATUS
 [ ] Images uploaded

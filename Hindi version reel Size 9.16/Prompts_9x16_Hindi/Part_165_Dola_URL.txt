@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
-V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 165 - "The Last Stand"
-Punch: EMOTION + ACTION
+PART 165 - "Trick or Treat"
+Punch: FUN
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -24,23 +24,26 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C04_Bruno_FULL.png -> Bruno; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; K01_DarkBigfoot.png -> Creature DarkBigfoot; K02_RedDragon.png -> Creature RedDragon.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S05_TommyMiller_FULL.png -> Tommy Miller; S06_SarahMiller_FULL.png -> Sarah Miller; L07_Village.png -> Location Village.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient forest magic run in his blood. Use only V06_Frost_Kid.png for present-day Frost; do not show baby, teen, adult, or powered Frost here.
 
-Riverbank at sunset, orange sky, smoke, the whole army in front of Bruno.
-0–3s: Bruno stands alone, wounded, facing dark Bigfoots, soldiers and the red dragon with King Magnus on its back.
-DIALOGUE 0–3s: King Magnus (deep cold voice): "Where is the girl, beast?"
-3–8s: Bruno smiles.
-DIALOGUE 4–7s: Bruno (deep, proud, calm): "Gone. Where you never find her."
-8–20s: Bruno roars and charges into the army in slow motion. He throws soldiers, knocks down two dark Bigfoots, and grabs a small dragon out of the air. Shot in silhouette against the orange sunset, heroic.
-DIALOGUE 12–15s: NARRATOR (deep cinematic trailer voice): "He fought for every second she needed."
-20–30s: King Magnus raises his staff; a huge red lightning blast hits Bruno. In slow motion, Bruno falls to his knees, looks toward the river one last time and smiles. Then he slowly falls forward into the grass, in silhouette. No blood, no gore. Final frame: Bruno's open hand resting in the grass; beside it, a single small blue wildflower slowly blooms in the sunset light.
-DIALOGUE 26–29s: Bruno (deep final whisper): "Be... happy... Lily."
-SFX: battle cries, roars, impacts, dragon screech, magical lightning blast, heavy fall, then total silence, wind.
-MUSIC: epic tragic choir and orchestra, fading to a single soft violin note.
+Halloween night in Cedar Hollow, carved pumpkins glowing on porches, orange string lights, kids in costumes.
+0–3s: Kid Frost walks down the street wearing a white bedsheet ghost costume that only covers his head and shoulders; his whole furry body sticks out underneath.
+DIALOGUE 1–3s: Kid Frost (cheerful young boy voice, proud): "Boooo! I'm a ghost!"
+3–12s: Tommy (dressed as a cowboy) and Sarah (dressed as a witch) walk beside him trying not to laugh.
+DIALOGUE 5–9s: Tommy (young boy, laughing): "Frost, you look like a ghost that ate a bear."
+DIALOGUE 9–11s: Sarah (small cute girl voice): "A big, fluffy ghost!"
+12–22s: They knock on a door. A visiting tourist couple from the city opens it, looks at Frost and gasps.
+DIALOGUE 14–19s: Tourist man (amazed Hindi voice): "Honey, look at this costume! That's the most realistic Bigfoot costume I've ever seen!"
+DIALOGUE 19–21s: Kid Frost (confused): "...Thank you?"
+22–30s: The tourists give Frost the entire candy bowl. Frost walks away happily hugging the giant bowl while the other kids stare in jealousy. Final frame: Frost winking at the camera from under his tiny ghost sheet.
+DIALOGUE 26–29s: Kid Frost (whispering, grinning): "Best... costume... ever."
+SFX: spooky wind, door knock, doorbell, gasp, candy rattling, kids laughing, an owl hoot.
+MUSIC: playful spooky Halloween tune with xylophone and pizzicato strings.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 166 - "Two Hearts Still Beating": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 166 - "Sit!": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

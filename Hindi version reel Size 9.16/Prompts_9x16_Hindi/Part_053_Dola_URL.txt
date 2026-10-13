@@ -1,24 +1,18 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
-K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
-K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
+V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 053 - "You Saved Me Twice"
-Punch: EXPANDED CUT - FORWARD STORY BEAT
-Status: ready - EXPANDED CANON PACKAGE
+PART 053 - "The First Argument"
+Punch: COMEDY + ROOTHNA-MANANA
+Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
-HINDI OUTPUT LOCK:
-The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, title card, place card, and visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Keep proper names such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain as names.
-FORMAT: VERTICAL 9:16
 EXACT 30-SECOND OUTPUT LOCK:
 This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
 Use active skill: Zakariya Seedance 2 5 30s Hindi Reels 9x16
@@ -26,46 +20,45 @@ Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+HINDI OUTPUT LOCK:
+The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
+CHARACTER LOCK: Keep Lily and Bruno exactly identical to the attached reference images. Lily is young, innocent, beautiful, honey-blonde hair, blue eyes. Bruno is a massive black American Bigfoot, powerful but gentle.
+LILY LOOK LOCK: Lily always looks 22-24 years old, sweet, soft fair face, big blue eyes, honey-blonde hair.
 
-VERTICAL 9:16 FRAMING LOCK:
-Compose every shot for a vertical 9:16 reels frame. Keep faces, bodies, action, and title cards centered with safe top and bottom margins. Avoid tiny distant subjects and avoid cutting off heads or full-body action.
-
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: V02_Lily_Forest.png -> reference character/location; C04_Bruno_FULL.png -> reference character/location; L03_DeepForest.png -> reference character/location; L04_BrunoCave.png -> reference character/location; K08_GrizzlyBear.png -> reference character/location; K09_Wolves.png -> reference character/location.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
-Scene: Lily realizes Bruno has protected her again and again without asking anything.
-0-3s: Start with a strong immediate visual hook connected to the previous part.
-DIALOGUE 1-4s: NARRATOR (warm cinematic voice): "The monster she feared became the only soul who protected her."
-3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Bruno (very deep gentle giant voice): "Lily safe. Bruno not hurt Lily."
-10-18s: Lily realizes Bruno has protected her again and again without asking anything.
-DIALOGUE 11-15s: Lily (soft, slowly trusting): "You keep saving me... even when I am afraid of you."
-18-24s: She says she trusts him.
-DIALOGUE 19-23s: Bruno (deep warm voice): "Bruno stay. Lily not alone."
-24-30s: Build into the hook: Bruno looks away, overwhelmed.
-SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
-MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.
-CAMERA: clear subject framing, expressive faces, one clean action beat, then a strong final hook.
-
+Scene: Morning inside Bruno's cave behind the waterfall, warm firelight, moss beds, forest light at the cave mouth.
+0-4s: Bruno proudly places breakfast in front of Lily: berries, roots, and one very large wiggling beetle on a leaf. Lily freezes.
+DIALOGUE 1-4s: Bruno (deep gentle voice): "Bruno make breakfast. Best cave breakfast."
+4-9s: Lily tries to smile but pushes the beetle away with one finger.
+DIALOGUE 4-7s: Lily (trying not to hurt him): "That is... very kind. But I do not eat things that wave back."
+DIALOGUE 7-9s: Bruno (hurt, quiet): "Lily not like Bruno food."
+9-17s: Bruno turns away like an offended giant child, sitting with his back to her. Lily realizes she hurt his feelings.
+DIALOGUE 10-14s: Lily (soft apology): "Hey. I did not mean it like that."
+DIALOGUE 14-17s: Bruno (stubborn): "Bruno fine. Bruno not sad."
+17-25s: Lily sits beside him and eats one berry dramatically. Bruno peeks at her, still pretending to be angry.
+DIALOGUE 18-22s: Lily (playful): "See? I trust the berries. Just not the dancing bug."
+25-30s: Bruno snorts a laugh, then carefully flicks the beetle outside. Lily laughs too. Final frame: both eating berries by the fire.
+DIALOGUE 25-29s: Bruno (gentle): "No dancing bug for Lily."
+SFX: waterfall rumble, tiny beetle legs, fire crackle, Bruno snort laugh, Lily giggle.
+MUSIC: warm playful acoustic strings with soft comedy beats.
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 054 - "Moonlit Hands": Bruno looks away, overwhelmed. Keep continuity and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 054 - "The Vine Fall": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
-AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync. No line may be skipped. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16 cinematic frame.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, rural American towns, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-TEXT RULE: On-screen text is allowed only for intentional short cinematic title/location/time cards when this PART asks for it. No subtitles for dialogue. No random text.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no gore, no blood spray, no nudity, no explicit wedding-night content, no restraints, no chains, no forced physical contact, no extra limbs, no face morphing, no character drift.
-
-HINDI CAPTION AFTER DOWNLOAD
-भाग 53 | कहानी आगे बढ़ती है: You Saved Me Twice #बिगफुट #फिल्म #भाग53
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested, and every visible word must be Hindi Devanagari only.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+HINDI REELS CAPTION AFTER DOWNLOAD
+HINDI CAPTION LOCK: Write the final post title/description/caption in Hindi, using Hindi emotion and hashtags. Do not output an English caption.
+भाग 53 | फ्रॉस्ट: जंगल का बेटा - कहानी अब और गहरी होती जा रही है। #बिगफुट #फिल्म #भाग53
 
 DOLA STATUS
-[ ] Images loaded by raw URLs
+[ ] Images uploaded
 [ ] Prompt pasted
 [ ] Video generated
 [ ] Downloaded
 [ ] Needs revision
 
 NOTES
-Expanded 312-part canon. This part must move the story forward and end with suspense unless it is the final part.
+Inserted after old Part 18 to add comedy and early relationship warmth.

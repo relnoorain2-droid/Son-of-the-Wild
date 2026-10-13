@@ -1,12 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
-C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
-C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 156 - "The King's Eyes"
-Punch: TWIST + CLIFFHANGER
+PART 156 - "Bandits in Town"
+Punch: ACTION + FUN
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -25,24 +24,25 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; C04_Bruno_FULL.png -> Bruno; C02_KingMagnus_FULL.png -> King Magnus; C03_PrinceDamian_FULL.png -> Prince Damian.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S02_MarthaHayes_FULL.png -> Martha Hayes; S10_Villagers_FULL.png -> optional background group, skip unless you want crowd continuity; L07_Village.png -> Location Village.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient forest magic run in his blood. Use only V06_Frost_Kid.png for present-day Frost; do not show baby, teen, adult, or powered Frost here.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-0–3s: High above the forest, a bald eagle with a tiny red crystal on its leg band circles over the waterfall.
-DIALOGUE 1–4s: NARRATOR (deep trailer voice): "But the king's eyes were everywhere."
-3–10s: From the eagle's point of view: pregnant Lily and Bruno picking apples by the river, laughing. The eagle screeches and flies away toward the dark castle.
-10–20s: Castle throne hall. King Magnus holds his staff; the red crystal glows and shows a floating magical image of Lily and Bruno. Prince Damian stares, shocked and furious.
-DIALOGUE 12–15s: Prince Damian (smooth voice turning furious): "My bride... with a BEAST?"
-DIALOGUE 15–19s: King Magnus (deep, slow, menacing): "No one humiliates the house of Thorne."
-20–30s: King Magnus stands up. Through the giant window, the red dragon roars, mammoths raise their tusks, and dozens of dark Bigfoots pull at their chains. The king slams his staff.
-DIALOGUE 23–28s: King Magnus (booming): "Prepare the dragons. Prepare the army. This time... I go myself!"
-Final frame: the red dragon taking off from the tower, fire lighting the sky.
-SFX: eagle screech, wind, magical crystal hum, staff slam echo, dragon roar, mammoth trumpets, chains rattling, war horns.
-MUSIC: happy melody cut by a dark villain theme, building into massive war drums and choir.
+Daytime, the Cedar Hollow general store.
+0–3s: Three scruffy bandits in dusty cowboy hats and bandanas kick open the general store door.
+DIALOGUE 1–4s: Bandit leader (rough American male voice): "Nobody move! Hand over the money!"
+3–12s: Martha stands behind the counter, calm, arms crossed.
+DIALOGUE 5–8s: Martha (warm Southern voice, unimpressed): "Boys, you picked the wrong store."
+DIALOGUE 8–10s: Bandit leader (laughing): "Says who, granny?"
+12–22s: A huge shadow covers the bandits. They slowly turn around. Kid Frost stands in the doorway eating an ice cream cone.
+DIALOGUE 15–18s: Kid Frost (cheerful, casual): "Hi! Are you guys buying something?"
+22–30s: The bandits scream, drop the money bag, and run so fast that one loses his pants and runs off in his heart-patterned underwear. Frost catches the money bag and gives it back to Martha. Final frame: Frost licking his ice cream, confused.
+DIALOGUE 26–29s: Kid Frost (confused): "Was it something I said?"
+SFX: door kicked open, boots, bandit laughter, deep shadow whoosh, screaming, running, pants dropping, bell on the store door, ice cream lick.
+MUSIC: classic Western standoff whistle and guitar, then comedic chase music.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 157 - "The Forest Goes Quiet": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 157 - "Thanksgiving": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -51,7 +51,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 156 | The king saw them... and now he's coming with an army 🐉⚔️ #Bigfoot #Movie #Part156
+Part 156 | Bandits tried to rob grandma's store... then Frost walked in with ice cream 🍦😂 #Bigfoot #Movie #Part156
 
 DOLA STATUS
 [ ] Images uploaded

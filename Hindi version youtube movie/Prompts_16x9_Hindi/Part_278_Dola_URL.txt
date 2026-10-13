@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
 S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
+V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
 
 FROST: Son of the Wild
-PART 278 - "The Spy"
-Punch: TWIST + ACTION
+PART 278 - "The Secret Tunnel"
+Punch: TWIST
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -27,26 +28,25 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; K09_Wolves.png -> Creature Wolves.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V12_Tommy_Adult.png -> Variant Tommy_Adult; V13_Sarah_Adult.png -> Variant Sarah_Adult; S11_Rose_FULL.png -> Rose; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Night at the edge of the army camp, dark forest.
-0–3s: A scruffy fur hunter (the same one who spied on Frost years ago) creeps out of camp holding a stolen map. A wolf growls behind him.
-DIALOGUE 1–3s: Hunter (rough greedy voice, whispering): "Easy, doggy..."
-3–12s: Wolves surround him. He runs — straight into Frost's chest, bouncing off and falling on his back.
-DIALOGUE 5–8s: Frost (deep, calm, looming above him): "Going somewhere?"
-DIALOGUE 8–10s: Hunter (terrified): "Please! Don't eat me!"
-12–22s: Frost lifts him up by his coat, eye to eye. Frost's eyes glow; the hunter shakes.
-DIALOGUE 10–22s: Hunter (panicking, talking fast): "Okay! Okay! The king knows you're coming! He'll put the crystal on his staff and wake the Great Red Dragon! And the prince will lead fifty war mammoths through the front gate!"
-22–30s: Old Joe walks up and takes the stolen map back.
-DIALOGUE 22–25s: Old Joe (slow raspy voice): "Fifty mammoths, one giant dragon..."
-DIALOGUE 25–30s: Frost (deep, thinking, smiling slightly): "And one old secret tunnel he doesn't know Rose told us about."
-Final frame: Frost dropping the hunter into a pile of wolf-guarded hay.
-SFX: creeping footsteps, wolves growling, a body bounce, a thud, fabric gripped, a magical hum, paper, hay thump.
-MUSIC: suspense strings, an action hit, then a clever, confident theme.
+Inside a dark, narrow stone tunnel under Thorne Castle, torchlight, dripping water, rats.
+0–3s: Rose pushes open a hidden stone door behind a waterfall at the back of the castle. Tommy, Sarah and Old Joe follow with torches.
+DIALOGUE 1–5s: Rose (old British voice, whispering): "This way. The servants' tunnel. The king forgot it exists."
+3–12s: They creep through the tunnel. A rat runs over Tommy's boot; he almost screams; Sarah covers his mouth.
+DIALOGUE 6–9s: Tommy (muffled, whispering): "Mmmph! Rat! Big rat!"
+DIALOGUE 9–11s: Sarah (whispering, annoyed): "You rode a BISON yesterday!"
+12–22s: The tunnel opens into a huge underground cave: the dragon pens. Dozens of small and medium dragons lie in heavy iron chains, their eyes glowing red, crying softly.
+DIALOGUE 16–20s: Old Joe (slow raspy whisper, sad): "Lord have mercy... look at them."
+22–30s: A small young green dragon looks at Sarah. For a moment its red eyes flicker to their natural gold color. It whimpers. Sarah slowly reaches out.
+DIALOGUE 25–28s: Sarah (soft): "It's okay. We're here to help you."
+Final frame: Sarah's hand almost touching the young dragon's nose; a shadow with an axe appearing behind them.
+SFX: stone door grinding, torches, dripping water, rat squeaks, muffled scream, chains rattling, dragons whimpering, a heavy footstep.
+MUSIC: quiet suspense, turning sad and gentle at the dragons, ending on a tense sting.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 279 - "Through the Front Door": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 279 - "The T-Rex Returns": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

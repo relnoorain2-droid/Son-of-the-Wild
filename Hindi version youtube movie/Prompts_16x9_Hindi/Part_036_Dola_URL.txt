@@ -47,7 +47,7 @@ MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogu
 CAMERA: clear subject framing, expressive faces, one clean action beat, then a strong final hook.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 037 - "The Wolf Circle": A guard finds a piece of her veil. Keep continuity and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 037 - "The Trackers": A guard finds a piece of her veil. Keep continuity and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.

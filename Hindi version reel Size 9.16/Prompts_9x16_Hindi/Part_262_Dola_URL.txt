@@ -1,11 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
 
 FROST: Son of the Wild
-PART 262 - "Pulled Under"
+PART 262 - "The People Will Rise"
 Punch: TWIST + CLIFFHANGER
 Status: ready - URL PACKAGE
 
@@ -24,26 +24,29 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; C04_Bruno_FULL.png -> Bruno; V04_Lily_VillageMom.png -> Variant Lily_VillageMom.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S11_Rose_FULL.png -> Rose; K09_Wolves.png -> Creature Wolves.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powered.png for present-day Frost; do not revert to baby, kid, teen, or unpowered adult Frost unless a memory is explicitly shown.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-CAST NOTE: Old Joe = a very old man, long white beard, wool coat, walking stick.
-Night at Mirror Lake, then a dark vision inside the water.
-0–3s: The red-eyed reflection speaks with Frost's own voice, but colder.
-DIALOGUE 1–4s: Dark Reflection (Frost's deep voice, cold and echoing): "You know what you really want."
-3–14s: Images appear in the water: Bruno falling in the sunset; King Magnus laughing on his red dragon; Cedar Hollow burning; the seven graves.
-DIALOGUE 6–14s: Dark Reflection (whispering): "He killed your father. He burned your home. Don't just beat him... DESTROY him. Burn his whole kingdom. Every one of them."
-12–22s: Frost's eyes flicker between blue and red. His fists shake. Blue lightning around him starts turning dark red.
-DIALOGUE 16–19s: Frost (struggling, deep): "No... I... I want..."
-DIALOGUE 19–21s: Lily (from the shore, scared): "Frost? FROST!"
-22–30s: A giant red-eyed hand made of water bursts out of the lake, grabs Frost by the arm, and drags him under the surface. The lake goes completely still. Lily screams and runs to the edge; Old Joe holds her back. Final frame: the perfectly still lake reflecting the moon, no sign of Frost.
-DIALOGUE 27–30s: Old Joe (holding Lily, serious): "No! He has to fight this one alone."
-SFX: cold echoing voice, flashes of past sounds (war horns, a roar, fire), electric crackle turning darker, a sudden water explosion, a splash, then complete silence.
-MUSIC: dark, frightening choir and low drums, cut into silence.
+CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
+Night, at the edge of the forest near Cedar Hollow.
+0–3s: Powered Frost stands on a rock and lets out a long, deep roar into the forest; his tattoos glow.
+DIALOGUE 1–3s: Frost (deep roar, powerful): "WILD ONES... I NEED YOU!"
+3–12s: From every direction, thousands of glowing eyes appear in the dark: wolves, bears, elk, bison, mountain lions, eagles landing in the trees. Old Scar walks to the front.
+DIALOGUE 7–10s: NARRATOR (deep cinematic Hindi trailer voice): "The wild answered."
+12–22s: Suddenly an old woman stumbles out of the trees, exhausted, her black maid's dress torn: Rose, the castle maid, now older and greyer. Lily gasps.
+DIALOGUE 14–16s: Lily (shocked): "Rose?! Is that you?"
+DIALOGUE 16–21s: Rose (old, tired, British-accented voice): "Miss Lily! You haven't aged a day! I escaped the castle to find you."
+22–30s: Rose grabs Frost's hand.
+DIALOGUE 21–28s: Rose (urgent, emotional): "The king's own people are starving, beaten, afraid. If you march on Thorne Castle... they will rise with you."
+Final frame: Frost looking toward the distant dark castle on the horizon, the army of animals behind him, his eyes glowing.
+DIALOGUE 28–30s: Frost (deep, determined): "Then we march."
+SFX: a long roar, echoing, thousands of animal footsteps, wolves howling, eagle cries, stumbling footsteps, gasps, wind.
+MUSIC: a powerful rising war anthem with drums, choir and brass.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 263 - "The King Inside": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 263 - "The Dragons Are Slaves": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

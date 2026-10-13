@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
-K06_WarMammoth.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K06_WarMammoth/K06_WarMammoth.png
-V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
 
 FROST: Son of the Wild
-PART 237 - "Bacon Grease"
-Punch: ACTION + FUN
+PART 237 - "Training Montage"
+Punch: FUN + WOW
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -24,24 +24,26 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V10_Damian_Battle.png -> Variant Damian_Battle; C05_Frost_FULL.png -> Frost; K06_WarMammoth.png -> Creature WarMammoth; K01_DarkBigfoot.png -> Creature DarkBigfoot.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V12_Tommy_Adult.png -> Variant Tommy_Adult; S03_HankMiller_FULL.png -> Hank Miller; S02_MarthaHayes_FULL.png -> Martha Hayes.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
-CAST NOTE: Tommy = a young man (about 22), messy brown hair, light freckles, red baseball cap, plaid flannel shirt; Hank = a sturdy farmer, grey-brown beard, worn cowboy hat, plaid shirt, overalls.
-Night battle in front of Cedar Hollow, full moon, torches, smoke.
-0–3s: Prince Damian swings his sword forward.
-DIALOGUE 0–2s: Prince Damian (screaming): "ATTACK!"
-3–12s: Three armored war mammoths charge up the hill road — and hit the greased mud. Their legs slide in every direction like on ice; they spin, crash into each other and slide all the way back down the hill, knocking over soldiers like bowling pins.
-DIALOGUE 7–10s: Tommy (young man, laughing on the wall): "TOLD YOU! Mammoths on grease!"
-12–22s: Dark Bigfoots charge the wall and fall straight into the hidden pits, one after another. Wolves leap out from the forest and bite at the soldiers' legs, chasing them away.
-DIALOGUE 15–18s: Hank (shouting): "The traps are working! Hold the wall!"
-22–30s: A dark Bigfoot climbs out of a pit right in front of Frost. Frost cracks his knuckles. Final frame: Frost smiling, blue sparks in his eyes.
-DIALOGUE 26–29s: Frost (deep, cool): "My turn."
-SFX: battle cries, mammoth trumpets, slipping and sliding, a huge crash, bowling-pin knock sounds, branches breaking, pits thudding, wolf snarls, soldiers yelling, knuckle cracks.
-MUSIC: epic battle music with a comedic sting for the mammoth slide.
+Daytime training montage around Cedar Hollow, upbeat.
+0–3s: Hank blows a whistle like a football coach, wearing a baseball cap, holding a clipboard.
+DIALOGUE 1–3s: Hank (deep rural voice, coach style): "Alright, big guy! Let's GO!"
+3–12s: Frost runs up a hill carrying three huge logs while Tommy rides on top cheering. Frost pulls Hank's pickup truck with a rope, with the entire village sitting in the back. Frost swims upstream against the wild river current.
+DIALOGUE 6–9s: Tommy (shouting from the logs): "Faster! My grandma runs faster than that!"
+DIALOGUE 9–11s: Martha (from the truck): "I do NOT!"
+12–22s: Martha serves Frost a stack of pancakes taller than a man, with a whole jar of maple syrup.
+DIALOGUE 15–18s: Martha (Southern voice, proud): "Breakfast of champions, sugar. Eat every bite."
+DIALOGUE 18–21s: Frost (mouth full, happy): "Yes, ma'am!"
+22–30s: Frost does push-ups with Hank, Tommy, Sarah and Martha all sitting on his back, counting together. Final frame: Frost on push-up number 1000, everyone cheering on his back.
+DIALOGUE 26–29s: Everyone (cheering, counting): "...998, 999... ONE THOUSAND!"
+SFX: whistle, heavy footsteps, rope straining, truck wheels, rushing water, pancakes stacking, syrup pouring, cheering, counting.
+MUSIC: classic upbeat 80s-style American training montage rock with drums and electric guitar.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 238 - "Frost vs the Dark Bigfoots": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 238 - "Something to Protect": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

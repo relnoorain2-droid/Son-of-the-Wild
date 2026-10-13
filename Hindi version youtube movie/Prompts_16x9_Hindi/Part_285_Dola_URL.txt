@@ -1,13 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
-V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
+K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 285 - "The Secret Tunnel"
-Punch: TWIST
-Status: ready - URL PACKAGE
+PART 285 - "Burn Them All"
+Punch: ACTION + CLIFFHANGER
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -28,25 +28,27 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V12_Tommy_Adult.png -> Variant Tommy_Adult; V13_Sarah_Adult.png -> Variant Sarah_Adult; S11_Rose_FULL.png -> Rose; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K02_RedDragon.png -> Creature RedDragon.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powered.png for present-day Frost; do not revert to baby, kid, teen, or unpowered adult Frost unless a memory is explicitly shown.
 
-Inside a dark, narrow stone tunnel under Thorne Castle, torchlight, dripping water, rats.
-0–3s: Rose pushes open a hidden stone door behind a waterfall at the back of the castle. Tommy, Sarah and Old Joe follow with torches.
-DIALOGUE 1–5s: Rose (old British voice, whispering): "This way. The servants' tunnel. The king forgot it exists."
-3–12s: They creep through the tunnel. A rat runs over Tommy's boot; he almost screams; Sarah covers his mouth.
-DIALOGUE 6–9s: Tommy (muffled, whispering): "Mmmph! Rat! Big rat!"
-DIALOGUE 9–11s: Sarah (whispering, annoyed): "You rode a BISON yesterday!"
-12–22s: The tunnel opens into a huge underground cave: the dragon pens. Dozens of small and medium dragons lie in heavy iron chains, their eyes glowing red, crying softly.
-DIALOGUE 16–20s: Old Joe (slow raspy whisper, sad): "Lord have mercy... look at them."
-22–30s: A small young green dragon looks at Sarah. For a moment its red eyes flicker to their natural gold color. It whimpers. Sarah slowly reaches out.
-DIALOGUE 25–28s: Sarah (soft): "It's okay. We're here to help you."
-Final frame: Sarah's hand almost touching the young dragon's nose; a shadow with an axe appearing behind them.
-SFX: stone door grinding, torches, dripping water, rat squeaks, muffled scream, chains rattling, dragons whimpering, a heavy footstep.
-MUSIC: quiet suspense, turning sad and gentle at the dragons, ending on a tense sting.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+CAST NOTE: Hank = a sturdy farmer, grey-brown beard, worn cowboy hat, plaid shirt, overalls; the Great Red Dragon = three times bigger than any other dragon, dark lava-red scales, horns like a crown, enormous wings.
+The battlefield in front of Thorne Castle, the Great Red Dragon in the sky.
+0–3s: The Great Red Dragon sweeps over the battlefield breathing a river of fire. Villagers and animals dive behind rocks and mammoths.
+DIALOGUE 1–3s: Hank (shouting): "TAKE COVER!"
+3–12s: Frost shields a group of villagers with his glowing body; the fire splashes off his blue energy. He looks up.
+DIALOGUE 6–9s: Frost (deep, determined): "Mom, stay with Old Scar. This one's mine."
+DIALOGUE 9–11s: Lily (scared): "Frost, be careful!"
+12–22s: Frost jumps and flies straight up at the gigantic dragon, lightning trailing behind him like a comet. He punches the dragon in the jaw; its head snaps sideways. King Magnus nearly falls off.
+DIALOGUE 17–19s: Frost (roaring): "That's for my FATHER!"
+22–30s: The Great Red Dragon recovers, swings its gigantic tail, and smashes Frost out of the sky like a baseball. He flies across the valley and crashes through the castle wall, disappearing inside in a cloud of dust and falling stones. Silence. Final frame: the hole in the castle wall, smoke, no movement.
+DIALOGUE 27–29s: King Magnus (cold, from the dragon's head): "Burn them all."
+SFX: a massive fire breath, screams, fire splashing on energy, a jump boom, flying whoosh, a huge punch impact, dragon roar, a giant tail whoosh, a crash through stone, falling rocks, then silence.
+MUSIC: epic action score, ending on a shocking hit and silence.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 286 - "The T-Rex Returns": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 286 - "Damian Corners Lily": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

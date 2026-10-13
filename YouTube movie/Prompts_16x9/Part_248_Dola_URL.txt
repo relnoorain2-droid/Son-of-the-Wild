@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 248 - "The Four Trials"
-Punch: WOW + EMOTION
+PART 248 - "Pulled Under"
+Punch: TWIST + CLIFFHANGER
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -24,29 +25,27 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; C04_Bruno_FULL.png -> Bruno; V04_Lily_VillageMom.png -> Variant Lily_VillageMom.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night inside the cabin. Old Joe unrolls a very old deerskin map on the table, with four strange symbols drawn on it.
-0–3s: Old Joe taps the map with his stick.
-DIALOGUE 1–6s: Old Joe (slow raspy voice): "Orin's power sleeps in your blood. Pass his Four Trials to wake it."
-3–20s: Close-ups of the map as Old Joe points to each symbol (each glows softly blue when touched):
-DIALOGUE 6–9s: Old Joe: "STRENGTH — move the Bear Rock."
-DIALOGUE 9–13s: Old Joe: "THE WILD — earn the trust of the wildest beast."
-DIALOGUE 13–17s: Old Joe: "THE STORM — touch the lightning on Thunder Peak."
-DIALOGUE 17–21s: Old Joe: "And THE HEART... face what you fear most."
-DIALOGUE 21–24s: Lily (scared): "Joe... how many giants survived these trials?"
-20–30s: Old Joe is silent for a moment.
-DIALOGUE 24–26s: Old Joe (quietly): "Only one. Orin himself."
-Lily grabs Frost's arm in fear. Frost stands up slowly, his head almost touching the ceiling, and puts his hand on the map.
-DIALOGUE 26–29s: Frost (deep, calm, determined): "Then I'll be the second."
-Final frame: Frost's hand on the map, all four symbols glowing blue at once.
-SFX: map unrolling, stick tapping, soft magical hums for each symbol, fireplace crackle, a powerful chime at the end.
-MUSIC: mystical, building heroic theme.
+CAST NOTE: Old Joe = a very old man, long white beard, wool coat, walking stick.
+Night at Mirror Lake, then a dark vision inside the water.
+0–3s: The red-eyed reflection speaks with Frost's own voice, but colder.
+DIALOGUE 1–4s: Dark Reflection (Frost's deep voice, cold and echoing): "You know what you really want."
+3–14s: Images appear in the water: Bruno falling in the sunset; King Magnus laughing on his red dragon; Cedar Hollow burning; the seven graves.
+DIALOGUE 6–14s: Dark Reflection (whispering): "He killed your father. He burned your home. Don't just beat him... DESTROY him. Burn his whole kingdom. Every one of them."
+12–22s: Frost's eyes flicker between blue and red. His fists shake. Blue lightning around him starts turning dark red.
+DIALOGUE 16–19s: Frost (struggling, deep): "No... I... I want..."
+DIALOGUE 19–21s: Lily (from the shore, scared): "Frost? FROST!"
+22–30s: A giant red-eyed hand made of water bursts out of the lake, grabs Frost by the arm, and drags him under the surface. The lake goes completely still. Lily screams and runs to the edge; Old Joe holds her back. Final frame: the perfectly still lake reflecting the moon, no sign of Frost.
+DIALOGUE 27–30s: Old Joe (holding Lily, serious): "No! He has to fight this one alone."
+SFX: cold echoing voice, flashes of past sounds (war horns, a roar, fire), electric crackle turning darker, a sudden water explosion, a splash, then complete silence.
+MUSIC: dark, frightening choir and low drums, cut into silence.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 249 - "Trial 1: The Bear Rock": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 249 - "The King Inside": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -55,7 +54,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 248 | Only ONE giant ever survived the Four Trials... Frost wants to be the second 💪⚡ #Bigfoot #Movie #Part248
+Part 248 | The dark reflection pulled Frost UNDER the lake 😱🌊 Will hate win? #Bigfoot #Movie #Part248
 
 DOLA STATUS
 [ ] Images uploaded

@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
 
 FROST: Son of the Wild
-PART 154 - "A Cradle for the Baby"
-Punch: FUN + EMOTION
-Status: ready - URL PACKAGE
+PART 154 - "Where Is My Dad?"
+Punch: EMOTION
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -27,27 +28,29 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; C04_Bruno_FULL.png -> Bruno; L04_BrunoCave.png -> Location BrunoCave.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V09_Bruno_Spirit.png -> Variant Bruno_Spirit; L06_AbandonedCabin.png -> Location AbandonedCabin.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient forest magic run in his blood. Use only V06_Frost_Kid.png for present-day Frost; do not show baby, teen, adult, or powered Frost here.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Inside the waterfall cave, a few months later. Lily is visibly pregnant (around 5 months), wearing a big oversized brown flannel-style wrap.
-0–3s: A loud CRASH: Bruno proudly drags in a whole small pine tree.
-DIALOGUE 1–3s: NARRATOR (deep trailer voice): "Months passed..."
-3–12s: Bruno tries to build a baby cradle with his giant hands; sticks keep snapping.
-DIALOGUE 5–8s: Bruno (deep, determined): "Bruno build bed for baby. Strong bed."
-DIALOGUE 9–13s: Lily (laughing, holding her belly): "Gentle, Bruno! It's for a baby, not a bear!"
-12–22s: Finally Bruno shows a lopsided but sweet wooden cradle lined with moss and flowers. He tests it by sitting in it himself — it collapses completely.
-DIALOGUE 17–19s: Bruno (deadpan): "...Bruno build another one."
-22–30s: Lily sits beside him, takes his hand and smiles softly.
-DIALOGUE 21–27s: Lily (soft): "If it's a boy, I want him to be strong and kind... like his father."
-DIALOGUE 27–30s: Bruno (deep, emotional): "And beautiful... like his mother."
-Final frame: both looking at the broken cradle, laughing.
-SFX: tree dragging crash, sticks snapping, wood creaking, cradle collapsing, laughter, waterfall in the background.
-MUSIC: playful country-folk guitar, softening into the love theme.
+Night, the porch of Lily's cabin (now repaired and cozy), stars above, fireflies.
+0–3s: Kid Frost sits on the porch steps, still a little sooty, looking at his reflection in a water bucket.
+DIALOGUE 1–3s: Kid Frost (soft young boy voice, sad): "Mom... why am I different?"
+3–12s: Lily sits beside him and puts her arm around him.
+DIALOGUE 4–8s: Kid Frost: "Tommy has a dad. Sarah has a dad. Where's mine?"
+DIALOGUE 8–12s: Lily (soft, emotional): "Your father was the strongest, kindest giant in the whole forest."
+12–22s: Lily takes out a small dried flower pressed inside an old book.
+DIALOGUE 12–19s: Lily: "I put this in his fur once. On his last day... he gave it back to me."
+DIALOGUE 19–22s: Kid Frost (whispering): "Was he... like me?"
+22–30s: Lily smiles and points at the black crescent patch on Frost's chest.
+DIALOGUE 22–28s: Lily: "He had this too, right here. And he loved you before you were even born."
+In the stars above, a soft glowing outline of Bruno appears for a moment, smiling. Frost looks up but it's gone. Final frame: mother and son looking up at the stars.
+DIALOGUE 28–30s: Kid Frost (softly): "Goodnight, Dad."
+SFX: crickets, fireflies hum, pages turning, a soft magical chime.
+MUSIC: the love theme from Bruno's parts, soft piano and violin.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 155 - "Baby Name Fight": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 155 - "Frost Says Sorry": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

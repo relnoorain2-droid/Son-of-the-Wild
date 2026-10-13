@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
 S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
 
 FROST: Son of the Wild
-PART 270 - "He Can Fly?!"
-Punch: WOW + FUN
+PART 270 - "For Everyone He Hurt"
+Punch: WOW + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -25,23 +25,27 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V13_Sarah_Adult.png -> Variant Sarah_Adult; S02_MarthaHayes_FULL.png -> Martha Hayes; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S02_MarthaHayes_FULL.png -> Martha Hayes; K09_Wolves.png -> Creature Wolves.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powered.png for present-day Frost; do not revert to baby, kid, teen, or unpowered adult Frost unless a memory is explicitly shown.
 
-Daytime above the redwood forest, then Cedar Hollow main street.
-0–3s: Powered Frost crouches on a cliff and jumps. Instead of falling, he flies forward through the air in a giant leap, blue energy trailing behind him like a comet.
-DIALOGUE 1–3s: Frost (deep, laughing with joy): "WHOOOAAA!"
-3–12s: He soars over the treetops, over a waterfall, past a flock of geese (one goose stares at him in shock), over the river.
-DIALOGUE 7–10s: Frost (deep, amazed): "Dad, are you seeing this?!"
-12–22s: In Cedar Hollow, Martha is hanging laundry. A shadow passes over her. She looks up, squints, and adjusts her glasses.
-DIALOGUE 16–20s: Martha (warm Southern voice): "Is that an eagle? A hot-air balloon? ...Is that FROST?"
-22–30s: Frost lands in the middle of Main Street with a huge BOOM; a ring of dust and wind blows all of Martha's laundry away. Grown-up Sarah runs up laughing. Final frame: a pair of Hank's underwear landing on Frost's head.
-DIALOGUE 26–29s: Martha (hands on hips): "Young man, you are picking up every sock."
-SFX: a jump whoosh, rushing wind, joyful shout, geese honking, laundry flapping, a huge landing boom, dust whoosh, laughter.
-MUSIC: soaring, joyful adventure theme, ending with a comedic sting.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Dawn, a huge meadow. The whole army gathered: villagers from Cedar Hollow, Pine Ridge and Millbrook with rifles, pitchforks and frying pans; riders on elk and bison; bears, wolves, mountain lions; eagles on every tree. Frost stands on a big rock in front of them, glowing.
+0–3s: Frost raises his hand; everyone goes silent.
+DIALOGUE 1–3s: Frost (deep, powerful voice, echoing): "Look around you!"
+3–20s: Slow camera moves across the faces of the army as he speaks.
+DIALOGUE 4–10s: Frost: "Farmers. Grandmothers. Wolves. Bears. Nobody thought we'd stand together. The king never thought so either."
+DIALOGUE 10–18s: Frost: "We don't march for revenge. We march for every bride he threw to the forest. For every town he burned."
+DIALOGUE 18–23s: Frost (emotional): "For my father, Bruno... who fought an army alone so I could live."
+20–30s: Frost raises his fist; lightning shoots into the sky.
+DIALOGUE 23–27s: Frost (roaring): "TODAY, NOBODY FIGHTS ALONE!"
+The entire army roars back; wolves howl, bears roar, eagles scream, people cheer. Final frame: wide shot of the huge army cheering under the sunrise.
+DIALOGUE 27–29s: Martha (shouting, raising her frying pan): "Let's GO, sugar!"
+SFX: wind, total silence, echoing speech, a lightning crack, a massive roar of people and animals, howls, eagle screams.
+MUSIC: a big, emotional, epic war-speech theme with full orchestra and choir.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 271 - "Unbreakable": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 271 - "The March": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -50,7 +54,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 270 | Is it an eagle? A balloon? No... it's FROST 😂🦸 #Bigfoot #Movie #Part270
+Part 270 | "TODAY, NOBODY FIGHTS ALONE!" 🔥⚡ Frost's speech gave everyone chills #Bigfoot #Movie #Part270
 
 DOLA STATUS
 [ ] Images uploaded

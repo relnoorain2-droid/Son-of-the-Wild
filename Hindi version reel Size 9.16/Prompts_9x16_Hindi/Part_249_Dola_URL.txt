@@ -1,12 +1,10 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 
 FROST: Son of the Wild
-PART 249 - "Trial 1: The Bear Rock"
-Punch: WOW + FUN
+PART 249 - "The King Inside"
+Punch: TWIST + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -24,24 +22,26 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V12_Tommy_Adult.png -> Variant Tommy_Adult; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S10_Villagers_FULL.png -> optional background group, skip unless you want crowd continuity.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
-Morning, a high mountain meadow above the forest. In the middle stands a gigantic grey boulder, as big as a house, shaped a little like a sleeping bear. A giant old Bigfoot handprint is carved into its side.
-0–3s: Frost, Old Joe and Tommy walk out of the trees and stop. Frost looks up at the boulder.
-DIALOGUE 1–4s: Frost (deep voice, swallowing): "That's... a mountain, not a rock."
-3–12s: Old Joe points at a cliff edge about fifty yards away.
-DIALOGUE 5–10s: Old Joe (slow raspy voice): "Push the Bear Rock to the edge. That's it. That's the first trial."
-DIALOGUE 10–14s: Tommy (young man, grinning): "Easy. Ten bucks says he does it in five minutes."
-12–22s: Frost puts both hands on the rock, plants his feet, and pushes with a huge roar. His muscles bulge, the ground under his feet cracks... the rock doesn't move even a little.
-22–30s: He tries again, roaring louder. He slips and falls flat on his face in the grass. Silence. A small bird lands on his head.
-DIALOGUE 26–29s: Tommy (handing money to Old Joe, sighing): "...Okay. Double or nothing on tomorrow."
-Final frame: Frost lying face down, the giant rock not moved at all.
-SFX: wind on the mountain, footsteps, a massive straining roar, ground cracking, a slip, a body thud, bird chirping, money rustling.
-MUSIC: epic music that builds and then deflates comically.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Underwater vision world: dark blue water, floating light particles, silence. Frost floats in the dark; his red-eyed reflection floats in front of him.
+0–3s: The dark reflection smiles coldly.
+DIALOGUE 1–4s: Dark Reflection (Frost's voice, cold and echoing): "Let me show you your future."
+3–14s: A vision appears around them: Frost, with RED glowing eyes, standing on a burning castle, wearing King Magnus's iron crown. Soldiers kneel in fear.
+DIALOGUE 7–14s: Dark Reflection: "You destroy the king... then you become the king. Stronger. Crueler. No one ever hurts you again."
+14–24s: The vision changes: Cedar Hollow. The villagers run from the red-eyed Frost in terror. Little children hide. Martha pulls the kids behind her. And Lily — his mother — looks at him with fear in her eyes.
+DIALOGUE 18–22s: Vision Lily (scared whisper): "Frost? Who... who are you?"
+24–30s: The real Frost floats in the dark, shaking his head, tears floating away from his eyes in the water.
+DIALOGUE 26–29s: Frost (deep, broken whisper): "No... that's not who I want to be."
+Final frame: the red-eyed reflection and the real Frost face to face in the dark water.
+SFX: underwater muffled hum, bubbles, distant fire, echoing screams, a child crying, a heartbeat.
+MUSIC: dark, eerie choir, turning sad and emotional.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 250 - "Day After Day": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 250 - "I Protect": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

@@ -1,10 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
 
 FROST: Son of the Wild
-PART 168 - "The Empty Cabin"
-Punch: ACTION + FUN
+PART 168 - "Your Father's Home"
+Punch: EMOTION
 Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
@@ -19,24 +21,28 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; L06_AbandonedCabin.png -> Location AbandonedCabin.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V09_Bruno_Spirit.png -> Variant Bruno_Spirit; L04_BrunoCave.png -> Location BrunoCave.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient forest magic run in his blood. Use only V06_Frost_Kid.png for present-day Frost; do not show baby, teen, adult, or powered Frost here.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Daytime, an old abandoned log cabin by the river, broken window, overgrown grass, Pacific Northwest pines.
-0–3s: Lily pushes the creaky door open; a cloud of dust falls on her and she coughs.
-DIALOGUE 1–3s: Lily (coughing): "Hello? Anyone home?"
-3–12s: Inside: an old wood stove, a broken chair, cobwebs, a dusty quilt on a bed. She smiles a little.
-DIALOGUE 6–10s: Lily (soft): "It's not a castle... but it's better than a cave."
-12–22s: A rattlesnake rises from under the bed, rattling loudly. Lily freezes, then slowly grabs an old broom.
-DIALOGUE 15–18s: Lily (whispering, scared but brave): "Easy... I'm not here to fight."
-22–30s: The snake strikes; she blocks with the broom, sweeps it into an old bucket, slams a pan on top and kicks the bucket out of the door. She falls back onto the bed, breathing hard, then laughs. Final frame: Lily lying on the dusty bed with her hand on her belly, smiling.
-DIALOGUE 26–29s: Lily (laughing, breathless): "Your papa would be proud of that one."
-SFX: door creak, dust falling, coughing, rattlesnake rattle, hiss, broom swoosh, bucket clang, pan slam, kick, laughing.
-MUSIC: quiet mysterious strings, a tense hit with the snake, then playful fiddle.
+Late afternoon inside the waterfall cave, warm light through the water.
+0–3s: Lily runs into the cave, out of breath, scared.
+DIALOGUE 1–4s: Lily (soft young American woman, worried): "Frost! I've been looking everywhere for you!"
+3–12s: She sees where he is standing and freezes. She looks around the cave slowly: the bed, the fire pit, the broken cradle. Her hand covers her mouth.
+DIALOGUE 6–9s: Kid Frost (young boy voice): "Mom... you know this place?"
+DIALOGUE 9–12s: Lily (whispering, tears coming): "Better than any place in the world."
+12–22s: She kneels by the broken cradle and laughs through her tears.
+DIALOGUE 14–22s: Lily: "Your father built this for you. He sat in it to test it... and it broke. He was so embarrassed."
+DIALOGUE 22–24s: Kid Frost (laughing softly): "He sat in my cradle?"
+22–30s: Lily puts Frost's hand back on the giant handprint on the wall.
+DIALOGUE 24–30s: Lily (emotional): "This was his home. This is where he loved us. This was your father's home, Frost."
+The waterfall light flickers, and for a second a glowing outline of Bruno's hand appears over theirs. Final frame: three hands glowing together.
+SFX: running footsteps, waterfall, crying, soft laugh, a warm magical chime.
+MUSIC: the love theme, full emotional strings and piano.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 169 - "Like Bruno Taught Me": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 169 - "Fourth of July": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +51,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 168 | A new home... with one angry roommate 🐍😬 #Bigfoot #Movie #Part168
+Part 168 | "This was your father's home." 😭💙 #Bigfoot #Movie #Part168
 
 DOLA STATUS
 [ ] Images uploaded

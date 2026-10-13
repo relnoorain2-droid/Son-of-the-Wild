@@ -1,13 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-C06_ElderOrin_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C06_ElderOrin/C06_ElderOrin_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
+V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
 
 FROST: Son of the Wild
-PART 267 - "Father!"
-Punch: WOW + EMOTION
-Status: ready - URL PACKAGE
+PART 267 - "I'm Scared Too"
+Punch: EMOTION
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -24,24 +23,26 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V09_Bruno_Spirit.png -> Variant Bruno_Spirit; C06_ElderOrin_FULL.png -> Elder Orin; V04_Lily_VillageMom.png -> Variant Lily_VillageMom.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V12_Tommy_Adult.png -> Variant Tommy_Adult; V13_Sarah_Adult.png -> Variant Sarah_Adult.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powered.png for present-day Frost; do not revert to baby, kid, teen, or unpowered adult Frost unless a memory is explicitly shown.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night at Bruno's stone grave by the river, the full moon directly above, Western fantasy style, like a knight kneeling before a king.
-0–3s: Frost kneels on one knee at the stone circle, both hands on the stones, head raised to the full moon.
-DIALOGUE 1–3s: Frost (deep, emotional, loud): "FATHER!"
-3–12s: Silence. Then wind rises. The glowing flowers lift into the air and spin around him. The clouds part in a perfect circle around the moon.
-DIALOGUE 6–10s: Frost (shouting to the sky, tears): "I passed the trials! I'm ready! Father, please... I need you!"
-12–22s: In the sky, made of moonlight and stars, the giant glowing spirit of Bruno appears, smiling down at his son.
-DIALOGUE 15–20s: Bruno (spirit voice, very deep slow warm gravelly, echoing from the sky): "Frost... my son. Bruno always here."
-22–30s: Behind Bruno, even bigger, appears Elder Orin: ancient, with a long white beard, glowing blue tattoos, holding a staff with a shining BLUE crystal. Lily and Old Joe step back in awe. Final frame: father and grandfather in the sky, the son kneeling below.
-DIALOGUE 26–29s: Elder Orin (ancient, very deep, echoing voice): "The blood of Orin... has returned."
-SFX: wind rising, flowers swirling, a deep magical hum, clouds rumbling, a soft heavenly chime, echoing voices.
-MUSIC: building epic choir, a huge emotional swell when Bruno appears, then ancient powerful horns for Orin.
+Night in the army camp, campfires, tents, quiet.
+0–3s: Tommy sits alone by a dying campfire, sharpening an old pitchfork, hands shaking.
+DIALOGUE 1–4s: Tommy (young man, quiet): "Hey, Frost... can I tell you something?"
+3–12s: Frost sits down next to him; the ground shakes a little.
+DIALOGUE 4–9s: Tommy (embarrassed): "I'm scared. Like, really scared. Everybody thinks I'm brave. I'm not."
+12–22s: Frost looks at the fire.
+DIALOGUE 13–22s: Frost (deep, honest): "Tommy, I'm scared too. Every single day. Remember the frozen lake? I was terrified. But you were in that water... so I went in."
+DIALOGUE 22–24s: Tommy (small smile): "Yeah. You did."
+22–30s: Sarah sits down on Frost's other side. The three friends sit together like when they were kids, looking at the stars.
+DIALOGUE 25–29s: Sarah (soft): "Same as always. The three of us. Together."
+Final frame: three friends by the fire, the castle's red glow far away on the horizon.
+SFX: campfire, crickets, a whetstone scraping metal, soft laughter.
+MUSIC: warm, nostalgic acoustic guitar.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 268 - "Three Generations": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 268 - "The Spy": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

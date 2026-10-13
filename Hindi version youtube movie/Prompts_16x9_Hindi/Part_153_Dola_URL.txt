@@ -1,13 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
-C04_Bruno_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FACE.png
-C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
-V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 153 - "We're Having a Baby!"
-Punch: EMOTION + FUN
+PART 153 - "The Barn Fire"
+Punch: ACTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -29,27 +28,25 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; C04_Bruno_FACE.png -> Bruno; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S03_HankMiller_FULL.png -> Hank Miller; L07_Village.png -> Location Village.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient forest magic run in his blood. Use only V06_Frost_Kid.png for present-day Frost; do not show baby, teen, adult, or powered Frost here.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Morning, sunlit meadow near the river.
-0–3s: Lily takes Bruno's huge hand and gently places it on her belly.
-DIALOGUE 1–4s: Lily (soft, nervous, smiling): "Bruno... we're going to have a baby."
-3–12s: Bruno freezes. His eyes slowly fill with tears. He looks at her belly, then her face.
-DIALOGUE 6–9s: Bruno (deep, trembling whisper): "Baby? Bruno... be a father?"
-DIALOGUE 9–11s: Lily (crying happy tears): "Yes!"
-12–22s: Bruno lets out a giant joyful roar that echoes through the whole forest; birds fly up from every tree. He lifts Lily very gently and spins her slowly in the sunlight.
-DIALOGUE 16–19s: Bruno (deep happy shout): "BRUNO WILL BE PAPA!"
-22–30s: He carefully sets her down, kneels, and puts his ear on her belly like listening. He gasps.
-DIALOGUE 25–27s: Bruno (whispering, amazed): "Baby say hello."
-DIALOGUE 27–30s: Lily (laughing, crying): "Bruno, it's way too early for that!"
-Final frame: both laughing, foreheads touching.
-SFX: birds, giant joyful roar echo, hundreds of birds flying up, wind, laughter.
-MUSIC: emotional rising orchestra into a bright happy theme.
+Night, Hank's big red barn on fire on the edge of Cedar Hollow, flames and smoke, villagers with buckets.
+0–3s: The barn roof bursts into flames; horses scream inside.
+DIALOGUE 1–3s: Hank (desperate): "My horses! They're trapped inside!"
+3–12s: Villagers throw buckets of water but the fire is too big. Kid Frost runs past everyone straight into the burning barn.
+DIALOGUE 6–9s: Lily (screaming): "FROST! NO!"
+12–22s: Inside the barn: flames everywhere, smoke. Frost lifts a burning beam off a stall, grabs two frightened horses by their ropes, and shields them with his body from falling fire.
+DIALOGUE 15–18s: Kid Frost (coughing, brave): "Come on, come on! I got you!"
+22–30s: The barn doors explode open. Frost runs out carrying a young foal in his arms, with two horses running behind him. The barn collapses behind them. His white fur is black with soot. He coughs and smiles. Final frame: Hank hugging the foal, then hugging Frost.
+DIALOGUE 26–30s: Hank (emotional, deep voice): "Son... you're the bravest boy in this whole town."
+SFX: roaring fire, horses neighing, water splashes, wood cracking, coughing, doors bursting, barn collapsing.
+MUSIC: intense heroic action score, ending with a warm emotional swell.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 154 - "A Cradle for the Baby": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 154 - "Where Is My Dad?": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

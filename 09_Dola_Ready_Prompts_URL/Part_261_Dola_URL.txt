@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
 
 FROST: Son of the Wild
-PART 261 - "Trial 4: Mirror Lake"
-Punch: TWIST + EMOTION
+PART 261 - "Unbreakable"
+Punch: WOW + FUN
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,26 +21,25 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V12_Tommy_Adult.png -> Variant Tommy_Adult; S03_HankMiller_FULL.png -> Hank Miller; S02_MarthaHayes_FULL.png -> Martha Hayes.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powered.png for present-day Frost; do not revert to baby, kid, teen, or unpowered adult Frost unless a memory is explicitly shown.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, a perfectly still black lake surrounded by silver birch trees, the full moon reflected in it like a mirror, mist on the water.
-0–3s: Frost, now with three glowing marks, walks to the edge of the lake with Old Joe and Lily.
-DIALOGUE 1–4s: Old Joe (slow raspy voice, serious): "Mirror Lake. The last trial. The Heart."
-3–12s: Old Joe points at the water.
-DIALOGUE 4–14s: Old Joe: "Look into the water. It will show you what you fear most... and what you hate most. Many strong giants went in. None came out the same."
-DIALOGUE 14–16s: Frost (deep, quiet): "I'm not afraid."
-12–22s: Lily takes Joe's arm, worried.
-DIALOGUE 16–20s: Lily (whispering): "Joe, what happens if he fails this one?"
-DIALOGUE 20–23s: Old Joe (quietly): "Then the hate will keep him... forever."
-22–30s: Frost kneels at the edge and looks down. His reflection looks back at him... then slowly changes: his reflection's eyes turn RED, like the king's crystal. Frost jumps back. Final frame: the red-eyed reflection smiling coldly in the water.
-DIALOGUE 27–29s: Frost (whispering, shocked): "That's... not me."
-SFX: total silence, soft water drips, an owl, whispering wind, a low eerie hum, a sharp magical sting.
-MUSIC: very quiet, eerie strings, a frightening sting at the end.
+Evening, a big bonfire in a field outside Cedar Hollow, villagers watching.
+0–3s: Hank nervously lifts a heavy steel sledgehammer next to Frost's huge forearm.
+DIALOGUE 1–4s: Hank (deep rural voice, nervous): "Son, are you SURE about this?"
+3–12s: Frost nods. Hank swings the sledgehammer with all his strength into Frost's forearm. CLANG! The steel head bends and the wooden handle snaps in half, tiny blue sparks flashing on Frost's fur. Hank stares at the broken hammer.
+DIALOGUE 6–9s: Frost (deep, calm): "Felt like a tickle."
+DIALOGUE 9–11s: Tommy (shouting): "Okay, now the FIRE test!"
+12–22s: Frost walks straight into the middle of a giant roaring bonfire and stands inside it. The villagers gasp. Flames surround him, but his fur doesn't burn; blue light protects his body.
+DIALOGUE 16–19s: Frost (from inside the fire, calm): "Dragon fire won't stop me now."
+22–30s: He walks out of the fire completely unharmed. Martha hands him a stick with a marshmallow on it. He holds it near his own glowing arm and toasts it perfectly. Final frame: Frost eating a perfect golden marshmallow, villagers cheering.
+DIALOGUE 27–29s: Martha (Southern voice, impressed): "Well, that's handy."
+SFX: a huge metal CLANG, a wooden handle snapping, tiny electric sparks, crackling bonfire, gasps, a deep fire roar, footsteps out of the flames, marshmallow sizzle, cheering.
+MUSIC: tense build-up, then a heroic and fun country-rock theme.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 262 - "Pulled Under": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 262 - "The People Will Rise": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -48,7 +48,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 261 | Trial 4: The Heart. His reflection's eyes turned RED 😨🔴 #Bigfoot #Movie #Part261
+Part 261 | Sledgehammers break on him... fire can't burn him... and he toasts marshmallows on his arm 😂🔥 #Bigfoot #Movie #Part261
 
 DOLA STATUS
 [ ] Images uploaded

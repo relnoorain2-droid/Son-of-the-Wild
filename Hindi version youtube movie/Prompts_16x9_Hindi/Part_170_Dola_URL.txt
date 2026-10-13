@@ -1,10 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 170 - "Someone's at the Door"
-Punch: EMOTION + CLIFFHANGER
+PART 170 - "Growth Spurt"
+Punch: FUN
 Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
@@ -26,25 +27,27 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; L06_AbandonedCabin.png -> Location AbandonedCabin.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; L06_AbandonedCabin.png -> Location AbandonedCabin.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07_Frost_Teen.png for present-day Frost; do not show baby, kid, adult, or powered Frost here.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, inside the old cabin during a rainstorm, a small fire in the wood stove.
-0–3s: Lightning flashes; rain leaks through the roof into a bucket. Lily sits wrapped in the old quilt, talking to her belly.
-DIALOGUE 0–4s: Lily (soft, tired): "Don't be scared of the thunder, baby. Mama's here."
-3–14s: She hums the first line of Song 1 softly, voice shaking.
-DIALOGUE 5–10s: Lily (singing softly): "It's you and me and the wild... running free like a child..."
-DIALOGUE 10–13s: She stops, emotional: "Your papa used to sing it so badly."
-14–22s: Outside, heavy footsteps on the porch. A lantern light shines through the broken window. Lily freezes and grabs a burning stick from the stove.
-DIALOGUE 17–19s: Lily (whispering, scared): "Who's there?"
-22–30s: The door handle turns. A man's shadow with a shotgun appears in the doorway, lit by lightning. Final frame: Lily holding the burning stick up, the shadow stepping in.
-DIALOGUE 26–30s: Man's voice (deep rural American male, rough): "Whoever's in my granddaddy's cabin... you'd better come out slow."
-SFX: thunder, rain, dripping into a bucket, fire crackle, soft humming, heavy boots on wood, lantern creak, door handle, a floorboard creak.
-MUSIC: soft lullaby melody, then suspense strings and a sharp hit.
+Morning, inside Lily's cozy cabin.
+0–3s: Teen Frost (8 feet tall now) wakes up, stretches, stands up — and his head goes straight through the cabin roof. Shingles fly.
+DIALOGUE 1–3s: Teen Frost (energetic teenage boy voice, voice cracking): "Oh no. Not AGAIN!"
+3–12s: Outside, the camera shows his head sticking out of the roof. A bird sits on his head. Lily walks out with coffee.
+DIALOGUE 5–10s: NARRATOR (deep cinematic trailer voice): "A few more years... Bruno's Bigfoot genes made Frost shoot up faster than the cabin could survive."
+DIALOGUE 10–13s: Lily (sighing, smiling): "That's the third roof this year, honey."
+12–22s: Frost tries to speak deeply like a man, but his voice cracks high and low.
+DIALOGUE 14–19s: Teen Frost (deep voice) "Mom, I am a grown-up now—" (voice cracks very high) "—and I can fix it MYSELF!"
+DIALOGUE 19–21s: Lily (laughing): "Sure you can, big man."
+22–30s: Frost pulls his head out, holds a hammer, hits one nail — and the whole porch collapses. Silence. A shingle falls on his head. Final frame: Frost slowly turning to his mother with an innocent face.
+DIALOGUE 27–29s: Teen Frost (tiny voice): "...Can Hank fix it?"
+SFX: stretching groan, roof crash, shingles flying, bird chirp, coffee sip, voice crack, hammer tap, porch collapse, shingle bonk.
+MUSIC: upbeat comedic country-rock.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 171 - "Hank and Martha": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 171 - "Doorway Problem": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

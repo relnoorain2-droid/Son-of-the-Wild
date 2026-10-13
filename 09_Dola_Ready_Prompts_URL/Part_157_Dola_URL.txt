@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
-L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 157 - "The Forest Goes Quiet"
-Punch: TWIST + WOW
+PART 157 - "Thanksgiving"
+Punch: EMOTION + FUN
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,25 +21,27 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; C04_Bruno_FULL.png -> Bruno; K02_RedDragon.png -> Creature RedDragon; L05_River.png -> Location River.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S03_HankMiller_FULL.png -> Hank Miller; S02_MarthaHayes_FULL.png -> Martha Hayes.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient forest magic run in his blood. Use only V06_Frost_Kid.png for present-day Frost; do not show baby, teen, adult, or powered Frost here.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Peaceful morning by the river near the waterfall, mist, golden light.
-0–3s: Lily (pregnant, around 6 months, blonde, blue eyes) laughs as Bruno balances a stack of apples on his head. Suddenly every bird in the forest flies away at once.
-DIALOGUE 1–4s: Lily (soft young American woman): "Bruno... why are the birds leaving?"
-3–12s: Deer, elk and rabbits run past them in panic. The river water starts rippling in rhythm. Bruno drops the apples, sniffing the air, his face turning serious.
-DIALOGUE 6–9s: Bruno (very deep gravelly voice, low and serious): "Animals running... from something big."
-12–22s: Distant war horns echo through the trees. The ground shakes harder. Bruno pulls Lily behind him.
-DIALOGUE 14–17s: Lily (scared): "Is it the king?"
-DIALOGUE 17–21s: Bruno (deep, calm but afraid): "Lily go inside cave. Now. Don't come out."
-22–30s: A massive shadow passes over them. They look up: the huge red dragon flies over the treetops, followed by three smaller dragons, blocking the sun. Final frame: the dragon's shadow covering Lily's terrified face.
-DIALOGUE 26–30s: NARRATOR (deep cinematic American trailer voice): "The king had come... and he brought the whole kingdom."
-SFX: birds taking off, animals stampeding, rhythmic ground rumble, distant war horns, giant wing beats, dragon roar.
-MUSIC: peaceful flute cut off by deep ominous drums, rising into a dark war theme.
+CAST NOTE: Tommy = a cheerful boy (10–14), messy brown hair, freckles, red cap.
+Autumn evening, a long outdoor Thanksgiving table in Cedar Hollow under string lights, orange leaves, a big roast turkey, pies, pumpkins.
+0–3s: Kid Frost carries the entire long wooden table, fully set with food, over his head into place.
+DIALOGUE 1–3s: Martha (warm Southern voice): "Careful with my pies, sweetie!"
+3–12s: Everyone sits. Frost sits on the ground and he's still the tallest at the table. He grabs a turkey leg that is bigger than Tommy's head.
+DIALOGUE 6–9s: Tommy (excited): "Frost gets the WHOLE turkey?"
+DIALOGUE 9–13s: Kid Frost (grinning): "Just the legs. And the wings. And the middle."
+12–22s: Hank stands up and raises his glass of apple cider.
+DIALOGUE 13–23s: Hank (deep rural voice, emotional): "Two years ago, we came to Lily's door with torches. Today... I'm thankful we were wrong. To Frost — the best neighbor this town ever had."
+22–30s: The whole village cheers "To Frost!" Frost gets shy and covers his face with his huge hands. Lily wipes a tear. Final frame: the whole town around the table, warm lights, laughter.
+DIALOGUE 26–29s: Lily (soft, to herself): "Look, Bruno. He has a family."
+SFX: table thump, plates clinking, cheering, glasses toasting, laughter, autumn wind.
+MUSIC: warm, emotional Americana with acoustic guitar and soft strings.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 158 - "The Army of Thorne": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 158 - "Thin Ice": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -48,7 +50,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 157 | Every animal ran away at once... then the sky went dark 🐉 #Bigfoot #Movie #Part157
+Part 157 | "Two years ago we came with torches... today I'm thankful we were wrong." 🦃🥹 #Bigfoot #Movie #Part157
 
 DOLA STATUS
 [ ] Images uploaded

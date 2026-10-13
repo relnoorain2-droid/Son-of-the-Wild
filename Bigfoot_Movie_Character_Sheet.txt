@@ -50,10 +50,27 @@ Movie 100% American / Western rahegi. Koi Asian touch nahi.
 ## LILY LOOK LOCK (poori movie me lock)
 ==================================================================
 Lily poori movie me hamesha 22–24 saal ki dikhegi: young, innocent, sweet aur bahut khoobsurat.
-- Frost ke bade hone ke baad bhi (Part 52–180) Lily ka chehra bilkul wahi rahega. Kabhi buddhi, thaki hui ya wrinkles wali nahi.
-- Story me yeh movie ka magic hai, aur log hairaan hote hain: Damian (Part 104) "you're still beautiful", Rose (Part 140) "you haven't aged a day", maa Grace (Part 176) "you haven't changed at all".
+- Frost ke bade hone ke baad bhi (Part 184–312) Lily ka chehra bilkul wahi rahega. Kabhi buddhi, thaki hui ya wrinkles wali nahi.
+- Story me yeh movie ka magic hai, aur log hairaan hote hain: Damian (Part 214) "you're still beautiful", Rose (Part 307) "you haven't aged a day", maa Grace (Part 309) "you haven't changed at all".
 - Har Lily wale part me "LOOK LOCK" line pehle se likhi hai, aur skill file me bhi yeh rule hai.
 - Lily ki saari variant images (V01–V04) usi C01 FACE image se banao, taaki chehra same rahe.
+
+==================================================================
+## FROST GROWTH / IMAGE LOCK (baby se adult tak)
+==================================================================
+Frost normal bachche ki tarah slow grow nahi karta. Bruno ke ancient Bigfoot genes aur Elder Orin/forest magic ki wajah se uski growth fast hoti hai. Story me yeh clearly bola gaya hai:
+- Part 127: Martha warns Lily that Frost may grow faster than a normal child.
+- Part 142: narrator explains weeks feel like years and Frost is already a strong little boy.
+- Part 170: narrator says Bruno's Bigfoot genes make Frost shoot up faster than Lily's cabin can handle.
+- Part 184: adult reveal says Bruno's blood and ancient forest magic made the boy become a giant.
+- Part 226: Old Joe confirms Bruno's ancient Bigfoot blood is why Frost grew so fast.
+
+Image continuity rule:
+- Parts 127–141: V05_Frost_Baby only.
+- Parts 142–169: V06_Frost_Kid only.
+- Parts 170–183: V07_Frost_Teen only.
+- Parts 184–253: C05_Frost_FULL / C05_Frost_FACE for adult Frost.
+- Parts 254–312: V08_Frost_Powered for powered adult Frost.
 
 ==================================================================
 ## PUNCH RULE (har 30 sec part me lock)
@@ -158,7 +175,7 @@ Variant images banate time CHARACTER ki FACE image ChatGPT me upload karke likho
 V01_Lily_Wedding.png – Lily in a white royal wedding gown with lace sleeves and a long veil, small silver tiara, hair in soft curls, nervous but beautiful expression.
 V02_Lily_Forest.png – Lily in the same light-blue dress but torn and muddy at the hem, bare dirty feet, messy hair with leaves, small scratches on arms, scared expression.
 V03_Lily_Pregnant.png – Lily about 8 months pregnant, still young (22) and beautiful, wearing an oversized brown flannel shirt over a long plain skirt, hair in a loose braid, soft hopeful expression, hands on her belly.
-V04_Lily_VillageMom.png – Lily as a young mother, still looks 23 (she never ages in this story): the exact same sweet, innocent, beautiful face, no wrinkles, no pregnancy, honey-blonde hair in a loose messy bun, red-and-black flannel shirt, jeans, work boots, warm gentle smile, a little braver look. (Part 52 se END tak yahi image.)
+V04_Lily_VillageMom.png – Lily as a young mother, still looks 23 (she never ages in this story): the exact same sweet, innocent, beautiful face, no wrinkles, no pregnancy, honey-blonde hair in a loose messy bun, red-and-black flannel shirt, jeans, work boots, warm gentle smile, a little braver look. (Frost birth/survival ke baad se END tak yahi young-mom look.)
 V05_Frost_Baby.png – A newborn white baby Bigfoot, fluffy snow-white fur, pale-pink face, big blue eyes, tiny hands, cute and innocent, wrapped in an old patchwork quilt.
 V06_Frost_Kid.png – Frost as a 5-foot playful kid Bigfoot, snow-white fur, big blue eyes, curious happy face, small black crescent patch on chest.
 V07_Frost_Teen.png – Frost as an 8-foot teenage Bigfoot, leaner muscles, snow-white fur, first faint silver scale patterns on shoulders, energetic look.
@@ -166,9 +183,9 @@ V08_Frost_Powered.png – Adult Frost after the power ritual: glowing electric-b
 V09_Bruno_Spirit.png – Bruno as a translucent glowing blue spirit in the sky, soft light, peaceful smile.
 V10_Damian_Battle.png – Prince Damian in black spiked armor with a red cape and a long silver sword.
 V11_KingMagnus_Battle.png – King Magnus in full black iron battle armor riding on the back of the red dragon.
-V12_Tommy_Adult.png – (S05 Tommy ki FACE image se banao) Tommy Miller grown up, about 22: tall, lean young American man, messy brown hair, light freckles, friendly grin, red baseball cap, plaid flannel shirt, jeans, boots. (Part 88 se END tak)
-V13_Sarah_Adult.png – (S06 Sarah ki FACE image se banao) Sarah Miller grown up, about 19: young American woman, long blonde hair in a side braid, kind brave eyes, denim jacket over a yellow top, jeans, boots. (Part 88 se END tak)
-V14_Grace_Older.png – (S01 Grace ki image se banao) Grace Carter years later, about 62: white hair in a bun, deeper wrinkles, kind tired eyes, the same faded floral apron over a simple dress, wooden cane. (Part 176–179)
+V12_Tommy_Adult.png – (S05 Tommy ki FACE image se banao) Tommy Miller grown up, about 22: tall, lean young American man, messy brown hair, light freckles, friendly grin, red baseball cap, plaid flannel shirt, jeans, boots. (Adult Frost ke phase se END tak.)
+V13_Sarah_Adult.png – (S06 Sarah ki FACE image se banao) Sarah Miller grown up, about 19: young American woman, long blonde hair in a side braid, kind brave eyes, denim jacket over a yellow top, jeans, boots. (Adult Frost ke later village/finale phase se END tak.)
+V14_Grace_Older.png – (S01 Grace ki image se banao) Grace Carter years later, about 62: white hair in a bun, deeper wrinkles, kind tired eyes, the same faded floral apron over a simple dress, wooden cane. (Grace reunion/finale parts.)
 
 ==================================================================
 ## 4. SUPPORTING CHARACTERS
@@ -190,11 +207,11 @@ S04_OldJoeWhitaker – Gaon ka buzurg kahani-sunane wala, jo Elder Orin ka raaz 
   Prompt: A very old 80-year-old American man, long white beard, weathered face, wool coat, walking stick, wise eyes.
   VOICE: slow, raspy, wise old man voice.
 
-S05_TommyMiller – Hank ka beta (10 saal), Frost ka dost. (Part 76 tak; teen parts me image nahi; Part 88 se V12)
+S05_TommyMiller – Hank ka beta (10 saal), Frost ka dost. (Child/kid Frost phase me S05; adult Frost ke baad V12)
   Prompt: A cheerful 10-year-old American boy, messy brown hair, freckles, red cap, striped T-shirt, jeans.
   VOICE: excited young boy voice.
 
-S06_SarahMiller – Hank ki beti (7 saal). (Part 84 tak; teen parts me image nahi; Part 88 se V13)
+S06_SarahMiller – Hank ki beti (7 saal). (Child/kid Frost phase me S06; later grown-up/finale phase me V13)
   Prompt: A sweet 7-year-old American girl, blonde pigtails, yellow dress, holding a teddy bear.
   VOICE: small cute girl voice.
 
@@ -224,7 +241,7 @@ NARRATOR – koi image nahi, sirf awaaz.
 
 K01_DarkBigfoot – Raja ke khoonkhaar Bigfoots.
   Prompt: A savage 10-foot Bigfoot with matted dark-brown fur, glowing red eyes, sharp fangs, scars, iron shackles and spiked collar.
-K02_RedDragon – Raja ka red dragon. Part 159 se "Great Red Dragon" (3x bada, castle ke neeche qaid) bhi isi image se banta hai; prompt me size likha hai.
+K02_RedDragon – Raja ka red dragon. Finale me "Great Red Dragon" (3x bada, castle ke neeche qaid) bhi isi image se banta hai; prompt me size likha hai.
   Prompt: A massive Western dragon with dark-red scales, huge bat-like wings, long horns, glowing orange throat, fire in mouth.
 K03_SmallDragons – Chhote dragons (group).
   Prompt: Small black-and-green Western dragons, size of horses, leathery wings, sharp claws.
@@ -261,11 +278,13 @@ L08_Battlefield – Open valley in front of the king's castle, smoke, fire, brok
 ==================================================================
 ## 7. KAHANI ME KAUN KAB AATA HAI (quick map)
 ==================================================================
-Act 1 (Part 1–40):    Lily, Grace, Rose, Magnus, Damian, Vex, Brides, Bruno, jungle animals, king's army
-Act 2 (Part 41–60):   Lily (pregnant -> young mom), Martha, Hank, Old Joe, Tommy, Sarah, baby Frost
-Act 3 (Part 61–100):  Kid Frost (61–75), Teen Frost (76–87), Adult Frost (88+), village, raid, the truth
-Act 4 (Part 101–140): Battle of Cedar Hollow, the 4 Trials, Old Scar, Elder Orin, Bruno spirit, powered Frost (136+)
-Act 5 (Part 141–180): Rose returns, army, final battle, Damian + King end, Grace reunion, celebration
+Act 1 (Part 1–36):    Kingdom selection system, first bride wedding/forest fate, Lily selected, Rose warning, Lily runs before dawn.
+Act 2 (Part 37–87):   Trackers, wolves, Bruno rescue, Lily-Bruno trust/love/marriage, pregnancy, Magnus hunt begins.
+Act 3 (Part 88–132):  King's army attacks, Bruno sacrifices himself, Lily escapes by river, Frost is born in the abandoned cabin.
+Act 4 (Part 133–199): Lily survives with baby Frost, Cedar Hollow accepts them, Frost grows from baby to kid to teen to adult.
+Act 5 (Part 200–238): Village attack, Lily reveals Bruno truth, Frost loses first battle, Old Joe reveals Elder Orin, training begins.
+Act 6 (Part 239–275): Four trials, Bruno spirit, Frost receives power, Rose returns, kingdom rises against Magnus.
+Act 7 (Part 276–312): Final war, Damian and Magnus fall, brides freed, Grace reunion, celebration, Bruno spirit closure.
 
-Frost ki image kab kaunsi: V05 baby (52–60) | V06 kid (61–75) | V07 teen (76–87) | C05 adult (88–135) | V08 powered (136–180)
-Lily ki image kab kaunsi: V02 forest (1, 10–28) | C01 (2–4) | V01 wedding (5–9) | V03 pregnant (29–51) | V04 young mom (52–180)
+Frost ki image kab kaunsi: V05 baby (127–141) | V06 kid (142–169) | V07 teen (170–183) | C05 adult (184–253) | V08 powered (254–312)
+Lily ki image kab kaunsi: C01 home/castle close-ups (21–30, selected beats) | V01 wedding (21–30, 37) | V02 forest (31–81) | V03 pregnant (82–129) | V04 young mom (105–312 wherever Lily appears after Frost's birth/survival phase)

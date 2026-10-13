@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 
 FROST: Son of the Wild
-PART 211 - "The County Fair"
-Punch: FUN + WOW
+PART 211 - "Give Her Up?"
+Punch: TWIST + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -24,24 +25,27 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; S03_HankMiller_FULL.png -> Hank Miller; S10_Villagers.png -> optional background group, skip unless you want crowd continuity; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; C05_Frost_FULL.png -> Frost; S03_HankMiller_FULL.png -> Hank Miller; S02_MarthaHayes_FULL.png -> Martha Hayes.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
-Sunny day at a small-town American county fair: a Ferris wheel, cotton candy, hay bales, a big "lumberjack games" stage with wooden logs.
-0–3s: Three huge bearded lumberjacks in plaid shirts each throw a big log; the crowd cheers.
-DIALOGUE 1–4s: Announcer (loud enthusiastic American fair announcer voice): "Fifteen feet! A new county record!"
-3–12s: Teen Frost steps up nervously. The lumberjacks laugh at him.
-DIALOGUE 5–8s: Lumberjack (rough deep voice, mocking): "Go home, fuzzy. This is a man's game."
-DIALOGUE 8–11s: Hank (shouting from the crowd): "Show 'em, Frost!"
-12–22s: Frost picks up not one log but the entire stack of logs, all at once. The crowd goes silent. He spins and throws. The logs fly over the Ferris wheel and land in a lake far away with a distant splash.
-DIALOGUE 18–21s: Announcer (stunned, slow): "That's... that's in the next county."
-22–30s: The crowd explodes in cheers. The lumberjacks' jaws drop. One of them faints. Frost receives a giant blue-ribbon trophy and grins shyly. Final frame: Frost holding the tiny trophy in his huge hand.
-DIALOGUE 26–29s: Teen Frost (energetic teenage voice, voice cracking): "Can I... keep the logs too?"
-SFX: fair music, crowd cheering, logs thudding, mocking laughter, a massive throw whoosh, distant splash, fainting thump.
-MUSIC: upbeat country fair fiddle and banjo, a triumphant brass hit for the throw.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Night, a town meeting inside a half-burnt wooden church, lanterns, villagers on benches.
+0–3s: A frightened villager man stands up and points at Lily.
+DIALOGUE 1–5s: Villager man (scared, angry American voice): "Just give them the woman! Then they'll leave us alone!"
+3–12s: The room explodes with shouting. Hank slams his hand on the table.
+DIALOGUE 5–11s: Hank (deep rural voice, furious): "Lily has been one of us for years! We don't hand our family to murderers!"
+DIALOGUE 11–13s: Martha (Southern voice): "Shame on you, Walter!"
+12–22s: Lily slowly stands up. The room goes silent.
+DIALOGUE 14–20s: Lily (soft, brave, trembling): "He's right. If I go to the king, nobody else has to die. I'll go."
+22–30s: The church doors burst open — Frost ducks inside, the whole building creaking. He stands beside his mother.
+DIALOGUE 25–30s: Frost (deep powerful voice, calm and final): "Nobody is going anywhere. If they want my mother... they come through me."
+Final frame: the villagers slowly standing up behind Frost, one by one.
+SFX: murmuring, shouting, table slam, church doors bursting, wood creaking, benches scraping as people stand.
+MUSIC: tense strings, building into a brave heroic theme.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 212 - "Driving Lesson": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 212 - "Getting Ready": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -50,7 +54,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 211 | They told him "this is a man's game"... he threw the logs into the next county 😂🪵 #Bigfoot #Movie #Part211
+Part 211 | "Just give them the woman!" ...then Frost walked in 😤 #Bigfoot #Movie #Part211
 
 DOLA STATUS
 [ ] Images uploaded

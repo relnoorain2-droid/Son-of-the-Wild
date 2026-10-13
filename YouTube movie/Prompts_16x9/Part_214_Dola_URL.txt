@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
+V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
 
 FROST: Son of the Wild
-PART 214 - "Forest Medicine"
-Punch: EMOTION + ACTION
+PART 214 - "Hello Again, Wife"
+Punch: TWIST + WOW
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -25,25 +25,28 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S02_MarthaHayes_FULL.png -> Martha Hayes; L04_BrunoCave.png -> Location BrunoCave.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V10_Damian_Battle.png -> Variant Damian_Battle; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; C05_Frost_FULL.png -> Frost; S07_CaptainVex_FULL.png -> Captain Vex.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, inside Lily's cabin, a stormy night.
-0–3s: Lily lies in bed, pale and sweating with a high fever, shivering. Martha holds a wet cloth to her forehead.
-DIALOGUE 1–6s: Martha (worried Southern voice): "The fever won't go down. The doctor in town is two days away."
-3–12s: Teen Frost kneels by the bed, holding his mother's small hand, scared.
-DIALOGUE 6–9s: Lily (weak whisper): "Don't worry, baby... I'll be okay."
-DIALOGUE 9–13s: Teen Frost (shaking voice): "Mom told me a story... Dad used forest medicine."
-12–22s: Frost runs through the dark forest in the storm, jumping over rivers and fallen trees, lightning flashing, until he reaches the old waterfall cave. Inside, he finds the same green healing leaves still growing on the cave wall.
-DIALOGUE 17–20s: Teen Frost (out of breath): "Please be the right ones..."
-22–30s: Back at the cabin, Frost gently crushes the leaves in his palm, just like Bruno did years ago, and places them on Lily's forehead. By morning, the sun comes in and Lily opens her eyes, smiling, the fever gone. Final frame: Frost asleep on the floor beside her bed, still holding her hand.
-DIALOGUE 26–29s: Lily (soft, smiling with tears): "Just like your father."
-SFX: storm, thunder, heavy breathing, fast footsteps, splashes, waterfall, leaves crushing, morning birds.
-MUSIC: worried strings, a heroic run theme, then Bruno's love theme at the end.
+CAST NOTE: Hank = a sturdy farmer, grey-brown beard, worn cowboy hat, plaid shirt, overalls.
+Night, full moon, in front of Cedar Hollow's log wall. The king's army stretches across the valley with torches: dark Bigfoots, mammoths, soldiers, small dragons circling above.
+0–3s: Captain Vex rides forward on a black war horse. Beside him, Prince Damian, older now, with a scar on his forehead, in spiked black armor.
+DIALOGUE 1–4s: Captain Vex (harsh loud voice): "Time's up, Cedar Hollow! Where's the gold?"
+3–12s: Hank stands on the log wall with his shotgun.
+DIALOGUE 5–9s: Hank (deep rural voice): "Spent it all on bacon grease. Come and get it!"
+12–22s: Prince Damian sees Lily on the wall. He smiles slowly.
+DIALOGUE 14–19s: Prince Damian (smooth, arrogant voice): "Lily Carter. All these years... and you're still beautiful. Hello again, wife."
+DIALOGUE 19–22s: Lily (cold, brave): "I was never your wife, Damian."
+22–30s: The giant log gate opens. Frost walks out alone, 11 feet tall, the full moon behind him. The soldiers' horses rear in fear. Damian's smile fades.
+DIALOGUE 26–30s: Frost (deep, calm, dangerous): "You must be the prince my mom hit with a tray."
+Final frame: Damian touching the old scar on his forehead, furious.
+SFX: hundreds of torches crackling, horses, armor, wind, a heavy wooden gate opening, earth-shaking footsteps, horses neighing.
+MUSIC: dark epic standoff music with low brass.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 215 - "Happy Birthday, Frost": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 215 - "Bacon Grease": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -52,7 +55,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 214 | His mom was sick... so he ran through the storm to his father's cave 🌿😭 #Bigfoot #Movie #Part214
+Part 214 | "You must be the prince my mom hit with a tray." 😂🔥 #Bigfoot #Movie #Part214
 
 DOLA STATUS
 [ ] Images uploaded

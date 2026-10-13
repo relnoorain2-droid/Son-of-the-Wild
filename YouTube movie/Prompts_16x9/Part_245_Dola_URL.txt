@@ -1,12 +1,10 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
-L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
 
 FROST: Son of the Wild
-PART 245 - "Alive"
-Punch: WOW + EMOTION
+PART 245 - "Be Still"
+Punch: EMOTION + WOW
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -25,24 +23,24 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K08_GrizzlyBear.png -> Creature GrizzlyBear; L04_BrunoCave.png -> Location BrunoCave.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V09_Bruno_Spirit.png -> Variant Bruno_Spirit.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Inside a dark cave behind a small waterfall, light shining through the falling water.
-0–3s: Lily squeezes into the cave — and freezes: the big grizzly bear Frost once talked to is lying in front of Frost, guarding him, keeping him warm.
-DIALOGUE 1–3s: Lily (whispering, shocked): "You... you stayed with him?"
-3–12s: The bear gently moves aside. Frost lies on the rocks, wet, bruised, his fur dirty, eyes closed, barely breathing.
-DIALOGUE 6–10s: Lily (falling to her knees, crying): "Frost? Baby, it's Mom. Please... please wake up."
-12–22s: She puts her hand on his huge chest. Nothing. Then a tiny, weak heartbeat sound. His finger twitches and wraps around her hand, just like when he was a newborn baby.
-DIALOGUE 17–20s: Frost (very weak deep whisper, eyes barely open): "...Mom? You found me."
-22–30s: Hank and Tommy rush in. Villagers and the bear together drag a big wooden cart through the forest, Frost lying on it, Lily holding his hand the whole way. Final frame: the bear pulling the cart with the villagers.
-DIALOGUE 26–29s: Lily (crying, smiling): "Always, my love. Always."
-SFX: dripping water, waterfall echo, bear grunt, crying, a weak heartbeat, cart wheels creaking, forest footsteps.
-MUSIC: emotional choir and strings, swelling with relief.
+Near the summit of Thunder Peak, inside the storm cloud: darkness, wind, lightning everywhere.
+0–3s: A lightning bolt hits the rock right next to Frost; the blast throws him off a ledge. He falls onto a lower ledge and lies there, smoking, exhausted.
+DIALOGUE 1–3s: Frost (groaning): "Aaagh!"
+3–12s: He tries to stand and falls again. Rain beats on him. He looks up at the storm.
+DIALOGUE 5–12s: Frost (deep, broken, shouting into the storm): "I can't! I can't fight the sky! I'm not Orin! I'm not my father! I'm just... me!"
+12–22s: He lies back, giving up. The framed flower falls out of his chest fur onto the rock beside his face. He looks at it. Everything goes quiet. A soft golden glow appears; Bruno's translucent spirit kneels beside him, smiling.
+DIALOGUE 16–22s: Bruno (spirit voice, very deep slow warm gravelly, echoing): "You don't fight the river, son. Be still. Like the river. Let it come to you."
+22–30s: Frost's eyes fill with tears. He reaches for his father's glowing hand, but the spirit fades. Frost picks up the flower, puts it back on his chest, and slowly stands up. Final frame: Frost standing, calm, facing the summit, the storm swirling around him.
+DIALOGUE 26–29s: Frost (deep whisper): "Be still... Thank you, Dad."
+SFX: lightning blast, falling, heavy rain, wind, sudden silence, a soft magical chime, Bruno's echoing voice, then the storm returning.
+MUSIC: desperate storm music, then the soft love theme for Bruno, building to a determined swell.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 246 - "I'm Not Strong Enough": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 246 - "Touch the Lightning": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -51,7 +49,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 245 | Frost is ALIVE 😭💙 ...and the grizzly was guarding him! #Bigfoot #Movie #Part245
+Part 245 | He wanted to give up... then his father came 😭👻 "Be still. Like the river." #Bigfoot #Movie #Part245
 
 DOLA STATUS
 [ ] Images uploaded

@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
 S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 
 FROST: Son of the Wild
-PART 252 - "Something to Protect"
-Punch: WOW + EMOTION
+PART 252 - "The Forest Buried You"
+Punch: EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -27,23 +28,27 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V13_Sarah_Adult.png -> Variant Sarah_Adult; S10_Villagers.png -> optional background group, skip unless you want crowd continuity; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; C05_Frost_FULL.png -> Frost; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; L05_River.png -> Location River.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
-Sunset at the Bear Rock meadow. The whole village has come to watch.
-0–3s: Frost stands in front of the Bear Rock once more. Behind him, the entire village stands quietly holding lanterns.
-DIALOGUE 1–4s: Sarah (young woman now, calling out): "You can do it, Frost! We're all here!"
-3–12s: Frost closes his eyes. Quick memory flashes: baby Frost giving Sarah her teddy; the children in the cellar; Martha's sweater; his mother's face.
-DIALOGUE 6–10s: Frost (deep, quiet): "I'm not pushing for me. I'm pushing for them."
-12–22s: He places his hand inside the giant carved handprint. It fits perfectly now. He pushes. The ground shakes. With a deep grinding sound, the Bear Rock moves... an inch... a foot... then rolls slowly across the meadow.
-DIALOGUE 16–19s: Frost (roaring with everything): "FOR CEDAR HOLLOOOOW!"
-22–30s: The rock rolls off the cliff edge and crashes down the mountain. The village explodes in cheers. A glowing blue mark burns itself onto Frost's right forearm like a tattoo, shining. Frost stares at it in wonder. Final frame: the glowing blue mark on his arm, lanterns behind him.
-DIALOGUE 27–29s: Old Joe (smiling, slow raspy voice): "Trial one... complete."
-SFX: lanterns, wind, memory echoes, deep stone grinding, ground rumbling, a huge roar, the rock tumbling, massive crash below, cheering, a magical burning hum.
-MUSIC: emotional build-up to a huge triumphant orchestral and choir climax.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
+Night, the riverbank where Bruno fell years ago, moonlight on the water.
+0–3s: Old Scar stops at the riverbank. In front of them: a circle of big river stones, carefully placed, covered in hundreds of glowing blue wildflowers that shine softly in the dark.
+DIALOGUE 1–3s: Frost (deep whisper): "What is this place?"
+3–12s: Lily walks forward slowly, her hand on her mouth. She recognizes the river, the trees.
+DIALOGUE 5–9s: Lily (shaking): "This is where... this is where he fell."
+12–22s: Animals step out of the trees: wolves, elk, deer, rabbits, an owl. Each one quietly places something on the stones: a flower, a twig, a pinecone, as if they've been doing it for years.
+DIALOGUE 15–20s: Old Joe (soft, amazed): "The animals buried him. They've been bringing him flowers... all these years."
+22–30s: Lily falls to her knees in front of the stones and puts both hands on them, crying.
+DIALOGUE 24–29s: Lily (sobbing, smiling): "You were never alone, Bruno. The whole forest loved you too."
+Final frame: Lily kneeling at the glowing stone circle, Frost standing behind her, the animals all around in the moonlight.
+SFX: river flowing, soft magical glow hum, quiet animal footsteps, an owl hoot, crying.
+MUSIC: Bruno's love theme, full and emotional, with soft choir.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 253 - "Trial 2: Old Scar": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 253 - "Father!": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

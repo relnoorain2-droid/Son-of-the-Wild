@@ -1,13 +1,15 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
 S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
-V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 200 - "Trick or Treat"
-Punch: FUN
-Status: ready - URL PACKAGE
+PART 200 - "The Village Ruined"
+Punch: EXPANDED CUT - FORWARD STORY BEAT
+Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -19,46 +21,49 @@ This must be exactly one 30-second video. Do not generate a 15-second version. D
 Use active skill: Zakariya Seedance 2 5 30s YouTube 16x9
 Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
+Aspect ratio: widescreen 16:9
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S05_TommyMiller_FULL.png -> Tommy Miller; S06_SarahMiller_FULL.png -> Sarah Miller; L07_Village.png -> Location Village.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
-
-Halloween night in Cedar Hollow, carved pumpkins glowing on porches, orange string lights, kids in costumes.
-0–3s: Kid Frost walks down the street wearing a white bedsheet ghost costume that only covers his head and shoulders; his whole furry body sticks out underneath.
-DIALOGUE 1–3s: Kid Frost (cheerful young boy voice, proud): "Boooo! I'm a ghost!"
-3–12s: Tommy (dressed as a cowboy) and Sarah (dressed as a witch) walk beside him trying not to laugh.
-DIALOGUE 5–9s: Tommy (young boy, laughing): "Frost, you look like a ghost that ate a bear."
-DIALOGUE 9–11s: Sarah (small cute girl voice): "A big, fluffy ghost!"
-12–22s: They knock on a door. A visiting tourist couple from the city opens it, looks at Frost and gasps.
-DIALOGUE 14–19s: Tourist man (amazed American voice): "Honey, look at this costume! That's the most realistic Bigfoot costume I've ever seen!"
-DIALOGUE 19–21s: Kid Frost (confused): "...Thank you?"
-22–30s: The tourists give Frost the entire candy bowl. Frost walks away happily hugging the giant bowl while the other kids stare in jealousy. Final frame: Frost winking at the camera from under his tiny ghost sheet.
-DIALOGUE 26–29s: Kid Frost (whispering, grinning): "Best... costume... ever."
-SFX: spooky wind, door knock, doorbell, gasp, candy rattling, kids laughing, an owl hoot.
-MUSIC: playful spooky Halloween tune with xylophone and pizzicato strings.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: C05_Frost_FULL.png -> reference character/location; V04_Lily_VillageMom.png -> reference character/location; L07_Village.png -> reference character/location; S02_MarthaHayes_FULL.png -> reference character/location; S05_TommyMiller_FULL.png -> reference character/location; S06_SarahMiller_FULL.png -> reference character/location.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
+Scene: Frost and Lily return from the river to find broken doors and crying villagers.
+0-3s: Start with a strong immediate visual hook connected to the previous part.
+DIALOGUE 1-4s: NARRATOR (bright cinematic voice): "Frost grew larger than every fear around him."
+3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
+DIALOGUE 5-8s: Frost (young deep voice, kind): "I can help. Tell me what to lift."
+10-18s: Frost and Lily return from the river to find broken doors and crying villagers.
+DIALOGUE 11-15s: Lily (warm but worried): "Strong hands, gentle heart. Remember that."
+18-24s: Lily finally breaks down.
+DIALOGUE 19-23s: Frost (hurt, curious): "Mama... why does the king make you afraid?"
+24-30s: Build into the hook: Frost asks, 'What did he do to us?'
+SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
+MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.
+CAMERA: clear subject framing, expressive faces, one clean action beat, then a strong final hook.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 201 - "Sit!": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 201 - "It's My Fault": Frost asks, 'What did he do to us?' Keep continuity and do not add random new characters.
 
 GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync. No line may be skipped. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic frame.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, rural American towns, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+TEXT RULE: On-screen text is allowed only for intentional short cinematic title/location/time cards when this PART asks for it. No subtitles for dialogue. No random text.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no gore, no blood spray, no nudity, no explicit wedding-night content, no restraints, no chains, no forced physical contact, no extra limbs, no face morphing, no character drift.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 200 | "That's the most realistic Bigfoot costume I've ever seen!" 👻😂 #Bigfoot #Movie #Part200
+Part 200 | The Village Ruined - the story moves deeper. #Bigfoot #Movie #Part200
 
 DOLA STATUS
-[ ] Images uploaded
+[ ] Images loaded by raw URLs
 [ ] Prompt pasted
 [ ] Video generated
 [ ] Downloaded
 [ ] Needs revision
 
 NOTES
+Expanded 312-part canon. This part must move the story forward and end with suspense unless it is the final part.

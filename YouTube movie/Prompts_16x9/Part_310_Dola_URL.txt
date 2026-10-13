@@ -27,6 +27,7 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V14_Grace_Older.png -> Variant Grace_Older; S02_MarthaHayes_FULL.png -> Martha Hayes; S03_HankMiller_FULL.png -> Hank Miller.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powered.png for present-day Frost; do not revert to baby, kid, teen, or unpowered adult Frost unless a memory is explicitly shown.
 
 CAST NOTE: Tommy = a young man (about 22), messy brown hair, light freckles, red baseball cap, plaid flannel shirt; Sarah = a young woman (about 19), long blonde side braid, denim jacket; Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
 A giant celebration on a big meadow between Millbrook and the forest: long picnic tables, string lights, American flags, a stage, people from Millbrook, Cedar Hollow, Pine Ridge and the freed kingdom, plus mammoths, bears, wolves and dragons.

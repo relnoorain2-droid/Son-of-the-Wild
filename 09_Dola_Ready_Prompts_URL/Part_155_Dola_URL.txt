@@ -1,11 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 155 - "Baby Name Fight"
-Punch: FUN + HEART
+PART 155 - "Frost Says Sorry"
+Punch: ANGER + MOTHER-SON
 Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -19,26 +19,26 @@ Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
-CHARACTER LOCK: Keep pregnant Lily and Bruno exactly identical to the attached references.
-LILY LOOK LOCK: Lily looks young, beautiful, soft fair face, big blue eyes, honey-blonde hair, pregnant but not older.
+CHARACTER LOCK: Keep Lily, kid Frost, and Cedar Hollow exactly identical to attached references. Reference mapping: V06_Frost_Kid.png -> reference character/location.
+LILY LOOK LOCK: Lily remains young-looking and beautiful, blue eyes, honey-blonde hair, gentle mother.
+FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient forest magic run in his blood. Use only V06_Frost_Kid.png for present-day Frost; do not show baby, teen, adult, or powered Frost here.
 
-Scene: Warm cave at night, handmade baby cradle, soft firelight, rain outside, carved wooden toys.
-0-5s: Bruno proudly carves a tiny wooden sign for the cradle. It reads only as rough marks, not readable text.
-DIALOGUE 1-4s: Bruno (proud): "Baby name should be Rock. Strong name."
-5-11s: Lily stops folding a tiny blanket and stares at him.
-DIALOGUE 5-8s: Lily (deadpan): "I am not naming my child Rock."
-DIALOGUE 8-11s: Bruno (defensive): "Rock never run away."
-11-18s: Lily suggests sweet names. Bruno keeps rejecting them with serious Bigfoot logic.
-DIALOGUE 11-14s: Lily: "What about Hope?"
-DIALOGUE 14-17s: Bruno: "Hope too small. Baby kick like mountain."
-18-25s: Snowflakes drift through the cave opening even though it is early season. Lily catches one on her finger.
-DIALOGUE 19-23s: Lily (soft): "Then maybe something from the snow... if winter comes early."
-25-30s: Bruno touches Lily's belly gently. The baby kicks; both laugh. Final frame: snow drifting outside the warm cave.
-DIALOGUE 25-29s: Bruno (whisper): "Tiny snow mountain."
-SFX: wood carving, fire crackle, rain softening, tiny kick, Lily laugh, Bruno chuckle.
-MUSIC: gentle family theme with a playful warm ending.
+Scene: Afternoon behind Lily's cabin, split-rail fence, tall grass, village barns in the distance.
+0-5s: Frost sits angry beside a broken fence post after asking about his father. Lily stands nearby, worried.
+DIALOGUE 1-5s: Frost (young deep voice, upset): "Everyone else has a dad at school. Why can't I?"
+5-12s: Lily kneels beside him. Frost turns away, hurt.
+DIALOGUE 5-9s: Lily (soft): "Because your father gave everything to keep us safe."
+DIALOGUE 9-12s: Frost (angry): "Then why does safe feel lonely?"
+12-20s: Frost kicks a loose fence rail too hard and breaks it. He instantly regrets it.
+DIALOGUE 14-17s: Lily (firm but kind): "Frost. Strength is not for breaking what loves you."
+20-27s: Frost carefully lifts the rail and repairs the fence with gentle hands, ashamed.
+DIALOGUE 21-25s: Frost (small voice): "I am sorry, Mom."
+27-30s: Lily hugs his huge arm. Final frame: Frost leaning his head down so Lily can kiss his forehead.
+DIALOGUE 27-30s: Lily: "I know. We will miss him together."
+SFX: fence crack, birds, grass, wood being fixed, soft hug.
+MUSIC: emotional piano with gentle strings.
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 156 - "The King's Eyes": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 156 - "Bandits in Town": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -47,7 +47,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 155 | Bruno wanted to name the baby Rock. Lily strongly disagreed. #Bigfoot #Movie #Part155
+Part 155 | Frost got angry about his father... then learned strength must stay gentle. #Bigfoot #Movie #Part155
 
 DOLA STATUS
 [ ] Images uploaded
@@ -57,4 +57,4 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-Inserted after old Part 31 as a funny family foreshadow before Frost's name.
+Inserted after old Part 68 for mother-son emotion and anger control.

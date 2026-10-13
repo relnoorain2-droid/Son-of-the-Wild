@@ -1,13 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
+K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
 
 FROST: Son of the Wild
-PART 281 - "The March"
-Punch: WOW
-Status: ready - URL PACKAGE
+PART 281 - "Get Up, Frost"
+Punch: EMOTION + ACTION
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -25,25 +25,26 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S11_Rose_FULL.png -> Rose; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K09_Wolves.png -> Creature Wolves; K08_GrizzlyBear.png -> Creature GrizzlyBear.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powered.png for present-day Frost; do not revert to baby, kid, teen, or unpowered adult Frost unless a memory is explicitly shown.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Epic march montage through the Pacific Northwest: redwood forests, river crossings, mountain passes, from sunrise to sunset.
-0–3s: Aerial drone shot: a huge army moving through the giant redwood forest, Frost glowing at the front, Lily beside him on a big elk.
-DIALOGUE 1–3s: NARRATOR (deep cinematic American trailer voice): "They marched for three days."
-3–12s: Bison pull wagons across a river; bears carry supply crates; eagles fly scouting above. Kids from the villages wave goodbye from a hill.
-DIALOGUE 6–9s: Old Joe (riding in a wagon, to Rose): "Never thought I'd live to see this."
-DIALOGUE 9–11s: Rose (old British voice, smiling): "Neither did I, love."
-12–22s: Night: they pass small, poor villages of the king's kingdom. Frightened people peek from windows... then one by one, they light lanterns and put them in their windows: a secret sign of support.
-DIALOGUE 15–19s: Lily (amazed, emotional): "Frost, look. They're lighting lanterns for us."
-22–30s: Some of the kingdom's villagers step out and join the march with farm tools. The army grows bigger. Final frame: a long line of lanterns stretching behind the army into the dark.
-DIALOGUE 26–29s: Frost (deep, moved): "The people are rising."
-SFX: marching thousands, animal footsteps, wagon wheels, river splashing, eagle cries, lanterns lighting, quiet voices joining.
-MUSIC: a heroic marching theme with drums and a slow-building choir.
+CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
+The battlefield, smoke and fire, Frost buried under dark Bigfoots.
+0–3s: Lily runs through the battle, dodging soldiers, straight toward the pile of dark Bigfoots.
+DIALOGUE 1–3s: Lily (screaming): "GET OFF MY SON!"
+3–12s: Old Scar crashes into the pile from one side, wolves from the other; they pull dark Bigfoots away one by one. Lily climbs onto the pile and finds Frost's face.
+DIALOGUE 7–10s: Frost (weak, deep whisper): "Mom... I can't. He's too strong. I'm sorry."
+12–22s: Lily holds his face with both hands, fire behind her, completely calm.
+DIALOGUE 13–23s: Lily (strong, emotional): "Listen to me. Your father didn't win because he was strong. He won because he never stopped standing up. Strong hands... gentle heart. NOW GET UP!"
+22–30s: Frost's eyes snap open, bright blue. The red chains of magic crack. He roars and stands up, throwing the last dark Bigfoots off him in every direction. His tattoos blaze brighter than ever. Final frame: Frost standing tall, Lily beside him, Old Scar and the wolves around them.
+DIALOGUE 27–29s: Frost (deep, powerful): "Thanks, Mom."
+SFX: running, battle noise, bear roar, wolves snarling, heavy bodies pulled, a soft voice, magic cracking, a massive roar, bodies flying, electricity surging.
+MUSIC: desperate battle music, a moment of silence, then a huge heroic rising theme.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 282 - "MAGNUS!": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 282 - "Free the Dragons": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -52,7 +53,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 281 | As they marched, the king's own people lit lanterns for them 🏮⚔️ #Bigfoot #Movie #Part281
+Part 281 | He couldn't get up... until his mom came 🥹💪 "NOW GET UP!" #Bigfoot #Movie #Part281
 
 DOLA STATUS
 [ ] Images uploaded

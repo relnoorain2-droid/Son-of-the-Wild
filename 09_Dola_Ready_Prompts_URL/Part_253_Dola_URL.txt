@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+C06_ElderOrin_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C06_ElderOrin/C06_ElderOrin_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
 
 FROST: Son of the Wild
-PART 253 - "Trial 2: Old Scar"
-Punch: ACTION + WOW
+PART 253 - "Father!"
+Punch: WOW + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,23 +21,25 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V09_Bruno_Spirit.png -> Variant Bruno_Spirit; C06_ElderOrin_FULL.png -> Elder Orin; V04_Lily_VillageMom.png -> Variant Lily_VillageMom.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
-The "Deep Wild": the darkest, oldest part of the redwood forest, giant twisted trees, fog, strange silence. A glowing blue mark shines on Frost's right forearm.
-0–3s: Old Joe stops at the edge of the dark trees and won't go further.
-DIALOGUE 1–6s: Old Joe (slow raspy voice): "Trial two. Earn the trust of the king of the wild. Old Scar."
-3–12s: Frost walks in alone. Bones and claw marks on the trees. A deep growl shakes the ground. Out of the fog rises Old Scar: a gigantic ancient grizzly bear, twice the size of a normal bear, silver-grey fur, a long white scar over one eye.
-DIALOGUE 7–10s: Frost (deep voice, confident): "Easy, big guy. I'm a friend."
-12–22s: Frost's eyes glow blue; he uses the low animal rumble that always worked. Old Scar doesn't stop. He roars right in Frost's face, so loud Frost's fur blows back.
-DIALOGUE 16–18s: Frost (surprised): "Okay... that usually works."
-22–30s: Old Scar swipes and sends Frost flying backward through two small trees. Frost lands hard and looks up, stunned. Final frame: the giant bear standing over him, roaring.
-DIALOGUE 27–29s: Frost (groaning): "Definitely... not a friend."
-SFX: eerie silence, crunching bones, a deep earth-shaking growl, magical hum, a massive roar, a heavy swipe, trees snapping, a heavy landing.
-MUSIC: dark tense jungle drums, a heavy hit with the swipe, a small comedic beat at the end.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Night at Bruno's stone grave by the river, the full moon directly above, Western fantasy style, like a knight kneeling before a king.
+0–3s: Frost kneels on one knee at the stone circle, both hands on the stones, head raised to the full moon.
+DIALOGUE 1–3s: Frost (deep, emotional, loud): "FATHER!"
+3–12s: Silence. Then wind rises. The glowing flowers lift into the air and spin around him. The clouds part in a perfect circle around the moon.
+DIALOGUE 6–10s: Frost (shouting to the sky, tears): "I passed the trials! I'm ready! Father, please... I need you!"
+12–22s: In the sky, made of moonlight and stars, the giant glowing spirit of Bruno appears, smiling down at his son.
+DIALOGUE 15–20s: Bruno (spirit voice, very deep slow warm gravelly, echoing from the sky): "Frost... my son. Bruno always here."
+22–30s: Behind Bruno, even bigger, appears Elder Orin: ancient, with a long white beard, glowing blue tattoos, holding a staff with a shining BLUE crystal. Lily and Old Joe step back in awe. Final frame: father and grandfather in the sky, the son kneeling below.
+DIALOGUE 26–29s: Elder Orin (ancient, very deep, echoing voice): "The blood of Orin... has returned."
+SFX: wind rising, flowers swirling, a deep magical hum, clouds rumbling, a soft heavenly chime, echoing voices.
+MUSIC: building epic choir, a huge emotional swell when Bruno appears, then ancient powerful horns for Orin.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 254 - "The Iron Trap": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 254 - "Three Generations": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +48,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 253 | Trial 2: Old Scar, the king of the wild... he did NOT want to be friends 🐻😱 #Bigfoot #Movie #Part253
+Part 253 | He called his father... and his father ANSWERED from the sky 😭⭐ #Bigfoot #Movie #Part253
 
 DOLA STATUS
 [ ] Images uploaded

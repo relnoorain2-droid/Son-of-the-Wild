@@ -1,13 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+K03_SmallDragons.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K03_SmallDragons/K03_SmallDragons.png
 L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
-S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
+V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
 
 FROST: Son of the Wild
-PART 217 - "Dance Floor Apology"
-Punch: COMMUNITY HEART
-Status: ready - EXTENDED CANON URL PACKAGE
+PART 217 - "Dragon Catcher"
+Punch: WOW + ACTION
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -21,37 +21,37 @@ Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep teen Frost, Lily, Sarah, and Cedar Hollow exactly identical to attached references.
-LILY LOOK LOCK: Lily remains young-looking, sweet, beautiful, blue eyes, honey-blonde hair.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V12_Tommy_Adult.png -> Variant Tommy_Adult; K03_SmallDragons.png -> Creature SmallDragons; L07_Village.png -> Location Village.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
-Scene: Cedar Hollow town square before the harvest dance, lanterns, wooden stage, flower garlands, sunset.
-0-5s: Frost carries too many lantern poles at once to help decorate. He trips and knocks down half the dance garlands.
-DIALOGUE 1-4s: Sarah (teen girl, shocked): "Frost!"
-5-12s: Frost gets embarrassed and defensive as villagers stare.
-DIALOGUE 5-9s: Frost (upset): "I was trying to help."
-DIALOGUE 9-12s: Lily (gentle but firm): "Then help by fixing it, not by hiding."
-12-20s: Frost walks away angry, then sees Sarah quietly gathering broken flowers alone.
-DIALOGUE 14-18s: Sarah (soft): "You do not have to be small to be careful."
-20-27s: Frost returns and builds a beautiful flower arch higher than any ladder could reach.
-DIALOGUE 21-25s: Frost (sincere): "I am sorry. I got mad because I felt foolish."
-27-30s: Sarah smiles, Lily nods proudly, villagers cheer. Final frame: lanterns glowing under Frost's tall flower arch.
-DIALOGUE 27-30s: Lily: "That is how a strong heart apologizes."
-SFX: poles clattering, crowd gasp, flowers rustling, hammer taps, cheering.
-MUSIC: soft Americana dance tune growing warm and proud.
+Night, the sky above Cedar Hollow, full moon, smoke.
+0–3s: Three smaller dragons dive at the village and breathe fire on the log wall.
+DIALOGUE 1–3s: Villager (shouting): "Dragons! The wall's on fire!"
+3–12s: Frost crouches, then jumps an incredible height into the air — higher than the trees — and grabs a dragon by the tail in mid-air.
+DIALOGUE 6–8s: Frost (deep, shouting): "Get away from my home!"
+12–22s: He spins the dragon around and throws it into a second dragon; they tumble out of the sky and crash into the forest. He lands on the back of the third dragon and rides it like a bucking horse.
+DIALOGUE 16–19s: Tommy (on the wall, amazed): "He's RIDING it! He's riding a dragon!"
+22–30s: Frost steers the dragon down into the river; it crashes into the water with a giant splash and flies away, wet and scared. Frost lands on his feet in the shallow water. Final frame: Frost in the river, fire behind him, the full moon above.
+DIALOGUE 26–29s: Frost (deep, smiling, shaking water off): "Like father, like son."
+SFX: dragon dives, fire whoosh, a massive jump whoosh, tail grab, dragon screeches, a mid-air crash, trees breaking, bucking wings, a giant splash.
+MUSIC: epic adventure orchestra with a heroic choir.
+
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 218 - "Harvest Moon Dance": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 218 - "The Frying Pan": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
 SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 217 | Frost ruined the dance decorations, got angry, then rebuilt something beautiful. #Bigfoot #Movie #Part217
+Part 217 | He jumped into the sky and caught a DRAGON by the tail 🐉😱 #Bigfoot #Movie #Part217
 
 DOLA STATUS
 [ ] Images uploaded
@@ -61,4 +61,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-Inserted after old Part 88 before the harvest dance.

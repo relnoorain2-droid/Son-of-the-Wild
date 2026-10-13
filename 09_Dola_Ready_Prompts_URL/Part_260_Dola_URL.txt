@@ -1,11 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
 
 FROST: Son of the Wild
-PART 260 - "Touch the Lightning"
-Punch: WOW
-Status: ready
+PART 260 - "He Can Fly?!"
+Punch: WOW + FUN
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -19,23 +21,24 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; C05_Frost_FACE.png -> Frost.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V13_Sarah_Adult.png -> Variant Sarah_Adult; S02_MarthaHayes_FULL.png -> Martha Hayes; L07_Village.png -> Location Village.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powered.png for present-day Frost; do not revert to baby, kid, teen, or unpowered adult Frost unless a memory is explicitly shown.
 
-The summit of Thunder Peak, in the eye of the storm: a flat black rock, the giant storm cloud spinning above, lightning everywhere.
-0–3s: Frost climbs onto the summit and stands up tall in the center of the storm.
-DIALOGUE 1–4s: Frost (deep, calm): "I'm not here to fight you."
-3–12s: He closes his eyes, breathes slowly, and raises one open hand to the sky. The wind gets stronger, the clouds spin faster.
-DIALOGUE 6–9s: Frost (whispering): "Be still... like the river."
-12–22s: A gigantic lightning bolt strikes his open hand. Instead of throwing him, the lightning flows into him; his whole body glows blue, his fur lifts, the bolt runs through his arms and out of his eyes. He doesn't move. He stays calm.
-22–30s: The lightning fades. The storm above Thunder Peak slowly stops spinning, and for the first time in a hundred years the clouds open and sunlight hits the summit. A third glowing blue mark burns across Frost's chest, around the crescent patch. He opens his eyes; they glow bright electric blue. Final frame: Frost on the summit in the sunlight, three marks glowing.
-DIALOGUE 27–29s: Frost (deep, amazed whisper): "Three."
-DIALOGUE 14-17s: Old Joe (slow raspy wise voice): "Breathe, son. Listen to the thunder."
-SFX: storm roar, wind, a gigantic thunder crack, electric surge, a humming power sound, the storm fading, birds, gentle wind.
-MUSIC: huge build-up to a massive epic choir and orchestra explosion, then peaceful strings.
+Daytime above the redwood forest, then Cedar Hollow main street.
+0–3s: Powered Frost crouches on a cliff and jumps. Instead of falling, he flies forward through the air in a giant leap, blue energy trailing behind him like a comet.
+DIALOGUE 1–3s: Frost (deep, laughing with joy): "WHOOOAAA!"
+3–12s: He soars over the treetops, over a waterfall, past a flock of geese (one goose stares at him in shock), over the river.
+DIALOGUE 7–10s: Frost (deep, amazed): "Dad, are you seeing this?!"
+12–22s: In Cedar Hollow, Martha is hanging laundry. A shadow passes over her. She looks up, squints, and adjusts her glasses.
+DIALOGUE 16–20s: Martha (warm Southern voice): "Is that an eagle? A hot-air balloon? ...Is that FROST?"
+22–30s: Frost lands in the middle of Main Street with a huge BOOM; a ring of dust and wind blows all of Martha's laundry away. Grown-up Sarah runs up laughing. Final frame: a pair of Hank's underwear landing on Frost's head.
+DIALOGUE 26–29s: Martha (hands on hips): "Young man, you are picking up every sock."
+SFX: a jump whoosh, rushing wind, joyful shout, geese honking, laundry flapping, a huge landing boom, dust whoosh, laughter.
+MUSIC: soaring, joyful adventure theme, ending with a comedic sting.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 261 - "Trial 4: Mirror Lake": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 261 - "Unbreakable": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +47,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 260 | He touched the lightning... and the storm STOPPED ⚡😱 TRIAL 3 COMPLETE ✅ #Bigfoot #Movie #Part260
+Part 260 | Is it an eagle? A balloon? No... it's FROST 😂🦸 #Bigfoot #Movie #Part260
 
 DOLA STATUS
 [ ] Images uploaded

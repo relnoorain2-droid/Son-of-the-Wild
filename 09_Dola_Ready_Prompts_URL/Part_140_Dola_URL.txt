@@ -1,13 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
-C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
-K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 
 FROST: Son of the Wild
-PART 140 - "The Hunt Begins"
-Punch: TWIST
-Status: ready - CANON SAFE DOLA VERSION
+PART 140 - "The Teddy Bear"
+Punch: EMOTION
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -21,35 +21,36 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: C03_PrinceDamian_FULL.png -> Prince Damian; C02_KingMagnus_FULL.png -> King Magnus; S07_CaptainVex_FULL.png -> Captain Vex; K01_DarkBigfoot.png -> dark Bigfoot tracker.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V05_Frost_Baby.png -> Variant Frost_Baby; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S06_SarahMiller_FULL.png -> Sarah Miller; S03_HankMiller_FULL.png -> Hank Miller.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is a newborn/baby here. Use only V05_Frost_Baby.png for Frost; do not show kid, teen, adult, or powered Frost in this part.
 
-Morning, the dark castle throne hall and the forest gate outside the castle.
-0-3s: Prince Damian storms in with a bandage wrapped around his head, furious, kicking over a chair.
-DIALOGUE 1-4s: Prince Damian (smooth voice now furious): "She hit me with a tray, Father!"
-3-12s: King Magnus on his throne almost smiles, then his face turns cold.
-DIALOGUE 4-6s: King Magnus (deep cold voice): "Then she is braver than you."
-DIALOGUE 6-12s: King Magnus: "No one embarrasses Thorne Castle. Captain Vex, bring her back before sunrise."
-12-22s: At the forest gate, Captain Vex and soldiers with torches find Lily's torn white veil caught on a bush, and next to it a giant bare footprint, much bigger than a man's. Vex kneels and measures it with his whole arm.
-DIALOGUE 16-19s: Captain Vex (harsh, surprised): "This is not a bear... something carried her."
-22-30s: From the fog, an armored dark Bigfoot tracker steps forward with glowing red eyes. It sniffs the veil, growls, and points toward the waterfall.
-DIALOGUE 25-29s: Captain Vex (cold smile): "Find the trail. The king wants answers."
-Final frame: the dark Bigfoot's red eyes glowing in the fog.
-SFX: chair crash, echoing footsteps, armor, torch fire, deep sniffing, growl, whistle, forest wind.
-MUSIC: dark villain theme with low brass and war drums.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Dusk, in front of the cabin, torches.
+0–3s: Little Sarah slips out from behind Hank's legs and walks toward the baby.
+DIALOGUE 1–3s: Hank (panicked): "Sarah! Get back here!"
+3–14s: Baby Frost crawls slowly toward Sarah and holds out the teddy bear to her, very gently. Everyone holds their breath.
+DIALOGUE 7–9s: Sarah (small cute girl voice): "That's... my bear."
+DIALOGUE 9–12s: Frost makes a soft, sweet little coo and pushes the bear into her hands.
+14–22s: Sarah smiles and hugs the teddy bear, then hugs Frost. Frost hugs her back very carefully, as if he knows he's strong.
+DIALOGUE 16–19s: Sarah (giggling): "He's soft! Daddy, he's like a cloud!"
+22–30s: Villagers slowly lower their pitchforks. Some women wipe their eyes. Hank lowers his pitchfork completely.
+DIALOGUE 24–28s: Hank (deep voice, emotional, embarrassed): "Well... I'll be. He brought her bear back."
+Final frame: Lily crying with relief, Sarah and Frost hugging in the torchlight.
+SFX: soft footsteps, baby coo, giggling, pitchforks lowered, crackling torches, quiet sniffles.
+MUSIC: gentle piano, building into warm strings.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 141 - "The Vine Swing": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 141 - "The First Roar": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
 SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity, no chains, no restraints.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 140 | The king's men found Lily's veil... and a giant footprint. #Bigfoot #Movie #Part140
+Part 140 | They came to hurt him... he gave a little girl her teddy back 🧸🥺 #Bigfoot #Movie #Part140
 
 DOLA STATUS
 [ ] Images uploaded
@@ -59,4 +60,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-Safer version: no captive dark Bigfoot imagery, no death threat language.

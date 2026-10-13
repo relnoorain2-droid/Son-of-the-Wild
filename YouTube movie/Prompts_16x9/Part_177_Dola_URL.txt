@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 177 - "It's Time"
-Punch: EMOTION + CLIFFHANGER
-Status:-assets
+PART 177 - "Driving Lesson"
+Punch: FUN
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -23,24 +24,25 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; L06_AbandonedCabin.png -> Location AbandonedCabin.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; S03_HankMiller_FULL.png -> Hank Miller; L07_Village.png -> Location Village.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07_Frost_Teen.png for present-day Frost; do not show baby, kid, adult, or powered Frost here.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Snowy night, inside the cabin, a fire in the stove, candles.
-0–3s: Lily (9 months pregnant) stands up from her chair and freezes. Water splashes on the wooden floor near her feet (shown only on the floor, tasteful).
-DIALOGUE 1–3s: Lily (soft, shocked): "Oh no... oh, it's time."
-3–12s: She grabs the edge of the table as the first contraction hits, breathing hard.
-DIALOGUE 5–8s: Lily (breathing, scared): "Okay, okay... breathe, Lily. Breathe."
-12–22s: She stumbles to the window and sees the warm lights of Martha's house in the distance through the snow. She reaches for the door... then stops.
-DIALOGUE 14–21s: Lily (whispering, torn): "If I call them... and the baby looks like his father... they'll be scared. They'll send us away."
-22–30s: She slowly locks the door and closes the curtains. She lights more candles, holding her belly, tears in her eyes but determined. Final frame: Lily alone in the candlelight, looking up.
-DIALOGUE 25–29s: Lily (whispering): "Bruno... if you can hear me... stay with me tonight."
-SFX: water drip on floor, heavy breathing, snow wind, creaking floor, door lock click, curtain, candle lighting.
-MUSIC: tense heartbeat drums, then a soft emotional choir.
+Daytime, a dirt road outside Cedar Hollow, an old red pickup truck.
+0–3s: Teen Frost squeezes into the driver's seat of Hank's old pickup truck. His head pushes through the roof, his knees around his ears.
+DIALOGUE 1–3s: Hank (deep rural voice, nervous, in the passenger seat): "Okay, son. Nice and easy."
+3–12s: Frost carefully touches the gas pedal with one huge toe. The truck rockets forward. Hank screams.
+DIALOGUE 5–7s: Hank (screaming): "EASY, I SAID EASY!"
+DIALOGUE 7–9s: Teen Frost (panicked, voice cracking): "This IS easy!"
+12–22s: The truck bounces through a cornfield, corn flying everywhere, through a farmer's laundry line (a shirt lands on Hank's face), and through a small creek.
+DIALOGUE 16–19s: Teen Frost: "Which one is the brake?!"
+22–30s: The truck flies into a giant haystack and stops. Silence. Hay everywhere. Hank slowly climbs out, covered in hay, and lies down on the grass. Frost lifts the whole truck out of the haystack with both hands. Final frame: Frost holding the truck above his head.
+DIALOGUE 26–29s: Teen Frost (proud): "Good news! I found the brake!"
+SFX: engine roar, tires spinning, screaming, corn stalks breaking, laundry flapping, water splash, hay explosion, silence, metal creaking.
+MUSIC: fast comedic country chase music.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 178 - "Stay With Me": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 178 - "Wildfire": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -49,7 +51,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 177 | The baby is coming... and she's all alone 😰❄️ What will he look like? #Bigfoot #Movie #Part177
+Part 177 | Teaching a teen Bigfoot to drive... Hank will never be the same 😂🛻 #Bigfoot #Movie #Part177
 
 DOLA STATUS
 [ ] Images uploaded

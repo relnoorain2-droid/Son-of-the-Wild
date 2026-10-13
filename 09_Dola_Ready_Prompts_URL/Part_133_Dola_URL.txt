@@ -1,13 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
-C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
-V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
+L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 
 FROST: Son of the Wild
-PART 133 - "The Shadow Arrives"
-Punch: WOW + ACTION
+PART 133 - "Bath Time"
+Punch: FUN
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -22,25 +21,26 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; K08_GrizzlyBear.png -> Creature GrizzlyBear; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; S02_MarthaHayes_FULL.png -> Martha Hayes; L05_River.png -> Location River.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is a newborn/baby here. Use only V05_Frost_Baby.png for Frost; do not show kid, teen, adult, or powered Frost in this part.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, giant misty redwood forest, moonlight.
-0–3s: Slow motion: the grizzly bear's giant claw swings down at Lily (torn muddy dress, blonde, blue eyes) — and a huge black furry hand catches the bear's arm in mid-air. Lily's eyes go wide.
-DIALOGUE 1–4s: NARRATOR (deep cinematic American trailer voice): "She thought it was the end..."
-3–12s: Reveal Bruno: a 9-foot gentle black Bigfoot with a small white crescent patch on his chest, amber eyes. He pushes the bear back. The bear roars and charges again; Bruno grabs it and throws it against a tree, bark exploding.
-DIALOGUE 7–9s: Bruno (very deep slow warm gravelly voice, firm): "Go away. Leave her!"
-12–22s: The bear swipes; Bruno ducks, then lets out a massive chest-pounding roar that shakes leaves from the trees. The bear backs off, scared, and runs into the darkness.
-22–30s: Silence. Bruno slowly turns toward Lily. She crawls backward, shaking. He kneels down to her eye level, calm. Final frame: close-up of his gentle amber eyes, and Lily's terrified face reflected in them.
-DIALOGUE 25–28s: Lily (soft young American woman, trembling whisper): "Please... don't eat me."
-DIALOGUE 14-16s: Lily (shaking, whispering): "Who... who are you?"
-DIALOGUE 18-21s: Bruno (very deep gentle voice): "Bruno. Forest friend."
-SFX: claw whoosh, heavy grab impact, bear roars, tree crack, bark splinters, giant chest pounding, Bigfoot roar, leaves falling, bear running away, heavy breathing.
-MUSIC: huge heroic brass hit at the reveal, epic fight drums, then soft mysterious strings at the end.
+Spring montage by the river near the cabin, sunny, flowers blooming.
+0–3s: Lily tries to give baby Frost a bath in a wooden tub; he splashes so hard that Lily is completely soaked.
+DIALOGUE 1–3s: Lily (laughing, dripping): "Frost! Every single time!"
+3–12s: Frost crawls out of the tub, grabs a young pine tree and pulls it out of the ground, roots and all, then looks proud.
+DIALOGUE 6–10s: NARRATOR (deep cinematic trailer voice): "Frost was growing fast... and getting stronger every day."
+DIALOGUE 10–13s: Lily (hands on hips): "Put the tree back, young man."
+12–22s: Martha babysits; she reads a picture book to Frost on the porch. He falls asleep on her lap and starts snoring loudly like a bear, shaking the porch.
+DIALOGUE 16–19s: Martha (whispering, amused Southern voice): "Lord, he snores like my late husband."
+22–30s: Frost wakes up, sees a butterfly, and chases it, stumbling on his chubby legs, then falls into a pile of flowers. He sneezes; petals explode everywhere. Final frame: Frost covered in flower petals, giggling.
+DIALOGUE 27–29s: Lily (laughing): "Bless you, baby!"
+SFX: splashing, laughing, roots ripping, tree thump, page turning, loud snoring, wooden porch creaking, giggles, sneeze, petals.
+MUSIC: bright happy country-folk with banjo and whistling.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 134 - "He Can Talk?!": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 134 - "Tiny Giant Trouble": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -49,7 +49,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 133 | The bear attacked... then a giant black hand caught it 😮👣 #Bigfoot #Movie #Part133
+Part 133 | Bath time with a baby Bigfoot 😂🛁 #Bigfoot #Movie #Part133
 
 DOLA STATUS
 [ ] Images uploaded

@@ -1,13 +1,14 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
-V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
 
 FROST: Son of the Wild
-PART 203 - "Your Father's Home"
-Punch: EMOTION
-Status:-assets
+PART 203 - "The Bride Who Ran"
+Punch: TWIST + EMOTION
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -24,27 +25,28 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V09_Bruno_Spirit.png -> Variant Bruno_Spirit; L04_BrunoCave.png -> Location BrunoCave.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> reference character/location; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; C05_Frost_FACE.png -> Frost; C03_PrinceDamian_FULL.png -> Prince Damian; L02_KingCastle.png -> Location KingCastle.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Late afternoon inside the waterfall cave, warm light through the water.
-0–3s: Lily runs into the cave, out of breath, scared.
-DIALOGUE 1–4s: Lily (soft young Hindi-dubbed woman, worried): "Frost! I've been looking everywhere for you!"
-3–12s: She sees where he is standing and freezes. She looks around the cave slowly: the bed, the fire pit, the broken cradle. Her hand covers her mouth.
-DIALOGUE 6–9s: Kid Frost (young boy voice): "Mom... you know this place?"
-DIALOGUE 9–12s: Lily (whispering, tears coming): "Better than any place in the world."
-12–22s: She kneels by the broken cradle and laughs through her tears.
-DIALOGUE 14–22s: Lily: "Your father built this for you. He sat in it to test it... and it broke. He was so embarrassed."
-DIALOGUE 22–24s: Kid Frost (laughing softly): "He sat in my cradle?"
-22–30s: Lily puts Frost's hand back on the giant handprint on the wall.
-DIALOGUE 24–30s: Lily (emotional): "This was his home. This is where he loved us. This was your father's home, Frost."
-The waterfall light flickers, and for a second a glowing outline of Bruno's hand appears over theirs. Final frame: three hands glowing together.
-SFX: running footsteps, waterfall, crying, soft laugh, a warm magical chime.
-MUSIC: the love theme, full emotional strings and piano.
+Night, inside the half-burnt cabin, a single candle. Frost sits on the floor; Lily sits facing him.
+0–3s: Lily takes a deep breath, wiping tears.
+DIALOGUE 1–5s: Lily (soft, shaking): "I never told you the whole story, Frost. Tonight I will."
+3–25s: Flashback montage in a cold, blue-grey cinematic tint, with Lily's voice-over:
+  3–8s: Lily, in her old blue dress, with her mother in their poor Oregon house; the royal guards arriving.
+  DIALOGUE 5–12s: Lily (voice-over): "I was a poor girl. The king's men came and chose me... as a bride for his son."
+  8–15s: Prince Damian smirking in the throne hall; the dark castle; dragons above.
+  DIALOGUE 12–20s: Lily (voice-over): "Prince Damian. Every week he married a new girl... and after one night, he threw her into the forest for the beasts."
+  15–25s: Lily in the wedding dress hitting Damian with the silver tray and escaping down the bedsheets.
+  DIALOGUE 20–25s: Lily (voice-over, a small sad smile): "So on my wedding night... I hit him with a tray and I ran."
+25–30s: Back to the present. Frost stares, stunned.
+DIALOGUE 26–29s: Frost (deep, shocked): "The prince... was your HUSBAND?"
+SFX: candle flicker, soft echo on the flashback, horses, a dragon roar in the distance, the metal "bonk", wind.
+MUSIC: mysterious, sad flashback theme on strings.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 204 - "Fourth of July": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 204 - "Bruno Was Your Father": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

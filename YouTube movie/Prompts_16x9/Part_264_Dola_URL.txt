@@ -1,12 +1,10 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
 
 FROST: Son of the Wild
-PART 264 - "I Protect"
-Punch: WOW + EMOTION
+PART 264 - "It's the Costume Guy!"
+Punch: FUN + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -25,24 +23,27 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; C05_Frost_FACE.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; S03_HankMiller_FULL.png -> Hank Miller; S10_Villagers_FULL.png -> optional background group, skip unless you want crowd continuity.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powered.png for present-day Frost; do not revert to baby, kid, teen, or unpowered adult Frost unless a memory is explicitly shown.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Underwater vision world, then Mirror Lake at night.
-0–3s: The red-eyed reflection reaches toward Frost.
-DIALOGUE 1–3s: Dark Reflection (cold): "Hate is power. Take it."
-3–12s: Frost hears his mother's voice echoing from above the water, and sees warm memories: baby Frost holding her finger; the "MOM" slate; Martha's sweater; the cradle Bruno built.
-DIALOGUE 4–8s: Lily (voice from above, echoing): "Strong hands... gentle heart, my love."
-DIALOGUE 8–12s: Frost (deep, calm, firm): "I won't destroy. I protect. That's what my father did."
-12–22s: Instead of fighting the dark reflection, Frost hugs it. The red eyes slowly turn blue. The dark self smiles softly and dissolves into thousands of blue lights.
-22–30s: Frost bursts out of Mirror Lake in a huge explosion of water and blue light, lands on the shore on one knee. A fourth glowing blue mark burns across his face like war paint, under his eyes. Lily runs to him. Final frame: Frost's face with the new glowing mark, eyes shining calm blue.
-DIALOGUE 27–30s: Old Joe (slow raspy voice, emotional): "Four. He's done it... the first since Orin."
-SFX: underwater hum, echoing voice, soft memory sounds, a gentle shimmer as the reflection dissolves, a massive water explosion, a heavy landing, a magical burning hum.
-MUSIC: dark tension melting into a beautiful, triumphant emotional choir.
+Daytime, the main street of another small American mountain town called Pine Ridge: a diner, a gas station, a sheriff's office.
+0–3s: Frost lands from the sky in the middle of Main Street. People scream; a sheriff draws his pistol.
+DIALOGUE 1–3s: Sheriff (deep Southern-American voice, shaking): "Don't you move, monster!"
+3–12s: Hank steps out from behind Frost, raising his hands.
+DIALOGUE 4–11s: Hank (deep rural voice): "Easy, Sheriff! He's with us. The king who's been burning towns... we're going to stop him. We need help."
+DIALOGUE 11–14s: Sheriff (unconvinced): "And why should we trust a Bigfoot?"
+12–22s: From the diner, the tourist couple from the Halloween part runs out, excited, pointing.
+DIALOGUE 14–20s: Tourist woman (excited American voice): "Honey! It's the COSTUME GUY from Cedar Hollow! He gave us the best Halloween ever!"
+DIALOGUE 20–22s: Frost (deep, embarrassed): "...Hi again."
+22–30s: The sheriff lowers his gun, then looks at the burnt barn on the edge of his town — burned by the king's dragons last month.
+DIALOGUE 25–29s: Sheriff (firm): "The king burned my brother's farm. Pine Ridge rides with you."
+Final frame: townspeople stepping forward with rifles and horses.
+SFX: landing boom, screams, pistol cock, diner door bell, excited shouting, horses.
+MUSIC: tense Western standoff, a comedic beat, then a proud heroic swell.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 265 - "Where Is His Grave?": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 265 - "Not Yet, Mama": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -51,7 +52,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 264 | He didn't fight his dark side... he HUGGED it 🥹💙 TRIAL 4 COMPLETE ✅ #Bigfoot #Movie #Part264
+Part 264 | "It's the COSTUME GUY!" 😂 ...and the whole town joined Frost #Bigfoot #Movie #Part264
 
 DOLA STATUS
 [ ] Images uploaded

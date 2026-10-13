@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 179 - "Hello, Frost"
-Punch: WOW + EMOTION
-Status:-assets
+PART 179 - "Forest Medicine"
+Punch: EMOTION + ACTION
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -27,26 +28,26 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; L06_AbandonedCabin.png -> Location AbandonedCabin.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S02_MarthaHayes_FULL.png -> Martha Hayes; L04_BrunoCave.png -> Location BrunoCave.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07_Frost_Teen.png for present-day Frost; do not show baby, kid, adult, or powered Frost here.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Inside the cabin, candlelight, snow falling outside the window.
-0–3s: Lily lifts a small bundle wrapped in the old patchwork quilt. The quilt moves. A tiny white furry hand pokes out.
-DIALOGUE 1–4s: Lily (soft, breathless): "Let me see you, little one..."
-3–12s: She slowly opens the quilt: a newborn WHITE baby Bigfoot with fluffy snow-white fur, a pale-pink face and big blue eyes exactly like Lily's. Lily gasps.
-DIALOGUE 6–9s: Lily (shocked whisper): "You're... white. Like the snow."
-12–22s: The baby looks at her and grabs her finger tightly. Lily laughs and cries at the same time. Snowflakes outside start glowing softly for a moment, like magic.
-DIALOGUE 14–17s: Lily (emotional): "You have my eyes... and your papa's grip."
-DIALOGUE 18–21s: Lily (to the window, tearful smile): "Bruno, look. Look at our son."
-22–30s: She holds him close to her face; the baby makes a tiny happy grunt.
-DIALOGUE 25–29s: Lily (soft, loving): "Hello, Frost. Welcome to the world."
-Final frame: Lily kissing the baby's furry forehead, candles glowing, snow outside.
-SFX: quilt rustle, tiny baby grunts and coos, a magical chime as snowflakes glow, crackling fire.
-MUSIC: beautiful emotional orchestra with soft choir, a new gentle "Frost theme" on piano.
+Night, inside Lily's cabin, a stormy night.
+0–3s: Lily lies in bed, pale and sweating with a high fever, shivering. Martha holds a wet cloth to her forehead.
+DIALOGUE 1–6s: Martha (worried Southern voice): "The fever won't go down. The doctor in town is two days away."
+3–12s: Teen Frost kneels by the bed, holding his mother's small hand, scared.
+DIALOGUE 6–9s: Lily (weak whisper): "Don't worry, baby... I'll be okay."
+DIALOGUE 9–13s: Teen Frost (shaking voice): "Mom told me a story... Dad used forest medicine."
+12–22s: Frost runs through the dark forest in the storm, jumping over rivers and fallen trees, lightning flashing, until he reaches the old waterfall cave. Inside, he finds the same green healing leaves still growing on the cave wall.
+DIALOGUE 17–20s: Teen Frost (out of breath): "Please be the right ones..."
+22–30s: Back at the cabin, Frost gently crushes the leaves in his palm, just like Bruno did years ago, and places them on Lily's forehead. By morning, the sun comes in and Lily opens her eyes, smiling, the fever gone. Final frame: Frost asleep on the floor beside her bed, still holding her hand.
+DIALOGUE 26–29s: Lily (soft, smiling with tears): "Just like your father."
+SFX: storm, thunder, heavy breathing, fast footsteps, splashes, waterfall, leaves crushing, morning birds.
+MUSIC: worried strings, a heroic run theme, then Bruno's love theme at the end.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 180 - "Strong Baby": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 180 - "Happy Birthday, Frost": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

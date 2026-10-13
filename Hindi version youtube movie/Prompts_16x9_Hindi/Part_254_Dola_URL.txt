@@ -1,10 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+C06_ElderOrin_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C06_ElderOrin/C06_ElderOrin_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
 
 FROST: Son of the Wild
-PART 254 - "The Iron Trap"
-Punch: ACTION + TWIST
+PART 254 - "Three Generations"
+Punch: WOW + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -26,24 +28,27 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V09_Bruno_Spirit.png -> Variant Bruno_Spirit; C06_ElderOrin_FULL.png -> Elder Orin; V04_Lily_VillageMom.png -> Variant Lily_VillageMom.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powered.png for present-day Frost; do not revert to baby, kid, teen, or unpowered adult Frost unless a memory is explicitly shown.
 
-CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
-The Deep Wild, foggy forest floor.
-0–3s: Frost gets up angry and charges at Old Scar. They crash together like two trucks.
-DIALOGUE 1–4s: Frost (deep, roaring): "Fine! Then we do it the hard way!"
-3–12s: An epic wrestling fight: Frost throws a punch; Old Scar blocks it with his giant paw and throws Frost to the ground; they roll down a slope through ferns.
-DIALOGUE 7–9s: Frost (straining): "You're... strong... old man!"
-12–22s: Frost pins the bear's front leg — and suddenly the bear cries out in real pain, not anger. Frost stops and looks down: Old Scar's back leg is caught in a huge rusty iron trap, chained to a tree. The trap has a red snake-and-crown symbol: the crest of King Magnus Thorne.
-DIALOGUE 17–21s: Frost (quiet, shocked): "The king's hunters... you've been trapped all this time."
-22–30s: Frost slowly lets go and steps back. Old Scar growls, but he's limping, tired and in pain. Frost's face changes from anger to understanding. Final frame: close-up of the rusty trap with the king's crest.
-DIALOGUE 26–29s: Frost (soft): "You're not angry. You're hurting."
-SFX: a heavy crash, roars, punches, rolling through ferns, a painful bear cry, chain clanking, heavy breathing.
-MUSIC: intense fight drums, then a sudden emotional cello note.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Night at Bruno's grave by the river, the spirits in the sky.
+0–3s: Elder Orin's spirit touches his staff to Bruno's head; a river of blue light flows from grandfather into father.
+DIALOGUE 1–3s: Elder Orin (ancient echoing voice): "From me... to my son."
+3–12s: Bruno's spirit reaches down from the sky and places his giant glowing hand on Frost's chest, over the crescent patch. The blue light pours from father into son.
+DIALOGUE 5–9s: Bruno (spirit voice, deep and warm): "From me... to MY son."
+12–22s: Frost rises into the air, glowing. Electric-blue tattoos spread across his arms, chest and face, connecting the four trial marks into one powerful pattern. His fur shines silver. His eyes blaze blue. Lightning dances around him.
+DIALOGUE 16–20s: Bruno (spirit, proud): "I am proud of you, Frost. Protect them. Always."
+22–30s: Frost lands softly, transformed into his powered form. Bruno's spirit looks down at Lily. She looks up, crying.
+DIALOGUE 24–28s: Bruno (spirit, gentle): "Lily... be happy. Bruno love you. Forever."
+DIALOGUE 28–30s: Lily (whispering, smiling through tears): "Forever."
+Final frame: the spirits fading into the stars; powered Frost and Lily holding hands at the grave.
+SFX: massive magical energy surge, electric crackling, wind, a deep heartbeat, a soft landing, the spirits' echoing voices fading.
+MUSIC: the biggest emotional climax so far: full orchestra and choir with Bruno's love theme.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 255 - "Gentle Heart": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 255 - "Lightning Breath": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

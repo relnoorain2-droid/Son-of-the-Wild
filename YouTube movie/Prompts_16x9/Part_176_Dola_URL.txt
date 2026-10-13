@@ -1,12 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
 S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 176 - "The King's Men in Town"
-Punch: TWIST + ACTION
+PART 176 - "The County Fair"
+Punch: FUN + WOW
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -25,27 +24,25 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; S07_CaptainVex_FULL.png -> Captain Vex; S03_HankMiller_FULL.png -> Hank Miller; S02_MarthaHayes_FULL.png -> Martha Hayes.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; S03_HankMiller_FULL.png -> Hank Miller; S10_Villagers_FULL.png -> optional background group, skip unless you want crowd continuity; L07_Village.png -> Location Village.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07_Frost_Teen.png for present-day Frost; do not show baby, kid, adult, or powered Frost here.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Snowy afternoon, Cedar Hollow main street.
-0–3s: Black war horses gallop into the snowy village. Villagers pull their kids inside.
-DIALOGUE 1–3s: Captain Vex (harsh loud threatening voice): "Everyone, outside! NOW!"
-3–12s: Vex holds up a wanted poster with a drawing of Lily's face (no readable text needed).
-DIALOGUE 4–11s: Captain Vex: "The king wants proof the runaway bride is dead. Blonde. Blue eyes. Anyone hiding her... burns with her."
-12–22s: Inside the general store, Lily hides behind barrels, hand over her mouth. Vex walks in slowly, boots creaking. Martha stands at the counter, calm.
-DIALOGUE 15–18s: Captain Vex (cold): "You seen her, old woman?"
-DIALOGUE 18–22s: Martha (calm, warm Southern voice): "Honey, at my age I can't see my own feet."
-22–30s: Vex's eyes move to the barrels. He steps closer. Hank appears at the door, his shotgun pointed at the floor — and this time the whole village stands behind him with pitchforks and shovels.
-DIALOGUE 24–28s: Hank (deep, firm): "She's not here, Captain. Time for you to leave."
-Final frame: Vex smiling coldly, backing out.
-DIALOGUE 28–30s: Captain Vex: "We'll be back."
-SFX: horses in snow, doors slamming, poster paper, creaking boots, heartbeat, heavy boots on the porch, villagers stepping forward.
-MUSIC: dark villain theme, tense strings, then a brave heroic swell for the villagers.
+Sunny day at a small-town American county fair: a Ferris wheel, cotton candy, hay bales, a big "lumberjack games" stage with wooden logs.
+0–3s: Three huge bearded lumberjacks in plaid shirts each throw a big log; the crowd cheers.
+DIALOGUE 1–4s: Announcer (loud enthusiastic American fair announcer voice): "Fifteen feet! A new county record!"
+3–12s: Teen Frost steps up nervously. The lumberjacks laugh at him.
+DIALOGUE 5–8s: Lumberjack (rough deep voice, mocking): "Go home, fuzzy. This is a man's game."
+DIALOGUE 8–11s: Hank (shouting from the crowd): "Show 'em, Frost!"
+12–22s: Frost picks up not one log but the entire stack of logs, all at once. The crowd goes silent. He spins and throws. The logs fly over the Ferris wheel and land in a lake far away with a distant splash.
+DIALOGUE 18–21s: Announcer (stunned, slow): "That's... that's in the next county."
+22–30s: The crowd explodes in cheers. The lumberjacks' jaws drop. One of them faints. Frost receives a giant blue-ribbon trophy and grins shyly. Final frame: Frost holding the tiny trophy in his huge hand.
+DIALOGUE 26–29s: Teen Frost (energetic teenage voice, voice cracking): "Can I... keep the logs too?"
+SFX: fair music, crowd cheering, logs thudding, mocking laughter, a massive throw whoosh, distant splash, fainting thump.
+MUSIC: upbeat country fair fiddle and banjo, a triumphant brass hit for the throw.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 177 - "It's Time": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 177 - "Driving Lesson": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -54,7 +51,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 176 | The king's men came looking for her... the whole town stood up 💪🏡 #Bigfoot #Movie #Part176
+Part 176 | They told him "this is a man's game"... he threw the logs into the next county 😂🪵 #Bigfoot #Movie #Part176
 
 DOLA STATUS
 [ ] Images uploaded

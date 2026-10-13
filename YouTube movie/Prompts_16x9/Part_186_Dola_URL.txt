@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 186 - "Torches at the Door"
-Punch: ACTION + EMOTION
+PART 186 - "A Perfect Day"
+Punch: EMOTION + CLIFFHANGER
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -24,27 +25,26 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; S03_HankMiller_FULL.png -> Hank Miller; S10_Villagers.png -> optional background group, skip unless you want crowd continuity.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; S02_MarthaHayes_FULL.png -> Martha Hayes.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Dusk, in front of Lily's cabin, villagers with torches and pitchforks.
-0–3s: An angry crowd of villagers marches up the path with torches; Hank leads them, holding a lantern and a pitchfork.
-DIALOGUE 1–3s: Hank (deep rural American voice, angry and scared): "Lily! Bring out that creature!"
-3–12s: Lily steps out of the cabin and stands in front of the door, arms wide.
-DIALOGUE 4–6s: Villager man (angry): "It'll eat our children!"
-DIALOGUE 6–9s: Villager woman (scared): "It's one of those forest beasts!"
-DIALOGUE 9–12s: Lily (firm, shaking): "He's a BABY! He's my son!"
-12–22s: The crowd goes silent. Hank lowers his pitchfork a little, confused.
-DIALOGUE 13–17s: Hank: "Your son? Lily... what in God's name happened in that forest?"
-DIALOGUE 17–24s: Lily (emotional): "His father saved my life from the king's beasts. He died protecting us. That's all you need to know."
-22–30s: Behind her, the cabin door creaks open. Baby Frost crawls out holding the teddy bear. The crowd raises their pitchforks in panic. Lily turns, terrified. Final frame: a dozen torches pointing at the tiny white baby.
-DIALOGUE 27–29s: Lily (screaming): "Frost, NO! Go back inside!"
-SFX: marching footsteps, crackling torches, angry murmurs, door creak, crowd gasping, pitchforks raised.
-MUSIC: tense dramatic strings and drums.
+Early morning in Cedar Hollow, a peaceful, perfect sunny day.
+0–3s: Frost carries two fishing rods and a picnic basket; Lily walks beside him, smiling.
+DIALOGUE 1–5s: Lily (soft, happy): "Just you and me today. Like the old days."
+3–12s: Martha waves from her porch with a mug of coffee.
+DIALOGUE 5–9s: Martha (warm Southern voice): "Catch me a big one, Frost! I'm making fish pie tonight!"
+DIALOGUE 9–12s: Frost (deep warm voice, laughing): "The biggest in the river, Grandma Martha!"
+12–20s: Mother and son walk over the hill toward the far river. Kids wave goodbye. Everything is peaceful: laundry on lines, a dog sleeping, children playing.
+DIALOGUE 15–19s: NARRATOR (deep cinematic trailer voice): "It was the most perfect day Cedar Hollow had ever seen..."
+20–30s: Hard cut: on the other side of the mountains, King Magnus in black battle armor rides the red dragon at the front of a huge army: dark Bigfoots, mammoths, soldiers, flying dragons. Captain Vex points toward Cedar Hollow. Final frame: the dragon's shadow sliding over the hills toward the peaceful village.
+DIALOGUE 25–29s: NARRATOR: "...and the last."
+SFX: birds, footsteps, a porch creak, kids laughing, dog snoring, then war horns, dragon wings, marching army.
+MUSIC: warm, happy country melody, cut sharply into a dark war theme.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 187 - "The Teddy Bear": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 187 - "Too Tall For The Door": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -53,7 +53,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 186 | The whole village came with torches... for a baby 😢🔥 #Bigfoot #Movie #Part186
+Part 186 | The most perfect day in Cedar Hollow... and the last 😰🐉 #Bigfoot #Movie #Part186
 
 DOLA STATUS
 [ ] Images uploaded

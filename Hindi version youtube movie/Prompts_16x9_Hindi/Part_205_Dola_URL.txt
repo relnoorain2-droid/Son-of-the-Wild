@@ -1,12 +1,14 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
+V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
 
 FROST: Son of the Wild
-PART 205 - "Growth Spurt"
-Punch: FUN
-Status:-assets
+PART 205 - "Your Father, Bruno"
+Punch: EMOTION
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -27,26 +29,29 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; L06_AbandonedCabin.png -> Location AbandonedCabin.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> reference character/location; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; C05_Frost_FACE.png -> Frost; C04_Bruno_FULL.png -> Bruno; V09_Bruno_Spirit.png -> Variant Bruno_Spirit.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Morning, inside Lily's cozy cabin.
-0–3s: Teen Frost (8 feet tall now) wakes up, stretches, stands up — and his head goes straight through the cabin roof. Shingles fly.
-DIALOGUE 1–3s: Teen Frost (energetic teenage boy voice, voice cracking): "Oh no. Not AGAIN!"
-3–12s: Outside, the camera shows his head sticking out of the roof. A bird sits on his head. Lily walks out with coffee.
-DIALOGUE 5–10s: NARRATOR (deep cinematic trailer voice): "A few more years... and Frost was growing faster than the cabin."
-DIALOGUE 10–13s: Lily (sighing, smiling): "That's the third roof this year, honey."
-12–22s: Frost tries to speak deeply like a man, but his voice cracks high and low.
-DIALOGUE 14–19s: Teen Frost (deep voice) "Mom, I am a grown-up now—" (voice cracks very high) "—and I can fix it MYSELF!"
-DIALOGUE 19–21s: Lily (laughing): "Sure you can, big man."
-22–30s: Frost pulls his head out, holds a hammer, hits one nail — and the whole porch collapses. Silence. A shingle falls on his head. Final frame: Frost slowly turning to his mother with an innocent face.
-DIALOGUE 27–29s: Teen Frost (tiny voice): "...Can Hank fix it?"
-SFX: stretching groan, roof crash, shingles flying, bird chirp, coffee sip, voice crack, hammer tap, porch collapse, shingle bonk.
-MUSIC: upbeat comedic country-rock.
+Night, inside the cabin, candlelight. Lily holds the small framed flower.
+0–3s: Lily smiles through tears.
+DIALOGUE 0–4s: Lily (soft): "No. My heart only had one husband. Your father. Bruno."
+3–24s: Flashback montage in warm golden light, with Lily's voice-over:
+  3–9s: Bruno catching the grizzly's claw; Bruno saying "Bruno also sing. Badly."; Bruno shaking water on Lily.
+  DIALOGUE 4–10s: Lily (voice-over): "He saved me from the beasts. He was gentle, and funny, and he sang so badly."
+  9–16s: Bruno spinning her in the meadow; Bruno shouting "BRUNO WILL BE PAPA!"
+  DIALOGUE 10–15s: Lily (voice-over): "When he found out about you, his roar shook the whole forest."
+  16–24s: Bruno alone at sunset facing the army; the red lightning; Bruno falling in silhouette (no gore).
+  DIALOGUE 17–26s: Lily (voice-over, breaking): "The king's army came. He pushed me into the river to save us... and he fought them all alone. King Magnus killed him."
+24–30s: Back to the present. Frost has tears running down his face.
+DIALOGUE 26–30s: Lily (crying): "His last words were your name, Frost. He named you."
+Final frame: Frost looking at the flower in the frame, his hands shaking.
+SFX: soft echo for flashbacks, Bruno's roar, laughter, war horns, red lightning, then silence and crying.
+MUSIC: Bruno's love theme, swelling into tragic choir, then silence.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 206 - "Doorway Problem": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 206 - "I Will Face Magnus": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

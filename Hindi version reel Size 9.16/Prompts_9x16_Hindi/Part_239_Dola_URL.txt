@@ -1,12 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-K03_SmallDragons.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K03_SmallDragons/K03_SmallDragons.png
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
 
 FROST: Son of the Wild
-PART 239 - "Dragon Catcher"
-Punch: WOW + ACTION
+PART 239 - "Trial 2: Old Scar"
+Punch: ACTION + WOW
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -24,23 +23,24 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V12_Tommy_Adult.png -> Variant Tommy_Adult; K03_SmallDragons.png -> Creature SmallDragons; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
-Night, the sky above Cedar Hollow, full moon, smoke.
-0–3s: Three smaller dragons dive at the village and breathe fire on the log wall.
-DIALOGUE 1–3s: Villager (shouting): "Dragons! The wall's on fire!"
-3–12s: Frost crouches, then jumps an incredible height into the air — higher than the trees — and grabs a dragon by the tail in mid-air.
-DIALOGUE 6–8s: Frost (deep, shouting): "Get away from my home!"
-12–22s: He spins the dragon around and throws it into a second dragon; they tumble out of the sky and crash into the forest. He lands on the back of the third dragon and rides it like a bucking horse.
-DIALOGUE 16–19s: Tommy (on the wall, amazed): "He's RIDING it! He's riding a dragon!"
-22–30s: Frost steers the dragon down into the river; it crashes into the water with a giant splash and flies away, wet and scared. Frost lands on his feet in the shallow water. Final frame: Frost in the river, fire behind him, the full moon above.
-DIALOGUE 26–29s: Frost (deep, smiling, shaking water off): "Like father, like son."
-SFX: dragon dives, fire whoosh, a massive jump whoosh, tail grab, dragon screeches, a mid-air crash, trees breaking, bucking wings, a giant splash.
-MUSIC: epic adventure orchestra with a heroic choir.
+The "Deep Wild": the darkest, oldest part of the redwood forest, giant twisted trees, fog, strange silence. A glowing blue mark shines on Frost's right forearm.
+0–3s: Old Joe stops at the edge of the dark trees and won't go further.
+DIALOGUE 1–6s: Old Joe (slow raspy voice): "Trial two. Earn the trust of the king of the wild. Old Scar."
+3–12s: Frost walks in alone. Bones and claw marks on the trees. A deep growl shakes the ground. Out of the fog rises Old Scar: a gigantic ancient grizzly bear, twice the size of a normal bear, silver-grey fur, a long white scar over one eye.
+DIALOGUE 7–10s: Frost (deep voice, confident): "Easy, big guy. I'm a friend."
+12–22s: Frost's eyes glow blue; he uses the low animal rumble that always worked. Old Scar doesn't stop. He roars right in Frost's face, so loud Frost's fur blows back.
+DIALOGUE 16–18s: Frost (surprised): "Okay... that usually works."
+22–30s: Old Scar swipes and sends Frost flying backward through two small trees. Frost lands hard and looks up, stunned. Final frame: the giant bear standing over him, roaring.
+DIALOGUE 27–29s: Frost (groaning): "Definitely... not a friend."
+SFX: eerie silence, crunching bones, a deep earth-shaking growl, magical hum, a massive roar, a heavy swipe, trees snapping, a heavy landing.
+MUSIC: dark tense jungle drums, a heavy hit with the swipe, a small comedic beat at the end.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 240 - "The Frying Pan": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 240 - "The Iron Trap": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

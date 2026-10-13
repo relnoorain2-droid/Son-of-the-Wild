@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
-S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
-S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
-V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
 
 FROST: Son of the Wild
-PART 185 - "MONSTER!"
-Punch: FUN + TWIST
+PART 185 - "Rockslide"
+Punch: ACTION + WOW
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -28,23 +28,25 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V05_Frost_Baby.png -> Variant Frost_Baby; S05_TommyMiller_FULL.png -> Tommy Miller; S06_SarahMiller_FULL.png -> Sarah Miller; L06_AbandonedCabin.png -> Location AbandonedCabin.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V12_Tommy_Adult.png -> Variant Tommy_Adult; S03_HankMiller_FULL.png -> Hank Miller; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
-Afternoon, the forest edge behind the cabin.
-0–3s: Tommy and Sarah sneak toward Lily's cabin with a homemade gift basket.
-DIALOGUE 1–3s: Tommy (excited young boy, whispering): "Let's surprise Miss Lily's baby!"
-3–12s: Baby Frost (now a bit bigger, crawling fast) crawls out of the bushes holding Sarah's dropped teddy bear in his mouth like a puppy. The kids freeze.
-DIALOGUE 7–9s: Sarah (small cute girl voice): "Tommy... is that a puppy?"
-DIALOGUE 9–11s: Tommy (shaking): "That's NOT a puppy."
-12–22s: Frost happily crawls toward them and lets out his little roar. The kids scream and Frost screams back, scared too. All three scream at each other.
-22–30s: Tommy grabs Sarah and runs toward the village, screaming. Frost sits alone holding the teddy bear, confused and sad. Final frame: Tommy running into the village street.
-DIALOGUE 25–29s: Tommy (screaming at the top of his lungs): "MONSTER! THERE'S A MONSTER AT MISS LILY'S HOUSE!"
-SFX: footsteps in leaves, bushes rustling, baby grunts, little roar, triple screaming, running, village dogs barking.
-MUSIC: comedic suspense, a funny triple-scream sting, then worried strings.
+Afternoon, a mountain road above Cedar Hollow, a steep cliff, a logging truck driving down.
+0–3s: Rocks start falling from the mountain. A massive rockslide thunders down toward the road where Hank's pickup truck and Tommy are driving.
+DIALOGUE 1–3s: Tommy (young man voice, screaming): "Dad, LOOK OUT!"
+3–12s: Boulders the size of houses bounce down the slope. Frost, nearby, sprints up the road.
+DIALOGUE 6–8s: Frost (deep powerful voice): "Hank! Stop the truck!"
+12–22s: Frost jumps in front of the truck and catches a giant boulder with both hands, his feet sliding back on the road. He throws it off the cliff. He punches another into pieces. He shields the truck with his back as the last rocks hit him and bounce off his fur without hurting him.
+DIALOGUE 17–19s: Frost (straining): "Not today!"
+22–30s: The dust settles. The truck is safe. Frost stands up, shakes rocks off his fur like a dog, unhurt. Hank and Tommy stare. Final frame: a huge boulder broken on Frost's back, Frost smiling.
+DIALOGUE 24–28s: Hank (stunned, deep voice): "Son... the rocks broke on YOU."
+DIALOGUE 28–30s: Frost (shrugs): "Felt like rain."
+SFX: rumbling mountain, crashing boulders, tires screeching, heavy catch impact, feet sliding, punch shattering rock, rocks bouncing, dust settling.
+MUSIC: intense action drums and brass, with a cool heroic sting at the end.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 186 - "Torches at the Door": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 186 - "A Perfect Day": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

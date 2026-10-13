@@ -1,13 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 280 - "For Everyone He Hurt"
-Punch: WOW + EMOTION
-Status: ready - URL PACKAGE
+PART 280 - "Red Lightning"
+Punch: ACTION + CLIFFHANGER
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -24,26 +24,26 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S02_MarthaHayes_FULL.png -> Martha Hayes; K09_Wolves.png -> Creature Wolves.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K01_DarkBigfoot.png -> Creature DarkBigfoot.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powered.png for present-day Frost; do not revert to baby, kid, teen, or unpowered adult Frost unless a memory is explicitly shown.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Dawn, a huge meadow. The whole army gathered: villagers from Cedar Hollow, Pine Ridge and Millbrook with rifles, pitchforks and frying pans; riders on elk and bison; bears, wolves, mountain lions; eagles on every tree. Frost stands on a big rock in front of them, glowing.
-0–3s: Frost raises his hand; everyone goes silent.
-DIALOGUE 1–3s: Frost (deep, powerful voice, echoing): "Look around you!"
-3–20s: Slow camera moves across the faces of the army as he speaks.
-DIALOGUE 4–10s: Frost: "Farmers. Grandmothers. Wolves. Bears. Nobody thought we'd stand together. The king never thought so either."
-DIALOGUE 10–18s: Frost: "We don't march for revenge. We march for every bride he threw to the forest. For every town he burned."
-DIALOGUE 18–23s: Frost (emotional): "For my father, Bruno... who fought an army alone so I could live."
-20–30s: Frost raises his fist; lightning shoots into the sky.
-DIALOGUE 23–27s: Frost (roaring): "TODAY, NOBODY FIGHTS ALONE!"
-The entire army roars back; wolves howl, bears roar, eagles scream, people cheer. Final frame: wide shot of the huge army cheering under the sunrise.
-DIALOGUE 27–29s: Martha (shouting, raising her frying pan): "Let's GO, sugar!"
-SFX: wind, total silence, echoing speech, a lightning crack, a massive roar of people and animals, howls, eagle screams.
-MUSIC: a big, emotional, epic war-speech theme with full orchestra and choir.
+The battlefield, Thorne Castle's highest tower above.
+0–3s: On the highest tower, King Magnus raises his staff. The red crystal glows brighter than ever.
+DIALOGUE 1–3s: King Magnus (deep, menacing): "Enough games, boy."
+3–12s: A huge bolt of RED lightning shoots from the tower and hits Frost in the chest. He is thrown back across the battlefield and crashes into the ground, leaving a long trench.
+DIALOGUE 6–8s: Lily (screaming from the battlefield): "FROST!"
+12–22s: Frost tries to stand. His blue tattoos flicker on and off. The red magic crawls over his fur like chains. Dark Bigfoots that ran away come back and pile on top of him, holding him down.
+DIALOGUE 16–20s: Frost (deep, weak, straining): "My power... it's fighting me..."
+22–30s: King Magnus laughs from the tower, his voice echoing over the whole battlefield.
+DIALOGUE 24–29s: King Magnus (booming): "Your grandfather's crystal... killing his own grandson! How poetic!"
+Final frame: Frost buried under dark Bigfoots, only his flickering blue hand visible.
+SFX: crystal charging hum, a huge red lightning crack, a body thrown, a crash and dirt explosion, flickering electricity, heavy bodies piling on, the king's echoing laugh.
+MUSIC: dark, desperate orchestra, choir hitting a low note.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 281 - "The March": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 281 - "Get Up, Frost": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

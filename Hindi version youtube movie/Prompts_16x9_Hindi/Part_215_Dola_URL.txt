@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
+K06_WarMammoth.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K06_WarMammoth/K06_WarMammoth.png
+V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
 
 FROST: Son of the Wild
-PART 215 - "Happy Birthday, Frost"
-Punch: FUN + EMOTION
+PART 215 - "Bacon Grease"
+Punch: ACTION + FUN
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -27,26 +28,25 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S02_MarthaHayes_FULL.png -> Martha Hayes.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V10_Damian_Battle.png -> Variant Damian_Battle; C05_Frost_FULL.png -> Frost; K06_WarMammoth.png -> Creature WarMammoth; K01_DarkBigfoot.png -> Creature DarkBigfoot.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-A sunny afternoon party in Cedar Hollow's town square, balloons, bunting, picnic tables.
-0–3s: Villagers wheel out a giant birthday cake the size of a pickup truck.
-DIALOGUE 1–3s: Everyone (cheerful crowd): "SURPRISE! Happy birthday, Frost!"
-3–12s: Frost covers his mouth, overwhelmed. He leans in to blow out the candles — his breath blows away every hat, a balloon stand, and Martha's big church hat flies off and lands on a goat.
-DIALOGUE 7–10s: Martha (shocked, then laughing, pointing at the goat): "Oh, for heaven's sake! That's my Sunday hat!"
-12–22s: Gifts: Sarah (now about 14, blonde braid, yellow sweater) gives him a drawing of the whole village holding hands with him; Martha gives him a hand-knitted sweater that is HUGE — it finally fits.
-DIALOGUE 16–19s: Martha (proud): "I've been knitting this one for three years."
-DIALOGUE 19–21s: Teen Frost (shy, emotional): "It fits... it actually fits!"
-22–30s: Lily gives the last gift: the small dried flower from Bruno, now in a little wooden frame.
-DIALOGUE 25–29s: Lily (soft): "From your father. He'd want you to have it."
-Final frame: Frost holding the tiny frame to his chest, tears in his eyes, the whole village smiling.
-SFX: cheering, balloons, a huge whoosh of breath, hats flying, laughter, paper rustling, gentle applause.
-MUSIC: happy birthday-style party music, turning into the soft Frost theme.
+CAST NOTE: Tommy = a young man (about 22), messy brown hair, light freckles, red baseball cap, plaid flannel shirt; Hank = a sturdy farmer, grey-brown beard, worn cowboy hat, plaid shirt, overalls.
+Night battle in front of Cedar Hollow, full moon, torches, smoke.
+0–3s: Prince Damian swings his sword forward.
+DIALOGUE 0–2s: Prince Damian (screaming): "ATTACK!"
+3–12s: Three armored war mammoths charge up the hill road — and hit the greased mud. Their legs slide in every direction like on ice; they spin, crash into each other and slide all the way back down the hill, knocking over soldiers like bowling pins.
+DIALOGUE 7–10s: Tommy (young man, laughing on the wall): "TOLD YOU! Mammoths on grease!"
+12–22s: Dark Bigfoots charge the wall and fall straight into the hidden pits, one after another. Wolves leap out from the forest and bite at the soldiers' legs, chasing them away.
+DIALOGUE 15–18s: Hank (shouting): "The traps are working! Hold the wall!"
+22–30s: A dark Bigfoot climbs out of a pit right in front of Frost. Frost cracks his knuckles. Final frame: Frost smiling, blue sparks in his eyes.
+DIALOGUE 26–29s: Frost (deep, cool): "My turn."
+SFX: battle cries, mammoth trumpets, slipping and sliding, a huge crash, bowling-pin knock sounds, branches breaking, pits thudding, wolf snarls, soldiers yelling, knuckle cracks.
+MUSIC: epic battle music with a comedic sting for the mammoth slide.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 216 - "Cedar Hollow Home": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 216 - "Frost vs the Dark Bigfoots": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

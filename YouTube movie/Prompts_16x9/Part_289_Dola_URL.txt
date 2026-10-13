@@ -1,13 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K03_SmallDragons.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K03_SmallDragons/K03_SmallDragons.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
-V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
 
 FROST: Son of the Wild
-PART 289 - "Free the Dragons"
-Punch: ACTION + WOW
-Status: ready - URL PACKAGE
+PART 289 - "The Room with the Names"
+Punch: EMOTION + TWIST
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -25,24 +23,24 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V13_Sarah_Adult.png -> Variant Sarah_Adult; V12_Tommy_Adult.png -> Variant Tommy_Adult; S07_CaptainVex_FULL.png -> Captain Vex; K03_SmallDragons.png -> Creature SmallDragons.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; L02_KingCastle.png -> Location KingCastle.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powered.png for present-day Frost; do not revert to baby, kid, teen, or unpowered adult Frost unless a memory is explicitly shown.
 
-The underground dragon pens beneath Thorne Castle, torchlight, chains.
-0–3s: Captain Vex steps out of the shadows with his axe, blocking the tunnel.
-DIALOGUE 1–4s: Captain Vex (harsh voice, cruel smile): "Well, well. Rats in my dungeon."
-3–12s: Tommy steps in front of Sarah, raising a pitchfork. Vex snaps it in half with one swing of his axe.
-DIALOGUE 5–8s: Tommy (shaking but brave): "You'll have to go through me!"
-DIALOGUE 8–10s: Captain Vex (laughing): "Gladly, boy."
-12–22s: Behind them, Sarah and Rose use a big iron key ring and a hammer to break the chain on the young green dragon's leg. The chain snaps. The dragon's eyes change from red to gold.
-DIALOGUE 16–19s: Sarah (shouting): "You're FREE! Go!"
-22–30s: Vex raises his axe over Tommy — and the young green dragon blasts him with a burst of (golden) fire from behind, not burning him but launching him into a pile of hay. The dragon grabs Vex by the back of his armor and flies away with him through a hole in the cave ceiling, Vex screaming. Final frame: Tommy on the ground, staring up, the dragon flying away with Vex dangling.
-DIALOGUE 27–30s: Tommy (shocked, laughing): "Did a dragon just... take out the trash?"
-SFX: footsteps, a cruel laugh, a pitchfork snapping, chain hammering, a chain snapping, a happy dragon chirp, a fire burst, a hay pile thump, wing beats, Vex screaming fading away.
-MUSIC: tense villain theme, then a heroic, joyful dragon theme.
+Inside Thorne Castle, a dusty, gloomy old bedroom with red curtains, a broken bed, stone walls. Dust falling through a giant hole in the wall.
+0–3s: Frost lies in the rubble, coughing, slowly opening his eyes. Dust and small stones fall on him.
+DIALOGUE 1–3s: Frost (deep, groaning): "Ugh... where am I?"
+3–12s: He sits up and sees the stone wall in front of him: dozens of women's names scratched into the stone ("Emily", "Sarah", "Kate"...), and below them, in big desperate scratches, the word "RUN".
+DIALOGUE 7–10s: Frost (whispering, realizing): "This is... the room. Mom's room."
+12–22s: He touches the scratched names slowly with one glowing finger. He remembers his mother's story. His eyes fill with tears.
+DIALOGUE 15–20s: Frost (deep, emotional): "All of you... nobody came for you. I'm sorry I'm so late."
+22–30s: Frost picks up a sharp stone and carefully scratches one more line under all the names. Then he stands up, tattoos blazing. Final frame: the new words carved under "RUN": "NO MORE."
+DIALOGUE 27–29s: Frost (deep, determined): "No more. Never again."
+SFX: falling dust, coughing, stones rolling, stone scratching, a magical surge of power, distant battle noise.
+MUSIC: a quiet, haunting, emotional theme, rising to determination.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 290 - "Gentle Giants": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 290 - "Chains Aren't Enough": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -51,7 +49,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 289 | They freed ONE dragon... and it carried Captain Vex away 🐉😂 #Bigfoot #Movie #Part289
+Part 289 | He crashed into the room where all the brides' names were scratched... and wrote "NO MORE" 😢✊ #Bigfoot #Movie #Part289
 
 DOLA STATUS
 [ ] Images uploaded

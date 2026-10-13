@@ -1,12 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
 
 FROST: Son of the Wild
-PART 243 - "The Beast Is Dead"
-Punch: TWIST + EMOTION
+PART 243 - "Trial 3: Thunder Peak"
+Punch: WOW + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,26 +20,26 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V10_Damian_Battle.png -> Variant Damian_Battle; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S07_CaptainVex_FULL.png -> Captain Vex; S02_MarthaHayes_FULL.png -> Martha Hayes.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Dawn after the battle, smoke drifting over Cedar Hollow's broken log wall.
-0–3s: Captain Vex limps out of the forest, bruised, his armor dented. Two soldiers drag the unconscious Prince Damian behind them on a stretcher.
-DIALOGUE 1–3s: Captain Vex (harsh voice, hoarse): "The white beast is dead!"
-3–12s: The surviving soldiers cheer weakly. Vex looks up at the villagers on the wall.
-DIALOGUE 5–10s: Captain Vex: "Keep your gold. Next time the king comes himself... and he burns everything."
-DIALOGUE 10–12s: Prince Damian (half-conscious, mumbling): "...frying pan..."
-12–22s: The army retreats into the forest. The villagers don't cheer. Everyone turns to look at Lily.
-DIALOGUE 15–18s: Martha (soft Southern voice): "Lily, honey..."
-22–30s: Lily walks alone to the edge of the cliff and stares down at the waterfall, her hair moving in the wind. Her face is calm, determined, no tears.
-DIALOGUE 25–29s: Lily (quiet, firm): "He's not dead. A mother knows. My son is NOT dead."
-Final frame: Lily at the cliff edge, the sun rising behind the waterfall.
-SFX: crackling embers, limping footsteps, stretcher creaking, weak cheers, marching away, wind, waterfall roar.
-MUSIC: sad strings, then a single hopeful note.
+Afternoon at the foot of Thunder Peak: a black, jagged mountain whose top is always covered by a giant spinning storm cloud with constant lightning.
+0–3s: Wide shot: Thunder Peak, lightning striking its summit again and again. Frost, Lily and Old Joe stand small at its base.
+DIALOGUE 1–6s: Old Joe (slow raspy voice): "Thunder Peak. Climb to the top. Touch the lightning... and survive it."
+3–12s: Lily grabs Frost's hand. She is scared.
+DIALOGUE 6–11s: Lily (soft, shaking): "Frost, please. You've already done two. You don't have to do this one."
+DIALOGUE 11–14s: Frost (deep, gentle): "Yes I do, Mom. For Dad."
+12–22s: Lily takes the small framed flower from her coat and tucks it into the fur on Frost's chest, near the crescent patch.
+DIALOGUE 15–19s: Lily (crying): "Then take your father with you."
+22–30s: Frost hugs her, turns, and starts climbing. Lightning flashes. Lily watches him get smaller and smaller on the black rock. Final frame: tiny Frost on the giant mountain, lightning striking above him.
+DIALOGUE 26–29s: Lily (whispering, praying): "Bruno... watch over our boy."
+SFX: constant thunder, wind howling, lightning cracks, rocks, crying, climbing.
+MUSIC: epic, ominous, mountain-sized orchestral theme.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 244 - "Find Him": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 244 - "The Climb": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -49,7 +48,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 243 | They said Frost is dead... his mother says NO 💔 #Bigfoot #Movie #Part243
+Part 243 | Trial 3: climb Thunder Peak and touch the lightning ⚡⛰️ #Bigfoot #Movie #Part243
 
 DOLA STATUS
 [ ] Images uploaded

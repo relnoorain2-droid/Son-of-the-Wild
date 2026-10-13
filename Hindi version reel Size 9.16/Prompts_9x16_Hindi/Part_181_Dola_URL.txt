@@ -1,13 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 181 - "The Socks Fit"
-Punch: FUN + TWIST
-Status: ready - URL PACKAGE
+PART 181 - "Cedar Hollow Home"
+Punch: EMOTION + WOW
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -24,25 +23,30 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; S02_MarthaHayes_FULL.png -> Martha Hayes; L06_AbandonedCabin.png -> Location AbandonedCabin.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S10_Villagers_FULL.png -> optional background group, skip unless you want crowd continuity; L07_Village.png -> Location Village.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07_Frost_Teen.png for present-day Frost; do not show baby, kid, adult, or powered Frost here.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Inside the cabin, morning.
-0–3s: Lily quickly hides baby Frost in a laundry basket under a pile of clothes and opens the door with a huge fake smile.
-DIALOGUE 1–3s: Lily (nervous): "Martha! Hi! What a surprise!"
-3–12s: Martha walks in with a pot of soup and sees Lily is no longer pregnant.
-DIALOGUE 5–10s: Martha (warm Southern voice, shocked): "Lily! You had the baby? All alone? Why didn't you call me?"
-DIALOGUE 10–12s: Lily (nervous): "It... happened fast."
-12–22s: Martha looks around excitedly. The laundry basket moves. A tiny white furry foot pokes out wearing one of the EXTRA BIG socks Martha knitted. Martha slowly looks at it.
-DIALOGUE 16–18s: Martha (confused): "...Is that my sock?"
-22–30s: Frost pops his head out of the clothes, a shirt on his head, and makes a tiny happy grunt. Martha drops the soup pot. She stares for a long moment. Final frame: Martha's glasses sliding down her nose.
-DIALOGUE 26–29s: Martha (in a tiny shocked voice): "Well... I guess the socks fit."
-SFX: rustling clothes, door opening, basket wobbling, tiny grunt, soup pot clang, dramatic silence.
-MUSIC: sneaky comedic pizzicato, stopping dead for the reveal, then one comedic note.
+Golden evening montage in Cedar Hollow, autumn leaves, string lights, a fiddle player on a porch.
+0–3s: A villager plays a fiddle on a porch; people start clapping along. Lily stands up and smiles.
+DIALOGUE 1–3s: Lily (soft young Hindi-dubbed woman, cheerful): "Alright, everybody, sing with me!"
+3–27s: The whole village SINGS together, clearly audible, lip-synced, upbeat country-folk, Lily leading:
+  3–10s: Lily sings: "Porch lights on and the kettle's warm, we stand together through every storm."
+  — Shots: Frost carrying three kids on his shoulders; Hank rebuilding the water tower with Frost holding it.
+  10–20s: Everyone sings: "Oh Cedar Hollow, you're my home, never gonna walk this road alone..."
+  — Shots: the whole village waving from porches; Frost lifting Martha's car out of the mud; the wolves sleeping near the sheep.
+  20–27s: Everyone sings: "...big or small, we're family, here in Cedar Hollow... home."
+  — Shots: Frost in the middle of the town square, everyone hugging him at once.
+27–30s: Everyone squeezes into one giant group hug around Frost; he laughs and hugs them back very gently. Final frame: the whole town in one big hug.
+DIALOGUE 27–30s: Frost (deep teenage voice, laughing): "Group hug! Careful, careful!"
+DIALOGUE 8-11s: Hank (deep friendly rural voice): "Cedar Hollow, make some noise for our boy!"
+DIALOGUE 15-18s: Villagers (warm crowd voices): "Frost! Frost! Frost!"
+SFX: clapping, stomping boots, laughter, crickets.
+MUSIC: upbeat American country-folk with fiddle, acoustic guitar, banjo and foot-stomp percussion under the song.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 182 - "A Baby Is a Baby": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 182 - "Dance Floor Apology": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

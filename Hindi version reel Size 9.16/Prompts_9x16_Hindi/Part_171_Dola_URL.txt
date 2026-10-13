@@ -1,13 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 171 - "Hank and Martha"
-Punch: TWIST + FUN
-Status: ready - URL PACKAGE
+PART 171 - "Doorway Problem"
+Punch: TEEN COMEDY
+Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -21,37 +21,35 @@ Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
-
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; S03_HankMiller_FULL.png -> Hank Miller; S02_MarthaHayes_FULL.png -> Martha Hayes; L06_AbandonedCabin.png -> Location AbandonedCabin.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+CHARACTER LOCK: Keep adult Frost, Lily, Tommy, and Cedar Hollow exactly identical to attached references. Reference mapping: V07_Frost_Teen.png -> reference character/location.
+LILY LOOK LOCK: Lily remains young-looking and beautiful, not older.
+FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07_Frost_Teen.png for present-day Frost; do not show baby, kid, adult, or powered Frost here.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, inside the cabin, storm outside.
-0–3s: Hank Miller (50, cowboy hat, beard, plaid shirt) steps in holding a lantern high, an old shotgun pointed down at the floor — then sees Lily's pregnant belly and immediately steps back.
-DIALOGUE 1–3s: Hank (deep friendly rural voice, shocked): "Whoa, whoa... ma'am, I'm sorry!"
-3–12s: Lily slowly lowers her burning stick, still shaking.
-DIALOGUE 4–8s: Lily (soft, scared): "I'm sorry too. I didn't know it was yours. I'll leave."
-DIALOGUE 8–11s: Hank (gentle): "Leave? In this storm? Not a chance."
-12–22s: Martha Hayes (68, round glasses, white curly hair, cardigan) pushes past Hank holding an umbrella and a basket of food.
-DIALOGUE 13–17s: Martha (warm grandmotherly Southern voice): "Hank Miller, did you scare a pregnant girl with a shotgun?"
-DIALOGUE 17–19s: Hank (embarrassed): "...It wasn't loaded."
-DIALOGUE 19–22s: Martha: "That makes it worse!"
-22–30s: Martha wraps a warm blanket around Lily and hands her fresh bread. Lily bites it and starts crying from relief. Final frame: Martha hugging Lily, Hank awkwardly holding the lantern.
-DIALOGUE 25–29s: Martha (soft): "There, there, honey. You're safe now. You're in Cedar Hollow."
-SFX: storm, lantern swing, boots stepping back, umbrella shaking, basket, crying, rain.
-MUSIC: tense strings resolving into warm, gentle country guitar.
-
+Scene: Cedar Hollow schoolhouse porch, sunny afternoon, wooden doorway, kids watching from a safe distance.
+0-5s: Teen Frost tries to enter the schoolhouse sideways. His shoulders get stuck in the doorway.
+DIALOGUE 1-4s: Tommy (teen voice, laughing): "Frost, the door did not shrink. You grew again."
+5-12s: Frost tries to smile, embarrassed. Lily arrives carrying books and gives him a look.
+DIALOGUE 6-9s: Lily (firm mother voice): "Please tell me you did not break another building."
+DIALOGUE 9-12s: Frost (awkward): "Technically... building holding me."
+12-20s: Kids laugh. Frost looks hurt and angry for a moment, then takes a breath.
+DIALOGUE 13-17s: Lily (soft warning): "Gentle heart, remember?"
+DIALOGUE 17-20s: Frost (calming): "Gentle heart."
+20-27s: Frost carefully removes the door frame without breaking it, steps inside, then holds it back in place.
+27-30s: Everyone claps. Tommy pins a handmade sign beside the door reading only rough marks, not readable. Final frame: Frost ducking proudly.
+DIALOGUE 27-30s: Tommy: "New rule: Frost uses the barn door."
+SFX: wood creak, kids laughing, careful lifting, applause.
+MUSIC: playful teen comedy with warm community tone.
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 172 - "Welcome to Cedar Hollow": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 172 - "I Break Everything": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
 SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
-
+TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested, and every visible word must be Hindi Devanagari only.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 HINDI REELS CAPTION AFTER DOWNLOAD
 HINDI CAPTION LOCK: Write the final post title/description/caption in Hindi, using Hindi emotion and hashtags. Do not output an English caption.
 भाग 171 | फ्रॉस्ट: जंगल का बेटा - कहानी अब और गहरी होती जा रही है। #बिगफुट #फिल्म #भाग171
@@ -64,3 +62,4 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
+Inserted after old Part 78 for teenage comedy and anger control.

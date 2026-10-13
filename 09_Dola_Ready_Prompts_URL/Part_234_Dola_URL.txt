@@ -1,12 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 
 FROST: Son of the Wild
-PART 234 - "Getting Ready"
-Punch: FUN + WOW
+PART 234 - "The Four Trials"
+Punch: WOW + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,24 +20,30 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V12_Tommy_Adult.png -> Variant Tommy_Adult; S02_MarthaHayes_FULL.png -> Martha Hayes; S03_HankMiller_FULL.png -> Hank Miller.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
-Daytime montage in Cedar Hollow, everyone preparing for battle.
-0–3s: Frost pushes giant tree trunks into the ground one after another, building a tall log wall around the village like a fort.
-DIALOGUE 1–5s: NARRATOR (deep cinematic American trailer voice): "Cedar Hollow had seven days to get ready for war."
-3–12s: Tommy and the young men dig deep pits and cover them with branches. Hank pours buckets of slippery bacon grease onto a muddy hill road.
-DIALOGUE 6–9s: Tommy (young man voice, grinning): "Mammoths on grease. This I gotta see."
-12–22s: Martha sits on her porch sharpening... a big cast-iron frying pan, very seriously, with a whetstone. Frost stares at her.
-DIALOGUE 15–18s: Frost (deep voice, confused): "Grandma... you can't sharpen a frying pan."
-DIALOGUE 18–21s: Martha (warm Southern voice, dead serious): "Watch me, sugar."
-22–30s: Frost practices his lightning: he aims at a row of tin cans on a fence; the bolt misses and blows up Hank's outhouse instead. Hank comes out of the smoke with his newspaper. Final frame: everyone frozen, staring at Hank.
-DIALOGUE 27–29s: Hank (deadpan, covered in soot): "...I was IN there."
-SFX: logs thudding into the ground, shovels digging, grease splashing, whetstone scraping metal, electric zap, outhouse explosion, newspaper rustle.
-MUSIC: upbeat training-montage rock with country guitar, comedic sting at the end.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Night inside the cabin. Old Joe unrolls a very old deerskin map on the table, with four strange symbols drawn on it.
+0–3s: Old Joe taps the map with his stick.
+DIALOGUE 1–6s: Old Joe (slow raspy voice): "Orin's power sleeps in your blood. Pass his Four Trials to wake it."
+3–20s: Close-ups of the map as Old Joe points to each symbol (each glows softly blue when touched):
+DIALOGUE 6–9s: Old Joe: "STRENGTH — move the Bear Rock."
+DIALOGUE 9–13s: Old Joe: "THE WILD — earn the trust of the wildest beast."
+DIALOGUE 13–17s: Old Joe: "THE STORM — touch the lightning on Thunder Peak."
+DIALOGUE 17–21s: Old Joe: "And THE HEART... face what you fear most."
+DIALOGUE 21–24s: Lily (scared): "Joe... how many giants survived these trials?"
+20–30s: Old Joe is silent for a moment.
+DIALOGUE 24–26s: Old Joe (quietly): "Only one. Orin himself."
+Lily grabs Frost's arm in fear. Frost stands up slowly, his head almost touching the ceiling, and puts his hand on the map.
+DIALOGUE 26–29s: Frost (deep, calm, determined): "Then I'll be the second."
+Final frame: Frost's hand on the map, all four symbols glowing blue at once.
+SFX: map unrolling, stick tapping, soft magical hums for each symbol, fireplace crackle, a powerful chime at the end.
+MUSIC: mystical, building heroic theme.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 235 - "The Full Moon": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 235 - "Trial 1: The Bear Rock": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -47,7 +52,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 234 | Getting ready for war... Grandma is sharpening her frying pan 🍳😂 #Bigfoot #Movie #Part234
+Part 234 | Only ONE giant ever survived the Four Trials... Frost wants to be the second 💪⚡ #Bigfoot #Movie #Part234
 
 DOLA STATUS
 [ ] Images uploaded

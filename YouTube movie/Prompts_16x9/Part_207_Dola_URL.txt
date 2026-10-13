@@ -1,11 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
-V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
+C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 
 FROST: Son of the Wild
-PART 207 - "I Break Everything"
-Punch: FUN + EMOTION
-Status:-assets
+PART 207 - "I Will Not Spare Him"
+Punch: WOW + ACTION
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -23,25 +25,25 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; S10_Villagers.png -> optional background group, skip unless you want crowd continuity; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; C05_Frost_FACE.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
-CAST NOTE: Tommy = a teenage boy (about 17), messy brown hair, freckles, red cap.
-Afternoon, a grassy field next to Cedar Hollow's wooden water tower.
-0–3s: Teen Frost and Tommy, now a teenager (about 17, messy brown hair, freckles, red cap), play American football. Tommy throws; Frost catches the ball and runs.
-DIALOGUE 1–3s: Tommy (teen boy voice): "Go long, Frost! GO LONG!"
-3–12s: Frost runs too fast, can't stop, and crashes straight into the town water tower. The tower tips over in slow motion.
-DIALOGUE 6–8s: Teen Frost (panicked, voice cracking): "No no no no no!"
-12–22s: A huge wave of water floods Main Street: a man on a bicycle gets washed away (laughing, safe), chickens float by in a bucket, Martha's laundry flies everywhere. Villagers, soaked, stare at Frost.
-DIALOGUE 15–18s: Villager man (angry, dripping): "FROST! That's the third time this month!"
-22–30s: Frost walks away alone, sits by the river, and drops the football. His face is sad.
-DIALOGUE 24–28s: Teen Frost (quiet, sad): "I'm too big. Too strong. I break everything I touch."
-Final frame: Frost's reflection in the river, looking lonely.
-SFX: football throw, running thuds, wood cracking, tower crash, a huge water wave, bicycle bell, chickens clucking, angry shouting, river flowing.
-MUSIC: energetic sports music, a comedic crash, then soft sad guitar.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Night, outside the cabin, at the edge of the forest. A storm is gathering above.
+0–3s: Frost walks out of the cabin and punches a huge boulder; it explodes into pieces.
+DIALOGUE 1–3s: Frost (deep, roaring with rage): "HE KILLED MY FATHER!"
+3–12s: His eyes glow electric blue. Blue lightning crackles across his whole body. The clouds above swirl and thunder answers him. Trees bend in the wind.
+DIALOGUE 6–11s: Frost (thunderous voice): "He hurt my mother! He burned my home! He killed my friends!"
+12–22s: He rips a dead pine tree out of the ground and throws it into the forest. Lightning strikes the ground around him three times.
+DIALOGUE 15–20s: Frost (roaring to the sky): "I WILL NOT SPARE HIM! Do you hear me, Magnus? I'M COMING FOR YOU!"
+22–30s: He falls to his knees in the mud, breathing hard, blue sparks fading, rain starting to fall. Lily runs out into the storm. Final frame: Frost kneeling, fists in the mud, lightning above.
+DIALOGUE 27–29s: Lily (screaming): "FROST! STOP!"
+SFX: boulder explosion, electric crackling, thunder, wind howling, tree ripping out, lightning strikes, rain.
+MUSIC: powerful dark epic choir and drums, building to a peak.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 208 - "Strong Hands, Gentle Heart": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 208 - "I Can't Lose You Too": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -50,7 +52,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 207 | "I break everything I touch." Being a teen Bigfoot is hard 😢🏈 #Bigfoot #Movie #Part207
+Part 207 | "I WILL NOT SPARE HIM!" ⚡😡 Frost's rage shook the sky #Bigfoot #Movie #Part207
 
 DOLA STATUS
 [ ] Images uploaded

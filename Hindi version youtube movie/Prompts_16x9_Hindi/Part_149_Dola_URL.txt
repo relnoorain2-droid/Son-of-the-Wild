@@ -1,13 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
-C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
-L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
-V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 149 - "The Storm"
-Punch: WOW + EMOTION
+PART 149 - "Cannonball!"
+Punch: FUN
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -29,26 +28,27 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; L04_BrunoCave.png -> Location BrunoCave; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S05_TommyMiller_FULL.png -> Tommy Miller; S03_HankMiller_FULL.png -> Hank Miller.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient forest magic run in his blood. Use only V06_Frost_Kid.png for present-day Frost; do not show baby, teen, adult, or powered Frost here.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, a violent thunderstorm over the redwood forest, lightning flashing.
-0–3s: A huge lightning bolt hits a giant redwood next to the cave; the tree starts falling toward the entrance where Lily stands.
-DIALOGUE 1–3s: Lily (screaming): "Bruno!"
-3–12s: Bruno jumps in front of her and catches the burning falling tree on his back, roaring with effort, then pushes it aside into the river with a massive splash.
-DIALOGUE 7–9s: Bruno (deep, straining): "Get inside!"
-12–22s: Inside the cave, Lily, shaking, wraps a blanket around Bruno and cleans a small burn mark on his shoulder with a wet cloth.
-DIALOGUE 14–17s: Lily (soft, emotional): "You keep risking your life for me. Why?"
-DIALOGUE 17–21s: Bruno (deep warm voice, looking down): "Because Lily is... Bruno's whole world."
-22–30s: Lightning flashes outside; in the light, they look into each other's eyes. Lily gently places her hand on his huge cheek.
-DIALOGUE 24–27s: Lily (whispering): "And you're mine, Bruno."
-Final frame: her small hand on his face, rain pouring behind them.
-SFX: thunder cracks, lightning, tree splitting and burning, heavy rain, roar, giant splash, fire crackle.
-MUSIC: dramatic stormy orchestra, then a soft romantic piano theme.
+Bright summer day at a lake near Cedar Hollow, families having a picnic, pine trees, mountains.
+0–3s: Kid Frost runs down a wooden dock at full speed and jumps high into the air.
+DIALOGUE 1–3s: Kid Frost (cheerful young boy voice, slightly deep): "CANNONBAAALL!"
+3–10s: He hits the lake; a giant wave flies up and completely soaks the entire village picnic: sandwiches, pies, and Hank in his cowboy hat.
+DIALOGUE 5–10s: NARRATOR (deep cinematic Hindi trailer voice): "Two summers later... Frost had grown faster than any child in America."
+10–20s: Everyone stands frozen and dripping. Hank slowly lifts his soaked hat; a small fish flops out of it.
+DIALOGUE 13–16s: Hank (deep rural voice, deadpan): "...Lily."
+DIALOGUE 16–20s: Lily (trying not to laugh): "Frost Carter, get out of that lake right now!"
+20–30s: Frost pops up from the water with a huge innocent smile, Tommy and Sarah cheering on his shoulders. Everyone bursts out laughing, even Hank. Final frame: the whole picnic laughing, soaked.
+DIALOGUE 23–26s: Tommy (excited young boy): "Do it again, Frost! Do it again!"
+DIALOGUE 26–30s: Kid Frost (grinning): "Mom said no... but she didn't say no TWICE!"
+SFX: running on a wooden dock, a giant splash, wave crash, dripping water, fish flop, laughter.
+MUSIC: bright, bouncy American summer country-pop with banjo and drums.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 150 - "Do Not Scare Me Like That": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 150 - "First Day of School": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
-S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+K07_WarHorses.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K07_WarHorses/K07_WarHorses.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 175 - "Months Go By"
-Punch: FUN + EMOTION
+PART 175 - "Not Yet"
+Punch: TWIST + CLIFFHANGER
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -28,28 +28,26 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; S02_MarthaHayes_FULL.png -> Martha Hayes; S05_TommyMiller_FULL.png -> Tommy Miller; S06_SarahMiller_FULL.png -> Sarah Miller.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; S07_CaptainVex_FULL.png -> Captain Vex; K07_WarHorses.png -> Creature WarHorses.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07_Frost_Teen.png for present-day Frost; do not show baby, kid, adult, or powered Frost here.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-CAST NOTE: Hank = a sturdy farmer, grey-brown beard, worn cowboy hat, plaid shirt, overalls.
-A warm montage around the cabin and the village, seasons changing from fall to first snow.
-0–3s: Lily (now around 8 months pregnant) fixes the cabin roof with a hammer, Hank holding the ladder nervously.
-DIALOGUE 1–4s: Hank (deep friendly rural voice, worried): "Ma'am, please let me do that!"
-3–12s: Montage: Lily painting the cabin, planting flowers; Martha knitting tiny baby socks (very big ones, by mistake); Lily laughing at the giant socks.
-DIALOGUE 6–10s: Martha (warm Southern voice): "I don't know why, but I made them extra big."
-DIALOGUE 10–12s: Lily (nervous laugh): "They might... fit perfectly."
-12–22s: Tommy and Sarah (7, blonde pigtails, teddy bear) bring her a wooden toy horse they made.
-DIALOGUE 14–17s: Sarah (small cute girl voice): "It's for the baby! I painted it myself!"
-DIALOGUE 17–21s: Tommy (excited): "And I didn't help at all. That's why it's ugly."
-22–30s: First snow falls. Lily stands at her cabin door, hand on her big belly, watching the snow with a soft smile.
-DIALOGUE 23–28s: Martha (off-screen, calling): "When that baby comes, you send for me right away, you hear?"
-DIALOGUE 28–30s: Lily (whispering to the snow): "Like the first snow... Frost."
-SFX: hammer, ladder creak, paintbrush, knitting needles, kids laughing, gentle snowfall wind.
-MUSIC: warm, happy Americana with soft piano, turning magical as the snow falls.
+Night after the storm, inside Old Joe's small wooden house, a fireplace, old books, carved wooden figures on shelves.
+0–3s: Teen Frost, wet and shaking, sits on the floor of Old Joe's house. Old Joe hands him a cup of hot cocoa.
+DIALOGUE 1–3s: Teen Frost (scared, teenage voice): "Joe, what's wrong with me?"
+3–14s: Old Joe picks up the carved wooden Bigfoot holding a staff from his shelf.
+DIALOGUE 5–10s: Old Joe (slow raspy wise voice): "Nothing's wrong with you. There's an old power in your blood, son. Very old."
+DIALOGUE 10–14s: Teen Frost (eager): "Then teach me! Tell me everything!"
+14–22s: Old Joe puts the carving down and shakes his head.
+DIALOGUE 15–21s: Old Joe: "Not yet. Power before wisdom is just another storm. When the time comes... you'll know."
+22–30s: Outside on the dark hills above Cedar Hollow, three riders on black war horses watch the village lights through a spyglass. One of them is Captain Vex, older now, smiling.
+DIALOGUE 25–29s: Captain Vex (harsh voice, quiet and cruel): "The boy is ready. Tell the king."
+Final frame: Vex turning his horse and riding away into the dark.
+SFX: fireplace crackle, cocoa cup, rain dripping, wooden carving set down, wind on the hills, horse snort, galloping away.
+MUSIC: warm mysterious strings inside, dark villain theme outside.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 176 - "The King's Men in Town": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 176 - "The County Fair": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

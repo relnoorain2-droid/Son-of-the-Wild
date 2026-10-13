@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
-S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
-S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
-V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 198 - "Thin Ice"
-Punch: ACTION + EMOTION
+PART 198 - "Gone Fishing"
+Punch: TWIST
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -24,24 +24,24 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S05_TommyMiller_FULL.png -> Tommy Miller; S06_SarahMiller_FULL.png -> Sarah Miller; L05_River.png -> Location River.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; S07_CaptainVex_FULL.png -> Captain Vex; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; L07_Village.png -> Location Village.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Winter, a frozen lake surrounded by snowy pines, kids sledding and ice-skating.
-0–3s: Frost pulls Tommy and Sarah on a big wooden sled at crazy speed across the snow; they scream with joy.
-DIALOGUE 1–3s: Tommy (laughing): "Faster, Frost! FASTER!"
-3–12s: Tommy slides off and skates out onto the frozen lake to show off. The ice cracks under him.
-DIALOGUE 6–8s: Sarah (scared): "Tommy, the ice!"
-DIALOGUE 8–10s: Tommy (panicked): "Frost! HELP!"
-12–22s: The ice breaks; Tommy falls into the freezing water. Frost runs onto the ice, which cracks under his weight. He lies down flat, spreading his weight, and crawls forward.
-DIALOGUE 15–18s: Kid Frost (calm but scared): "Don't panic! Grab my hand!"
-22–30s: Frost pulls Tommy out of the water with one arm and slides back to shore as the ice collapses behind them. He wraps the shivering Tommy in his warm white fur. Final frame: Tommy hugging Frost, teeth chattering.
-DIALOGUE 26–29s: Tommy (shivering, smiling): "You're... the warmest best friend... ever."
-SFX: sled on snow, laughter, ice cracking, splash into water, deep ice cracks, sliding, shivering.
-MUSIC: playful winter bells, then intense rescue strings, resolving warmly.
+The burning town square of Cedar Hollow, smoke everywhere.
+0–3s: The red dragon lands in the square with a ground-shaking thud. King Magnus, older and greyer in black iron armor, steps down.
+DIALOGUE 1–3s: King Magnus (deep rough menacing voice): "Where is the white beast?"
+3–12s: Captain Vex drags Old Joe forward and throws him to the ground in front of the king.
+DIALOGUE 5–7s: Captain Vex (harsh voice): "Answer the king, old man!"
+DIALOGUE 7–11s: Old Joe (slow raspy voice, calm and defiant, slowly getting up): "Gone fishing. You just missed him."
+12–22s: King Magnus leans down to Old Joe's face.
+DIALOGUE 14–19s: King Magnus (cold, quiet): "Then give him a message. Tell him... and tell his mother... Thorne never forgets."
+22–30s: The king raises his staff; red lightning blasts the town's church bell tower and it crashes down. He climbs back onto his dragon. Final frame: Old Joe watching the dragon fly away, holding the little carved Bigfoot in his fist.
+DIALOGUE 26–29s: Old Joe (whispering to the sky): "And Orin's blood never forgets either."
+SFX: dragon landing thud, armor clanking, fire crackling, body thrown on dirt, red lightning blast, bell tower collapsing, a bell clanging as it falls, wing beats.
+MUSIC: dark villain theme, a huge crashing hit for the bell tower.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 199 - "The White Beast": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 199 - "Too Late": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

@@ -1,13 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 K06_WarMammoth.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K06_WarMammoth/K06_WarMammoth.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+L08_Battlefield.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
 V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
 
 FROST: Son of the Wild
-PART 283 - "Mammoths vs Bison"
-Punch: WOW + ACTION
-Status: ready - URL PACKAGE
+PART 283 - "Gentle Giants"
+Punch: WOW + TWIST
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -28,24 +28,24 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V10_Damian_Battle.png -> Variant Damian_Battle; V08_Frost_Powered.png -> Variant Frost_Powered; S03_HankMiller_FULL.png -> Hank Miller; K06_WarMammoth.png -> Creature WarMammoth.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V10_Damian_Battle.png -> Variant Damian_Battle; K06_WarMammoth.png -> Creature WarMammoth; L08_Battlefield.png -> Location Battlefield.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powered.png for present-day Frost; do not revert to baby, kid, teen, or unpowered adult Frost unless a memory is explicitly shown.
 
-CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
-Morning, the wide valley in front of Thorne Castle, fog and dust, two armies facing each other.
-0–3s: The castle gate crashes open. Prince Damian rides out on the lead war mammoth, sword raised; fifty armored mammoths thunder behind him.
-DIALOGUE 1–3s: Prince Damian (smooth arrogant voice, screaming): "CRUSH THEM!"
-3–12s: Frost raises his glowing hand and roars a deep animal call. From the hills, hundreds of American bison charge down, led by grizzly bears, Old Scar in front.
-DIALOGUE 6–9s: Frost (deep, thunderous): "WILD ONES... NOW!"
-12–22s: Slow-motion wide shot: the two stampedes crash together in the middle of the valley; dust explodes into the air; mammoths and bison push horn against tusk; bears knock soldiers off mammoths.
-DIALOGUE 16–19s: Hank (riding an elk, shouting): "YEE-HAW! Now THAT'S a rodeo!"
-22–30s: Old Scar stands up on his hind legs and roars at a mammoth twice his size; the mammoth backs away. Damian, struggling to control his mammoth, looks at the battle in shock. Final frame: dust and chaos, bison everywhere.
-DIALOGUE 27–30s: Prince Damian (shocked): "Since when do BEARS fight in wars?!"
-SFX: gate crashing, mammoth trumpets, a deep animal call, a huge bison stampede, a massive collision, roaring bears, hooves, dust, shouts.
-MUSIC: epic battle orchestra with heavy war drums and choir.
+The battlefield, war mammoths still rampaging, Prince Damian whipping his mammoth with a chain.
+0–3s: Damian whips his mammoth; it screams in pain.
+DIALOGUE 1–3s: Prince Damian (cruel, shouting): "Faster, you stupid beast!"
+3–12s: Frost walks calmly into the path of fifty charging war mammoths. He doesn't raise his fists. His eyes glow soft blue and he speaks with a deep, gentle animal rumble.
+DIALOGUE 6–11s: Frost (deep, gentle): "You don't have to fight for him. He hurts you. I won't."
+12–22s: The lead mammoth slows down... stops right in front of Frost... and lowers its trunk to touch his hand. One by one, all fifty mammoths stop. They shake off their heavy war armor; it falls to the ground with loud clangs.
+DIALOGUE 17–20s: Prince Damian (panicking): "What are you doing?! I command you! ATTACK!"
+22–30s: The lead mammoth turns, lifts Damian off its back with its trunk, and drops him headfirst into a big pile of mud. All fifty mammoths trumpet together and walk to stand behind Frost's army. Final frame: Damian sitting in the mud, the mammoths behind Frost.
+DIALOGUE 27–29s: Frost (deep, calm, to Damian): "They were never yours."
+SFX: whip crack, mammoth screams, thundering footsteps slowing, a deep gentle rumble, armor clanging to the ground, a trunk lifting, a mud splash, fifty mammoths trumpeting.
+MUSIC: tense, then a beautiful, majestic, emotional swell.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 284 - "Grandma's Revenge": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 284 - "The Great Red Dragon": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
+L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 
 FROST: Son of the Wild
-PART 223 - "Fire Over Cedar Hollow"
-Punch: ACTION
+PART 223 - "Alive"
+Punch: WOW + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,24 +21,25 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: S03_HankMiller_FULL.png -> Hank Miller; S02_MarthaHayes_FULL.png -> Martha Hayes; K02_RedDragon.png -> Creature RedDragon; K01_DarkBigfoot.png -> Creature DarkBigfoot.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K08_GrizzlyBear.png -> Creature GrizzlyBear; L04_BrunoCave.png -> Location BrunoCave.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
-CAST NOTE: Tommy = a young man (about 22), messy brown hair, light freckles, red baseball cap, plaid flannel shirt.
-Cedar Hollow under attack in daylight: smoke, fire on rooftops, people running.
-0–3s: The red dragon swoops low over Main Street and breathes fire onto the roof of the general store.
-DIALOGUE 1–3s: Villager woman (screaming): "DRAGONS! Run! Get the children!"
-3–12s: Dark Bigfoots with red eyes smash through fences and porches; mammoths knock over the water tower; soldiers on black horses ride through the streets.
-DIALOGUE 6–9s: Hank (deep rural voice, shouting with his shotgun): "Everybody to the church cellar! GO!"
-12–22s: Hank shoots at a dark Bigfoot; it barely notices and swats his shotgun away. Tommy (young man) pulls his father out of the way just in time.
-DIALOGUE 15–18s: Tommy (shouting): "Dad, we can't fight them! Come on!"
-22–30s: Martha herds a group of crying children into a cellar under the church and closes the heavy wooden door. Through the cracks we see fire light and shadows of monsters passing. Final frame: Martha holding the children close in the dark, praying.
-DIALOGUE 26–30s: Martha (whispering, shaking Southern voice): "Hush now, babies. Frost will come. Frost always comes."
-SFX: dragon roar, fire whoosh, screaming, crashing wood, mammoth trumpets, galloping horses, shotgun blast, cellar door slam, muffled chaos.
-MUSIC: dark intense war orchestra with heavy drums.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Inside a dark cave behind a small waterfall, light shining through the falling water.
+0–3s: Lily squeezes into the cave — and freezes: the big grizzly bear Frost once talked to is lying in front of Frost, guarding him, keeping him warm.
+DIALOGUE 1–3s: Lily (whispering, shocked): "You... you stayed with him?"
+3–12s: The bear gently moves aside. Frost lies on the rocks, wet, bruised, his fur dirty, eyes closed, barely breathing.
+DIALOGUE 6–10s: Lily (falling to her knees, crying): "Frost? Baby, it's Mom. Please... please wake up."
+12–22s: She puts her hand on his huge chest. Nothing. Then a tiny, weak heartbeat sound. His finger twitches and wraps around her hand, just like when he was a newborn baby.
+DIALOGUE 17–20s: Frost (very weak deep whisper, eyes barely open): "...Mom? You found me."
+22–30s: Hank and Tommy rush in. Villagers and the bear together drag a big wooden cart through the forest, Frost lying on it, Lily holding his hand the whole way. Final frame: the bear pulling the cart with the villagers.
+DIALOGUE 26–29s: Lily (crying, smiling): "Always, my love. Always."
+SFX: dripping water, waterfall echo, bear grunt, crying, a weak heartbeat, cart wheels creaking, forest footsteps.
+MUSIC: emotional choir and strings, swelling with relief.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 224 - "Gone Fishing": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 224 - "First Battle Loss": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -47,7 +48,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 223 | Dragons attacked Cedar Hollow while Frost was away 🔥🐉 #Bigfoot #Movie #Part223
+Part 223 | Frost is ALIVE 😭💙 ...and the grizzly was guarding him! #Bigfoot #Movie #Part223
 
 DOLA STATUS
 [ ] Images uploaded

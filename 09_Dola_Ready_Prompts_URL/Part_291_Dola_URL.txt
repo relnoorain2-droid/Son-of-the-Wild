@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
-L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
-S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
-V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
+L08_Battlefield.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
 
 FROST: Son of the Wild
-PART 291 - "The Great Red Dragon"
-Punch: WOW + TWIST
+PART 291 - "Lily vs Damian"
+Punch: ACTION + FUN
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,23 +21,26 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; S11_Rose_FULL.png -> Rose; K02_RedDragon.png -> Creature RedDragon; L02_KingCastle.png -> Location KingCastle.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V10_Damian_Battle.png -> Variant Damian_Battle; S02_MarthaHayes_FULL.png -> Martha Hayes; L08_Battlefield.png -> Location Battlefield.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Thorne Castle's highest tower, dark storm clouds gathering, battlefield below.
-0–3s: King Magnus watches his army falling apart. His face twists with rage.
-DIALOGUE 1–3s: King Magnus (deep, furious): "Useless! All of you, USELESS!"
-3–12s: He holds the staff with both hands and slams the red crystal into the stone floor of the tower. The whole castle shakes. A giant crack opens in the castle courtyard; red light pours out of it.
-DIALOGUE 6–11s: King Magnus (shouting a dark spell, echoing): "RISE, Great One! Rise and burn them ALL!"
-12–22s: From under the castle, a gigantic red dragon rises: three times bigger than any dragon before, scales like dark lava, horns like a crown, wings that cover the sun, eyes blazing red. The ground cracks, towers fall.
-DIALOGUE 17–22s: Rose (from the tunnel entrance, horrified): "The Great Red... he's been chained under the castle for a hundred years!"
-22–30s: The Great Red Dragon roars so loud that every fighter on the battlefield, human and animal, freezes and covers their ears. King Magnus climbs onto its head. Final frame: the king standing on the gigantic dragon's head, the sun blocked by its wings.
-DIALOGUE 27–29s: King Magnus (laughing madly): "NOW it ends!"
-SFX: an enraged shout, crystal slam, a castle-shaking quake, a ground crack, a deep red magical roar, collapsing towers, giant wing beats, a world-shaking dragon roar.
-MUSIC: terrifying epic choir and orchestra, the biggest dark theme in the movie.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+The muddy battlefield in front of the castle, smoke and fire.
+0–3s: Prince Damian, covered in mud from head to toe, staggers out of the smoke holding his sword, furious. He sees Lily alone.
+DIALOGUE 1–3s: Prince Damian (smooth voice turned crazy): "YOU! You ruined EVERYTHING!"
+3–12s: He swings his sword; Lily ducks and rolls in the mud. She has no weapon.
+DIALOGUE 6–8s: Lily (shouting): "Somebody! A weapon!"
+DIALOGUE 8–11s: Martha (from far away, throwing her frying pan through the air): "LILY! CATCH!"
+12–22s: The frying pan spins through the air in slow motion. Lily catches it perfectly. She blocks Damian's sword — CLANG! — sparks fly. They fight: sword vs frying pan. Damian swings; Lily blocks again and again.
+DIALOGUE 17–20s: Prince Damian (furious): "A frying pan?! AGAIN?!"
+DIALOGUE 20–22s: Lily (fierce): "It worked the first time!"
+22–30s: Damian knocks the pan out of Lily's hands with a powerful strike. She falls back into the mud. He raises his sword above her. Final frame: the sword above Lily, her face brave, not afraid.
+DIALOGUE 27–29s: Prince Damian (cold): "Goodbye, wife."
+SFX: squelching mud, a crazy shout, sword swings, a roll in the mud, a frying pan spinning through the air, a metal CLANG, sparks, a pan flying away, a body falling in mud.
+MUSIC: intense duel music with a heroic sting for the catch.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 292 - "Burn Them All": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 292 - "Not My Mother": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -46,7 +49,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 291 | The king woke the GREAT RED DRAGON... 3x bigger than any dragon 😱🐉 #Bigfoot #Movie #Part291
+Part 291 | Sword vs FRYING PAN 🍳⚔️ Lily finally faces the prince! #Bigfoot #Movie #Part291
 
 DOLA STATUS
 [ ] Images uploaded

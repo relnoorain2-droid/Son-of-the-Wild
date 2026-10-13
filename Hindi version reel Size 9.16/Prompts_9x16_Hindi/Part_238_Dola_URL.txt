@@ -1,12 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
-L08_Battlefield.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
 
 FROST: Son of the Wild
-PART 238 - "Frost vs the Dark Bigfoots"
-Punch: ACTION + WOW
+PART 238 - "Something to Protect"
+Punch: WOW + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -24,24 +23,24 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K01_DarkBigfoot.png -> Creature DarkBigfoot; L08_Battlefield.png -> Location Battlefield.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V13_Sarah_Adult.png -> Variant Sarah_Adult; S10_Villagers_FULL.png -> optional background group, skip unless you want crowd continuity; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night battlefield in front of the log wall, full moon, fire and smoke.
-0–3s: Six dark Bigfoots with glowing red eyes surround Frost in a circle, growling.
-DIALOGUE 1–3s: Frost (deep powerful voice, calm): "Six? Only six?"
-3–14s: Fast, epic choreography: Frost catches the first punch, flips the attacker over his shoulder into the second; he ducks, spins, and slams two more together; blue lightning sparks with every hit.
-DIALOGUE 7–9s: Frost (fighting, roaring): "This is for my father!"
-14–22s: The last two jump on his back. He roars, his whole body flashes with blue lightning, and they are thrown off, landing far away and running into the forest whimpering.
-DIALOGUE 17–19s: Lily (on the wall, shouting): "That's my boy!"
-22–30s: Frost stands in the middle of the circle of defeated dark Bigfoots, steam rising from his white fur in the moonlight. The soldiers start backing away. Final frame: low-angle hero shot of Frost and the full moon.
-DIALOGUE 26–29s: Frost (deep, to the soldiers): "Who's next?"
-SFX: growls, heavy punches, body slams, electric crackles, roars, a big electric blast, whimpering, soldiers' armor clanking backwards.
-MUSIC: heroic action score with massive drums and brass.
+Sunset at the Bear Rock meadow. The whole village has come to watch.
+0–3s: Frost stands in front of the Bear Rock once more. Behind him, the entire village stands quietly holding lanterns.
+DIALOGUE 1–4s: Sarah (young woman now, calling out): "You can do it, Frost! We're all here!"
+3–12s: Frost closes his eyes. Quick memory flashes: baby Frost giving Sarah her teddy; the children in the cellar; Martha's sweater; his mother's face.
+DIALOGUE 6–10s: Frost (deep, quiet): "I'm not pushing for me. I'm pushing for them."
+12–22s: He places his hand inside the giant carved handprint. It fits perfectly now. He pushes. The ground shakes. With a deep grinding sound, the Bear Rock moves... an inch... a foot... then rolls slowly across the meadow.
+DIALOGUE 16–19s: Frost (roaring with everything): "FOR CEDAR HOLLOOOOW!"
+22–30s: The rock rolls off the cliff edge and crashes down the mountain. The village explodes in cheers. A glowing blue mark burns itself onto Frost's right forearm like a tattoo, shining. Frost stares at it in wonder. Final frame: the glowing blue mark on his arm, lanterns behind him.
+DIALOGUE 27–29s: Old Joe (smiling, slow raspy voice): "Trial one... complete."
+SFX: lanterns, wind, memory echoes, deep stone grinding, ground rumbling, a huge roar, the rock tumbling, massive crash below, cheering, a magical burning hum.
+MUSIC: emotional build-up to a huge triumphant orchestral and choir climax.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 239 - "Dragon Catcher": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 239 - "Trial 2: Old Scar": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
