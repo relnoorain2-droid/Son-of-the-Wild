@@ -1,12 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
-V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 093 - "Gone Fishing"
-Punch: TWIST
+PART 093 - "Happy Birthday, Frost"
+Punch: FUN + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,21 +20,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; S07_CaptainVex_FULL.png -> Captain Vex; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S02_MarthaHayes_FULL.png -> Martha Hayes.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-The burning town square of Cedar Hollow, smoke everywhere.
-0–3s: The red dragon lands in the square with a ground-shaking thud. King Magnus, older and greyer in black iron armor, steps down.
-DIALOGUE 1–3s: King Magnus (deep rough menacing voice): "Where is the white beast?"
-3–12s: Captain Vex drags Old Joe forward and throws him to the ground in front of the king.
-DIALOGUE 5–7s: Captain Vex (harsh voice): "Answer the king, old man!"
-DIALOGUE 7–11s: Old Joe (slow raspy voice, calm and defiant, slowly getting up): "Gone fishing. You just missed him."
-12–22s: King Magnus leans down to Old Joe's face.
-DIALOGUE 14–19s: King Magnus (cold, quiet): "Then give him a message. Tell him... and tell his mother... Thorne never forgets."
-22–30s: The king raises his staff; red lightning blasts the town's church bell tower and it crashes down. He climbs back onto his dragon. Final frame: Old Joe watching the dragon fly away, holding the little carved Bigfoot in his fist.
-DIALOGUE 26–29s: Old Joe (whispering to the sky): "And Orin's blood never forgets either."
-SFX: dragon landing thud, armor clanking, fire crackling, body thrown on dirt, red lightning blast, bell tower collapsing, a bell clanging as it falls, wing beats.
-MUSIC: dark villain theme, a huge crashing hit for the bell tower.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+A sunny afternoon party in Cedar Hollow's town square, balloons, bunting, picnic tables.
+0–3s: Villagers wheel out a giant birthday cake the size of a pickup truck.
+DIALOGUE 1–3s: Everyone (cheerful crowd): "SURPRISE! Happy birthday, Frost!"
+3–12s: Frost covers his mouth, overwhelmed. He leans in to blow out the candles — his breath blows away every hat, a balloon stand, and Martha's big church hat flies off and lands on a goat.
+DIALOGUE 7–10s: Martha (shocked, then laughing, pointing at the goat): "Oh, for heaven's sake! That's my Sunday hat!"
+12–22s: Gifts: Sarah (now about 14, blonde braid, yellow sweater) gives him a drawing of the whole village holding hands with him; Martha gives him a hand-knitted sweater that is HUGE — it finally fits.
+DIALOGUE 16–19s: Martha (proud): "I've been knitting this one for three years."
+DIALOGUE 19–21s: Teen Frost (shy, emotional): "It fits... it actually fits!"
+22–30s: Lily gives the last gift: the small dried flower from Bruno, now in a little wooden frame.
+DIALOGUE 25–29s: Lily (soft): "From your father. He'd want you to have it."
+Final frame: Frost holding the tiny frame to his chest, tears in his eyes, the whole village smiling.
+SFX: cheering, balloons, a huge whoosh of breath, hats flying, laughter, paper rustling, gentle applause.
+MUSIC: happy birthday-style party music, turning into the soft Frost theme.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 93 | "Where is the white beast?" "Gone fishing." 😤 #Bigfoot #Movie #Part93
+Part 93 | His birthday wish blew grandma's hat onto a goat 😂🎂 ...then mom gave him the last gift 🥹 #Bigfoot #Movie #Part93
 
 DOLA STATUS
 [ ] Images uploaded
@@ -54,5 +55,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

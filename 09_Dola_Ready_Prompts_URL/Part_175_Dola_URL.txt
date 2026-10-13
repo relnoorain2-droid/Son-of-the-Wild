@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
 
 FROST: Son of the Wild
-PART 175 - "Not a King"
-Punch: EMOTION + FUN
+PART 175 - "The Brides"
+Punch: TWIST + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,21 +21,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; S11_Rose_FULL.png -> Rose; S09_Brides.png -> optional background group, skip unless you want crowd continuity; L02_KingCastle.png -> Location KingCastle.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V10_Damian_Battle.png -> Variant Damian_Battle; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V08_Frost_Powered.png -> Variant Frost_Powered; S11_Rose_FULL.png -> Rose.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-The next morning, Thorne Castle courtyard full of sunlight. People tearing down the red banners. Freed mammoths and dragons resting outside the walls.
-0–3s: The kingdom's people pull down a giant red banner; it falls, and sunlight floods the courtyard for the first time in years.
-DIALOGUE 1–4s: NARRATOR (deep cinematic American trailer voice): "The kingdom of Thorne was finally free."
-3–12s: Rose and Emily (the former bride) walk up to Frost holding the king's old iron crown on a pillow. The whole crowd kneels.
-DIALOGUE 6–11s: Rose (old British voice, emotional): "The people have decided. You saved us. You should be our king."
-12–22s: Frost picks up the heavy crown, looks at it... and gently puts it on Rose's head instead. It's too big; it slides over her eyes. Everyone laughs.
-DIALOGUE 14–23s: Frost (deep, smiling): "I'm not a king. I'm just a guy from Cedar Hollow. You, the brides, the people who stood up — you should lead together."
-DIALOGUE 23–26s: Rose (pushing the crown up, laughing): "Well, I'll need a smaller crown."
-22–30s: The crowd cheers. A freed baby dragon lands on Frost's head and refuses to leave. Final frame: Frost with a baby dragon on his head, the crowd cheering in the sunlight.
-DIALOGUE 26–30s: Frost (deep, laughing): "Okay, okay, you can come home with me too."
-SFX: a banner tearing and falling, a cheering crowd, a crown on a pillow, kneeling, laughter, a tiny dragon chirp and flap.
-MUSIC: warm, triumphant, hopeful theme with a playful ending.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+The battlefield below the castle, smoke clearing.
+0–3s: Frost sets Damian down. Damian tries to run — and stops. A line of women blocks his way: grown women in simple dresses and farm clothes, holding pitchforks and torches.
+DIALOGUE 1–3s: Prince Damian (confused): "Who... who are you?"
+3–12s: Rose steps forward beside the women.
+DIALOGUE 4–12s: Rose (old British voice, proud): "Some of your brides survived the forest, Your Highness. The kingdom's villages hid them for years. They marched here today too."
+12–22s: One woman steps forward and looks Damian right in the eyes.
+DIALOGUE 14–19s: Former Bride (strong adult American woman's voice): "My name is Emily. You threw me to the wolves. I'm still here."
+DIALOGUE 19–21s: Prince Damian (falling to his knees, crying): "I'm sorry... I'm sorry..."
+22–30s: The women put Damian in the same iron chains the king used for the dragons and lead him away to the castle — to the old bedroom with the names on the wall. Lily watches, tears in her eyes. Final frame: the women walking away with Damian in chains, the sun breaking through the smoke behind them.
+DIALOGUE 27–30s: Lily (soft): "Now he'll read their names every single day."
+SFX: footsteps stopping, torches, wind, chains clicking, Damian sobbing, marching away.
+MUSIC: a powerful, emotional theme of justice with strings and choir.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 175 | They offered Frost the crown... he put it on the old maid's head 👑😂 #Bigfoot #Movie #Part175
+Part 175 | The brides he threw to the wolves... came back for him 👰‍♀️⛓️ #Bigfoot #Movie #Part175
 
 DOLA STATUS
 [ ] Images uploaded
@@ -53,5 +55,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

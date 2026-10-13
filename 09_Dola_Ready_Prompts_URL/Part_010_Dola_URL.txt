@@ -47,17 +47,6 @@ NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random t
 FACEBOOK CAPTION AFTER DOWNLOAD
 Part 10 | The wolves ran away... because something worse was coming 🐻😱 Part 11 tomorrow! #Bigfoot #Movie #Part10
 
-
-# FROST: Son of the Wild — PARTS 11–20 (Act 1: The Gentle Giant)
-Dola me kaise use karein:
-1. "Attach" me likhi images (Characters folder se) Dola me upload karo (max 4).
-2. PART ka poora block (PART se lekar CAPTION se pehle tak) copy karke Dola me paste karo.
-3. Video ready hone par CAPTION Facebook description me paste karo.
-
-Story so far (Part 11–20): Grizzly bear ke hamle se ek bada black Bigfoot, Bruno, Lily ko bachata hai. Woh use apni waterfall wali cave me le jaata hai aur ghar chhodne ki baat karta hai, lekin Lily mana karti hai kyunki raja use maar dega. Bruno use apne paas rakh leta hai. Udhar raja ka commander Captain Vex Lily ko dhoondh raha hai. Part 20 me Bruno raja ke dark Bigfoot ko hara deta hai.
-
-LILY RULE: Lily poori movie me hamesha 22–24 saal ki young, innocent aur khoobsurat dikhegi (har Lily wale part me "LOOK LOCK" line hai).
-
 DOLA STATUS
 [ ] Images uploaded
 [ ] Prompt pasted
@@ -66,5 +55,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

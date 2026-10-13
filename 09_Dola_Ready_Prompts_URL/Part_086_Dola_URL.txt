@@ -1,11 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 086 - "Cedar Hollow Home"
-Punch: EMOTION + WOW
+PART 086 - "Strong Hands, Gentle Heart"
+Punch: EMOTION + FUN
 Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,26 +20,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S10_Villagers.png -> optional background group, skip unless you want crowd continuity; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; L05_River.png -> Location River.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Golden evening montage in Cedar Hollow, autumn leaves, string lights, a fiddle player on a porch.
-0–3s: A villager plays a fiddle on a porch; people start clapping along. Lily stands up and smiles.
-DIALOGUE 1–3s: Lily (soft young American woman, cheerful): "Alright, everybody, sing with me!"
-3–27s: The whole village SINGS together, clearly audible, lip-synced, upbeat country-folk, Lily leading:
-  3–10s: Lily sings: "Porch lights on and the kettle's warm, we stand together through every storm."
-  — Shots: Frost carrying three kids on his shoulders; Hank rebuilding the water tower with Frost holding it.
-  10–20s: Everyone sings: "Oh Cedar Hollow, you're my home, never gonna walk this road alone..."
-  — Shots: the whole village waving from porches; Frost lifting Martha's car out of the mud; the wolves sleeping near the sheep.
-  20–27s: Everyone sings: "...big or small, we're family, here in Cedar Hollow... home."
-  — Shots: Frost in the middle of the town square, everyone hugging him at once.
-27–30s: Everyone squeezes into one giant group hug around Frost; he laughs and hugs them back very gently. Final frame: the whole town in one big hug.
-DIALOGUE 27–30s: Frost (deep teenage voice, laughing): "Group hug! Careful, careful!"
-DIALOGUE 8-11s: Hank (deep friendly rural voice): "Cedar Hollow, make some noise for our boy!"
-DIALOGUE 15-18s: Villagers (warm crowd voices): "Frost! Frost! Frost!"
-SFX: clapping, stomping boots, laughter, crickets.
-MUSIC: upbeat American country-folk with fiddle, acoustic guitar, banjo and foot-stomp percussion under the song.
+Sunset by the river.
+0–3s: Lily sits down next to Teen Frost and hands him something small: a single chicken egg.
+DIALOGUE 1–3s: Lily (soft, warm): "Hold this. Don't break it."
+3–12s: Frost holds the egg in his giant hand. CRACK — it breaks instantly. Yolk drips. Lily hands him another. Crack. Another. Crack.
+DIALOGUE 7–10s: Teen Frost (frustrated, voice cracking): "See? I can't do anything right!"
+12–22s: Lily takes his huge hand in both of hers.
+DIALOGUE 13–25s: Lily (emotional): "Your father was the strongest creature in the forest. And he once caught a flower falling from a tree without hurting a single petal. He always said: strong hands... gentle heart."
+22–30s: Frost closes his eyes, breathes slowly, and holds a new egg very, very gently. He opens his eyes. The egg is perfect. Then a tiny crack appears on it — and a baby chick pops its head out. Frost gasps with joy. Final frame: the tiny chick sitting in Frost's giant palm, chirping.
+DIALOGUE 27–29s: Teen Frost (whispering, amazed): "Strong hands... gentle heart."
+SFX: river, eggs cracking, frustrated groan, deep breathing, tiny shell crack, chick chirping.
+MUSIC: soft emotional piano, then a sweet magical twinkle with the chick.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -48,7 +43,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 86 | "Big or small, we're family..." 🎶🏡 The whole town sings for Frost #Bigfoot #Movie #Part86
+Part 86 | He broke every egg... until he remembered his father's words 🐣🥹 #Bigfoot #Movie #Part86
 
 DOLA STATUS
 [ ] Images uploaded
@@ -58,6 +53,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-
-

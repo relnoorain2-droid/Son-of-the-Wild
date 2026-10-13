@@ -1,10 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
 
 FROST: Son of the Wild
-PART 122 - "The Iron Trap"
-Punch: ACTION + TWIST
+PART 122 - "Find Him"
+Punch: EMOTION + CLIFFHANGER
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -19,21 +21,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V12_Tommy_Adult.png -> Variant Tommy_Adult; S03_HankMiller_FULL.png -> Hank Miller; K09_Wolves.png -> Creature Wolves.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
-The Deep Wild, foggy forest floor.
-0–3s: Frost gets up angry and charges at Old Scar. They crash together like two trucks.
-DIALOGUE 1–4s: Frost (deep, roaring): "Fine! Then we do it the hard way!"
-3–12s: An epic wrestling fight: Frost throws a punch; Old Scar blocks it with his giant paw and throws Frost to the ground; they roll down a slope through ferns.
-DIALOGUE 7–9s: Frost (straining): "You're... strong... old man!"
-12–22s: Frost pins the bear's front leg — and suddenly the bear cries out in real pain, not anger. Frost stops and looks down: Old Scar's back leg is caught in a huge rusty iron trap, chained to a tree. The trap has a red snake-and-crown symbol: the crest of King Magnus Thorne.
-DIALOGUE 17–21s: Frost (quiet, shocked): "The king's hunters... you've been trapped all this time."
-22–30s: Frost slowly lets go and steps back. Old Scar growls, but he's limping, tired and in pain. Frost's face changes from anger to understanding. Final frame: close-up of the rusty trap with the king's crest.
-DIALOGUE 26–29s: Frost (soft): "You're not angry. You're hurting."
-SFX: a heavy crash, roars, punches, rolling through ferns, a painful bear cry, chain clanking, heavy breathing.
-MUSIC: intense fight drums, then a sudden emotional cello note.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Morning, along the wild river below the waterfall, rocks, mist, villagers searching.
+0–3s: Lily climbs over wet rocks along the river, calling out.
+DIALOGUE 1–4s: Lily (shouting): "FROST! FROST, CAN YOU HEAR ME?"
+3–12s: Hank, Tommy and villagers search with lanterns and ropes. Hours pass; the sun moves.
+DIALOGUE 6–10s: Hank (deep voice, gentle): "Lily... we've been searching all day. The river's too strong."
+DIALOGUE 10–12s: Lily (firm): "Then we search all night."
+12–22s: Lily kneels at the riverbank and calls into the forest like Frost used to — a soft, low call. One by one, the wolves from the battle appear from the trees.
+DIALOGUE 15–19s: Lily (to the wolves, desperate): "You loved him too. Please... find him."
+22–30s: The lead wolf sniffs the water, then runs downstream. The whole pack follows, then stops at a dark crack in the rocks behind a smaller waterfall and howls all together. Final frame: the wolves howling at the dark cave entrance.
+DIALOGUE 27–29s: Tommy (shouting): "They found something!"
+SFX: river, shouting, lanterns, footsteps on wet rock, soft calling, wolves approaching, running paws, howling.
+MUSIC: desperate searching strings, rising with the howls.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -42,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 122 | He was fighting the bear... then he saw WHY the bear was so angry 😢⛓️ #Bigfoot #Movie #Part122
+Part 122 | She asked the wolves to find her son... and they did 🐺🥺 #Bigfoot #Movie #Part122
 
 DOLA STATUS
 [ ] Images uploaded
@@ -52,5 +55,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

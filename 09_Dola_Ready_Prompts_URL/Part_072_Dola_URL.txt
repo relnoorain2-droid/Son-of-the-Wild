@@ -1,13 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
 
 FROST: Son of the Wild
-PART 072 - "Sit!"
-Punch: WOW + FUN
-Status: ready - URL PACKAGE
+PART 072 - "Where Is My Dad?"
+Punch: EMOTION
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -21,22 +21,25 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S03_HankMiller_FULL.png -> Hank Miller; K09_Wolves.png -> Creature Wolves; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V09_Bruno_Spirit.png -> Variant Bruno_Spirit; L06_AbandonedCabin.png -> Location AbandonedCabin.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Early morning fog over Hank's sheep farm at the edge of Cedar Hollow, wooden fences, a red farmhouse.
-0–3s: A pack of grey timber wolves jumps the fence; the sheep scatter, bleating.
-DIALOGUE 1–4s: Hank (deep rural voice, running out with a pitchfork in his pajamas): "WOLVES! Get away from my sheep!"
-3–12s: The wolves turn and snarl at Hank. He freezes. Kid Frost jumps over the fence and lands between them.
-DIALOGUE 6–8s: Kid Frost (calm but serious young boy voice): "Hey! Leave them alone!"
-12–22s: Frost's eyes glow soft blue. He points at the ground and speaks; a low rumbling animal sound echoes. The wolves stop snarling, look at each other... and sit down like obedient dogs.
-DIALOGUE 14–16s: Kid Frost: "Sit!"
-DIALOGUE 17–19s: Kid Frost (surprised whisper): "Wait... that actually worked?"
-22–30s: The wolves roll over on command. One licks Hank's hand. Hank stares, speechless, still in his pajamas. Final frame: Hank holding his pitchfork while a wolf wags its tail at him.
-DIALOGUE 22–24s: Kid Frost (cheerful young boy voice, testing it): "Roll over!"
-DIALOGUE 26–29s: Hank (deadpan): "I need more coffee for this."
-SFX: sheep bleating, fence creaking, snarling, magical hum, low rumbling, wolves whining happily, tail thumping, licking.
-MUSIC: tense drums, then a magical chime, then comedic light music.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Night, the porch of Lily's cabin (now repaired and cozy), stars above, fireflies.
+0–3s: Kid Frost sits on the porch steps, still a little sooty, looking at his reflection in a water bucket.
+DIALOGUE 1–3s: Kid Frost (soft young boy voice, sad): "Mom... why am I different?"
+3–12s: Lily sits beside him and puts her arm around him.
+DIALOGUE 4–8s: Kid Frost: "Tommy has a dad. Sarah has a dad. Where's mine?"
+DIALOGUE 8–12s: Lily (soft, emotional): "Your father was the strongest, kindest giant in the whole forest."
+12–22s: Lily takes out a small dried flower pressed inside an old book.
+DIALOGUE 12–19s: Lily: "I put this in his fur once. On his last day... he gave it back to me."
+DIALOGUE 19–22s: Kid Frost (whispering): "Was he... like me?"
+22–30s: Lily smiles and points at the black crescent patch on Frost's chest.
+DIALOGUE 22–28s: Lily: "He had this too, right here. And he loved you before you were even born."
+In the stars above, a soft glowing outline of Bruno appears for a moment, smiling. Frost looks up but it's gone. Final frame: mother and son looking up at the stars.
+DIALOGUE 28–30s: Kid Frost (softly): "Goodnight, Dad."
+SFX: crickets, fireflies hum, pages turning, a soft magical chime.
+MUSIC: the love theme from Bruno's parts, soft piano and violin.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +48,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 72 | He told the wolves to "sit"... and they did 🐺✨😂 #Bigfoot #Movie #Part72
+Part 72 | "Mom... where is my dad?" 😭⭐ #Bigfoot #Movie #Part72
 
 DOLA STATUS
 [ ] Images uploaded
@@ -55,5 +58,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

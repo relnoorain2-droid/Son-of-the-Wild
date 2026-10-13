@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
-C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
 V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 070 - "The White Beast"
-Punch: TWIST + CLIFFHANGER
+PART 070 - "The Bear Whisperer"
+Punch: WOW + TWIST
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,22 +21,20 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; C02_KingMagnus_FULL.png -> King Magnus; C03_PrinceDamian_FULL.png -> Prince Damian; S07_CaptainVex_FULL.png -> Captain Vex.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; S06_SarahMiller_FULL.png -> Sarah Miller; S03_HankMiller_FULL.png -> Hank Miller.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-0–3s: A scruffy fur hunter hiding in the snowy trees at the edge of Cedar Hollow watches Kid Frost playing with the kids, through a brass spyglass.
-DIALOGUE 1–4s: Hunter (rough greedy American male voice, whispering): "A white one... with blue eyes."
-3–12s: Night. The hunter kneels in front of Captain Vex at a campfire in the forest.
-DIALOGUE 5–12s: Hunter: "A white beast lives with the villagers. They call it Frost. Its mother is a blonde woman."
-DIALOGUE 12–14s: Captain Vex (harsh voice, slowly smiling): "A blonde woman..."
-12–22s: Thorne Castle throne hall. King Magnus, a little older and greyer, listens. Prince Damian, older too, with a scar on his forehead from the silver tray, stands up angrily.
-DIALOGUE 14–17s: Prince Damian (smooth voice, bitter): "The girl who hit me... is ALIVE?"
-DIALOGUE 17–21s: King Magnus (deep menacing voice): "And the beast had a son."
-22–30s: King Magnus stands and looks out of the window at his dragons.
-DIALOGUE 24–29s: King Magnus (cold and slow): "Not yet. Let the boy grow. Let them feel safe. Then... we take everything."
-Final frame: the red dragon's glowing eye opening in the dark.
-SFX: snow crunching, spyglass click, campfire crackle, echoing throne hall, dragon breathing.
-MUSIC: dark villain theme, low brass and a slow, ominous drumbeat.
+Late afternoon in Cedar Hollow, near the general store.
+0–3s: A huge grizzly bear smashes through a fence into the village street. People scream and run.
+DIALOGUE 1–3s: Villager woman (screaming): "BEAR! Get inside!"
+3–12s: The bear roars at little Sarah, who is frozen in the middle of the street. Hank runs for his shotgun. Kid Frost steps in front of Sarah.
+DIALOGUE 7–9s: Hank (shouting): "Frost, get away from it!"
+12–22s: Frost doesn't fight. He looks into the bear's eyes. His own eyes glow softly blue for a moment. He speaks calmly; we hear a low, soft rumbling sound like an animal language, and the bear slowly stops roaring.
+DIALOGUE 14–19s: Kid Frost (calm young boy voice): "Hey, big guy. You're just hungry, huh? Nobody wants to hurt you."
+22–30s: The bear sniffs Frost's hand, lies down, and lets Sarah pet its nose. Frost gives the bear a basket of apples from the store. Everyone watches in total silence. Final frame: the grizzly walking calmly back into the forest with an apple in its mouth.
+DIALOGUE 25–29s: Old Joe (from the porch, slow raspy voice): "He speaks to the wild... just like the old legends."
+SFX: fence crash, screams, roar, running, a soft magical hum, low gentle rumbling, sniffing, apple crunch.
+MUSIC: tense drums, then a magical soft choir and gentle strings.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,22 +43,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 70 | The king found out about Frost... and he's waiting for the perfect moment 😈🐉 #Bigfoot #Movie #Part70
-
-
-# FROST: Son of the Wild — PARTS 71–80 (Act 3: The Boy Who Became a Giant – Part 2)
-Dola me kaise use karein:
-1. "Attach" me likhi images (Characters folder se) Dola me upload karo (max 4).
-2. PART ka poora block (PART se lekar CAPTION se pehle tak) copy karke Dola me paste karo.
-3. Video ready hone par CAPTION Facebook description me paste karo.
-
-Story so far (Part 71–80): Kid Frost Halloween aur 4th of July manata hai, wolves ko control karta hai, aur jungle me apne papa Bruno ki purani waterfall cave dhoondh leta hai. Phir woh teenager (8 feet) ban jaata hai: awaaz phatti hai, taakat control nahi hoti, cheezein toot jaati hain. Maa use sikhati hai "strong hands, gentle heart". Ek toofan me uske haathon me pehli baar neeli bijli chamakti hai. Part 80 me pahadiyon par raja ke scouts dikhte hain.
-
-Kid Frost: V06_Frost_Kid (Part 71–75)  |  Teen Frost: V07_Frost_Teen (Part 76–80)
-Teen Frost voice: energetic teenage boy, about 15, voice cracking sometimes, American accent.
-Tommy aur Sarah ab bade ho rahe hain: teen parts me unki image attach nahi hai (prompt me describe hai). Part 88 se adult images aayengi (V12, V13).
-
-LILY RULE: Lily poori movie me hamesha 22–24 saal ki young, innocent aur khoobsurat dikhegi (har Lily wale part me "LOOK LOCK" line hai).
+Part 70 | A grizzly attacked the town... Frost just TALKED to it 🐻✨ #Bigfoot #Movie #Part70
 
 DOLA STATUS
 [ ] Images uploaded
@@ -70,5 +53,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

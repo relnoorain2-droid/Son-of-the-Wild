@@ -1,13 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 110 - "The Fall"
-Punch: ACTION + EMOTION + CLIFFHANGER
-Status: ready - URL PACKAGE
+PART 110 - "Mother and Son Fight"
+Punch: ANGER + CLIFFHANGER
+Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,44 +19,32 @@ Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+CHARACTER LOCK: Keep Lily and teen Frost exactly identical to attached references.
+LILY LOOK LOCK: Lily remains young-looking and beautiful, not older, with blue eyes and honey-blonde hair.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S07_CaptainVex_FULL.png -> Captain Vex; K02_RedDragon.png -> Creature RedDragon.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
-
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, the cliff above a huge waterfall, full moon, smoke and fire.
-0–3s: Frost roars; blue lightning explodes out of his chest and the red chains shatter into pieces. Soldiers fly backwards.
-DIALOGUE 1–3s: Frost (deep, thunderous): "ENOUGH!"
-3–12s: Frost punches the red dragon's jaw; it staggers. He grabs Captain Vex off its back and throws him into the trees.
-DIALOGUE 6–9s: Captain Vex (screaming as he flies): "Kill him! KILL HIIIM!"
-12–22s: The red dragon swings its massive tail and hits Frost full in the chest. He is knocked backwards off the cliff edge. In slow motion, Frost falls toward the giant waterfall, reaching out a hand toward the village.
-DIALOGUE 15–18s: Frost (deep, falling, whispering): "Mom..."
-22–30s: He disappears into the white roaring water far below. Lily, on the wall, screams with everything she has. Final frame: the empty waterfall in the moonlight, foam and mist, no sign of Frost.
-DIALOGUE 25–29s: Lily (screaming, breaking): "FROOOOST!"
-SFX: electric explosion, chains shattering, a massive punch, dragon roar, body thrown, a giant tail whoosh, heavy impact, wind rushing, waterfall roar, scream echoing.
-MUSIC: epic heroic swell, then a tragic choir as he falls, ending in silence with only the waterfall.
-
+Scene: Night inside Lily's cabin, full moon light through the window, map on table, distant thunder over the forest.
+0-5s: Frost packs a rope, an axe, and a blanket, determined to face King Magnus alone.
+DIALOGUE 1-4s: Lily (alarmed): "Where do you think you are going?"
+5-12s: Frost turns, angry and scared under the anger.
+DIALOGUE 5-9s: Frost (deep teen voice): "To end this before he hurts anyone else."
+DIALOGUE 9-12s: Lily (firm): "You are not walking into the king's trap."
+12-20s: Frost slams his hand on the table, cracking it. He instantly regrets scaring her.
+DIALOGUE 13-17s: Frost: "I am not a child anymore!"
+DIALOGUE 17-20s: Lily (voice shaking): "No. You are my child."
+20-27s: Frost turns away, breathing hard. Lily touches Bruno's old carved token on the table.
+DIALOGUE 21-25s: Lily: "Your father was brave. He also listened when love told him to wait."
+27-30s: Frost softens and kneels, sorry. Final frame: mother and son holding each other in moonlight as a wolf howls outside.
+DIALOGUE 27-30s: Frost (quiet): "Then tell me how to be brave without losing you."
+SFX: bag packing, thunder, table crack, quiet breathing, wolf howl.
+MUSIC: tense emotional strings resolving into soft piano.
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
 SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
-
+TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 110 | The dragon's tail hit him... and Frost fell into the waterfall 😭🌊 #Bigfoot #Movie #Part110
-
-
-# FROST: Son of the Wild — PARTS 111–120 (Act 4: The Secret of Orin & Trial 1)
-Dola me kaise use karein:
-1. "Attach" me likhi images (Characters folder se) Dola me upload karo (max 4).
-2. PART ka poora block (PART se lekar CAPTION se pehle tak) copy karke Dola me paste karo.
-3. Video ready hone par CAPTION Facebook description me paste karo.
-
-Story so far (Part 111–120): Raja ki fauj Frost ko mara hua samajh kar chali jaati hai. Lily haar nahi maanti; wolves ki madad se Frost jharne ke neeche ek cave me zinda milta hai. Frost kamzor aur toota hua hai: "I'm not strong enough." Old Joe raaz kholta hai: Bruno ke pita ELDER ORIN giants ke sabse bade jaadugar the, aur raja ka laal crystal Orin se chura hua hai. Power paane ke liye 4 TRIALS paar karne honge. Trial 1 – STRENGTH: "Bear Rock" ko pahaad ke kinare tak dhakelna. Frost kai din fail hota hai, mehnat karta hai, aur Part 120 me aakhir pathar hilta hai. Uske haath pe pehla neela nishaan (mark) chamakta hai.
-
-TRIAL RULE: Har trial ke baad Frost ke body pe ek neela chamakta nishaan aata hai (Trial 1 = right forearm). 4 trials ke baad poori shakti (V08_Frost_Powered) Part 133–136 me milegi.
-
-LILY RULE: Lily poori movie me hamesha 22–24 saal ki young, innocent aur khoobsurat dikhegi (har Lily wale part me "LOOK LOCK" line hai).
+Part 110 | Frost wanted to fight alone. Lily reminded him bravery must protect love too. #Bigfoot #Movie #Part110
 
 DOLA STATUS
 [ ] Images uploaded
@@ -67,5 +54,4 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-
+Inserted after old Part 100 before the full-moon battle setup.

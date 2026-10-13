@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+C04_Bruno_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FACE.png
 C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
-L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 031 - "The Forest Goes Quiet"
-Punch: TWIST + WOW
+PART 031 - "We're Having a Baby!"
+Punch: EMOTION + FUN
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,22 +22,24 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; C04_Bruno_FULL.png -> Bruno; K02_RedDragon.png -> Creature RedDragon; L05_River.png -> Location River.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; C04_Bruno_FACE.png -> Bruno; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Peaceful morning by the river near the waterfall, mist, golden light.
-0–3s: Lily (pregnant, around 6 months, blonde, blue eyes) laughs as Bruno balances a stack of apples on his head. Suddenly every bird in the forest flies away at once.
-DIALOGUE 1–4s: Lily (soft young American woman): "Bruno... why are the birds leaving?"
-3–12s: Deer, elk and rabbits run past them in panic. The river water starts rippling in rhythm. Bruno drops the apples, sniffing the air, his face turning serious.
-DIALOGUE 6–9s: Bruno (very deep gravelly voice, low and serious): "Animals running... from something big."
-12–22s: Distant war horns echo through the trees. The ground shakes harder. Bruno pulls Lily behind him.
-DIALOGUE 14–17s: Lily (scared): "Is it the king?"
-DIALOGUE 17–21s: Bruno (deep, calm but afraid): "Lily go inside cave. Now. Don't come out."
-22–30s: A massive shadow passes over them. They look up: the huge red dragon flies over the treetops, followed by three smaller dragons, blocking the sun. Final frame: the dragon's shadow covering Lily's terrified face.
-DIALOGUE 26–30s: NARRATOR (deep cinematic American trailer voice): "The king had come... and he brought the whole kingdom."
-SFX: birds taking off, animals stampeding, rhythmic ground rumble, distant war horns, giant wing beats, dragon roar.
-MUSIC: peaceful flute cut off by deep ominous drums, rising into a dark war theme.
+Morning, sunlit meadow near the river.
+0–3s: Lily takes Bruno's huge hand and gently places it on her belly.
+DIALOGUE 1–4s: Lily (soft, nervous, smiling): "Bruno... we're going to have a baby."
+3–12s: Bruno freezes. His eyes slowly fill with tears. He looks at her belly, then her face.
+DIALOGUE 6–9s: Bruno (deep, trembling whisper): "Baby? Bruno... be a father?"
+DIALOGUE 9–11s: Lily (crying happy tears): "Yes!"
+12–22s: Bruno lets out a giant joyful roar that echoes through the whole forest; birds fly up from every tree. He lifts Lily very gently and spins her slowly in the sunlight.
+DIALOGUE 16–19s: Bruno (deep happy shout): "BRUNO WILL BE PAPA!"
+22–30s: He carefully sets her down, kneels, and puts his ear on her belly like listening. He gasps.
+DIALOGUE 25–27s: Bruno (whispering, amazed): "Baby say hello."
+DIALOGUE 27–30s: Lily (laughing, crying): "Bruno, it's way too early for that!"
+Final frame: both laughing, foreheads touching.
+SFX: birds, giant joyful roar echo, hundreds of birds flying up, wind, laughter.
+MUSIC: emotional rising orchestra into a bright happy theme.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +48,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 31 | Every animal ran away at once... then the sky went dark 🐉 #Bigfoot #Movie #Part31
+Part 31 | "BRUNO WILL BE PAPA!" 🥹👶 Their biggest surprise ever #Bigfoot #Movie #Part31
 
 DOLA STATUS
 [ ] Images uploaded
@@ -55,5 +58,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 095 - "It's My Fault"
-Punch: EMOTION + TWIST
-Status: ready - URL PACKAGE
+PART 095 - "Dance Floor Apology"
+Punch: COMMUNITY HEART
+Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -19,32 +20,31 @@ Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+CHARACTER LOCK: Keep teen Frost, Lily, Sarah, and Cedar Hollow exactly identical to attached references.
+LILY LOOK LOCK: Lily remains young-looking, sweet, beautiful, blue eyes, honey-blonde hair.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; C05_Frost_FULL.png -> Frost; S03_HankMiller_FULL.png -> Hank Miller; S10_Villagers.png -> optional background group, skip unless you want crowd continuity.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
-
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Sunset on a hill above Cedar Hollow, a small cemetery with simple fresh wooden crosses, villagers in dark clothes, a fiddle lying on one grave.
-0–3s: Villagers stand silently around the new graves. A fiddle rests on one of them — the fiddle player who started the village song.
-DIALOGUE 1–4s: NARRATOR (deep cinematic American trailer voice): "Cedar Hollow lost seven good people that day."
-3–12s: Hank, his arm in a sling, places a hat on a grave. Tommy holds his father's shoulder.
-DIALOGUE 5–13s: Hank (deep voice, broken): "They asked for the white one... and his mother. A king on a dragon. Who in God's name are these people, Lily?"
-12–22s: Everyone turns to Lily. She falls to her knees in front of the graves, crying.
-DIALOGUE 14–19s: Lily (sobbing): "It's my fault. They came for me. I brought this on all of you."
-22–30s: Martha kneels and holds her. Frost stands behind them, his fists slowly clenching, a tiny blue spark crackling between his fingers.
-DIALOGUE 25–29s: Frost (deep, quiet, dangerous): "Mom. Who is the king?"
-Final frame: close-up of Frost's blue eyes, starting to glow.
-SFX: wind, crows, quiet sobbing, a soft electric crackle.
-MUSIC: sad funeral violin, then a low tense drone.
-
+Scene: Cedar Hollow town square before the harvest dance, lanterns, wooden stage, flower garlands, sunset.
+0-5s: Frost carries too many lantern poles at once to help decorate. He trips and knocks down half the dance garlands.
+DIALOGUE 1-4s: Sarah (teen girl, shocked): "Frost!"
+5-12s: Frost gets embarrassed and defensive as villagers stare.
+DIALOGUE 5-9s: Frost (upset): "I was trying to help."
+DIALOGUE 9-12s: Lily (gentle but firm): "Then help by fixing it, not by hiding."
+12-20s: Frost walks away angry, then sees Sarah quietly gathering broken flowers alone.
+DIALOGUE 14-18s: Sarah (soft): "You do not have to be small to be careful."
+20-27s: Frost returns and builds a beautiful flower arch higher than any ladder could reach.
+DIALOGUE 21-25s: Frost (sincere): "I am sorry. I got mad because I felt foolish."
+27-30s: Sarah smiles, Lily nods proudly, villagers cheer. Final frame: lanterns glowing under Frost's tall flower arch.
+DIALOGUE 27-30s: Lily: "That is how a strong heart apologizes."
+SFX: poles clattering, crowd gasp, flowers rustling, hammer taps, cheering.
+MUSIC: soft Americana dance tune growing warm and proud.
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
 SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
-
+TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 95 | "They came for me... it's my fault." 😢 Frost wants answers #Bigfoot #Movie #Part95
+Part 95 | Frost ruined the dance decorations, got angry, then rebuilt something beautiful. #Bigfoot #Movie #Part95
 
 DOLA STATUS
 [ ] Images uploaded
@@ -54,5 +54,4 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-
+Inserted after old Part 086 before the harvest dance.

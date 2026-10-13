@@ -1,12 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
 
 FROST: Son of the Wild
-PART 104 - "Hello Again, Wife"
-Punch: TWIST + WOW
+PART 104 - "It's My Fault"
+Punch: EMOTION + TWIST
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,24 +20,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V10_Damian_Battle.png -> Variant Damian_Battle; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; C05_Frost_FULL.png -> Frost; S07_CaptainVex_FULL.png -> Captain Vex.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; C05_Frost_FULL.png -> Frost; S03_HankMiller_FULL.png -> Hank Miller; S10_Villagers.png -> optional background group, skip unless you want crowd continuity.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-CAST NOTE: Hank = a sturdy farmer, grey-brown beard, worn cowboy hat, plaid shirt, overalls.
-Night, full moon, in front of Cedar Hollow's log wall. The king's army stretches across the valley with torches: dark Bigfoots, mammoths, soldiers, small dragons circling above.
-0–3s: Captain Vex rides forward on a black war horse. Beside him, Prince Damian, older now, with a scar on his forehead, in spiked black armor.
-DIALOGUE 1–4s: Captain Vex (harsh loud voice): "Time's up, Cedar Hollow! Where's the gold?"
-3–12s: Hank stands on the log wall with his shotgun.
-DIALOGUE 5–9s: Hank (deep rural voice): "Spent it all on bacon grease. Come and get it!"
-12–22s: Prince Damian sees Lily on the wall. He smiles slowly.
-DIALOGUE 14–19s: Prince Damian (smooth, arrogant voice): "Lily Carter. All these years... and you're still beautiful. Hello again, wife."
-DIALOGUE 19–22s: Lily (cold, brave): "I was never your wife, Damian."
-22–30s: The giant log gate opens. Frost walks out alone, 11 feet tall, the full moon behind him. The soldiers' horses rear in fear. Damian's smile fades.
-DIALOGUE 26–30s: Frost (deep, calm, dangerous): "You must be the prince my mom hit with a tray."
-Final frame: Damian touching the old scar on his forehead, furious.
-SFX: hundreds of torches crackling, horses, armor, wind, a heavy wooden gate opening, earth-shaking footsteps, horses neighing.
-MUSIC: dark epic standoff music with low brass.
+Sunset on a hill above Cedar Hollow, a small cemetery with simple fresh wooden crosses, villagers in dark clothes, a fiddle lying on one grave.
+0–3s: Villagers stand silently around the new graves. A fiddle rests on one of them — the fiddle player who started the village song.
+DIALOGUE 1–4s: NARRATOR (deep cinematic American trailer voice): "Cedar Hollow lost seven good people that day."
+3–12s: Hank, his arm in a sling, places a hat on a grave. Tommy holds his father's shoulder.
+DIALOGUE 5–13s: Hank (deep voice, broken): "They asked for the white one... and his mother. A king on a dragon. Who in God's name are these people, Lily?"
+12–22s: Everyone turns to Lily. She falls to her knees in front of the graves, crying.
+DIALOGUE 14–19s: Lily (sobbing): "It's my fault. They came for me. I brought this on all of you."
+22–30s: Martha kneels and holds her. Frost stands behind them, his fists slowly clenching, a tiny blue spark crackling between his fingers.
+DIALOGUE 25–29s: Frost (deep, quiet, dangerous): "Mom. Who is the king?"
+Final frame: close-up of Frost's blue eyes, starting to glow.
+SFX: wind, crows, quiet sobbing, a soft electric crackle.
+MUSIC: sad funeral violin, then a low tense drone.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -47,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 104 | "You must be the prince my mom hit with a tray." 😂🔥 #Bigfoot #Movie #Part104
+Part 104 | "They came for me... it's my fault." 😢 Frost wants answers #Bigfoot #Movie #Part104
 
 DOLA STATUS
 [ ] Images uploaded
@@ -57,5 +54,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

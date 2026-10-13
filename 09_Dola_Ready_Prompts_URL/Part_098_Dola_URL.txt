@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
 L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
 
 FROST: Son of the Wild
-PART 098 - "I Will Not Spare Him"
-Punch: WOW + ACTION
+PART 098 - "Rockslide"
+Punch: ACTION + WOW
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,21 +21,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; C05_Frost_FACE.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V12_Tommy_Adult.png -> Variant Tommy_Adult; S03_HankMiller_FULL.png -> Hank Miller; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, outside the cabin, at the edge of the forest. A storm is gathering above.
-0–3s: Frost walks out of the cabin and punches a huge boulder; it explodes into pieces.
-DIALOGUE 1–3s: Frost (deep, roaring with rage): "HE KILLED MY FATHER!"
-3–12s: His eyes glow electric blue. Blue lightning crackles across his whole body. The clouds above swirl and thunder answers him. Trees bend in the wind.
-DIALOGUE 6–11s: Frost (thunderous voice): "He hurt my mother! He burned my home! He killed my friends!"
-12–22s: He rips a dead pine tree out of the ground and throws it into the forest. Lightning strikes the ground around him three times.
-DIALOGUE 15–20s: Frost (roaring to the sky): "I WILL NOT SPARE HIM! Do you hear me, Magnus? I'M COMING FOR YOU!"
-22–30s: He falls to his knees in the mud, breathing hard, blue sparks fading, rain starting to fall. Lily runs out into the storm. Final frame: Frost kneeling, fists in the mud, lightning above.
-DIALOGUE 27–29s: Lily (screaming): "FROST! STOP!"
-SFX: boulder explosion, electric crackling, thunder, wind howling, tree ripping out, lightning strikes, rain.
-MUSIC: powerful dark epic choir and drums, building to a peak.
+Afternoon, a mountain road above Cedar Hollow, a steep cliff, a logging truck driving down.
+0–3s: Rocks start falling from the mountain. A massive rockslide thunders down toward the road where Hank's pickup truck and Tommy are driving.
+DIALOGUE 1–3s: Tommy (young man voice, screaming): "Dad, LOOK OUT!"
+3–12s: Boulders the size of houses bounce down the slope. Frost, nearby, sprints up the road.
+DIALOGUE 6–8s: Frost (deep powerful voice): "Hank! Stop the truck!"
+12–22s: Frost jumps in front of the truck and catches a giant boulder with both hands, his feet sliding back on the road. He throws it off the cliff. He punches another into pieces. He shields the truck with his back as the last rocks hit him and bounce off his fur without hurting him.
+DIALOGUE 17–19s: Frost (straining): "Not today!"
+22–30s: The dust settles. The truck is safe. Frost stands up, shakes rocks off his fur like a dog, unhurt. Hank and Tommy stare. Final frame: a huge boulder broken on Frost's back, Frost smiling.
+DIALOGUE 24–28s: Hank (stunned, deep voice): "Son... the rocks broke on YOU."
+DIALOGUE 28–30s: Frost (shrugs): "Felt like rain."
+SFX: rumbling mountain, crashing boulders, tires screeching, heavy catch impact, feet sliding, punch shattering rock, rocks bouncing, dust settling.
+MUSIC: intense action drums and brass, with a cool heroic sting at the end.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 98 | "I WILL NOT SPARE HIM!" ⚡😡 Frost's rage shook the sky #Bigfoot #Movie #Part98
+Part 98 | A rockslide hit him... and the ROCKS broke 🪨💪 "Felt like rain." #Bigfoot #Movie #Part98
 
 DOLA STATUS
 [ ] Images uploaded
@@ -54,5 +54,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

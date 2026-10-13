@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 091 - "The Biggest Fish"
-Punch: FUN + TWIST
-Status: ready - URL PACKAGE
+PART 091 - "Wildfire"
+Punch: ACTION + WOW
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,22 +20,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; L05_River.png -> Location River.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S10_Villagers.png -> optional background group, skip unless you want crowd continuity; K09_Wolves.png -> Creature Wolves.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Sunny morning at a wide, far-away mountain river, pine forest, snowy peaks.
-0–3s: Frost stands knee-deep in the river; a gigantic salmon leaps and he catches it in mid-air with one hand.
-DIALOGUE 1–4s: Frost (deep powerful young male voice, laughing): "Got you! Mom, look at this monster!"
-3–12s: The huge fish slaps Frost in the face with its tail and he falls backwards into the river with a giant splash. Lily laughs so hard she falls off her rock.
-DIALOGUE 6–11s: Lily (laughing): "Your father had the same fight with a fish! The fish won too!"
-DIALOGUE 11–13s: Frost (spitting water, grinning): "Rude fish!"
-12–22s: They sit together on the riverbank eating sandwiches. Lily leans on his huge arm, peaceful.
-DIALOGUE 14–18s: Lily (soft): "Sometimes I wish this day would never end."
-22–30s: Frost suddenly stops chewing. He sniffs the air. His smile disappears. Over the mountains, far away, thick black smoke rises into the sky in the direction of Cedar Hollow. Final frame: Lily slowly standing up, the sandwich falling from her hand.
-DIALOGUE 26–29s: Frost (deep, worried whisper): "Mom... that smoke is coming from home."
-SFX: river flowing, a giant fish splash, slap, laughter, birds, then wind and distant faint explosions.
-MUSIC: happy acoustic guitar that slowly turns into a low ominous drone.
+Late afternoon, a huge wildfire racing through the pine forest toward Cedar Hollow, orange sky, smoke.
+0–3s: A wall of fire bursts over the hill; burning trees fall. The village bell rings.
+DIALOGUE 1–4s: Villager man (shouting): "The fire's coming! It's too fast!"
+3–12s: Deer, elk and rabbits run in panic toward the village. Teen Frost runs toward the fire, not away.
+DIALOGUE 6–11s: Teen Frost (determined teenage voice): "I can't stop the fire... but I can stop it from reaching home."
+12–22s: Frost's eyes glow blue. He calls out with a deep animal rumble; elk, bears and wolves stop, turn, and help him: elk drag fallen logs, bears dig. Frost rips trees out of the ground and digs a wide trench with his bare hands — a firebreak.
+DIALOGUE 16–19s: Teen Frost (shouting to the animals): "Faster! Everyone together!"
+22–30s: The fire reaches the trench and stops, unable to cross. Rain begins to fall. Frost collapses to his knees, covered in ash, exhausted. The animals surround him. Final frame: the village safe behind him, the burnt forest in front.
+DIALOGUE 26–29s: Lily (running up, crying with relief): "You saved everyone, Frost!"
+SFX: roaring fire, falling trees, alarm bell, stampeding animals, magical hum, deep animal rumble, digging, trees ripping out, rain.
+MUSIC: intense epic action score with a heroic choir, resolving with gentle rain.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +43,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 91 | "Rude fish!" ...then they saw the smoke over home 😰 #Bigfoot #Movie #Part91
+Part 91 | A wildfire was coming for the town... the animals helped Frost stop it 🔥🦌 #Bigfoot #Movie #Part91
 
 DOLA STATUS
 [ ] Images uploaded
@@ -54,5 +53,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

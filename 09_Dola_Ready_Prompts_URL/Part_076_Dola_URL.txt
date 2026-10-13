@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
+L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 076 - "Growth Spurt"
-Punch: FUN
-Status:-assets
+PART 076 - "Thin Ice"
+Punch: ACTION + EMOTION
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,23 +21,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; L06_AbandonedCabin.png -> Location AbandonedCabin.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S05_TommyMiller_FULL.png -> Tommy Miller; S06_SarahMiller_FULL.png -> Sarah Miller; L05_River.png -> Location River.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Morning, inside Lily's cozy cabin.
-0–3s: Teen Frost (8 feet tall now) wakes up, stretches, stands up — and his head goes straight through the cabin roof. Shingles fly.
-DIALOGUE 1–3s: Teen Frost (energetic teenage boy voice, voice cracking): "Oh no. Not AGAIN!"
-3–12s: Outside, the camera shows his head sticking out of the roof. A bird sits on his head. Lily walks out with coffee.
-DIALOGUE 5–10s: NARRATOR (deep cinematic trailer voice): "A few more years... and Frost was growing faster than the cabin."
-DIALOGUE 10–13s: Lily (sighing, smiling): "That's the third roof this year, honey."
-12–22s: Frost tries to speak deeply like a man, but his voice cracks high and low.
-DIALOGUE 14–19s: Teen Frost (deep voice) "Mom, I am a grown-up now—" (voice cracks very high) "—and I can fix it MYSELF!"
-DIALOGUE 19–21s: Lily (laughing): "Sure you can, big man."
-22–30s: Frost pulls his head out, holds a hammer, hits one nail — and the whole porch collapses. Silence. A shingle falls on his head. Final frame: Frost slowly turning to his mother with an innocent face.
-DIALOGUE 27–29s: Teen Frost (tiny voice): "...Can Hank fix it?"
-SFX: stretching groan, roof crash, shingles flying, bird chirp, coffee sip, voice crack, hammer tap, porch collapse, shingle bonk.
-MUSIC: upbeat comedic country-rock.
+Winter, a frozen lake surrounded by snowy pines, kids sledding and ice-skating.
+0–3s: Frost pulls Tommy and Sarah on a big wooden sled at crazy speed across the snow; they scream with joy.
+DIALOGUE 1–3s: Tommy (laughing): "Faster, Frost! FASTER!"
+3–12s: Tommy slides off and skates out onto the frozen lake to show off. The ice cracks under him.
+DIALOGUE 6–8s: Sarah (scared): "Tommy, the ice!"
+DIALOGUE 8–10s: Tommy (panicked): "Frost! HELP!"
+12–22s: The ice breaks; Tommy falls into the freezing water. Frost runs onto the ice, which cracks under his weight. He lies down flat, spreading his weight, and crawls forward.
+DIALOGUE 15–18s: Kid Frost (calm but scared): "Don't panic! Grab my hand!"
+22–30s: Frost pulls Tommy out of the water with one arm and slides back to shore as the ice collapses behind them. He wraps the shivering Tommy in his warm white fur. Final frame: Tommy hugging Frost, teeth chattering.
+DIALOGUE 26–29s: Tommy (shivering, smiling): "You're... the warmest best friend... ever."
+SFX: sled on snow, laughter, ice cracking, splash into water, deep ice cracks, sliding, shivering.
+MUSIC: playful winter bells, then intense rescue strings, resolving warmly.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 76 | Teen Bigfoot problems: you stand up and break the roof 😂🏠 #Bigfoot #Movie #Part76
+Part 76 | His best friend fell through the ice 😱❄️ #Bigfoot #Movie #Part76
 
 DOLA STATUS
 [ ] Images uploaded
@@ -55,5 +54,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

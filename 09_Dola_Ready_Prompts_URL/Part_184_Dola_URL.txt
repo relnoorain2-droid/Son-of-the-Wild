@@ -1,0 +1,59 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
+
+FROST: Son of the Wild
+PART 184 - "The King's End"
+Punch: ACTION + EMOTION
+Status:-assets
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: vertical 9:16
+Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K08_GrizzlyBear.png -> Creature GrizzlyBear.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
+The castle courtyard at dusk, the giant dark crack in the ground glowing faintly red from deep below.
+0–3s: Frost turns his back on the king and walks toward Lily. Behind him, King Magnus pulls a hidden dagger from his boot.
+DIALOGUE 1–4s: King Magnus (hissing): "If I lose everything... so do you!"
+3–12s: The king charges at Lily with the dagger. Old Scar the giant grizzly jumps between them and knocks the king backward with one paw. The king stumbles toward the edge of the dark crack.
+DIALOGUE 6–9s: Lily (screaming): "Frost!"
+12–22s: The ground at the edge breaks. The king slips and falls, grabbing the crumbling edge with one hand above the deep, dark abyss. Frost runs and reaches down his huge hand.
+DIALOGUE 15–19s: Frost (deep, urgent): "Take my hand! Magnus, TAKE IT!"
+22–30s: The king looks at Frost's hand... the hand of the son of the giant he killed. His face fills with pride and hate.
+DIALOGUE 24–27s: King Magnus (cold, final): "Never... from a beast."
+He lets go and falls into the darkness, disappearing into the same pit where he chained the dragon for a hundred years. No gore, just darkness. The crack slowly closes with a deep rumble. Final frame: Frost's empty hand still reaching down, Lily's hand on his shoulder.
+DIALOGUE 27–30s: Lily (soft): "You tried, my love. That's what matters."
+SFX: a dagger drawn, charging footsteps, a bear roar and swipe, stumbling, ground breaking, a desperate grip, wind from the abyss, a fading scream, a deep earth rumble as the crack closes.
+MUSIC: a sudden action hit, tense strings, then a solemn, quiet ending.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 184 | Frost offered the king his hand... and the king chose the darkness 😶🕳️ #Bigfoot #Movie #Part184
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES

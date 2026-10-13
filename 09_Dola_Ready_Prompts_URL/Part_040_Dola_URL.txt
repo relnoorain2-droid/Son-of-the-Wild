@@ -1,13 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
 V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
 V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 040 - "Two Hearts Still Beating"
-Punch: EMOTION + CLIFFHANGER
-Status:-assets
+PART 040 - "Hands Off My Family"
+Punch: ACTION + FUN
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -21,21 +21,24 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; V10_Damian_Battle.png -> Variant Damian_Battle; L05_River.png -> Location River.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C04_Bruno_FULL.png -> Bruno; V03_Lily_Pregnant.png -> Variant Lily_Pregnant; V10_Damian_Battle.png -> Variant Damian_Battle; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-0–3s: From far down the river, Lily, floating and holding onto a log, sees the red lightning flash in the distance and screams silently, tears streaming.
-DIALOGUE 1–3s: Lily (broken whisper): "No... no, Bruno..."
-3–12s: The current pulls her into dark rapids. She clings to the log, one hand on her belly, Bruno's small blue flower clutched in her fist, then hits her head on a rock and goes limp, still holding the log.
-DIALOGUE 6–10s: NARRATOR (deep cinematic trailer voice): "The river took her far away from everything she knew."
-12–22s: Back at the riverbank, at dusk: Prince Damian (dirty, angry) and King Magnus look at the river.
-DIALOGUE 14–17s: Prince Damian (bitter): "The river took her, Father. She's dead."
-DIALOGUE 17–21s: King Magnus (cold, turning away): "Then the forest wins. As always."
-22–30s: Night. Moonlight. The log with unconscious Lily drifts gently out of the forest onto a calm river. A soft heartbeat sound starts: two heartbeats, one big, one small. Final frame: close-up of Lily's hand resting on her belly, and the belly moves gently.
-DIALOGUE 26–30s: NARRATOR: "But the king was wrong. Two hearts were still beating."
-SFX: rushing river, distant thunder-like blast, rapids, a dull thud on rock, calm water, owls, two heartbeats.
-MUSIC: sad emotional strings, ending on a hopeful soft piano note.
+The valley in front of the cave, smoke and fire around.
+0–3s: Damian's sword swings down at Lily — a huge black hand grabs the blade and bends it like a spoon.
+DIALOGUE 1–3s: Bruno (deep, furious): "Hands off... my family."
+3–12s: Prince Damian stares at his bent sword, then at Bruno, and smiles nervously.
+DIALOGUE 5–8s: Prince Damian (nervous, fake laugh): "Let's... talk about this like gentlemen?"
+8–14s: Bruno picks Damian up by his cape and throws him far across the valley; he lands face-first in a pile of mammoth dung. Soldiers try not to laugh.
+DIALOGUE 12–14s: Prince Damian (muffled, disgusted): "Ughh! Father!"
+14–22s: Bruno lifts Lily into his arms. He has burn marks on his back and is breathing heavily, limping.
+DIALOGUE 16–19s: Lily (crying): "You're hurt, Bruno!"
+DIALOGUE 19–22s: Bruno (deep, trying to smile): "Bruno is fine. Bruno... totally fine."
+22–30s: Bruno runs with Lily toward the forest. Behind them, King Magnus raises his staff; the red crystal charges with red lightning. Final frame: the red bolt flying toward Bruno's back.
+DIALOGUE 26–28s: King Magnus (booming): "NO ONE ESCAPES ME!"
+SFX: metal bending, nervous laugh, whoosh of throw, comedic squelch landing, soldiers snickering, heavy limping footsteps, magical lightning charge, crackling bolt.
+MUSIC: heroic hit, a quick comedic sting on the dung landing, then dark rising tension.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,20 +47,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 40 | The king thinks she's dead... but two hearts are still beating 🥺💓 Act 1 ends! #Bigfoot #Movie #Part40
-
-
-# FROST: Son of the Wild — PARTS 41–50 (Act 2: A New Life)
-Dola me kaise use karein:
-1. "Attach" me likhi images (Characters folder se) Dola me upload karo (max 4).
-2. PART ka poora block (PART se lekar CAPTION se pehle tak) copy karke Dola me paste karo.
-3. Video ready hone par CAPTION Facebook description me paste karo.
-
-Story so far (Part 41–50): Nadi Lily ko door Washington state ke ek chhote gaon Cedar Hollow ke paas le aati hai. Wo ek khaali cabin me rehne lagti hai, machhli pakad kar survive karti hai. Gaon ke log (Martha, Hank, Tommy, Sarah, Old Joe) uski madad karte hain. Wo kehti hai "my husband died". Raja ka commander Vex gaon me use dhoondhne aata hai, gaon wale use chhupa lete hain. Part 50 me 9ve mahine raat ko uska water break hota hai.
-
-Lily ka look: V03_Lily_Pregnant (pet 6 → 9 mahine badhta jaye).
-
-LILY RULE: Lily poori movie me hamesha 22–24 saal ki young, innocent aur khoobsurat dikhegi (har Lily wale part me "LOOK LOCK" line hai).
+Part 40 | The prince landed in mammoth poop 😂 ...but the king wasn't laughing ⚡ #Bigfoot #Movie #Part40
 
 DOLA STATUS
 [ ] Images uploaded
@@ -67,5 +57,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

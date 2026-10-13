@@ -1,12 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
 
 FROST: Son of the Wild
-PART 108 - "The Frying Pan"
-Punch: FUN + ACTION
+PART 108 - "I Can't Lose You Too"
+Punch: EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,23 +20,24 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V10_Damian_Battle.png -> Variant Damian_Battle; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S02_MarthaHayes_FULL.png -> Martha Hayes; S03_HankMiller_FULL.png -> Hank Miller.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FACE.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, inside the log wall, a burning corner of Cedar Hollow.
-0–3s: Prince Damian sneaks over a broken part of the wall while Frost is busy fighting outside. He grabs Lily by the arm.
-DIALOGUE 1–4s: Prince Damian (smooth, cruel): "You're coming home with me, wife."
-3–12s: Lily struggles. Hank runs at Damian; Damian knocks the shotgun away with his sword and kicks Hank down.
-DIALOGUE 6–9s: Lily (fighting): "Let go of me, Damian!"
-DIALOGUE 9–12s: Prince Damian (laughing): "Nobody can save you this time."
-12–22s: Behind Damian, Martha walks up calmly, holding her sharpened cast-iron frying pan with both hands.
-DIALOGUE 15–17s: Martha (sweet Southern voice): "Excuse me, young man?"
-DIALOGUE 17–18s: Prince Damian (turning around): "What?"
-22–30s: BONK! Martha hits him on the head with the frying pan. Damian spins once, cross-eyed, exactly like on his wedding night years ago, and falls flat on his face in the mud. Lily stares at Martha, then laughs. Final frame: Martha blowing on the frying pan like a cowboy blowing on a gun.
-DIALOGUE 26–29s: Martha (proud): "Told you I could sharpen it."
-SFX: footsteps, struggle, sword clang, shotgun clatter, kick, a loud comedic metal "BONK", body flop into mud, laughter.
-MUSIC: tense music, then a comedic hit and a short victorious Western whistle.
+Night, in the rain outside the cabin, then a quiet moment.
+0–3s: Lily grabs Frost's huge face with both hands in the rain.
+DIALOGUE 1–4s: Lily (crying): "Look at me! LOOK at me!"
+3–14s: Close-up on both faces, rain falling.
+DIALOGUE 4–9s: Lily (emotional): "Revenge already took your father from me. The king has dragons, an army, magic..."
+DIALOGUE 9–13s: Lily (breaking): "I can't lose you too, Frost. Please. I can't."
+14–22s: Frost's anger melts. He hugs his mother gently, his huge body protecting her from the rain.
+DIALOGUE 17–20s: Frost (deep, soft, broken): "I'm sorry, Mom. I'm sorry."
+22–30s: Old Joe appears under his umbrella on the porch.
+DIALOGUE 22–26s: Old Joe (slow raspy wise voice): "Anger without power is how good men die, son."
+DIALOGUE 26–30s: Frost (quietly, firm): "Then I'll wait. But if they come again... I fight."
+Final frame: Frost and Lily in the rain, Old Joe watching, lightning far away.
+SFX: heavy rain, crying, thunder rolling away, umbrella rain drops.
+MUSIC: soft, emotional piano and cello.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -46,7 +46,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 108 | Years later... the prince got hit AGAIN 🍳😂 #Bigfoot #Movie #Part108
+Part 108 | "Revenge took your father. I can't lose you too." 💔 #Bigfoot #Movie #Part108
 
 DOLA STATUS
 [ ] Images uploaded
@@ -56,5 +56,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
-S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 075 - "Fourth of July"
-Punch: ACTION + WOW
+PART 075 - "Thanksgiving"
+Punch: EMOTION + FUN
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,20 +21,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S03_HankMiller_FULL.png -> Hank Miller; S06_SarahMiller_FULL.png -> Sarah Miller; S05_TommyMiller_FULL.png -> Tommy Miller.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S03_HankMiller_FULL.png -> Hank Miller; S02_MarthaHayes_FULL.png -> Martha Hayes.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Night, Fourth of July celebration in Cedar Hollow: American flags, a small parade, food stands, families on blankets, string lights.
-0–3s: A wooden cart full of fireworks catches a spark and starts fizzing and rolling downhill toward the crowd.
-DIALOGUE 1–3s: Hank (shouting): "The fireworks cart! Everybody MOVE!"
-3–12s: Rockets start shooting sideways from the cart; people dive to the ground. The cart speeds toward a group of children.
-DIALOGUE 6–8s: Sarah (screaming): "Frost!"
-12–22s: Kid Frost sprints, grabs the fizzing cart with both hands, spins around like an Olympic hammer thrower, and launches the entire cart high into the night sky.
-DIALOGUE 15–17s: Kid Frost (straining): "Go... UP!"
-22–30s: The cart explodes high above the town into the biggest, most beautiful fireworks show anyone has ever seen: red, white and blue. The whole village cheers. Frost sits down, covered in soot, smiling. Final frame: fireworks reflected in Frost's blue eyes.
-DIALOGUE 26–29s: Tommy (amazed): "Best Fourth of July EVER!"
-SFX: fuse fizzing, wooden wheels rolling, rockets whooshing, screams, a massive throw whoosh, giant firework explosions, crowd cheering.
-MUSIC: patriotic American brass march, building to a triumphant finale.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+CAST NOTE: Tommy = a cheerful boy (10–14), messy brown hair, freckles, red cap.
+Autumn evening, a long outdoor Thanksgiving table in Cedar Hollow under string lights, orange leaves, a big roast turkey, pies, pumpkins.
+0–3s: Kid Frost carries the entire long wooden table, fully set with food, over his head into place.
+DIALOGUE 1–3s: Martha (warm Southern voice): "Careful with my pies, sweetie!"
+3–12s: Everyone sits. Frost sits on the ground and he's still the tallest at the table. He grabs a turkey leg that is bigger than Tommy's head.
+DIALOGUE 6–9s: Tommy (excited): "Frost gets the WHOLE turkey?"
+DIALOGUE 9–13s: Kid Frost (grinning): "Just the legs. And the wings. And the middle."
+12–22s: Hank stands up and raises his glass of apple cider.
+DIALOGUE 13–23s: Hank (deep rural voice, emotional): "Two years ago, we came to Lily's door with torches. Today... I'm thankful we were wrong. To Frost — the best neighbor this town ever had."
+22–30s: The whole village cheers "To Frost!" Frost gets shy and covers his face with his huge hands. Lily wipes a tear. Final frame: the whole town around the table, warm lights, laughter.
+DIALOGUE 26–29s: Lily (soft, to herself): "Look, Bruno. He has a family."
+SFX: table thump, plates clinking, cheering, glasses toasting, laughter, autumn wind.
+MUSIC: warm, emotional Americana with acoustic guitar and soft strings.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +46,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 75 | The fireworks cart was heading for the kids... so Frost threw it into the sky 🎆🇺🇸 #Bigfoot #Movie #Part75
+Part 75 | "Two years ago we came with torches... today I'm thankful we were wrong." 🦃🥹 #Bigfoot #Movie #Part75
 
 DOLA STATUS
 [ ] Images uploaded
@@ -53,5 +56,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

@@ -1,12 +1,10 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 
 FROST: Son of the Wild
-PART 132 - "I Protect"
-Punch: WOW + EMOTION
+PART 132 - "The Iron Trap"
+Punch: ACTION + TWIST
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,21 +19,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; C05_Frost_FACE.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Underwater vision world, then Mirror Lake at night.
-0–3s: The red-eyed reflection reaches toward Frost.
-DIALOGUE 1–3s: Dark Reflection (cold): "Hate is power. Take it."
-3–12s: Frost hears his mother's voice echoing from above the water, and sees warm memories: baby Frost holding her finger; the "MOM" slate; Martha's sweater; the cradle Bruno built.
-DIALOGUE 4–8s: Lily (voice from above, echoing): "Strong hands... gentle heart, my love."
-DIALOGUE 8–12s: Frost (deep, calm, firm): "I won't destroy. I protect. That's what my father did."
-12–22s: Instead of fighting the dark reflection, Frost hugs it. The red eyes slowly turn blue. The dark self smiles softly and dissolves into thousands of blue lights.
-22–30s: Frost bursts out of Mirror Lake in a huge explosion of water and blue light, lands on the shore on one knee. A fourth glowing blue mark burns across his face like war paint, under his eyes. Lily runs to him. Final frame: Frost's face with the new glowing mark, eyes shining calm blue.
-DIALOGUE 27–30s: Old Joe (slow raspy voice, emotional): "Four. He's done it... the first since Orin."
-SFX: underwater hum, echoing voice, soft memory sounds, a gentle shimmer as the reflection dissolves, a massive water explosion, a heavy landing, a magical burning hum.
-MUSIC: dark tension melting into a beautiful, triumphant emotional choir.
+CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
+The Deep Wild, foggy forest floor.
+0–3s: Frost gets up angry and charges at Old Scar. They crash together like two trucks.
+DIALOGUE 1–4s: Frost (deep, roaring): "Fine! Then we do it the hard way!"
+3–12s: An epic wrestling fight: Frost throws a punch; Old Scar blocks it with his giant paw and throws Frost to the ground; they roll down a slope through ferns.
+DIALOGUE 7–9s: Frost (straining): "You're... strong... old man!"
+12–22s: Frost pins the bear's front leg — and suddenly the bear cries out in real pain, not anger. Frost stops and looks down: Old Scar's back leg is caught in a huge rusty iron trap, chained to a tree. The trap has a red snake-and-crown symbol: the crest of King Magnus Thorne.
+DIALOGUE 17–21s: Frost (quiet, shocked): "The king's hunters... you've been trapped all this time."
+22–30s: Frost slowly lets go and steps back. Old Scar growls, but he's limping, tired and in pain. Frost's face changes from anger to understanding. Final frame: close-up of the rusty trap with the king's crest.
+DIALOGUE 26–29s: Frost (soft): "You're not angry. You're hurting."
+SFX: a heavy crash, roars, punches, rolling through ferns, a painful bear cry, chain clanking, heavy breathing.
+MUSIC: intense fight drums, then a sudden emotional cello note.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +42,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 132 | He didn't fight his dark side... he HUGGED it 🥹💙 TRIAL 4 COMPLETE ✅ #Bigfoot #Movie #Part132
+Part 132 | He was fighting the bear... then he saw WHY the bear was so angry 😢⛓️ #Bigfoot #Movie #Part132
 
 DOLA STATUS
 [ ] Images uploaded
@@ -54,5 +52,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

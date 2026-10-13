@@ -1,13 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
-S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 
 FROST: Son of the Wild
-PART 048 - "Months Go By"
-Punch: FUN + EMOTION
-Status: ready - URL PACKAGE
+PART 048 - "Someone's at the Door"
+Punch: EMOTION + CLIFFHANGER
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -21,25 +19,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; S02_MarthaHayes_FULL.png -> Martha Hayes; S05_TommyMiller_FULL.png -> Tommy Miller; S06_SarahMiller_FULL.png -> Sarah Miller.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; L06_AbandonedCabin.png -> Location AbandonedCabin.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-CAST NOTE: Hank = a sturdy farmer, grey-brown beard, worn cowboy hat, plaid shirt, overalls.
-A warm montage around the cabin and the village, seasons changing from fall to first snow.
-0–3s: Lily (now around 8 months pregnant) fixes the cabin roof with a hammer, Hank holding the ladder nervously.
-DIALOGUE 1–4s: Hank (deep friendly rural voice, worried): "Ma'am, please let me do that!"
-3–12s: Montage: Lily painting the cabin, planting flowers; Martha knitting tiny baby socks (very big ones, by mistake); Lily laughing at the giant socks.
-DIALOGUE 6–10s: Martha (warm Southern voice): "I don't know why, but I made them extra big."
-DIALOGUE 10–12s: Lily (nervous laugh): "They might... fit perfectly."
-12–22s: Tommy and Sarah (7, blonde pigtails, teddy bear) bring her a wooden toy horse they made.
-DIALOGUE 14–17s: Sarah (small cute girl voice): "It's for the baby! I painted it myself!"
-DIALOGUE 17–21s: Tommy (excited): "And I didn't help at all. That's why it's ugly."
-22–30s: First snow falls. Lily stands at her cabin door, hand on her big belly, watching the snow with a soft smile.
-DIALOGUE 23–28s: Martha (off-screen, calling): "When that baby comes, you send for me right away, you hear?"
-DIALOGUE 28–30s: Lily (whispering to the snow): "Like the first snow... Frost."
-SFX: hammer, ladder creak, paintbrush, knitting needles, kids laughing, gentle snowfall wind.
-MUSIC: warm, happy Americana with soft piano, turning magical as the snow falls.
+Night, inside the old cabin during a rainstorm, a small fire in the wood stove.
+0–3s: Lightning flashes; rain leaks through the roof into a bucket. Lily sits wrapped in the old quilt, talking to her belly.
+DIALOGUE 0–4s: Lily (soft, tired): "Don't be scared of the thunder, baby. Mama's here."
+3–14s: She hums the first line of Song 1 softly, voice shaking.
+DIALOGUE 5–10s: Lily (singing softly): "It's you and me and the wild... running free like a child..."
+DIALOGUE 10–13s: She stops, emotional: "Your papa used to sing it so badly."
+14–22s: Outside, heavy footsteps on the porch. A lantern light shines through the broken window. Lily freezes and grabs a burning stick from the stove.
+DIALOGUE 17–19s: Lily (whispering, scared): "Who's there?"
+22–30s: The door handle turns. A man's shadow with a shotgun appears in the doorway, lit by lightning. Final frame: Lily holding the burning stick up, the shadow stepping in.
+DIALOGUE 26–30s: Man's voice (deep rural American male, rough): "Whoever's in my granddaddy's cabin... you'd better come out slow."
+SFX: thunder, rain, dripping into a bucket, fire crackle, soft humming, heavy boots on wood, lantern creak, door handle, a floorboard creak.
+MUSIC: soft lullaby melody, then suspense strings and a sharp hit.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -48,7 +43,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 48 | Grandma Martha knitted baby socks... extra big 😂🧦 #Bigfoot #Movie #Part48
+Part 48 | Alone in a storm... then someone with a shotgun opened the door 😨 #Bigfoot #Movie #Part48
 
 DOLA STATUS
 [ ] Images uploaded
@@ -58,5 +53,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

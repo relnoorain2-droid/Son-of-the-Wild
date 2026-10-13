@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 
 FROST: Son of the Wild
-PART 052 - "Hello, Frost"
-Punch: WOW + EMOTION
-Status:-assets
+PART 052 - "Old Joe Knows"
+Punch: TWIST
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,23 +20,25 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; L06_AbandonedCabin.png -> Location AbandonedCabin.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; L07_Village.png -> Location Village.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Inside the cabin, candlelight, snow falling outside the window.
-0–3s: Lily lifts a small bundle wrapped in the old patchwork quilt. The quilt moves. A tiny white furry hand pokes out.
-DIALOGUE 1–4s: Lily (soft, breathless): "Let me see you, little one..."
-3–12s: She slowly opens the quilt: a newborn WHITE baby Bigfoot with fluffy snow-white fur, a pale-pink face and big blue eyes exactly like Lily's. Lily gasps.
-DIALOGUE 6–9s: Lily (shocked whisper): "You're... white. Like the snow."
-12–22s: The baby looks at her and grabs her finger tightly. Lily laughs and cries at the same time. Snowflakes outside start glowing softly for a moment, like magic.
-DIALOGUE 14–17s: Lily (emotional): "You have my eyes... and your papa's grip."
-DIALOGUE 18–21s: Lily (to the window, tearful smile): "Bruno, look. Look at our son."
-22–30s: She holds him close to her face; the baby makes a tiny happy grunt.
-DIALOGUE 25–29s: Lily (soft, loving): "Hello, Frost. Welcome to the world."
-Final frame: Lily kissing the baby's furry forehead, candles glowing, snow outside.
-SFX: quilt rustle, tiny baby grunts and coos, a magical chime as snowflakes glow, crackling fire.
-MUSIC: beautiful emotional orchestra with soft choir, a new gentle "Frost theme" on piano.
+Evening, the porch of the general store in Cedar Hollow, an old rocking chair, a lantern.
+0–3s: Old Joe Whitaker (80, long white beard, wool coat, walking stick) grabs Lily's wrist as she walks past. She jumps.
+DIALOGUE 1–4s: Old Joe (slow raspy wise old man): "Sit with me a minute, young lady."
+3–14s: She sits, nervous. Old Joe looks deep into her eyes.
+DIALOGUE 5–10s: Old Joe: "You came out of the deep forest. Nobody comes out of the deep forest."
+DIALOGUE 10–13s: Lily (nervous laugh): "I just... followed the river."
+14–22s: Old Joe pulls a small old carved wooden figure from his pocket: a Bigfoot holding a staff. Lily's eyes widen.
+DIALOGUE 15–22s: Old Joe (whispering): "When I was a boy, I saw the giants of the forest. Gentle ones. Did you see them too?"
+22–30s: Lily stands up quickly, scared her secret is out.
+DIALOGUE 23–27s: Lily (soft, nervous): "I... I don't know what you mean. Goodnight, Joe."
+Old Joe smiles knowingly as she leaves.
+DIALOGUE 27–30s: Old Joe (to himself, quietly): "The old blood of Orin is back."
+Final frame: close-up of the carved Bigfoot figure in his old hands.
+SFX: rocking chair creak, crickets, lantern hum, footsteps on wooden porch.
+MUSIC: mysterious soft woodwinds and a low magical tone.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +47,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 52 | She gave birth to a white Bigfoot... "Hello, Frost" 🥹❄️👶 #Bigfoot #Movie #Part52
+Part 52 | The old man knows her secret... and who is "Orin"? 🤫 #Bigfoot #Movie #Part52
 
 DOLA STATUS
 [ ] Images uploaded
@@ -55,5 +57,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

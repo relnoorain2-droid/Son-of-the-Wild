@@ -1,12 +1,10 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
 
 FROST: Son of the Wild
-PART 137 - "Lightning on Command"
-Punch: WOW + FUN
+PART 137 - "Be Still"
+Punch: EMOTION + WOW
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,21 +19,20 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V12_Tommy_Adult.png -> Variant Tommy_Adult; S03_HankMiller_FULL.png -> Hank Miller; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V09_Bruno_Spirit.png -> Variant Bruno_Spirit.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Bright morning on a hill above Cedar Hollow, a clear blue sky, mountains in the distance.
-0–3s: Powered Frost stands on the hill. Tommy and Hank stand behind him, holding coffee.
-DIALOGUE 1–4s: Tommy (young man, excited): "Okay, okay. Show us. Do the lightning thing."
-3–12s: Frost raises one hand to the perfectly clear sky. A single cloud forms out of nothing above him in seconds.
-DIALOGUE 6–9s: Frost (deep powerful voice, calm): "Be still... and come."
-12–22s: A massive blue lightning bolt shoots down from the new cloud into his hand. He points at an empty, distant rocky hilltop and releases it: the bolt flies across the valley and the top of the hill explodes in a giant blue flash.
-22–30s: Silence. Hank's coffee mug slowly tips over in his frozen hand, the coffee pouring onto his boots. Tommy's jaw is on the floor.
-DIALOGUE 25–29s: Tommy (whispering): "Can you do that... at the next Fourth of July?"
-DIALOGUE 29–30s: Frost (smiling): "Maybe."
-Final frame: Hank still frozen, coffee dripping.
-SFX: wind, clouds forming with a deep rumble, a huge thunder crack, an electric surge, a distant massive explosion, coffee pouring.
-MUSIC: powerful epic hit, then comedic silence.
+Near the summit of Thunder Peak, inside the storm cloud: darkness, wind, lightning everywhere.
+0–3s: A lightning bolt hits the rock right next to Frost; the blast throws him off a ledge. He falls onto a lower ledge and lies there, smoking, exhausted.
+DIALOGUE 1–3s: Frost (groaning): "Aaagh!"
+3–12s: He tries to stand and falls again. Rain beats on him. He looks up at the storm.
+DIALOGUE 5–12s: Frost (deep, broken, shouting into the storm): "I can't! I can't fight the sky! I'm not Orin! I'm not my father! I'm just... me!"
+12–22s: He lies back, giving up. The framed flower falls out of his chest fur onto the rock beside his face. He looks at it. Everything goes quiet. A soft golden glow appears; Bruno's translucent spirit kneels beside him, smiling.
+DIALOGUE 16–22s: Bruno (spirit voice, very deep slow warm gravelly, echoing): "You don't fight the river, son. Be still. Like the river. Let it come to you."
+22–30s: Frost's eyes fill with tears. He reaches for his father's glowing hand, but the spirit fades. Frost picks up the flower, puts it back on his chest, and slowly stands up. Final frame: Frost standing, calm, facing the summit, the storm swirling around him.
+DIALOGUE 26–29s: Frost (deep whisper): "Be still... Thank you, Dad."
+SFX: lightning blast, falling, heavy rain, wind, sudden silence, a soft magical chime, Bruno's echoing voice, then the storm returning.
+MUSIC: desperate storm music, then the soft love theme for Bruno, building to a determined swell.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +41,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 137 | He made a cloud from nothing... and called down lightning ⚡😱 #Bigfoot #Movie #Part137
+Part 137 | He wanted to give up... then his father came 😭👻 "Be still. Like the river." #Bigfoot #Movie #Part137
 
 DOLA STATUS
 [ ] Images uploaded
@@ -54,5 +51,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

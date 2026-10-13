@@ -1,13 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
-C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
-K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
+V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 017 - "The Hunt Begins"
-Punch: TWIST
-Status: ready - CANON SAFE DOLA VERSION
+PART 017 - "The First Argument"
+Punch: COMEDY + ROOTHNA-MANANA
+Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,33 +19,32 @@ Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+CHARACTER LOCK: Keep Lily and Bruno exactly identical to the attached reference images. Lily is young, innocent, beautiful, honey-blonde hair, blue eyes. Bruno is a massive black American Bigfoot, powerful but gentle.
+LILY LOOK LOCK: Lily always looks 22-24 years old, sweet, soft fair face, big blue eyes, honey-blonde hair.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: C03_PrinceDamian_FULL.png -> Prince Damian; C02_KingMagnus_FULL.png -> King Magnus; S07_CaptainVex_FULL.png -> Captain Vex; K01_DarkBigfoot.png -> dark Bigfoot tracker.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older.
-
-Morning, the dark castle throne hall and the forest gate outside the castle.
-0-3s: Prince Damian storms in with a bandage wrapped around his head, furious, kicking over a chair.
-DIALOGUE 1-4s: Prince Damian (smooth voice now furious): "She hit me with a tray, Father!"
-3-12s: King Magnus on his throne almost smiles, then his face turns cold.
-DIALOGUE 4-6s: King Magnus (deep cold voice): "Then she is braver than you."
-DIALOGUE 6-12s: King Magnus: "No one embarrasses Thorne Castle. Captain Vex, bring her back before sunrise."
-12-22s: At the forest gate, Captain Vex and soldiers with torches find Lily's torn white veil caught on a bush, and next to it a giant bare footprint, much bigger than a man's. Vex kneels and measures it with his whole arm.
-DIALOGUE 16-19s: Captain Vex (harsh, surprised): "This is not a bear... something carried her."
-22-30s: From the fog, an armored dark Bigfoot tracker steps forward with glowing red eyes. It sniffs the veil, growls, and points toward the waterfall.
-DIALOGUE 25-29s: Captain Vex (cold smile): "Find the trail. The king wants answers."
-Final frame: the dark Bigfoot's red eyes glowing in the fog.
-SFX: chair crash, echoing footsteps, armor, torch fire, deep sniffing, growl, whistle, forest wind.
-MUSIC: dark villain theme with low brass and war drums.
-
+Scene: Morning inside Bruno's cave behind the waterfall, warm firelight, moss beds, forest light at the cave mouth.
+0-4s: Bruno proudly places breakfast in front of Lily: berries, roots, and one very large wiggling beetle on a leaf. Lily freezes.
+DIALOGUE 1-4s: Bruno (deep gentle voice): "Bruno make breakfast. Best cave breakfast."
+4-9s: Lily tries to smile but pushes the beetle away with one finger.
+DIALOGUE 4-7s: Lily (trying not to hurt him): "That is... very kind. But I do not eat things that wave back."
+DIALOGUE 7-9s: Bruno (hurt, quiet): "Lily not like Bruno food."
+9-17s: Bruno turns away like an offended giant child, sitting with his back to her. Lily realizes she hurt his feelings.
+DIALOGUE 10-14s: Lily (soft apology): "Hey. I did not mean it like that."
+DIALOGUE 14-17s: Bruno (stubborn): "Bruno fine. Bruno not sad."
+17-25s: Lily sits beside him and eats one berry dramatically. Bruno peeks at her, still pretending to be angry.
+DIALOGUE 18-22s: Lily (playful): "See? I trust the berries. Just not the dancing bug."
+25-30s: Bruno snorts a laugh, then carefully flicks the beetle outside. Lily laughs too. Final frame: both eating berries by the fire.
+DIALOGUE 25-29s: Bruno (gentle): "No dancing bug for Lily."
+SFX: waterfall rumble, tiny beetle legs, fire crackle, Bruno snort laugh, Lily giggle.
+MUSIC: warm playful acoustic strings with soft comedy beats.
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
 SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
 TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity, no chains, no restraints.
-
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 17 | The king's men found Lily's veil... and a giant footprint. #Bigfoot #Movie #Part17
+Part 17 | Bruno cooked breakfast... but Lily refused the dancing bug. #Bigfoot #Movie #Part17
 
 DOLA STATUS
 [ ] Images uploaded
@@ -56,4 +54,4 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-Safer version: no captive dark Bigfoot imagery, no death threat language.
+Inserted after old Part 016 to add comedy and early relationship warmth.

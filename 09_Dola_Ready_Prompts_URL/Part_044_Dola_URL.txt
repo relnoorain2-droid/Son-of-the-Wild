@@ -1,9 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
 V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 044 - "Someone's at the Door"
+PART 044 - "Two Hearts Still Beating"
 Punch: EMOTION + CLIFFHANGER
 Status:-assets
 
@@ -19,22 +21,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; L06_AbandonedCabin.png -> Location AbandonedCabin.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; V10_Damian_Battle.png -> Variant Damian_Battle; L05_River.png -> Location River.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, inside the old cabin during a rainstorm, a small fire in the wood stove.
-0–3s: Lightning flashes; rain leaks through the roof into a bucket. Lily sits wrapped in the old quilt, talking to her belly.
-DIALOGUE 0–4s: Lily (soft, tired): "Don't be scared of the thunder, baby. Mama's here."
-3–14s: She hums the first line of Song 1 softly, voice shaking.
-DIALOGUE 5–10s: Lily (singing softly): "It's you and me and the wild... running free like a child..."
-DIALOGUE 10–13s: She stops, emotional: "Your papa used to sing it so badly."
-14–22s: Outside, heavy footsteps on the porch. A lantern light shines through the broken window. Lily freezes and grabs a burning stick from the stove.
-DIALOGUE 17–19s: Lily (whispering, scared): "Who's there?"
-22–30s: The door handle turns. A man's shadow with a shotgun appears in the doorway, lit by lightning. Final frame: Lily holding the burning stick up, the shadow stepping in.
-DIALOGUE 26–30s: Man's voice (deep rural American male, rough): "Whoever's in my granddaddy's cabin... you'd better come out slow."
-SFX: thunder, rain, dripping into a bucket, fire crackle, soft humming, heavy boots on wood, lantern creak, door handle, a floorboard creak.
-MUSIC: soft lullaby melody, then suspense strings and a sharp hit.
+0–3s: From far down the river, Lily, floating and holding onto a log, sees the red lightning flash in the distance and screams silently, tears streaming.
+DIALOGUE 1–3s: Lily (broken whisper): "No... no, Bruno..."
+3–12s: The current pulls her into dark rapids. She clings to the log, one hand on her belly, Bruno's small blue flower clutched in her fist, then hits her head on a rock and goes limp, still holding the log.
+DIALOGUE 6–10s: NARRATOR (deep cinematic trailer voice): "The river took her far away from everything she knew."
+12–22s: Back at the riverbank, at dusk: Prince Damian (dirty, angry) and King Magnus look at the river.
+DIALOGUE 14–17s: Prince Damian (bitter): "The river took her, Father. She's dead."
+DIALOGUE 17–21s: King Magnus (cold, turning away): "Then the forest wins. As always."
+22–30s: Night. Moonlight. The log with unconscious Lily drifts gently out of the forest onto a calm river. A soft heartbeat sound starts: two heartbeats, one big, one small. Final frame: close-up of Lily's hand resting on her belly, and the belly moves gently.
+DIALOGUE 26–30s: NARRATOR: "But the king was wrong. Two hearts were still beating."
+SFX: rushing river, distant thunder-like blast, rapids, a dull thud on rock, calm water, owls, two heartbeats.
+MUSIC: sad emotional strings, ending on a hopeful soft piano note.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 44 | Alone in a storm... then someone with a shotgun opened the door 😨 #Bigfoot #Movie #Part44
+Part 44 | The king thinks she's dead... but two hearts are still beating 🥺💓 Act 1 ends! #Bigfoot #Movie #Part44
 
 DOLA STATUS
 [ ] Images uploaded
@@ -53,5 +54,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

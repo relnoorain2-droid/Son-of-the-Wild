@@ -1,11 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
 
 FROST: Son of the Wild
-PART 147 - "Through the Front Door"
-Punch: EMOTION
-Status:-assets
+PART 147 - "Lightning on Command"
+Punch: WOW + FUN
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -19,23 +21,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V12_Tommy_Adult.png -> Variant Tommy_Adult; S03_HankMiller_FULL.png -> Hank Miller; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, the last night before the march, a quiet hill above the camp, the full moon.
-0–3s: Frost finds Lily putting on an old leather jacket and boots, tying her hair back.
-DIALOGUE 1–3s: Frost (deep, worried): "Mom, what are you doing?"
-3–12s: Lily turns, calm and strong.
-DIALOGUE 4–6s: Lily (firm): "I'm coming with you."
-DIALOGUE 6–11s: Frost (pleading): "No. Mom, it's too dangerous. Stay here with Martha. Please."
-12–22s: Lily takes his huge glowing hand.
-DIALOGUE 13–25s: Lily (strong, emotional): "Years ago I climbed out of that castle's window in a wedding dress and ran for my life. This time, I'm walking in through the front door. Next to my son."
-22–30s: Frost looks at her for a long moment, then smiles and kneels so they're eye to eye.
-DIALOGUE 25–29s: Frost (deep, proud): "Then stay close to me, Mom. Always."
-Final frame: mother and son forehead to forehead under the full moon.
-SFX: wind, leather jacket zipping, boots, distant campfire sounds, crickets.
-MUSIC: emotional strings, rising into a proud heroic theme.
+Bright morning on a hill above Cedar Hollow, a clear blue sky, mountains in the distance.
+0–3s: Powered Frost stands on the hill. Tommy and Hank stand behind him, holding coffee.
+DIALOGUE 1–4s: Tommy (young man, excited): "Okay, okay. Show us. Do the lightning thing."
+3–12s: Frost raises one hand to the perfectly clear sky. A single cloud forms out of nothing above him in seconds.
+DIALOGUE 6–9s: Frost (deep powerful voice, calm): "Be still... and come."
+12–22s: A massive blue lightning bolt shoots down from the new cloud into his hand. He points at an empty, distant rocky hilltop and releases it: the bolt flies across the valley and the top of the hill explodes in a giant blue flash.
+22–30s: Silence. Hank's coffee mug slowly tips over in his frozen hand, the coffee pouring onto his boots. Tommy's jaw is on the floor.
+DIALOGUE 25–29s: Tommy (whispering): "Can you do that... at the next Fourth of July?"
+DIALOGUE 29–30s: Frost (smiling): "Maybe."
+Final frame: Hank still frozen, coffee dripping.
+SFX: wind, clouds forming with a deep rumble, a huge thunder crack, an electric surge, a distant massive explosion, coffee pouring.
+MUSIC: powerful epic hit, then comedic silence.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 147 | "This time, I'm walking in through the FRONT DOOR." 💪👩 #Bigfoot #Movie #Part147
+Part 147 | He made a cloud from nothing... and called down lightning ⚡😱 #Bigfoot #Movie #Part147
 
 DOLA STATUS
 [ ] Images uploaded
@@ -54,5 +54,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

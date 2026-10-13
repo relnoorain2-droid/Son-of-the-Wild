@@ -1,13 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
-V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
+L01_LilyHouse.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L01_LilyHouse/L01_LilyHouse.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
 
 FROST: Son of the Wild
-PART 153 - "The Secret Tunnel"
-Punch: TWIST
-Status: ready - URL PACKAGE
+PART 153 - "Not Yet, Mama"
+Punch: EMOTION
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -21,22 +20,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V12_Tommy_Adult.png -> Variant Tommy_Adult; V13_Sarah_Adult.png -> Variant Sarah_Adult; S11_Rose_FULL.png -> Rose; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V08_Frost_Powered.png -> Variant Frost_Powered; L01_LilyHouse.png -> Location LilyHouse.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Inside a dark, narrow stone tunnel under Thorne Castle, torchlight, dripping water, rats.
-0–3s: Rose pushes open a hidden stone door behind a waterfall at the back of the castle. Tommy, Sarah and Old Joe follow with torches.
-DIALOGUE 1–5s: Rose (old British voice, whispering): "This way. The servants' tunnel. The king forgot it exists."
-3–12s: They creep through the tunnel. A rat runs over Tommy's boot; he almost screams; Sarah covers his mouth.
-DIALOGUE 6–9s: Tommy (muffled, whispering): "Mmmph! Rat! Big rat!"
-DIALOGUE 9–11s: Sarah (whispering, annoyed): "You rode a BISON yesterday!"
-12–22s: The tunnel opens into a huge underground cave: the dragon pens. Dozens of small and medium dragons lie in heavy iron chains, their eyes glowing red, crying softly.
-DIALOGUE 16–20s: Old Joe (slow raspy whisper, sad): "Lord have mercy... look at them."
-22–30s: A small young green dragon looks at Sarah. For a moment its red eyes flicker to their natural gold color. It whimpers. Sarah slowly reaches out.
-DIALOGUE 25–28s: Sarah (soft): "It's okay. We're here to help you."
-Final frame: Sarah's hand almost touching the young dragon's nose; a shadow with an axe appearing behind them.
-SFX: stone door grinding, torches, dripping water, rat squeaks, muffled scream, chains rattling, dragons whimpering, a heavy footstep.
-MUSIC: quiet suspense, turning sad and gentle at the dragons, ending on a tense sting.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Evening, Millbrook, Oregon: Lily's old small hometown, the same poor wooden house with peeling white paint and a rusty mailbox. Brief location title card at bottom for 2 seconds: "MILLBROOK, OREGON".
+0–3s: Lily stands across the street from her old house, frozen.
+DIALOGUE 1–3s: Lily (soft, emotional whisper): "Nothing has changed..."
+3–12s: Through the window, the silhouette of an old woman with a grey bun moves slowly in the kitchen, setting two plates on the table — one for herself, one empty.
+DIALOGUE 6–10s: Lily (crying): "She still sets a plate for me. After all these years."
+12–22s: Frost, standing behind a tree so he doesn't scare anyone, puts his hand on her shoulder.
+DIALOGUE 14–17s: Frost (deep, gentle): "Go to her, Mom. She's right there."
+DIALOGUE 17–22s: Lily (shaking her head): "If the king finds out she's alive, he'll use her against us. Not yet."
+22–30s: Lily walks to the mailbox and secretly leaves a small blue wildflower, picked from Bruno's grave, inside it. She looks at the window one more time.
+DIALOGUE 25–29s: Lily (whispering): "Not yet, Mama. When this is over... I'm coming home."
+Final frame: the old woman's silhouette in the window, the flower in the mailbox.
+SFX: quiet street, crickets, a dog barking far away, plates clinking inside, mailbox creak.
+MUSIC: deeply emotional piano and violin.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 153 | The secret tunnel led to the dragon prison... the dragons were CRYING 😢🐉 #Bigfoot #Movie #Part153
+Part 153 | She saw her mother through the window after all these years... "Not yet, Mama" 😭🏠 #Bigfoot #Movie #Part153
 
 DOLA STATUS
 [ ] Images uploaded
@@ -55,5 +55,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

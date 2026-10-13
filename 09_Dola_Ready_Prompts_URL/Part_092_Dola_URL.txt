@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
+L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
 S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 092 - "Fire Over Cedar Hollow"
-Punch: ACTION
+PART 092 - "Forest Medicine"
+Punch: EMOTION + ACTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,21 +21,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: S03_HankMiller_FULL.png -> Hank Miller; S02_MarthaHayes_FULL.png -> Martha Hayes; K02_RedDragon.png -> Creature RedDragon; K01_DarkBigfoot.png -> Creature DarkBigfoot.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S02_MarthaHayes_FULL.png -> Martha Hayes; L04_BrunoCave.png -> Location BrunoCave.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-CAST NOTE: Tommy = a young man (about 22), messy brown hair, light freckles, red baseball cap, plaid flannel shirt.
-Cedar Hollow under attack in daylight: smoke, fire on rooftops, people running.
-0–3s: The red dragon swoops low over Main Street and breathes fire onto the roof of the general store.
-DIALOGUE 1–3s: Villager woman (screaming): "DRAGONS! Run! Get the children!"
-3–12s: Dark Bigfoots with red eyes smash through fences and porches; mammoths knock over the water tower; soldiers on black horses ride through the streets.
-DIALOGUE 6–9s: Hank (deep rural voice, shouting with his shotgun): "Everybody to the church cellar! GO!"
-12–22s: Hank shoots at a dark Bigfoot; it barely notices and swats his shotgun away. Tommy (young man) pulls his father out of the way just in time.
-DIALOGUE 15–18s: Tommy (shouting): "Dad, we can't fight them! Come on!"
-22–30s: Martha herds a group of crying children into a cellar under the church and closes the heavy wooden door. Through the cracks we see fire light and shadows of monsters passing. Final frame: Martha holding the children close in the dark, praying.
-DIALOGUE 26–30s: Martha (whispering, shaking Southern voice): "Hush now, babies. Frost will come. Frost always comes."
-SFX: dragon roar, fire whoosh, screaming, crashing wood, mammoth trumpets, galloping horses, shotgun blast, cellar door slam, muffled chaos.
-MUSIC: dark intense war orchestra with heavy drums.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Night, inside Lily's cabin, a stormy night.
+0–3s: Lily lies in bed, pale and sweating with a high fever, shivering. Martha holds a wet cloth to her forehead.
+DIALOGUE 1–6s: Martha (worried Southern voice): "The fever won't go down. The doctor in town is two days away."
+3–12s: Teen Frost kneels by the bed, holding his mother's small hand, scared.
+DIALOGUE 6–9s: Lily (weak whisper): "Don't worry, baby... I'll be okay."
+DIALOGUE 9–13s: Teen Frost (shaking voice): "Mom told me a story... Dad used forest medicine."
+12–22s: Frost runs through the dark forest in the storm, jumping over rivers and fallen trees, lightning flashing, until he reaches the old waterfall cave. Inside, he finds the same green healing leaves still growing on the cave wall.
+DIALOGUE 17–20s: Teen Frost (out of breath): "Please be the right ones..."
+22–30s: Back at the cabin, Frost gently crushes the leaves in his palm, just like Bruno did years ago, and places them on Lily's forehead. By morning, the sun comes in and Lily opens her eyes, smiling, the fever gone. Final frame: Frost asleep on the floor beside her bed, still holding her hand.
+DIALOGUE 26–29s: Lily (soft, smiling with tears): "Just like your father."
+SFX: storm, thunder, heavy breathing, fast footsteps, splashes, waterfall, leaves crushing, morning birds.
+MUSIC: worried strings, a heroic run theme, then Bruno's love theme at the end.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 92 | Dragons attacked Cedar Hollow while Frost was away 🔥🐉 #Bigfoot #Movie #Part92
+Part 92 | His mom was sick... so he ran through the storm to his father's cave 🌿😭 #Bigfoot #Movie #Part92
 
 DOLA STATUS
 [ ] Images uploaded
@@ -54,5 +55,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
 C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
+V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
 
 FROST: Son of the Wild
-PART 097 - "Your Father, Bruno"
-Punch: EMOTION
+PART 097 - "The Giant"
+Punch: WOW
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,25 +21,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; C05_Frost_FACE.png -> Frost; C04_Bruno_FULL.png -> Bruno; V09_Bruno_Spirit.png -> Variant Bruno_Spirit.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; C05_Frost_FACE.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V12_Tommy_Adult.png -> Variant Tommy_Adult.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, inside the cabin, candlelight. Lily holds the small framed flower.
-0–3s: Lily smiles through tears.
-DIALOGUE 0–4s: Lily (soft): "No. My heart only had one husband. Your father. Bruno."
-3–24s: Flashback montage in warm golden light, with Lily's voice-over:
-  3–9s: Bruno catching the grizzly's claw; Bruno saying "Bruno also sing. Badly."; Bruno shaking water on Lily.
-  DIALOGUE 4–10s: Lily (voice-over): "He saved me from the beasts. He was gentle, and funny, and he sang so badly."
-  9–16s: Bruno spinning her in the meadow; Bruno shouting "BRUNO WILL BE PAPA!"
-  DIALOGUE 10–15s: Lily (voice-over): "When he found out about you, his roar shook the whole forest."
-  16–24s: Bruno alone at sunset facing the army; the red lightning; Bruno falling in silhouette (no gore).
-  DIALOGUE 17–26s: Lily (voice-over, breaking): "The king's army came. He pushed me into the river to save us... and he fought them all alone. King Magnus killed him."
-24–30s: Back to the present. Frost has tears running down his face.
-DIALOGUE 26–30s: Lily (crying): "His last words were your name, Frost. He named you."
-Final frame: Frost looking at the flower in the frame, his hands shaking.
-SFX: soft echo for flashbacks, Bruno's roar, laughter, war horns, red lightning, then silence and crying.
-MUSIC: Bruno's love theme, swelling into tragic choir, then silence.
+Morning, Cedar Hollow main street, mountains behind.
+0–3s: Extreme close-up of a giant white furry foot stepping onto the dirt road. BOOM. Coffee cups on a café table jump.
+DIALOGUE 1–4s: NARRATOR (deep cinematic American trailer voice): "Years later... the boy became a giant."
+3–14s: Slow-motion reveal from feet to head: adult Frost, 11 feet tall, massive muscles, shining snow-white fur with subtle silver dragon-like scale patterns on his shoulders, blue eyes like his mother's, the black crescent patch on his chest. Every step makes the ground shake; windows rattle; birds fly up.
+DIALOGUE 9–12s: Tommy (now a young man, amazed): "Whoa... Frost, you got HUGE."
+14–22s: Frost waves to villagers who wave back. A little girl gives him a flower; he takes it very gently between two giant fingers.
+DIALOGUE 17–20s: Frost (deep powerful young male voice, calm and kind): "Thank you, sweetheart. I'll keep it safe."
+22–30s: The old wooden bridge over the river cracks and collapses while a horse cart is on it. Frost jumps into the river and holds the entire bridge up on his shoulders while the cart crosses safely. Final frame: Frost standing in the river holding the bridge above his head, the sun behind him.
+DIALOGUE 27–30s: Frost (calm, deep, smiling): "Take your time. I've got it."
+SFX: earth-shaking footsteps, rattling cups and windows, birds, cheering, wood cracking, a huge splash, horse hooves on wood.
+MUSIC: epic heroic theme with full orchestra and choir.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -48,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 97 | "King Magnus killed him... and his last words were your name." 😭💙 #Bigfoot #Movie #Part97
+Part 97 | The boy became a GIANT 😱👣 "Take your time. I've got it." #Bigfoot #Movie #Part97
 
 DOLA STATUS
 [ ] Images uploaded
@@ -58,5 +54,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

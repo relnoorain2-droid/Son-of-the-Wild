@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
 
 FROST: Son of the Wild
-PART 118 - "Day After Day"
-Punch: EMOTION
+PART 118 - "The Frying Pan"
+Punch: FUN + ACTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,22 +21,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V10_Damian_Battle.png -> Variant Damian_Battle; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S02_MarthaHayes_FULL.png -> Martha Hayes; S03_HankMiller_FULL.png -> Hank Miller.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Montage at the Bear Rock meadow over many days and changing weather.
-0–3s: Day 2: Frost pushes the rock at sunrise, roaring. Nothing.
-DIALOGUE 1–3s: NARRATOR (deep cinematic American trailer voice): "Day after day..."
-3–12s: Day 5: pouring rain, Frost slipping in the mud, pushing again and again. Day 9: snow falling, his breath steaming, his hands wrapped in torn bandages.
-DIALOGUE 7–10s: Frost (deep, exhausted, to himself): "Come on... come ON... move!"
-12–22s: Day 12: Frost loses his temper and punches the rock with all his strength. A crack of pain — he falls back holding his hand, groaning. The rock has only a tiny scratch.
-DIALOGUE 15–18s: Frost (angry, roaring): "WHY WON'T YOU MOVE?!"
-22–30s: Evening. Lily sits next to him on the cold grass, gently wrapping his bruised hands with clean cloth.
-DIALOGUE 23–30s: Lily (soft): "Your father didn't win because he was angry, Frost. He won because he had something to protect."
-Final frame: Frost looking at his bandaged hands, thinking.
-SFX: wind, rain, snow, heavy straining, a punch impact, a pained groan, cloth wrapping.
-MUSIC: slow, heavy, determined strings, then soft piano.
+Night, inside the log wall, a burning corner of Cedar Hollow.
+0–3s: Prince Damian sneaks over a broken part of the wall while Frost is busy fighting outside. He grabs Lily by the arm.
+DIALOGUE 1–4s: Prince Damian (smooth, cruel): "You're coming home with me, wife."
+3–12s: Lily struggles. Hank runs at Damian; Damian knocks the shotgun away with his sword and kicks Hank down.
+DIALOGUE 6–9s: Lily (fighting): "Let go of me, Damian!"
+DIALOGUE 9–12s: Prince Damian (laughing): "Nobody can save you this time."
+12–22s: Behind Damian, Martha walks up calmly, holding her sharpened cast-iron frying pan with both hands.
+DIALOGUE 15–17s: Martha (sweet Southern voice): "Excuse me, young man?"
+DIALOGUE 17–18s: Prince Damian (turning around): "What?"
+22–30s: BONK! Martha hits him on the head with the frying pan. Damian spins once, cross-eyed, exactly like on his wedding night years ago, and falls flat on his face in the mud. Lily stares at Martha, then laughs. Final frame: Martha blowing on the frying pan like a cowboy blowing on a gun.
+DIALOGUE 26–29s: Martha (proud): "Told you I could sharpen it."
+SFX: footsteps, struggle, sword clang, shotgun clatter, kick, a loud comedic metal "BONK", body flop into mud, laughter.
+MUSIC: tense music, then a comedic hit and a short victorious Western whistle.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +46,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 118 | 12 days of pushing... and the rock still won't move 😢💪 #Bigfoot #Movie #Part118
+Part 118 | Years later... the prince got hit AGAIN 🍳😂 #Bigfoot #Movie #Part118
 
 DOLA STATUS
 [ ] Images uploaded
@@ -54,5 +56,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

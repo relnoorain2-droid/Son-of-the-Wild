@@ -1,13 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
-S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
-S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 
 FROST: Son of the Wild
-PART 057 - "MONSTER!"
-Punch: FUN + TWIST
-Status: ready - URL PACKAGE
+PART 057 - "Hello, Frost"
+Punch: WOW + EMOTION
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -21,20 +20,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V05_Frost_Baby.png -> Variant Frost_Baby; S05_TommyMiller_FULL.png -> Tommy Miller; S06_SarahMiller_FULL.png -> Sarah Miller; L06_AbandonedCabin.png -> Location AbandonedCabin.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; L06_AbandonedCabin.png -> Location AbandonedCabin.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Afternoon, the forest edge behind the cabin.
-0–3s: Tommy and Sarah sneak toward Lily's cabin with a homemade gift basket.
-DIALOGUE 1–3s: Tommy (excited young boy, whispering): "Let's surprise Miss Lily's baby!"
-3–12s: Baby Frost (now a bit bigger, crawling fast) crawls out of the bushes holding Sarah's dropped teddy bear in his mouth like a puppy. The kids freeze.
-DIALOGUE 7–9s: Sarah (small cute girl voice): "Tommy... is that a puppy?"
-DIALOGUE 9–11s: Tommy (shaking): "That's NOT a puppy."
-12–22s: Frost happily crawls toward them and lets out his little roar. The kids scream and Frost screams back, scared too. All three scream at each other.
-22–30s: Tommy grabs Sarah and runs toward the village, screaming. Frost sits alone holding the teddy bear, confused and sad. Final frame: Tommy running into the village street.
-DIALOGUE 25–29s: Tommy (screaming at the top of his lungs): "MONSTER! THERE'S A MONSTER AT MISS LILY'S HOUSE!"
-SFX: footsteps in leaves, bushes rustling, baby grunts, little roar, triple screaming, running, village dogs barking.
-MUSIC: comedic suspense, a funny triple-scream sting, then worried strings.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Inside the cabin, candlelight, snow falling outside the window.
+0–3s: Lily lifts a small bundle wrapped in the old patchwork quilt. The quilt moves. A tiny white furry hand pokes out.
+DIALOGUE 1–4s: Lily (soft, breathless): "Let me see you, little one..."
+3–12s: She slowly opens the quilt: a newborn WHITE baby Bigfoot with fluffy snow-white fur, a pale-pink face and big blue eyes exactly like Lily's. Lily gasps.
+DIALOGUE 6–9s: Lily (shocked whisper): "You're... white. Like the snow."
+12–22s: The baby looks at her and grabs her finger tightly. Lily laughs and cries at the same time. Snowflakes outside start glowing softly for a moment, like magic.
+DIALOGUE 14–17s: Lily (emotional): "You have my eyes... and your papa's grip."
+DIALOGUE 18–21s: Lily (to the window, tearful smile): "Bruno, look. Look at our son."
+22–30s: She holds him close to her face; the baby makes a tiny happy grunt.
+DIALOGUE 25–29s: Lily (soft, loving): "Hello, Frost. Welcome to the world."
+Final frame: Lily kissing the baby's furry forehead, candles glowing, snow outside.
+SFX: quilt rustle, tiny baby grunts and coos, a magical chime as snowflakes glow, crackling fire.
+MUSIC: beautiful emotional orchestra with soft choir, a new gentle "Frost theme" on piano.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 57 | The kids found baby Frost... everybody screamed 😂😱 #Bigfoot #Movie #Part57
+Part 57 | She gave birth to a white Bigfoot... "Hello, Frost" 🥹❄️👶 #Bigfoot #Movie #Part57
 
 DOLA STATUS
 [ ] Images uploaded
@@ -53,5 +55,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

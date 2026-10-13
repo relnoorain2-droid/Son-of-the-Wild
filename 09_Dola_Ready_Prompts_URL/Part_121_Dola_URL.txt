@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
 
 FROST: Son of the Wild
-PART 121 - "Trial 2: Old Scar"
-Punch: ACTION + WOW
+PART 121 - "The Beast Is Dead"
+Punch: TWIST + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,20 +21,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V10_Damian_Battle.png -> Variant Damian_Battle; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S07_CaptainVex_FULL.png -> Captain Vex; S02_MarthaHayes_FULL.png -> Martha Hayes.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-The "Deep Wild": the darkest, oldest part of the redwood forest, giant twisted trees, fog, strange silence. A glowing blue mark shines on Frost's right forearm.
-0–3s: Old Joe stops at the edge of the dark trees and won't go further.
-DIALOGUE 1–6s: Old Joe (slow raspy voice): "Trial two. Earn the trust of the king of the wild. Old Scar."
-3–12s: Frost walks in alone. Bones and claw marks on the trees. A deep growl shakes the ground. Out of the fog rises Old Scar: a gigantic ancient grizzly bear, twice the size of a normal bear, silver-grey fur, a long white scar over one eye.
-DIALOGUE 7–10s: Frost (deep voice, confident): "Easy, big guy. I'm a friend."
-12–22s: Frost's eyes glow blue; he uses the low animal rumble that always worked. Old Scar doesn't stop. He roars right in Frost's face, so loud Frost's fur blows back.
-DIALOGUE 16–18s: Frost (surprised): "Okay... that usually works."
-22–30s: Old Scar swipes and sends Frost flying backward through two small trees. Frost lands hard and looks up, stunned. Final frame: the giant bear standing over him, roaring.
-DIALOGUE 27–29s: Frost (groaning): "Definitely... not a friend."
-SFX: eerie silence, crunching bones, a deep earth-shaking growl, magical hum, a massive roar, a heavy swipe, trees snapping, a heavy landing.
-MUSIC: dark tense jungle drums, a heavy hit with the swipe, a small comedic beat at the end.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Dawn after the battle, smoke drifting over Cedar Hollow's broken log wall.
+0–3s: Captain Vex limps out of the forest, bruised, his armor dented. Two soldiers drag the unconscious Prince Damian behind them on a stretcher.
+DIALOGUE 1–3s: Captain Vex (harsh voice, hoarse): "The white beast is dead!"
+3–12s: The surviving soldiers cheer weakly. Vex looks up at the villagers on the wall.
+DIALOGUE 5–10s: Captain Vex: "Keep your gold. Next time the king comes himself... and he burns everything."
+DIALOGUE 10–12s: Prince Damian (half-conscious, mumbling): "...frying pan..."
+12–22s: The army retreats into the forest. The villagers don't cheer. Everyone turns to look at Lily.
+DIALOGUE 15–18s: Martha (soft Southern voice): "Lily, honey..."
+22–30s: Lily walks alone to the edge of the cliff and stares down at the waterfall, her hair moving in the wind. Her face is calm, determined, no tears.
+DIALOGUE 25–29s: Lily (quiet, firm): "He's not dead. A mother knows. My son is NOT dead."
+Final frame: Lily at the cliff edge, the sun rising behind the waterfall.
+SFX: crackling embers, limping footsteps, stretcher creaking, weak cheers, marching away, wind, waterfall roar.
+MUSIC: sad strings, then a single hopeful note.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -42,7 +46,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 121 | Trial 2: Old Scar, the king of the wild... he did NOT want to be friends 🐻😱 #Bigfoot #Movie #Part121
+Part 121 | They said Frost is dead... his mother says NO 💔 #Bigfoot #Movie #Part121
 
 DOLA STATUS
 [ ] Images uploaded
@@ -52,5 +56,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

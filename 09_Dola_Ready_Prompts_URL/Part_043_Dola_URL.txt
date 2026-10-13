@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
-V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
+K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 043 - "Like Bruno Taught Me"
-Punch: FUN + EMOTION
-Status:-assets
+PART 043 - "The Last Stand"
+Punch: EMOTION + ACTION
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,21 +21,20 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; V09_Bruno_Spirit.png -> Variant Bruno_Spirit; L05_River.png -> Location River.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C04_Bruno_FULL.png -> Bruno; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; K01_DarkBigfoot.png -> Creature DarkBigfoot; K02_RedDragon.png -> Creature RedDragon.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Daytime, standing in the shallow river near the cabin, sunlight on the water.
-0–3s: Lily tries to grab a salmon with her bare hands, slips and falls on her bottom with a splash.
-DIALOGUE 1–3s: Lily (frustrated): "Oh, come ON!"
-3–12s: She tries again and again; the fish slip through her hands. A fish slaps her face. She laughs and almost cries.
-DIALOGUE 6–10s: Lily (to herself): "How did you make it look so easy, Bruno?"
-12–22s: She closes her eyes. Soft memory flashback in warm golden light: Bruno standing in the river behind her, gently guiding her hands. A faint glowing outline of Bruno appears beside her.
-DIALOGUE 14–18s: Bruno (memory voice, very deep slow warm gravelly, echoing softly): "Be still. Like the river. Fish come to you."
-22–30s: Lily stays very still, hands in the water... and suddenly catches a big salmon. She holds it up, shocked and happy. Final frame: Lily laughing and crying, looking up at the sky.
-DIALOGUE 25–28s: Lily (happy tears): "I did it! Bruno, I did it!"
-SFX: splashes, slipping, fish slap, laughter, gentle magical chime for the memory, water flowing, big catch splash.
-MUSIC: playful plucky strings, then the soft love theme from earlier parts.
+Riverbank at sunset, orange sky, smoke, the whole army in front of Bruno.
+0–3s: Bruno stands alone, wounded, facing dark Bigfoots, soldiers and the red dragon with King Magnus on its back.
+DIALOGUE 0–3s: King Magnus (deep cold voice): "Where is the girl, beast?"
+3–8s: Bruno smiles.
+DIALOGUE 4–7s: Bruno (deep, proud, calm): "Gone. Where you never find her."
+8–20s: Bruno roars and charges into the army in slow motion. He throws soldiers, knocks down two dark Bigfoots, and grabs a small dragon out of the air. Shot in silhouette against the orange sunset, heroic.
+DIALOGUE 12–15s: NARRATOR (deep cinematic trailer voice): "He fought for every second she needed."
+20–30s: King Magnus raises his staff; a huge red lightning blast hits Bruno. In slow motion, Bruno falls to his knees, looks toward the river one last time and smiles. Then he slowly falls forward into the grass, in silhouette. No blood, no gore. Final frame: Bruno's open hand resting in the grass; beside it, a single small blue wildflower slowly blooms in the sunset light.
+DIALOGUE 26–29s: Bruno (deep final whisper): "Be... happy... Lily."
+SFX: battle cries, roars, impacts, dragon screech, magical lightning blast, heavy fall, then total silence, wind.
+MUSIC: epic tragic choir and orchestra, fading to a single soft violin note.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +43,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 43 | She couldn't catch a fish... until she heard his voice 🥹🐟 #Bigfoot #Movie #Part43
+Part 43 | He fought the whole army so she could live 💔🖤 RIP Bruno #Bigfoot #Movie #Part43
 
 DOLA STATUS
 [ ] Images uploaded
@@ -53,5 +53,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

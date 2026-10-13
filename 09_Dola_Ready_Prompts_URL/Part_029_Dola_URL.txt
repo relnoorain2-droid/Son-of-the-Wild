@@ -1,11 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+C04_Bruno_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FACE.png
 C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
 L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 029 - "A Cradle for the Baby"
-Punch: FUN + EMOTION
+PART 029 - "Under the Stars"
+Punch: EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,24 +22,24 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; C04_Bruno_FULL.png -> Bruno; L04_BrunoCave.png -> Location BrunoCave.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; C04_Bruno_FACE.png -> Bruno; L04_BrunoCave.png -> Location BrunoCave.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Inside the waterfall cave, a few months later. Lily is visibly pregnant (around 5 months), wearing a big oversized brown flannel-style wrap.
-0–3s: A loud CRASH: Bruno proudly drags in a whole small pine tree.
-DIALOGUE 1–3s: NARRATOR (deep trailer voice): "Months passed..."
-3–12s: Bruno tries to build a baby cradle with his giant hands; sticks keep snapping.
-DIALOGUE 5–8s: Bruno (deep, determined): "Bruno build bed for baby. Strong bed."
-DIALOGUE 9–13s: Lily (laughing, holding her belly): "Gentle, Bruno! It's for a baby, not a bear!"
-12–22s: Finally Bruno shows a lopsided but sweet wooden cradle lined with moss and flowers. He tests it by sitting in it himself — it collapses completely.
-DIALOGUE 17–19s: Bruno (deadpan): "...Bruno build another one."
-22–30s: Lily sits beside him, takes his hand and smiles softly.
-DIALOGUE 21–27s: Lily (soft): "If it's a boy, I want him to be strong and kind... like his father."
-DIALOGUE 27–30s: Bruno (deep, emotional): "And beautiful... like his mother."
-Final frame: both looking at the broken cradle, laughing.
-SFX: tree dragging crash, sticks snapping, wood creaking, cradle collapsing, laughter, waterfall in the background.
-MUSIC: playful country-folk guitar, softening into the love theme.
+After the storm, a clear night, millions of stars, the campfire glowing at the cave entrance. Fully tasteful and family-safe: only loving looks, hand-holding and a warm hug.
+0–3s: Lily sits beside Bruno by the fire, wrapped in a blanket, resting her head on his big arm.
+DIALOGUE 0–3s: NARRATOR (deep cinematic American trailer voice): "Some love stories don't need words..."
+3–14s: They look up at the stars. A shooting star crosses the sky.
+DIALOGUE 5–7s: Lily (soft): "Make a wish, Bruno."
+DIALOGUE 8–12s: Bruno (deep, gentle): "Bruno wish... Lily never leave."
+DIALOGUE 12–14s: Lily (smiling): "Then it already came true."
+14–24s: She takes his giant hand with both of hers. He gently pulls her close into a warm hug. Slow push-in on their faces, firelight glowing.
+DIALOGUE 18–21s: Lily (whispering): "I love you, Bruno."
+DIALOGUE 21–23s: Bruno (deep whisper): "Bruno love Lily. Forever."
+24–30s: The camera slowly tilts away from them up to the campfire sparks rising into the starry sky, and the fire slowly burns down. Fade to black.
+DIALOGUE 27–30s: NARRATOR: "...and that night, the forest kept their secret."
+SFX: soft crackling fire, crickets, distant owl, gentle breeze.
+MUSIC: slow romantic piano and violin love theme.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -46,7 +48,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 29 | Bruno built a cradle for the baby... then sat in it 😂🪵 #Bigfoot #Movie #Part29
+Part 29 | "I love you, Bruno." 🌌❤️ The forest kept their secret... #Bigfoot #Movie #Part29
 
 DOLA STATUS
 [ ] Images uploaded
@@ -56,5 +58,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

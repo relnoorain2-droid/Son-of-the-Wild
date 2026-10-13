@@ -1,13 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
 
 FROST: Son of the Wild
-PART 056 - "Bath Time"
-Punch: FUN
-Status: ready - URL PACKAGE
+PART 056 - "Stay With Me"
+Punch: EMOTION + CLIFFHANGER
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -21,22 +20,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; S02_MarthaHayes_FULL.png -> Martha Hayes; L05_River.png -> Location River.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; V09_Bruno_Spirit.png -> Variant Bruno_Spirit; L06_AbandonedCabin.png -> Location AbandonedCabin.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Spring montage by the river near the cabin, sunny, flowers blooming.
-0–3s: Lily tries to give baby Frost a bath in a wooden tub; he splashes so hard that Lily is completely soaked.
-DIALOGUE 1–3s: Lily (laughing, dripping): "Frost! Every single time!"
-3–12s: Frost crawls out of the tub, grabs a young pine tree and pulls it out of the ground, roots and all, then looks proud.
-DIALOGUE 6–10s: NARRATOR (deep cinematic trailer voice): "Frost was growing fast... and getting stronger every day."
-DIALOGUE 10–13s: Lily (hands on hips): "Put the tree back, young man."
-12–22s: Martha babysits; she reads a picture book to Frost on the porch. He falls asleep on her lap and starts snoring loudly like a bear, shaking the porch.
-DIALOGUE 16–19s: Martha (whispering, amused Southern voice): "Lord, he snores like my late husband."
-22–30s: Frost wakes up, sees a butterfly, and chases it, stumbling on his chubby legs, then falls into a pile of flowers. He sneezes; petals explode everywhere. Final frame: Frost covered in flower petals, giggling.
-DIALOGUE 27–29s: Lily (laughing): "Bless you, baby!"
-SFX: splashing, laughing, roots ripping, tree thump, page turning, loud snoring, wooden porch creaking, giggles, sneeze, petals.
-MUSIC: bright happy country-folk with banjo and whistling.
+Snowy night inside the candle-lit cabin. Fully tasteful: show only Lily's face, hands, the quilt and candles.
+0–3s: Close-up of Lily's face, sweating, gripping the quilt in pain, candles flickering.
+DIALOGUE 1–4s: Lily (soft young American woman, in pain): "I can do this... I can do this..."
+3–12s: Close-ups: her hand squeezing the bedpost, snow hitting the window, the fire in the stove.
+DIALOGUE 6–10s: Lily (crying, exhausted): "I'm so scared, Bruno. I can't do this alone."
+12–22s: The candle flames bend as if a warm wind came in. A soft glowing outline of Bruno appears beside the bed, translucent and peaceful, holding her hand (her hand glows softly).
+DIALOGUE 14–19s: Bruno (spirit voice, very deep warm gravelly, echoing softly): "Lily never alone. Bruno is here. Be strong... like the river."
+22–30s: Lily takes a deep breath, gathers all her strength and screams. The screen fades to white. Silence. Then a tiny, strange baby cry — half human, half a small animal-like howl. Final frame: Lily's exhausted face turning toward the sound, eyes wide.
+DIALOGUE 27–29s: Lily (whispering, amazed): "...My baby."
+SFX: heavy breathing, wind and snow, crackling fire, candle flicker, a soft magical hum, a strong scream, silence, a small unusual baby cry.
+MUSIC: tense heartbeat drums, then a soft choir and the love theme when Bruno appears.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +43,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 56 | Bath time with a baby Bigfoot 😂🛁 #Bigfoot #Movie #Part56
+Part 56 | Alone on the coldest night... but she wasn't really alone 🥹👻 #Bigfoot #Movie #Part56
 
 DOLA STATUS
 [ ] Images uploaded
@@ -55,5 +53,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

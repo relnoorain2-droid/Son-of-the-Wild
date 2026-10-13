@@ -1,11 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
-V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
+C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 077 - "I Break Everything"
-Punch: FUN + EMOTION
-Status:-assets
+PART 077 - "The White Beast"
+Punch: TWIST + CLIFFHANGER
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -19,22 +21,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; S10_Villagers.png -> optional background group, skip unless you want crowd continuity; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; C02_KingMagnus_FULL.png -> King Magnus; C03_PrinceDamian_FULL.png -> Prince Damian; S07_CaptainVex_FULL.png -> Captain Vex.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-CAST NOTE: Tommy = a teenage boy (about 17), messy brown hair, freckles, red cap.
-Afternoon, a grassy field next to Cedar Hollow's wooden water tower.
-0–3s: Teen Frost and Tommy, now a teenager (about 17, messy brown hair, freckles, red cap), play American football. Tommy throws; Frost catches the ball and runs.
-DIALOGUE 1–3s: Tommy (teen boy voice): "Go long, Frost! GO LONG!"
-3–12s: Frost runs too fast, can't stop, and crashes straight into the town water tower. The tower tips over in slow motion.
-DIALOGUE 6–8s: Teen Frost (panicked, voice cracking): "No no no no no!"
-12–22s: A huge wave of water floods Main Street: a man on a bicycle gets washed away (laughing, safe), chickens float by in a bucket, Martha's laundry flies everywhere. Villagers, soaked, stare at Frost.
-DIALOGUE 15–18s: Villager man (angry, dripping): "FROST! That's the third time this month!"
-22–30s: Frost walks away alone, sits by the river, and drops the football. His face is sad.
-DIALOGUE 24–28s: Teen Frost (quiet, sad): "I'm too big. Too strong. I break everything I touch."
-Final frame: Frost's reflection in the river, looking lonely.
-SFX: football throw, running thuds, wood cracking, tower crash, a huge water wave, bicycle bell, chickens clucking, angry shouting, river flowing.
-MUSIC: energetic sports music, a comedic crash, then soft sad guitar.
+0–3s: A scruffy fur hunter hiding in the snowy trees at the edge of Cedar Hollow watches Kid Frost playing with the kids, through a brass spyglass.
+DIALOGUE 1–4s: Hunter (rough greedy American male voice, whispering): "A white one... with blue eyes."
+3–12s: Night. The hunter kneels in front of Captain Vex at a campfire in the forest.
+DIALOGUE 5–12s: Hunter: "A white beast lives with the villagers. They call it Frost. Its mother is a blonde woman."
+DIALOGUE 12–14s: Captain Vex (harsh voice, slowly smiling): "A blonde woman..."
+12–22s: Thorne Castle throne hall. King Magnus, a little older and greyer, listens. Prince Damian, older too, with a scar on his forehead from the silver tray, stands up angrily.
+DIALOGUE 14–17s: Prince Damian (smooth voice, bitter): "The girl who hit me... is ALIVE?"
+DIALOGUE 17–21s: King Magnus (deep menacing voice): "And the beast had a son."
+22–30s: King Magnus stands and looks out of the window at his dragons.
+DIALOGUE 24–29s: King Magnus (cold and slow): "Not yet. Let the boy grow. Let them feel safe. Then... we take everything."
+Final frame: the red dragon's glowing eye opening in the dark.
+SFX: snow crunching, spyglass click, campfire crackle, echoing throne hall, dragon breathing.
+MUSIC: dark villain theme, low brass and a slow, ominous drumbeat.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 77 | "I break everything I touch." Being a teen Bigfoot is hard 😢🏈 #Bigfoot #Movie #Part77
+Part 77 | The king found out about Frost... and he's waiting for the perfect moment 😈🐉 #Bigfoot #Movie #Part77
 
 DOLA STATUS
 [ ] Images uploaded
@@ -53,5 +55,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

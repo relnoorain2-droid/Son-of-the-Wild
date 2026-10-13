@@ -56,5 +56,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
-C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
-L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 096 - "The Bride Who Ran"
-Punch: TWIST + EMOTION
+PART 096 - "Harvest Moon Dance"
+Punch: FUN + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,24 +21,27 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; C05_Frost_FACE.png -> Frost; C03_PrinceDamian_FULL.png -> Prince Damian; L02_KingCastle.png -> Location KingCastle.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S02_MarthaHayes_FULL.png -> Martha Hayes; S03_HankMiller_FULL.png -> Hank Miller.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, inside the half-burnt cabin, a single candle. Frost sits on the floor; Lily sits facing him.
-0–3s: Lily takes a deep breath, wiping tears.
-DIALOGUE 1–5s: Lily (soft, shaking): "I never told you the whole story, Frost. Tonight I will."
-3–25s: Flashback montage in a cold, blue-grey cinematic tint, with Lily's voice-over:
-  3–8s: Lily, in her old blue dress, with her mother in their poor Oregon house; the royal guards arriving.
-  DIALOGUE 5–12s: Lily (voice-over): "I was a poor girl. The king's men came and chose me... as a bride for his son."
-  8–15s: Prince Damian smirking in the throne hall; the dark castle; dragons above.
-  DIALOGUE 12–20s: Lily (voice-over): "Prince Damian. Every week he married a new girl... and after one night, he threw her into the forest for the beasts."
-  15–25s: Lily in the wedding dress hitting Damian with the silver tray and escaping down the bedsheets.
-  DIALOGUE 20–25s: Lily (voice-over, a small sad smile): "So on my wedding night... I hit him with a tray and I ran."
-25–30s: Back to the present. Frost stares, stunned.
-DIALOGUE 26–29s: Frost (deep, shocked): "The prince... was your HUSBAND?"
-SFX: candle flicker, soft echo on the flashback, horses, a dragon roar in the distance, the metal "bonk", wind.
-MUSIC: mysterious, sad flashback theme on strings.
+Night, a harvest festival in a big barn decorated with lanterns and pumpkins, a huge full orange moon outside.
+0–3s: Frost stands shyly at the edge of the dance floor. Martha drags him onto it.
+DIALOGUE 0–3s: Martha (warm Southern voice): "Come on, sugar! Nobody sits out tonight!"
+3–25s: The village SINGS, lip-synced, upbeat country-folk:
+  3–10s: "Muddy boots and a fiddle tune, dancing under a harvest moon."
+  — Shots: Frost doing a country two-step — the exact same clumsy stomp his father did years ago; the floor shakes, pumpkins bounce.
+  10–18s: "Oh Cedar Hollow, you're my home, never gonna walk this road alone..."
+  — Shots: Frost spinning Martha gently; Hank dancing with Lily; kids sliding on the hay.
+  18–25s: "...big or small, we're family, here in Cedar Hollow... home."
+  — Shots: everyone dancing in a big circle around Frost.
+25–30s: Lily stops dancing and watches Frost stomp happily. Her eyes fill with tears and she smiles.
+DIALOGUE 26–29s: Lily (whispering to herself): "He dances exactly like you, Bruno."
+Final frame: Frost dancing under the barn lights, the harvest moon behind him.
+DIALOGUE 8-11s: Frost (deep teenage voice, nervous laugh): "I do not know these steps!"
+DIALOGUE 12-15s: Tommy (excited young man): "Just follow the fiddle, big guy!"
+SFX: boots stomping, floor shaking, pumpkins bouncing, laughter, clapping.
+MUSIC: lively country dance version of Song 2 with fiddle and banjo, softening at the end.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -47,7 +50,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 96 | Lily finally tells Frost the truth... "The prince was your HUSBAND?" 😳 #Bigfoot #Movie #Part96
+Part 96 | He dances exactly like his father did 🥹🌕 #Bigfoot #Movie #Part96
 
 DOLA STATUS
 [ ] Images uploaded
@@ -57,5 +60,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

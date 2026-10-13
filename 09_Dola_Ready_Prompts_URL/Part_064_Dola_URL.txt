@@ -1,12 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
-V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 
 FROST: Son of the Wild
-PART 064 - "The Bear Whisperer"
-Punch: WOW + TWIST
+PART 064 - "Torches at the Door"
+Punch: ACTION + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,20 +20,24 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; S06_SarahMiller_FULL.png -> Sarah Miller; S03_HankMiller_FULL.png -> Hank Miller.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; S03_HankMiller_FULL.png -> Hank Miller; S10_Villagers.png -> optional background group, skip unless you want crowd continuity.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Late afternoon in Cedar Hollow, near the general store.
-0–3s: A huge grizzly bear smashes through a fence into the village street. People scream and run.
-DIALOGUE 1–3s: Villager woman (screaming): "BEAR! Get inside!"
-3–12s: The bear roars at little Sarah, who is frozen in the middle of the street. Hank runs for his shotgun. Kid Frost steps in front of Sarah.
-DIALOGUE 7–9s: Hank (shouting): "Frost, get away from it!"
-12–22s: Frost doesn't fight. He looks into the bear's eyes. His own eyes glow softly blue for a moment. He speaks calmly; we hear a low, soft rumbling sound like an animal language, and the bear slowly stops roaring.
-DIALOGUE 14–19s: Kid Frost (calm young boy voice): "Hey, big guy. You're just hungry, huh? Nobody wants to hurt you."
-22–30s: The bear sniffs Frost's hand, lies down, and lets Sarah pet its nose. Frost gives the bear a basket of apples from the store. Everyone watches in total silence. Final frame: the grizzly walking calmly back into the forest with an apple in its mouth.
-DIALOGUE 25–29s: Old Joe (from the porch, slow raspy voice): "He speaks to the wild... just like the old legends."
-SFX: fence crash, screams, roar, running, a soft magical hum, low gentle rumbling, sniffing, apple crunch.
-MUSIC: tense drums, then a magical soft choir and gentle strings.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Dusk, in front of Lily's cabin, villagers with torches and pitchforks.
+0–3s: An angry crowd of villagers marches up the path with torches; Hank leads them, holding a lantern and a pitchfork.
+DIALOGUE 1–3s: Hank (deep rural American voice, angry and scared): "Lily! Bring out that creature!"
+3–12s: Lily steps out of the cabin and stands in front of the door, arms wide.
+DIALOGUE 4–6s: Villager man (angry): "It'll eat our children!"
+DIALOGUE 6–9s: Villager woman (scared): "It's one of those forest beasts!"
+DIALOGUE 9–12s: Lily (firm, shaking): "He's a BABY! He's my son!"
+12–22s: The crowd goes silent. Hank lowers his pitchfork a little, confused.
+DIALOGUE 13–17s: Hank: "Your son? Lily... what in God's name happened in that forest?"
+DIALOGUE 17–24s: Lily (emotional): "His father saved my life from the king's beasts. He died protecting us. That's all you need to know."
+22–30s: Behind her, the cabin door creaks open. Baby Frost crawls out holding the teddy bear. The crowd raises their pitchforks in panic. Lily turns, terrified. Final frame: a dozen torches pointing at the tiny white baby.
+DIALOGUE 27–29s: Lily (screaming): "Frost, NO! Go back inside!"
+SFX: marching footsteps, crackling torches, angry murmurs, door creak, crowd gasping, pitchforks raised.
+MUSIC: tense dramatic strings and drums.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +46,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 64 | A grizzly attacked the town... Frost just TALKED to it 🐻✨ #Bigfoot #Movie #Part64
+Part 64 | The whole village came with torches... for a baby 😢🔥 #Bigfoot #Movie #Part64
 
 DOLA STATUS
 [ ] Images uploaded
@@ -53,5 +56,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

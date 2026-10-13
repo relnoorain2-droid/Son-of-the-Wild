@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L01_LilyHouse.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L01_LilyHouse/L01_LilyHouse.png
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
 
 FROST: Son of the Wild
-PART 143 - "Not Yet, Mama"
-Punch: EMOTION
-Status:-assets
+PART 143 - "Where Is His Grave?"
+Punch: TWIST + EMOTION
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,23 +21,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V08_Frost_Powered.png -> Variant Frost_Powered; L01_LilyHouse.png -> Location LilyHouse.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Evening, Millbrook, Oregon: Lily's old small hometown, the same poor wooden house with peeling white paint and a rusty mailbox. Brief location title card at bottom for 2 seconds: "MILLBROOK, OREGON".
-0–3s: Lily stands across the street from her old house, frozen.
-DIALOGUE 1–3s: Lily (soft, emotional whisper): "Nothing has changed..."
-3–12s: Through the window, the silhouette of an old woman with a grey bun moves slowly in the kitchen, setting two plates on the table — one for herself, one empty.
-DIALOGUE 6–10s: Lily (crying): "She still sets a plate for me. After all these years."
-12–22s: Frost, standing behind a tree so he doesn't scare anyone, puts his hand on her shoulder.
-DIALOGUE 14–17s: Frost (deep, gentle): "Go to her, Mom. She's right there."
-DIALOGUE 17–22s: Lily (shaking her head): "If the king finds out she's alive, he'll use her against us. Not yet."
-22–30s: Lily walks to the mailbox and secretly leaves a small blue wildflower, picked from Bruno's grave, inside it. She looks at the window one more time.
-DIALOGUE 25–29s: Lily (whispering): "Not yet, Mama. When this is over... I'm coming home."
-Final frame: the old woman's silhouette in the window, the flower in the mailbox.
-SFX: quiet street, crickets, a dog barking far away, plates clinking inside, mailbox creak.
-MUSIC: deeply emotional piano and violin.
+CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
+Night at Mirror Lake, the full moon high in the sky.
+0–3s: Old Joe looks up at the full moon.
+DIALOGUE 1–7s: Old Joe (slow raspy voice): "One last step. Tonight, under the full moon... you must call your father from his grave."
+3–12s: Lily's face falls. She looks down.
+DIALOGUE 7–16s: Lily (soft, guilty, crying): "Joe... Bruno has no grave. I was in the river. I never even got to bury him. I don't know where he is."
+12–22s: Silence. Frost puts his arm around his mother. Suddenly, heavy footsteps in the trees. Old Scar, the giant ancient grizzly, walks out of the forest, his cubs behind him. He looks at Frost and turns his head toward the dark forest, as if saying "follow me".
+DIALOGUE 17–20s: Frost (deep, surprised): "Old Scar? You... know the way?"
+22–30s: The bear grunts once and walks into the forest. Frost, Lily and Old Joe follow him through the moonlit trees. Final frame: the bear leading them down a hidden path, the full moon ahead.
+DIALOGUE 27–30s: Old Joe (whispering): "The forest remembers what people forget."
+SFX: night crickets, soft crying, heavy bear footsteps, cub squeaks, a deep bear grunt, footsteps on leaves.
+MUSIC: soft sad strings, then a mysterious, hopeful theme.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 143 | She saw her mother through the window after all these years... "Not yet, Mama" 😭🏠 #Bigfoot #Movie #Part143
+Part 143 | "Bruno has no grave... I never got to bury him." 😢 Then the bear showed the way 🐻 #Bigfoot #Movie #Part143
 
 DOLA STATUS
 [ ] Images uploaded
@@ -55,5 +55,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

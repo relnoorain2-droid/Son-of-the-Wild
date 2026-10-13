@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+C04_Bruno_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FACE.png
 C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
 L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
 V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 023 - "Dancing Lesson"
-Punch: FUN
+PART 023 - "Big Old Hands"
+Punch: EMOTION + FUN
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,23 +22,27 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; L04_BrunoCave.png -> Location BrunoCave.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; C04_Bruno_FACE.png -> Bruno; L04_BrunoCave.png -> Location BrunoCave.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night by the campfire outside the waterfall cave, stars above.
-0–3s: Lily pulls Bruno up by his giant finger; he almost trips over a log.
-DIALOGUE 1–4s: Lily (laughing): "Come on, I'm teaching you to dance!"
-3–12s: Lily shows a simple country two-step. Bruno copies her very badly, stomping so hard the ground shakes and a pinecone falls on his head.
-DIALOGUE 5–8s: Bruno (deep, confused): "Left foot... which one is left?"
-DIALOGUE 8–12s: Lily: "Both of your feet are huge, just pick one!"
-12–22s: Bruno lifts Lily and spins her round and round in the air; she laughs and screams happily. A family of raccoons peeks from the bushes, watching.
-DIALOGUE 15–17s: Lily (laughing): "Too fast, Bruno! Too fast!"
-22–30s: Bruno gets dizzy, wobbles, and falls backward onto a pile of leaves with Lily landing safely on his big belly. The raccoons applaud with their tiny paws. Final frame: both lying there laughing under the stars.
-DIALOGUE 24–27s: Bruno (dizzy, deep voice): "Bruno... is good dancer?"
-DIALOGUE 27–30s: Lily (laughing): "The best in the whole forest."
-SFX: stomping, ground thump, pinecone bonk, spinning whoosh, laughing, heavy fall into leaves, tiny raccoon claps.
-MUSIC: lively American country fiddle and banjo dance tune.
+Sunset to night montage around the waterfall cave and a hilltop overlooking the forest.
+0–3s: Bruno and Lily sit on a hilltop watching a huge orange sunset, Lily leaning on his arm.
+DIALOGUE 0–3s: Lily (soft): "I never want this day to end."
+3–25s: Lily SINGS, soft and sweet, lip-synced, with Bruno humming deeply:
+  3–11s: "Big old hands and a gentle heart, the forest knew we'd never be apart."
+  — Shots: Bruno teaching Lily to catch a fish with her hands; she falls in, he laughs a deep belly laugh.
+  11–19s: "It's you and me and the wild, running free like a child..."
+  — Shots: night, fireflies everywhere; Bruno holds up his huge palm and fireflies land on it; Lily's face glows in wonder.
+  19–25s: "...no one can find us here, you and me and the wild."
+  — Shots: by the campfire, Lily braids little flowers into Bruno's black fur; he pretends to be annoyed but smiles.
+25–30s: Bruno looks at her with soft eyes.
+DIALOGUE 26–29s: Bruno (deep warm voice, shy): "Before Lily... Bruno was alone. Now Bruno is... happy."
+Final frame: Lily smiling with tears in her eyes, firelight on both faces.
+DIALOGUE 8-11s: Lily (soft, smiling): "Your hands are big... but they are gentle."
+DIALOGUE 14-17s: Bruno (deep careful voice): "Bruno careful with Lily. Always."
+SFX: crickets, fireflies' soft hum (magical), splash, Bruno's belly laugh, fire crackle.
+MUSIC: same song melody, gentle acoustic guitar and soft strings, slowing down at the end.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -46,7 +51,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 23 | Teaching a Bigfoot to dance 😂💃 "Which one is left?" #Bigfoot #Movie #Part23
+Part 23 | "Before Lily, Bruno was alone. Now Bruno is happy." 🥹✨ #Bigfoot #Movie #Part23
 
 DOLA STATUS
 [ ] Images uploaded
@@ -56,5 +61,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

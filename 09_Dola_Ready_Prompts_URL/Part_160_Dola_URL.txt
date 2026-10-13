@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
 V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 160 - "Burn Them All"
-Punch: ACTION + CLIFFHANGER
+PART 160 - "MAGNUS!"
+Punch: WOW + CLIFFHANGER
 Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,23 +21,20 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K02_RedDragon.png -> Creature RedDragon.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; V10_Damian_Battle.png -> Variant Damian_Battle; L02_KingCastle.png -> Location KingCastle.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-CAST NOTE: Hank = a sturdy farmer, grey-brown beard, worn cowboy hat, plaid shirt, overalls; the Great Red Dragon = three times bigger than any other dragon, dark lava-red scales, horns like a crown, enormous wings.
-The battlefield in front of Thorne Castle, the Great Red Dragon in the sky.
-0–3s: The Great Red Dragon sweeps over the battlefield breathing a river of fire. Villagers and animals dive behind rocks and mammoths.
-DIALOGUE 1–3s: Hank (shouting): "TAKE COVER!"
-3–12s: Frost shields a group of villagers with his glowing body; the fire splashes off his blue energy. He looks up.
-DIALOGUE 6–9s: Frost (deep, determined): "Mom, stay with Old Scar. This one's mine."
-DIALOGUE 9–11s: Lily (scared): "Frost, be careful!"
-12–22s: Frost jumps and flies straight up at the gigantic dragon, lightning trailing behind him like a comet. He punches the dragon in the jaw; its head snaps sideways. King Magnus nearly falls off.
-DIALOGUE 17–19s: Frost (roaring): "That's for my FATHER!"
-22–30s: The Great Red Dragon recovers, swings its gigantic tail, and smashes Frost out of the sky like a baseball. He flies across the valley and crashes through the castle wall, disappearing inside in a cloud of dust and falling stones. Silence. Final frame: the hole in the castle wall, smoke, no movement.
-DIALOGUE 27–29s: King Magnus (cold, from the dragon's head): "Burn them all."
-SFX: a massive fire breath, screams, fire splashing on energy, a jump boom, flying whoosh, a huge punch impact, dragon roar, a giant tail whoosh, a crash through stone, falling rocks, then silence.
-MUSIC: epic action score, ending on a shocking hit and silence.
+Dawn, the open valley in front of Thorne Castle: the dark stone castle with red banners, dragons sleeping on its towers, war mammoths at the gate.
+0–3s: The army appears over the hill: thousands of people and animals in the morning fog, Frost glowing at the front.
+DIALOGUE 1–4s: Soldier on the castle wall (panicked): "Wake the king! WAKE THE KING!"
+3–12s: Alarm bells ring. On the highest balcony, King Magnus steps out, old but powerful, in black iron armor, holding his staff with the glowing red crystal. Prince Damian stands beside him, with the frying pan bruise still on his forehead.
+DIALOGUE 7–11s: King Magnus (deep, cold, booming): "So... the beast's son comes to die where his father did."
+12–22s: Frost flies up and lands on a rock in front of the whole army, face to face with the castle.
+DIALOGUE 15–22s: Frost (deep, thunderous, echoing through the valley): "MAGNUS! I am Frost, son of Bruno, grandson of Orin! I've come for my grandfather's crystal... and for you!"
+22–30s: King Magnus smiles and raises his staff; the red crystal flashes. On every tower, dragons open their glowing red eyes and roar. The mammoths stamp. The gates begin to open. Final frame: the gate opening, red eyes everywhere, Frost's blue eyes facing them.
+DIALOGUE 27–29s: King Magnus (shouting): "Then come and take it!"
+SFX: fog, thousands of footsteps, alarm bells, armor, a landing boom, echoing voices, a crystal flash, dozens of dragon roars, mammoth stamping, gate chains grinding.
+MUSIC: massive epic standoff theme, building to an explosive cliffhanger hit.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -46,18 +43,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 160 | Frost punched the Great Red Dragon... and its tail smashed him through the castle wall 😱🏰 #Bigfoot #Movie #Part160
-
-
-# FROST: Son of the Wild — PARTS 161–170 (Act 5: The Final Battle – Part 2)
-Dola me kaise use karein:
-1. "Attach" me likhi images (Characters folder se) Dola me upload karo (max 4).
-2. PART ka poora block (PART se lekar CAPTION se pehle tak) copy karke Dola me paste karo.
-3. Video ready hone par CAPTION Facebook description me paste karo.
-
-Story so far (Part 161–170): Castle ki deewar todkar Frost usi kamre me girta hai jahan dulhanon ke naam aur "RUN" likha tha. Tunnel team saare dragons ki zanjeerein tod deti hai, lekin crystal ki wajah se woh abhi bhi raja ke control me hain. Prince Damian battlefield me Lily pe hamla karta hai; Martha ka frying pan Lily ke haath me. Frost deewar todkar aata hai aur Damian ki talwar pakad leta hai. Frost use maarta nahi: Damian ko wahi aurtein pakad leti hain jinhe usne jungle me phenka tha (kuch bach gayi thi). Phir aasmaan me Frost vs Great Red Dragon aur King Magnus. Frost girne wala hota hai, papa ki baat yaad karta hai "Be still", aur raja ki laal bijli ko neeli bana deta hai. Part 170 me crystal ke liye aakhri kheenchataani.
-
-LILY RULE: Lily poori movie me hamesha 22–24 saal ki young, innocent aur khoobsurat dikhegi (har Lily wale part me "LOOK LOCK" line hai).
+Part 160 | "I've come for my grandfather's crystal... and for YOU!" ⚡👑 The final battle begins! #Bigfoot #Movie #Part160
 
 DOLA STATUS
 [ ] Images uploaded
@@ -67,5 +53,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
-V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 
 FROST: Son of the Wild
-PART 063 - "Home Run"
-Punch: FUN + WOW
+PART 063 - "MONSTER!"
+Punch: FUN + TWIST
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,22 +21,20 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S05_TommyMiller_FULL.png -> Tommy Miller; S03_HankMiller_FULL.png -> Hank Miller; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V05_Frost_Baby.png -> Variant Frost_Baby; S05_TommyMiller_FULL.png -> Tommy Miller; S06_SarahMiller_FULL.png -> Sarah Miller; L06_AbandonedCabin.png -> Location AbandonedCabin.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Sunny afternoon, a dusty small-town baseball field in Cedar Hollow, wooden bleachers full of villagers, an American flag on a pole.
-0–3s: Kid Frost holds a wooden baseball bat that looks like a toothpick in his huge hands.
-DIALOGUE 1–3s: Hank (as umpire, deep rural voice): "Batter up!"
-3–12s: Tommy pitches. Frost swings — CRACK! The ball flies straight up into the sky and disappears into the clouds. Everyone looks up, waiting.
-DIALOGUE 7–10s: Tommy (shocked young boy): "Where... where did it go?"
-DIALOGUE 10–12s: Kid Frost (nervous): "Um... space?"
-12–22s: Quick comedic cut: the crowd still looking up, eating popcorn. Martha falls asleep. A dog lies down. The sun moves across the sky.
-DIALOGUE 17–20s: NARRATOR (deep trailer voice, deadpan): "Two hours later..."
-22–30s: The ball finally falls from the sky and lands right in Frost's hand. The crowd goes wild.
-DIALOGUE 25–30s: Hank (laughing): "I don't know if that's a home run or a moon landing!"
-Final frame: villagers lifting Frost (with a lot of effort) and cheering.
-SFX: bat crack, whistle of the ball flying away, crickets, popcorn crunching, snoring, falling whistle, catch thump, cheering crowd.
-MUSIC: classic American ballpark organ tune, then triumphant brass.
+Afternoon, the forest edge behind the cabin.
+0–3s: Tommy and Sarah sneak toward Lily's cabin with a homemade gift basket.
+DIALOGUE 1–3s: Tommy (excited young boy, whispering): "Let's surprise Miss Lily's baby!"
+3–12s: Baby Frost (now a bit bigger, crawling fast) crawls out of the bushes holding Sarah's dropped teddy bear in his mouth like a puppy. The kids freeze.
+DIALOGUE 7–9s: Sarah (small cute girl voice): "Tommy... is that a puppy?"
+DIALOGUE 9–11s: Tommy (shaking): "That's NOT a puppy."
+12–22s: Frost happily crawls toward them and lets out his little roar. The kids scream and Frost screams back, scared too. All three scream at each other.
+22–30s: Tommy grabs Sarah and runs toward the village, screaming. Frost sits alone holding the teddy bear, confused and sad. Final frame: Tommy running into the village street.
+DIALOGUE 25–29s: Tommy (screaming at the top of his lungs): "MONSTER! THERE'S A MONSTER AT MISS LILY'S HOUSE!"
+SFX: footsteps in leaves, bushes rustling, baby grunts, little roar, triple screaming, running, village dogs barking.
+MUSIC: comedic suspense, a funny triple-scream sting, then worried strings.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +43,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 63 | Bigfoot plays baseball... the ball came back 2 hours later ⚾😂 #Bigfoot #Movie #Part63
+Part 63 | The kids found baby Frost... everybody screamed 😂😱 #Bigfoot #Movie #Part63
 
 DOLA STATUS
 [ ] Images uploaded
@@ -55,5 +53,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

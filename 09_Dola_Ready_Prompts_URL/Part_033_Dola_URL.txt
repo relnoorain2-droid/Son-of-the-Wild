@@ -1,13 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
+L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
 V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
-V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
 
 FROST: Son of the Wild
-PART 033 - "Bruno vs the Dark Bigfoots"
-Punch: ACTION
-Status: ready - URL PACKAGE
+PART 033 - "Baby Name Fight"
+Punch: FUN + HEART
+Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,32 +19,32 @@ Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+CHARACTER LOCK: Keep pregnant Lily and Bruno exactly identical to the attached references.
+LILY LOOK LOCK: Lily looks young, beautiful, soft fair face, big blue eyes, honey-blonde hair, pregnant but not older.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C04_Bruno_FULL.png -> Bruno; V10_Damian_Battle.png -> Variant Damian_Battle; V03_Lily_Pregnant.png -> Variant Lily_Pregnant; K01_DarkBigfoot.png -> Creature DarkBigfoot.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
-
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-The valley in front of the waterfall, dust, smoke, daylight.
-0–3s: Prince Damian points his sword.
-DIALOGUE 0–2s: Prince Damian (arrogant shout): "Kill him!"
-3–14s: Five dark Bigfoots with red eyes charge Bruno at once. Bruno grabs the first one and throws it into the second, ducks a punch, and slams a third into the ground with both fists.
-DIALOGUE 7–9s: Bruno (deep roaring voice): "Bruno protect family!"
-14–22s: Two grab his arms from behind. Bruno roars, flexes, and smashes them together, then spins and kicks the last one into the river.
-DIALOGUE 16–18s: Lily (from inside the cave, crying out): "Bruno, be careful!"
-22–30s: Five dark Bigfoots lie groaning around him. Bruno breathes hard, steam rising from his black fur. The soldiers step back in fear. Damian's horse rears up.
-DIALOGUE 25–28s: Prince Damian (nervous, trying to sound brave): "...Send in the T-rex."
-Final frame: the T-rex's giant head lowering behind Bruno, roaring.
-SFX: heavy footsteps, punches and body slams, roars, ground cracks, splash, groaning, horse neigh, T-rex roar.
-MUSIC: intense heroic action drums and brass.
-
+Scene: Warm cave at night, handmade baby cradle, soft firelight, rain outside, carved wooden toys.
+0-5s: Bruno proudly carves a tiny wooden sign for the cradle. It reads only as rough marks, not readable text.
+DIALOGUE 1-4s: Bruno (proud): "Baby name should be Rock. Strong name."
+5-11s: Lily stops folding a tiny blanket and stares at him.
+DIALOGUE 5-8s: Lily (deadpan): "I am not naming my child Rock."
+DIALOGUE 8-11s: Bruno (defensive): "Rock never run away."
+11-18s: Lily suggests sweet names. Bruno keeps rejecting them with serious Bigfoot logic.
+DIALOGUE 11-14s: Lily: "What about Hope?"
+DIALOGUE 14-17s: Bruno: "Hope too small. Baby kick like mountain."
+18-25s: Snowflakes drift through the cave opening even though it is early season. Lily catches one on her finger.
+DIALOGUE 19-23s: Lily (soft): "Then maybe something from the snow... if winter comes early."
+25-30s: Bruno touches Lily's belly gently. The baby kicks; both laugh. Final frame: snow drifting outside the warm cave.
+DIALOGUE 25-29s: Bruno (whisper): "Tiny snow mountain."
+SFX: wood carving, fire crackle, rain softening, tiny kick, Lily laugh, Bruno chuckle.
+MUSIC: gentle family theme with a playful warm ending.
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
 SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
-
+TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 33 | Five of the king's Bigfoots vs Bruno 💪 ...then came the T-rex 🦖 #Bigfoot #Movie #Part33
+Part 33 | Bruno wanted to name the baby Rock. Lily strongly disagreed. #Bigfoot #Movie #Part33
 
 DOLA STATUS
 [ ] Images uploaded
@@ -55,5 +54,4 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-
+Inserted after old Part 029 as a funny family foreshadow before Frost's name.

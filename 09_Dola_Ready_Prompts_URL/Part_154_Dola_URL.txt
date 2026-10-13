@@ -1,13 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
-K04_TRex.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K04_TRex/K04_TRex.png
-L08_Battlefield.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
 
 FROST: Son of the Wild
-PART 154 - "The T-Rex Returns"
-Punch: WOW + ACTION
-Status:-assets
+PART 154 - "The Frying Pan Brigade"
+Punch: FUN
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -21,20 +21,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; K04_TRex.png -> Creature TRex; K01_DarkBigfoot.png -> Creature DarkBigfoot; L08_Battlefield.png -> Location Battlefield.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V12_Tommy_Adult.png -> Variant Tommy_Adult; S02_MarthaHayes_FULL.png -> Martha Hayes; S03_HankMiller_FULL.png -> Hank Miller.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-The battlefield in front of Thorne Castle, smoke, fire, dust.
-0–3s: Twenty dark Bigfoots charge Frost from all sides. Behind them, a huge T-rex in an iron war harness — with an old scar on its head from falling off a cliff years ago — roars.
-DIALOGUE 1–3s: Frost (deep voice, smiling): "Oh. You again."
-3–12s: Frost moves like lightning: blue energy blasts throw the dark Bigfoots back like bowling pins; he flips one over his shoulder, slides between two others and knocks their heads together.
-DIALOGUE 7–11s: Frost (deep, fighting): "My father threw you off a cliff! Want round two?"
-12–22s: The T-rex bites down at Frost; he catches its upper and lower jaws with his bare hands and holds its mouth open, his feet sliding back in the dirt.
-DIALOGUE 16–19s: Frost (straining, joking): "Brush... your... TEETH!"
-22–30s: He spins the T-rex by its jaw and throws it into the castle moat with a giant splash. The remaining dark Bigfoots look at each other... and run away. Final frame: Frost standing alone, electricity crackling, the T-rex's tail sinking in the moat.
-DIALOGUE 27–30s: Frost (deep, calm): "Guess it runs in the family."
-SFX: charging footsteps, roars, electric blasts, bodies thrown, a head-bonk, giant jaws snapping, feet sliding, a massive spin and splash, Bigfoots running.
-MUSIC: heroic action theme with brass and drums.
+CAST NOTE: Sarah = a young woman (about 19), long blonde side braid, denim jacket; Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
+Daytime training camp in a big meadow outside Cedar Hollow: tents, villagers from three towns, animals everywhere.
+0–3s: Tommy tries to ride a huge bison like a horse; the bison takes off running and Tommy screams, holding its horns.
+DIALOGUE 1–3s: Tommy (young man, screaming): "WHOA! STOP! STOP THE COW!"
+3–12s: Grown-up Sarah rides a giant elk calmly past him, perfectly balanced.
+DIALOGUE 6–10s: Sarah (young woman, laughing): "It's a BISON, Tommy! And you're holding it wrong!"
+12–22s: Martha marches a line of grandmothers, all holding cast-iron frying pans like soldiers with rifles.
+DIALOGUE 14–18s: Martha (warm Southern voice, like a drill sergeant): "Frying Pan Brigade! Present... PANS!"
+All the grandmothers raise their pans at the same time. Frost salutes them, trying not to laugh.
+DIALOGUE 18–21s: Frost (deep, serious face): "Ma'am. Terrifying, ma'am."
+22–30s: Old Scar teaches bears to stand in a line; one cub keeps stealing honey. Eagles practice dropping pinecones on targets — one hits Hank on the head. Final frame: Hank rubbing his head, looking up at an innocent eagle.
+DIALOGUE 27–30s: Hank (deadpan): "Whose side is that bird on?"
+SFX: bison stampede, screaming, elk hooves, marching boots, pans clanging, bear grunts, eagle screech, pinecone bonk.
+MUSIC: fun upbeat military-march meets country fiddle.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +46,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 154 | The T-rex his father threw off a cliff came back... "Brush your teeth!" 🦖😂 #Bigfoot #Movie #Part154
+Part 154 | Grandma's Frying Pan Brigade is ready for war 🍳😂 #Bigfoot #Movie #Part154
 
 DOLA STATUS
 [ ] Images uploaded
@@ -53,5 +56,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

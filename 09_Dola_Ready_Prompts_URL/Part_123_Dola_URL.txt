@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
+L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 
 FROST: Son of the Wild
-PART 123 - "Gentle Heart"
-Punch: EMOTION + FUN
+PART 123 - "Alive"
+Punch: WOW + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,21 +21,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; C05_Frost_FACE.png -> Frost; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K08_GrizzlyBear.png -> Creature GrizzlyBear; L04_BrunoCave.png -> Location BrunoCave.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
-The Deep Wild, foggy forest floor, soft beams of light through the trees.
-0–3s: Frost kneels down slowly in front of Old Scar, hands open, eyes no longer glowing.
-DIALOGUE 1–4s: Frost (deep, very gentle): "I won't fight you. Let me help."
-3–12s: He reaches for the trap. Old Scar panics and bites down on Frost's shoulder (no blood, just a hard grip on the fur). Frost groans in pain but does NOT fight back.
-DIALOGUE 7–10s: Frost (through gritted teeth, calm): "It's okay... it's okay. Strong hands... gentle heart."
-12–22s: With the bear still holding his shoulder, Frost grips the iron jaws of the trap with both hands and slowly pulls them apart; the metal screams and bends. The bear's leg slides free. Old Scar lets go of Frost's shoulder and stares at him.
-22–30s: Suddenly three fluffy bear cubs tumble out of a hollow log and climb all over Frost, pulling his ears and fur, playing. Frost laughs. Old Scar watches. Final frame: one cub sitting on Frost's head, chewing his ear.
-DIALOGUE 26–29s: Frost (laughing): "Hey! Ow! Okay, okay, you win!"
-DIALOGUE 18-21s: NARRATOR (deep cinematic American voice): "The beast expected anger... but Frost chose mercy."
-SFX: soft footsteps, a deep growl, a painful grunt, metal straining and bending, the trap clanging open, playful cub squeaks, laughing.
-MUSIC: emotional strings with tension, then a sweet playful melody when the cubs appear.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Inside a dark cave behind a small waterfall, light shining through the falling water.
+0–3s: Lily squeezes into the cave — and freezes: the big grizzly bear Frost once talked to is lying in front of Frost, guarding him, keeping him warm.
+DIALOGUE 1–3s: Lily (whispering, shocked): "You... you stayed with him?"
+3–12s: The bear gently moves aside. Frost lies on the rocks, wet, bruised, his fur dirty, eyes closed, barely breathing.
+DIALOGUE 6–10s: Lily (falling to her knees, crying): "Frost? Baby, it's Mom. Please... please wake up."
+12–22s: She puts her hand on his huge chest. Nothing. Then a tiny, weak heartbeat sound. His finger twitches and wraps around her hand, just like when he was a newborn baby.
+DIALOGUE 17–20s: Frost (very weak deep whisper, eyes barely open): "...Mom? You found me."
+22–30s: Hank and Tommy rush in. Villagers and the bear together drag a big wooden cart through the forest, Frost lying on it, Lily holding his hand the whole way. Final frame: the bear pulling the cart with the villagers.
+DIALOGUE 26–29s: Lily (crying, smiling): "Always, my love. Always."
+SFX: dripping water, waterfall echo, bear grunt, crying, a weak heartbeat, cart wheels creaking, forest footsteps.
+MUSIC: emotional choir and strings, swelling with relief.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 123 | He let the bear bite him... just to free it 🥺 Then the cubs came out! 🐻 #Bigfoot #Movie #Part123
+Part 123 | Frost is ALIVE 😭💙 ...and the grizzly was guarding him! #Bigfoot #Movie #Part123
 
 DOLA STATUS
 [ ] Images uploaded
@@ -53,6 +54,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-
-

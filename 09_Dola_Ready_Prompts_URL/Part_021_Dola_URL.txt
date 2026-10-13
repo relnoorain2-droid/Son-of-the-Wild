@@ -1,13 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
 C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
-L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 021 - "You and Me and the Wild"
-Punch: WOW + EMOTION
+PART 021 - "Bigfoot vs Bigfoot"
+Punch: ACTION + WOW
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -22,26 +22,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; L03_DeepForest.png -> Location DeepForest; L05_River.png -> Location River.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C04_Bruno_FULL.png -> Bruno; C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; S07_CaptainVex_FULL.png -> Captain Vex; K01_DarkBigfoot.png -> Creature DarkBigfoot.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Golden morning in the Pacific Northwest forest, sunbeams through giant redwoods, wildflowers, a sparkling river.
-0–3s: Bruno lifts Lily high onto his shoulders; she spreads her arms as they walk out of the dark trees into a sunlit meadow full of flowers, butterflies flying up.
-DIALOGUE 1–3s: Lily (soft young American woman, laughing): "Bruno, look! It's beautiful!"
-3–26s: Music montage. Lily SINGS in a soft, sweet country-folk voice, clearly audible, lip-synced:
-  3–10s: "No castle walls, no golden crown, just a river song and the stars come down."
-  — Shots: running together through the meadow; Bruno carefully picking one tiny flower and putting it in her hair.
-  10–20s: "It's you and me and the wild, running free like a child..."
-  — Shots: splashing in the shallow river, Bruno shaking water off like a dog and soaking her; deer and a baby fawn watching them.
-  20–26s: "...no one can find us here, you and me and the wild."
-  — Shots: Bruno humming along in a very deep, off-key voice; Lily laughing mid-song.
-26–30s: Bruno grins proudly; Lily laughs and hugs his huge arm. Final frame: both laughing in the sunny meadow.
-DIALOGUE 26–28s: Bruno (deep happy gravelly voice): "Bruno sing better now?"
-DIALOGUE 28–30s: Lily (laughing): "No. But I love it."
-DIALOGUE 10-13s: Bruno (deep shy voice): "Lily laugh. Bruno like Lily laugh."
-SFX: birds singing, river flowing, water splash, Bruno's deep off-key humming, laughter.
-MUSIC: warm acoustic guitar, soft fiddle and light percussion under the song.
+Evening, the waterfall pool, orange sunset turning to dusk.
+0–3s: Bruno bursts out through the waterfall, tackling the dark Bigfoot into the pool; a giant wave of water explodes.
+DIALOGUE 1–3s: Captain Vex (harsh voice, shocked): "Another one?!"
+3–14s: Epic fight in knee-deep water: the dark Bigfoot swings its iron shackles; Bruno blocks with his forearm, punches back. They crash into rocks. Guards step back in fear.
+DIALOGUE 6–8s: Bruno (deep roaring voice): "You don't touch her!"
+DIALOGUE 10–12s: Lily (from the cave, screaming): "Bruno, behind you!"
+14–22s: Bruno ducks a punch, lifts the dark Bigfoot over his head in slow motion and throws it across the pool into the trees. It lands with a crash and runs away whimpering.
+22–30s: Bruno turns to the soldiers and lets out a huge roar. The guards drop their torches and run. Captain Vex backs away slowly, pointing at Bruno.
+DIALOGUE 23–28s: Captain Vex (angry, retreating): "The king will hear about you, beast. And he will come himself!"
+Final frame: Lily runs out and hugs Bruno's leg as he breathes hard in the dusk, steam rising from his fur.
+DIALOGUE 28–30s: Lily (soft, relieved): "You came back for me."
+SFX: water explosion, punches and heavy thuds, chains swinging, rock crash, roars, tree crash, whimpering, torches dropping in water, soldiers running.
+MUSIC: epic heavy action score with drums and brass, ending with a soft warm resolve.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -50,7 +47,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 21 | "It's you and me and the wild..." 🎶🌲 Their happiest days begin #Bigfoot #Movie #Part21
+Part 21 | Bigfoot vs the king's Bigfoot 🔥 Who won? Watch till the end! #Bigfoot #Movie #Part21
 
 DOLA STATUS
 [ ] Images uploaded
@@ -60,6 +57,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-
-

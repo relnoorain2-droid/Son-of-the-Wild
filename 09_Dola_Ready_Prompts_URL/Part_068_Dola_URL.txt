@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 068 - "Thanksgiving"
-Punch: EMOTION + FUN
+PART 068 - "First Day of School"
+Punch: FUN + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,23 +21,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S03_HankMiller_FULL.png -> Hank Miller; S02_MarthaHayes_FULL.png -> Martha Hayes.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S05_TommyMiller_FULL.png -> Tommy Miller; S02_MarthaHayes_FULL.png -> Martha Hayes.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-CAST NOTE: Tommy = a cheerful boy (10–14), messy brown hair, freckles, red cap.
-Autumn evening, a long outdoor Thanksgiving table in Cedar Hollow under string lights, orange leaves, a big roast turkey, pies, pumpkins.
-0–3s: Kid Frost carries the entire long wooden table, fully set with food, over his head into place.
-DIALOGUE 1–3s: Martha (warm Southern voice): "Careful with my pies, sweetie!"
-3–12s: Everyone sits. Frost sits on the ground and he's still the tallest at the table. He grabs a turkey leg that is bigger than Tommy's head.
-DIALOGUE 6–9s: Tommy (excited): "Frost gets the WHOLE turkey?"
-DIALOGUE 9–13s: Kid Frost (grinning): "Just the legs. And the wings. And the middle."
-12–22s: Hank stands up and raises his glass of apple cider.
-DIALOGUE 13–23s: Hank (deep rural voice, emotional): "Two years ago, we came to Lily's door with torches. Today... I'm thankful we were wrong. To Frost — the best neighbor this town ever had."
-22–30s: The whole village cheers "To Frost!" Frost gets shy and covers his face with his huge hands. Lily wipes a tear. Final frame: the whole town around the table, warm lights, laughter.
-DIALOGUE 26–29s: Lily (soft, to herself): "Look, Bruno. He has a family."
-SFX: table thump, plates clinking, cheering, glasses toasting, laughter, autumn wind.
-MUSIC: warm, emotional Americana with acoustic guitar and soft strings.
+Morning, a small red one-room American country schoolhouse with a bell, a wooden porch, kids with lunch boxes.
+0–3s: Kid Frost squeezes through the schoolhouse door sideways; the door frame cracks.
+DIALOGUE 1–4s: Kid Frost (cheerful young boy voice): "Sorry! Sorry! I'll pay for it!"
+3–12s: Martha is the teacher today, wearing glasses and holding chalk. Frost sits at a tiny desk; it collapses under him. The kids laugh.
+DIALOGUE 6–9s: Martha (warm Southern voice, smiling): "Floor's fine too, honey. Sit on the floor."
+12–22s: Martha writes letters on the chalkboard. Frost holds a tiny piece of chalk in his huge hand very carefully, tongue out, concentrating, and slowly writes on his little slate.
+DIALOGUE 15–18s: Tommy (whispering): "What are you writing?"
+DIALOGUE 18–20s: Kid Frost (proud whisper): "My first word."
+22–30s: At the end of school, Lily waits outside. Frost runs to her and shows the slate: it says "MOM" in big shaky letters. Lily's eyes fill with tears and she hugs him. Final frame: the slate with "MOM" between them.
+DIALOGUE 26–29s: Lily (emotional): "That's the best thing anyone has ever written."
+SFX: school bell, door frame crack, desk collapsing, kids laughing, chalk scratching, footsteps.
+MUSIC: playful school-day tune, turning into the soft Frost theme on piano.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -46,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 68 | "Two years ago we came with torches... today I'm thankful we were wrong." 🦃🥹 #Bigfoot #Movie #Part68
+Part 68 | A Bigfoot's first day of school... his first word made mom cry 🥹✏️ #Bigfoot #Movie #Part68
 
 DOLA STATUS
 [ ] Images uploaded
@@ -56,5 +55,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

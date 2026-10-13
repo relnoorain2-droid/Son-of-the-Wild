@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
+L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
 
 FROST: Son of the Wild
-PART 081 - "The County Fair"
-Punch: FUN + WOW
-Status: ready - URL PACKAGE
+PART 081 - "Your Father's Home"
+Punch: EMOTION
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,21 +21,24 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; S03_HankMiller_FULL.png -> Hank Miller; S10_Villagers.png -> optional background group, skip unless you want crowd continuity; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V09_Bruno_Spirit.png -> Variant Bruno_Spirit; L04_BrunoCave.png -> Location BrunoCave.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Sunny day at a small-town American county fair: a Ferris wheel, cotton candy, hay bales, a big "lumberjack games" stage with wooden logs.
-0–3s: Three huge bearded lumberjacks in plaid shirts each throw a big log; the crowd cheers.
-DIALOGUE 1–4s: Announcer (loud enthusiastic American fair announcer voice): "Fifteen feet! A new county record!"
-3–12s: Teen Frost steps up nervously. The lumberjacks laugh at him.
-DIALOGUE 5–8s: Lumberjack (rough deep voice, mocking): "Go home, fuzzy. This is a man's game."
-DIALOGUE 8–11s: Hank (shouting from the crowd): "Show 'em, Frost!"
-12–22s: Frost picks up not one log but the entire stack of logs, all at once. The crowd goes silent. He spins and throws. The logs fly over the Ferris wheel and land in a lake far away with a distant splash.
-DIALOGUE 18–21s: Announcer (stunned, slow): "That's... that's in the next county."
-22–30s: The crowd explodes in cheers. The lumberjacks' jaws drop. One of them faints. Frost receives a giant blue-ribbon trophy and grins shyly. Final frame: Frost holding the tiny trophy in his huge hand.
-DIALOGUE 26–29s: Teen Frost (energetic teenage voice, voice cracking): "Can I... keep the logs too?"
-SFX: fair music, crowd cheering, logs thudding, mocking laughter, a massive throw whoosh, distant splash, fainting thump.
-MUSIC: upbeat country fair fiddle and banjo, a triumphant brass hit for the throw.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Late afternoon inside the waterfall cave, warm light through the water.
+0–3s: Lily runs into the cave, out of breath, scared.
+DIALOGUE 1–4s: Lily (soft young American woman, worried): "Frost! I've been looking everywhere for you!"
+3–12s: She sees where he is standing and freezes. She looks around the cave slowly: the bed, the fire pit, the broken cradle. Her hand covers her mouth.
+DIALOGUE 6–9s: Kid Frost (young boy voice): "Mom... you know this place?"
+DIALOGUE 9–12s: Lily (whispering, tears coming): "Better than any place in the world."
+12–22s: She kneels by the broken cradle and laughs through her tears.
+DIALOGUE 14–22s: Lily: "Your father built this for you. He sat in it to test it... and it broke. He was so embarrassed."
+DIALOGUE 22–24s: Kid Frost (laughing softly): "He sat in my cradle?"
+22–30s: Lily puts Frost's hand back on the giant handprint on the wall.
+DIALOGUE 24–30s: Lily (emotional): "This was his home. This is where he loved us. This was your father's home, Frost."
+The waterfall light flickers, and for a second a glowing outline of Bruno's hand appears over theirs. Final frame: three hands glowing together.
+SFX: running footsteps, waterfall, crying, soft laugh, a warm magical chime.
+MUSIC: the love theme, full emotional strings and piano.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +47,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 81 | They told him "this is a man's game"... he threw the logs into the next county 😂🪵 #Bigfoot #Movie #Part81
+Part 81 | "This was your father's home." 😭💙 #Bigfoot #Movie #Part81
 
 DOLA STATUS
 [ ] Images uploaded
@@ -53,5 +57,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

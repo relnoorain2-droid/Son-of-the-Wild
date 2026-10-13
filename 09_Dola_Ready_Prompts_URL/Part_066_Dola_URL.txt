@@ -1,13 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
-V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 
 FROST: Son of the Wild
-PART 066 - "Where Is My Dad?"
-Punch: EMOTION
-Status:-assets
+PART 066 - "The First Roar"
+Punch: ACTION + WOW + TWIST
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -21,25 +21,24 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V09_Bruno_Spirit.png -> Variant Bruno_Spirit; L06_AbandonedCabin.png -> Location AbandonedCabin.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V05_Frost_Baby.png -> Variant Frost_Baby; S06_SarahMiller_FULL.png -> Sarah Miller; S03_HankMiller_FULL.png -> Hank Miller; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, the porch of Lily's cabin (now repaired and cozy), stars above, fireflies.
-0–3s: Kid Frost sits on the porch steps, still a little sooty, looking at his reflection in a water bucket.
-DIALOGUE 1–3s: Kid Frost (soft young boy voice, sad): "Mom... why am I different?"
-3–12s: Lily sits beside him and puts her arm around him.
-DIALOGUE 4–8s: Kid Frost: "Tommy has a dad. Sarah has a dad. Where's mine?"
-DIALOGUE 8–12s: Lily (soft, emotional): "Your father was the strongest, kindest giant in the whole forest."
-12–22s: Lily takes out a small dried flower pressed inside an old book.
-DIALOGUE 12–19s: Lily: "I put this in his fur once. On his last day... he gave it back to me."
-DIALOGUE 19–22s: Kid Frost (whispering): "Was he... like me?"
-22–30s: Lily smiles and points at the black crescent patch on Frost's chest.
-DIALOGUE 22–28s: Lily: "He had this too, right here. And he loved you before you were even born."
-In the stars above, a soft glowing outline of Bruno appears for a moment, smiling. Frost looks up but it's gone. Final frame: mother and son looking up at the stars.
-DIALOGUE 28–30s: Kid Frost (softly): "Goodnight, Dad."
-SFX: crickets, fireflies hum, pages turning, a soft magical chime.
-MUSIC: the love theme from Bruno's parts, soft piano and violin.
+CAST NOTE: Tommy = a cheerful boy (10–14), messy brown hair, freckles, red cap.
+Dusk at the forest edge near the cabin, torches.
+0–3s: From a tree branch above, a mountain lion leaps down toward little Sarah.
+DIALOGUE 1–3s: Hank (screaming): "SARAH!"
+3–12s: Slow motion: before anyone can move, baby Frost jumps in front of Sarah and lets out a ROAR — not a squeak this time, but a deep powerful roar. For one second his blue eyes glow and tiny blue sparks crackle in his fur.
+12–20s: The mountain lion freezes mid-air, lands, and runs away in terror into the forest. Everyone stares, stunned. Frost sits down, sneezes, and looks proud.
+DIALOGUE 14–17s: Tommy (shocked young boy): "Whoa... he SAVED her!"
+DIALOGUE 17–19s: Sarah (hugging him): "My hero!"
+20–30s: The crowd erupts in cheers. Hank kneels down and gently pats Frost's head.
+DIALOGUE 22–25s: Hank (deep friendly voice, smiling): "Welcome to Cedar Hollow, little fella."
+In the back, Old Joe leans on his stick, staring at the fading blue sparks.
+DIALOGUE 27–30s: Old Joe (slow raspy wise voice, whispering): "Blue fire... the blood of Orin is awake."
+Final frame: close-up of Old Joe's serious eyes.
+SFX: mountain lion screech, slow-motion whoosh, powerful roar, electric crackle, big cat running away, cheers, sneeze.
+MUSIC: epic heroic swell, then a happy cheer moment, ending on a mysterious magical tone.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -48,7 +47,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 66 | "Mom... where is my dad?" 😭⭐ #Bigfoot #Movie #Part66
+Part 66 | Baby Frost's first REAL roar ⚡🦁 The whole village saw it! #Bigfoot #Movie #Part66
 
 DOLA STATUS
 [ ] Images uploaded
@@ -58,5 +57,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

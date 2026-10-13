@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
-L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 073 - "The Cave Behind the Waterfall"
-Punch: TWIST + EMOTION
-Status:-assets
+PART 073 - "Frost Says Sorry"
+Punch: ANGER + MOTHER-SON
+Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -19,30 +19,31 @@ Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+CHARACTER LOCK: Keep Lily, kid Frost, and Cedar Hollow exactly identical to attached references.
+LILY LOOK LOCK: Lily remains young-looking and beautiful, blue eyes, honey-blonde hair, gentle mother.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; L04_BrunoCave.png -> Location BrunoCave; L03_DeepForest.png -> Location DeepForest.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
-
-Daytime, deep inside the redwood forest, far from the village.
-0–3s: Kid Frost chases a white deer through the forest, laughing, then stops: he hears a huge waterfall.
-DIALOGUE 1–4s: Kid Frost (young boy voice, curious): "Whoa... I've never been this far."
-3–12s: He walks through the curtain of water and discovers a hidden cave: an old moss-covered bed of leaves, a burnt-out fire pit, and a broken wooden cradle that looks lopsided.
-DIALOGUE 6–9s: Kid Frost (whispering): "Someone lived here... someone big."
-12–22s: On the cave wall he finds a huge handprint pressed into dried clay. He slowly places his own hand inside it. It's much bigger than his, but the shape is exactly the same.
-DIALOGUE 15–18s: Kid Frost (shocked whisper): "Same hand... same as mine."
-22–30s: Next to it, an old carving scratched into the stone: a big Bigfoot, a small woman, and a tiny circle between them, like a family. Frost touches it, his eyes filling with tears without knowing why. Final frame: the carved family on the wall, lit by sunlight through the waterfall.
-DIALOGUE 26–29s: Kid Frost (soft, trembling): "Who are you?"
-SFX: running, deer hooves, waterfall roar, water dripping in the cave, soft echoes, a gentle magical hum.
-MUSIC: mysterious soft strings, then Bruno's love theme very softly.
-
+Scene: Afternoon behind Lily's cabin, split-rail fence, tall grass, village barns in the distance.
+0-5s: Frost sits angry beside a broken fence post after asking about his father. Lily stands nearby, worried.
+DIALOGUE 1-5s: Frost (young deep voice, upset): "Everyone else has a dad at school. Why can't I?"
+5-12s: Lily kneels beside him. Frost turns away, hurt.
+DIALOGUE 5-9s: Lily (soft): "Because your father gave everything to keep us safe."
+DIALOGUE 9-12s: Frost (angry): "Then why does safe feel lonely?"
+12-20s: Frost kicks a loose fence rail too hard and breaks it. He instantly regrets it.
+DIALOGUE 14-17s: Lily (firm but kind): "Frost. Strength is not for breaking what loves you."
+20-27s: Frost carefully lifts the rail and repairs the fence with gentle hands, ashamed.
+DIALOGUE 21-25s: Frost (small voice): "I am sorry, Mom."
+27-30s: Lily hugs his huge arm. Final frame: Frost leaning his head down so Lily can kiss his forehead.
+DIALOGUE 27-30s: Lily: "I know. We will miss him together."
+SFX: fence crack, birds, grass, wood being fixed, soft hug.
+MUSIC: emotional piano with gentle strings.
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
 SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
-
+TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 73 | He found a secret cave... with a handprint exactly like his 😳🖐️ #Bigfoot #Movie #Part73
+Part 73 | Frost got angry about his father... then learned strength must stay gentle. #Bigfoot #Movie #Part73
 
 DOLA STATUS
 [ ] Images uploaded
@@ -52,5 +53,4 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-
+Inserted after old Part 066 for mother-son emotion and anger control.

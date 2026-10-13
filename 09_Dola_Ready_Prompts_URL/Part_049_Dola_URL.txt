@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 
 FROST: Son of the Wild
-PART 049 - "The King's Men in Town"
-Punch: TWIST + ACTION
+PART 049 - "Hank and Martha"
+Punch: TWIST + FUN
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,24 +21,24 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; S07_CaptainVex_FULL.png -> Captain Vex; S03_HankMiller_FULL.png -> Hank Miller; S02_MarthaHayes_FULL.png -> Martha Hayes.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; S03_HankMiller_FULL.png -> Hank Miller; S02_MarthaHayes_FULL.png -> Martha Hayes; L06_AbandonedCabin.png -> Location AbandonedCabin.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Snowy afternoon, Cedar Hollow main street.
-0–3s: Black war horses gallop into the snowy village. Villagers pull their kids inside.
-DIALOGUE 1–3s: Captain Vex (harsh loud threatening voice): "Everyone, outside! NOW!"
-3–12s: Vex holds up a wanted poster with a drawing of Lily's face (no readable text needed).
-DIALOGUE 4–11s: Captain Vex: "The king wants proof the runaway bride is dead. Blonde. Blue eyes. Anyone hiding her... burns with her."
-12–22s: Inside the general store, Lily hides behind barrels, hand over her mouth. Vex walks in slowly, boots creaking. Martha stands at the counter, calm.
-DIALOGUE 15–18s: Captain Vex (cold): "You seen her, old woman?"
-DIALOGUE 18–22s: Martha (calm, warm Southern voice): "Honey, at my age I can't see my own feet."
-22–30s: Vex's eyes move to the barrels. He steps closer. Hank appears at the door, his shotgun pointed at the floor — and this time the whole village stands behind him with pitchforks and shovels.
-DIALOGUE 24–28s: Hank (deep, firm): "She's not here, Captain. Time for you to leave."
-Final frame: Vex smiling coldly, backing out.
-DIALOGUE 28–30s: Captain Vex: "We'll be back."
-SFX: horses in snow, doors slamming, poster paper, creaking boots, heartbeat, heavy boots on the porch, villagers stepping forward.
-MUSIC: dark villain theme, tense strings, then a brave heroic swell for the villagers.
+Night, inside the cabin, storm outside.
+0–3s: Hank Miller (50, cowboy hat, beard, plaid shirt) steps in holding a lantern high, an old shotgun pointed down at the floor — then sees Lily's pregnant belly and immediately steps back.
+DIALOGUE 1–3s: Hank (deep friendly rural voice, shocked): "Whoa, whoa... ma'am, I'm sorry!"
+3–12s: Lily slowly lowers her burning stick, still shaking.
+DIALOGUE 4–8s: Lily (soft, scared): "I'm sorry too. I didn't know it was yours. I'll leave."
+DIALOGUE 8–11s: Hank (gentle): "Leave? In this storm? Not a chance."
+12–22s: Martha Hayes (68, round glasses, white curly hair, cardigan) pushes past Hank holding an umbrella and a basket of food.
+DIALOGUE 13–17s: Martha (warm grandmotherly Southern voice): "Hank Miller, did you scare a pregnant girl with a shotgun?"
+DIALOGUE 17–19s: Hank (embarrassed): "...It wasn't loaded."
+DIALOGUE 19–22s: Martha: "That makes it worse!"
+22–30s: Martha wraps a warm blanket around Lily and hands her fresh bread. Lily bites it and starts crying from relief. Final frame: Martha hugging Lily, Hank awkwardly holding the lantern.
+DIALOGUE 25–29s: Martha (soft): "There, there, honey. You're safe now. You're in Cedar Hollow."
+SFX: storm, lantern swing, boots stepping back, umbrella shaking, basket, crying, rain.
+MUSIC: tense strings resolving into warm, gentle country guitar.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -47,7 +47,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 49 | The king's men came looking for her... the whole town stood up 💪🏡 #Bigfoot #Movie #Part49
+Part 49 | "Did you scare a pregnant girl with a shotgun?" "...It wasn't loaded." 😂 #Bigfoot #Movie #Part49
 
 DOLA STATUS
 [ ] Images uploaded
@@ -57,5 +57,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

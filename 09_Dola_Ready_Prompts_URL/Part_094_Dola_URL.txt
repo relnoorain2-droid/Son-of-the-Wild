@@ -1,13 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
 L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 094 - "Too Late"
-Punch: EMOTION
-Status: ready - URL PACKAGE
+PART 094 - "Cedar Hollow Home"
+Punch: EMOTION + WOW
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -21,21 +20,26 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S02_MarthaHayes_FULL.png -> Martha Hayes; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S10_Villagers.png -> optional background group, skip unless you want crowd continuity; L07_Village.png -> Location Village.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Late afternoon, Cedar Hollow in ruins: burnt houses, smoke, broken fences, the fallen church tower.
-0–3s: Frost runs over the hill at full speed carrying Lily in his arms, and stops at the top. He sees the ruins below.
-DIALOGUE 1–3s: Frost (deep, shocked whisper): "No... no, no, no..."
-3–12s: They walk through the burning streets. The water tower is broken. The schoolhouse where he wrote "MOM" is half burnt. His slate lies in the ashes.
-DIALOGUE 6–9s: Lily (crying): "Martha? MARTHA! Hank! Anyone!"
-12–22s: Frost hears knocking under the collapsed church tower. He lifts the giant fallen bell tower off the cellar door with a roar. The door opens: Martha and the children climb out, covered in dust, alive.
-DIALOGUE 15–19s: Martha (crying, weak Southern voice): "I told them... I told them Frost would come."
-22–30s: The children run and hug Frost's legs. Frost kneels and wraps his arms around all of them at once, tears running into his white fur. Final frame: Frost holding the kids, the burnt town behind him.
-DIALOGUE 26–29s: Frost (deep, broken voice): "I'm sorry. I'm so sorry I wasn't here."
-SFX: running, fire crackling, wind, crying, knocking, heavy stone lifting, roar, door creaking, children sobbing.
-MUSIC: tragic strings and slow piano.
+Golden evening montage in Cedar Hollow, autumn leaves, string lights, a fiddle player on a porch.
+0–3s: A villager plays a fiddle on a porch; people start clapping along. Lily stands up and smiles.
+DIALOGUE 1–3s: Lily (soft young American woman, cheerful): "Alright, everybody, sing with me!"
+3–27s: The whole village SINGS together, clearly audible, lip-synced, upbeat country-folk, Lily leading:
+  3–10s: Lily sings: "Porch lights on and the kettle's warm, we stand together through every storm."
+  — Shots: Frost carrying three kids on his shoulders; Hank rebuilding the water tower with Frost holding it.
+  10–20s: Everyone sings: "Oh Cedar Hollow, you're my home, never gonna walk this road alone..."
+  — Shots: the whole village waving from porches; Frost lifting Martha's car out of the mud; the wolves sleeping near the sheep.
+  20–27s: Everyone sings: "...big or small, we're family, here in Cedar Hollow... home."
+  — Shots: Frost in the middle of the town square, everyone hugging him at once.
+27–30s: Everyone squeezes into one giant group hug around Frost; he laughs and hugs them back very gently. Final frame: the whole town in one big hug.
+DIALOGUE 27–30s: Frost (deep teenage voice, laughing): "Group hug! Careful, careful!"
+DIALOGUE 8-11s: Hank (deep friendly rural voice): "Cedar Hollow, make some noise for our boy!"
+DIALOGUE 15-18s: Villagers (warm crowd voices): "Frost! Frost! Frost!"
+SFX: clapping, stomping boots, laughter, crickets.
+MUSIC: upbeat American country-folk with fiddle, acoustic guitar, banjo and foot-stomp percussion under the song.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +48,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 94 | He came home... too late 💔🔥 #Bigfoot #Movie #Part94
+Part 94 | "Big or small, we're family..." 🎶🏡 The whole town sings for Frost #Bigfoot #Movie #Part94
 
 DOLA STATUS
 [ ] Images uploaded
@@ -54,5 +58,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-

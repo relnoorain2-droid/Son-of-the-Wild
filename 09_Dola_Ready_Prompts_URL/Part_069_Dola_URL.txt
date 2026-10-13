@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
 S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
-S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
 V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 069 - "Thin Ice"
-Punch: ACTION + EMOTION
+PART 069 - "Home Run"
+Punch: FUN + WOW
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,21 +21,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S05_TommyMiller_FULL.png -> Tommy Miller; S06_SarahMiller_FULL.png -> Sarah Miller; L05_River.png -> Location River.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S05_TommyMiller_FULL.png -> Tommy Miller; S03_HankMiller_FULL.png -> Hank Miller; L07_Village.png -> Location Village.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Winter, a frozen lake surrounded by snowy pines, kids sledding and ice-skating.
-0–3s: Frost pulls Tommy and Sarah on a big wooden sled at crazy speed across the snow; they scream with joy.
-DIALOGUE 1–3s: Tommy (laughing): "Faster, Frost! FASTER!"
-3–12s: Tommy slides off and skates out onto the frozen lake to show off. The ice cracks under him.
-DIALOGUE 6–8s: Sarah (scared): "Tommy, the ice!"
-DIALOGUE 8–10s: Tommy (panicked): "Frost! HELP!"
-12–22s: The ice breaks; Tommy falls into the freezing water. Frost runs onto the ice, which cracks under his weight. He lies down flat, spreading his weight, and crawls forward.
-DIALOGUE 15–18s: Kid Frost (calm but scared): "Don't panic! Grab my hand!"
-22–30s: Frost pulls Tommy out of the water with one arm and slides back to shore as the ice collapses behind them. He wraps the shivering Tommy in his warm white fur. Final frame: Tommy hugging Frost, teeth chattering.
-DIALOGUE 26–29s: Tommy (shivering, smiling): "You're... the warmest best friend... ever."
-SFX: sled on snow, laughter, ice cracking, splash into water, deep ice cracks, sliding, shivering.
-MUSIC: playful winter bells, then intense rescue strings, resolving warmly.
+Sunny afternoon, a dusty small-town baseball field in Cedar Hollow, wooden bleachers full of villagers, an American flag on a pole.
+0–3s: Kid Frost holds a wooden baseball bat that looks like a toothpick in his huge hands.
+DIALOGUE 1–3s: Hank (as umpire, deep rural voice): "Batter up!"
+3–12s: Tommy pitches. Frost swings — CRACK! The ball flies straight up into the sky and disappears into the clouds. Everyone looks up, waiting.
+DIALOGUE 7–10s: Tommy (shocked young boy): "Where... where did it go?"
+DIALOGUE 10–12s: Kid Frost (nervous): "Um... space?"
+12–22s: Quick comedic cut: the crowd still looking up, eating popcorn. Martha falls asleep. A dog lies down. The sun moves across the sky.
+DIALOGUE 17–20s: NARRATOR (deep trailer voice, deadpan): "Two hours later..."
+22–30s: The ball finally falls from the sky and lands right in Frost's hand. The crowd goes wild.
+DIALOGUE 25–30s: Hank (laughing): "I don't know if that's a home run or a moon landing!"
+Final frame: villagers lifting Frost (with a lot of effort) and cheering.
+SFX: bat crack, whistle of the ball flying away, crickets, popcorn crunching, snoring, falling whistle, catch thump, cheering crowd.
+MUSIC: classic American ballpark organ tune, then triumphant brass.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 69 | His best friend fell through the ice 😱❄️ #Bigfoot #Movie #Part69
+Part 69 | Bigfoot plays baseball... the ball came back 2 hours later ⚾😂 #Bigfoot #Movie #Part69
 
 DOLA STATUS
 [ ] Images uploaded
@@ -54,5 +55,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-
