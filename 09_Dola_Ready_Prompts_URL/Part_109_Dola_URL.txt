@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 
 FROST: Son of the Wild
-PART 109 - "By the Next Full Moon"
-Punch: TWIST + CLIFFHANGER
+PART 109 - "I Will Not Spare Him"
+Punch: WOW + ACTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,21 +21,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V12_Tommy_Adult.png -> Variant Tommy_Adult; S07_CaptainVex_FULL.png -> Captain Vex; S03_HankMiller_FULL.png -> Hank Miller.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; C05_Frost_FACE.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Morning, Cedar Hollow, villagers rebuilding burnt houses, Frost carrying huge wooden beams.
-0–3s: Frost sets a giant beam in place for a new house; villagers cheer softly. Then horses gallop in.
-DIALOGUE 1–3s: Tommy (young man, warning): "Riders! The king's men!"
-3–12s: Captain Vex rides in with ten soldiers and stops in front of the town. He unrolls a scroll with a red wax seal.
-DIALOGUE 5–15s: Captain Vex (harsh loud voice): "By order of King Magnus Thorne: Cedar Hollow will pay the king one hundred bags of gold, half of all its food... and the blonde woman."
-12–22s: Villagers gasp. Frost slowly puts down the beam and walks toward Vex. Every step shakes the ground. The soldiers' horses back away nervously.
-DIALOGUE 15–20s: Hank (deep, angry): "We don't have that kind of gold, and you will NEVER get Lily."
-22–30s: Frost stops right in front of Vex's horse, towering over him. Vex smiles, not afraid.
-DIALOGUE 24–30s: Captain Vex (cold): "By the next full moon, beast. Or we come back... with every dragon the king owns."
-Final frame: Vex riding away; Frost staring after him, blue sparks crackling in his fists; the pale daytime moon visible in the sky.
-SFX: hammering, cheering, galloping horses, scroll unrolling, gasps, heavy footsteps, horses neighing, sparks.
-MUSIC: hopeful rebuilding music cut into a dark villain theme, ending on a huge cliffhanger hit.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Night, outside the cabin, at the edge of the forest. A storm is gathering above.
+0–3s: Frost walks out of the cabin and punches a huge boulder; it explodes into pieces.
+DIALOGUE 1–3s: Frost (deep, roaring with rage): "HE KILLED MY FATHER!"
+3–12s: His eyes glow electric blue. Blue lightning crackles across his whole body. The clouds above swirl and thunder answers him. Trees bend in the wind.
+DIALOGUE 6–11s: Frost (thunderous voice): "He hurt my mother! He burned my home! He killed my friends!"
+12–22s: He rips a dead pine tree out of the ground and throws it into the forest. Lightning strikes the ground around him three times.
+DIALOGUE 15–20s: Frost (roaring to the sky): "I WILL NOT SPARE HIM! Do you hear me, Magnus? I'M COMING FOR YOU!"
+22–30s: He falls to his knees in the mud, breathing hard, blue sparks fading, rain starting to fall. Lily runs out into the storm. Final frame: Frost kneeling, fists in the mud, lightning above.
+DIALOGUE 27–29s: Lily (screaming): "FROST! STOP!"
+SFX: boulder explosion, electric crackling, thunder, wind howling, tree ripping out, lightning strikes, rain.
+MUSIC: powerful dark epic choir and drums, building to a peak.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 109 | "By the next full moon... or we come back with every dragon." 🌕🐉 PART 100! #Bigfoot #Movie #Part109
+Part 109 | "I WILL NOT SPARE HIM!" ⚡😡 Frost's rage shook the sky #Bigfoot #Movie #Part109
 
 DOLA STATUS
 [ ] Images uploaded

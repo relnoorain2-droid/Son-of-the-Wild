@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+C04_Bruno_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FACE.png
 C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 014 - "The Cave Behind the Waterfall"
-Punch: EMOTION
+PART 014 - "He Can Talk?!"
+Punch: FUN + TWIST
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,24 +22,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; L04_BrunoCave.png -> Location BrunoCave.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; C04_Bruno_FACE.png -> Bruno; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-A cozy cave hidden behind a waterfall, moss, wildflowers, a crackling campfire, moonlight shining through the falling water.
-0–3s: Bruno walks through the curtain of water carrying a soaked, shivering Lily, and the hidden cave is revealed, glowing warm orange.
-DIALOGUE 1–3s: Lily (soft amazed whisper): "Wow... you live here?"
-3–14s: Bruno gently sets her down by the fire, crushes green leaves in his huge palm and carefully presses them on her cut foot. She winces, then smiles.
-DIALOGUE 5–8s: Bruno (deep slow warm voice): "Forest medicine. Stop the pain."
-DIALOGUE 9–15s: Lily (soft, emotional): "Nobody has ever been this kind to me. Not even the prince I married this morning."
-14–22s: Bruno wraps a big soft bearskin blanket around her shoulders. They sit by the fire; she looks at his huge hand next to her small one.
-DIALOGUE 16–19s: Lily: "Why did you save me, Bruno?"
-DIALOGUE 19–23s: Bruno (looking at the fire): "Forest is cruel. Bruno... does not have to be."
-22–30s: Bruno stands up and looks out through the waterfall.
-DIALOGUE 24–28s: Bruno (gentle but firm): "Tomorrow, Bruno take you home. Back to your people."
-Final frame: Lily's smile disappears; fear fills her eyes.
-SFX: waterfall roar muffling as they enter, fire crackle, leaves crushing, small wince, wind.
-MUSIC: warm gentle acoustic guitar and soft strings, ending on a worried note.
+Night forest clearing, moonlight, fireflies.
+0–3s: Bruno tilts his head like a curious dog, sniffs Lily's hair, and sneezes loudly. Lily screams and covers her face.
+DIALOGUE 1–3s: Lily (soft young American woman, scared): "Ahh! Don't!"
+3–12s: Bruno gently picks a leaf out of her hair and holds it out to her like a gift. Lily slowly lowers her hands, confused.
+DIALOGUE 5–9s: Bruno (very deep slow warm gravelly voice, simple words): "Don't be afraid. Bruno... not hurt you."
+12–20s: Lily's jaw drops. She points at him, then at herself.
+DIALOGUE 12–15s: Lily (shocked, half laughing): "You... you can TALK?"
+DIALOGUE 15–18s: Bruno (proud, nodding): "Bruno talk. Bruno also... sing. Badly."
+DIALOGUE 18–20s: Lily laughs through her tears.
+20–30s: She tries to stand but cries out in pain, her foot cut and bleeding a little. Bruno immediately scoops her up in his arms like a feather. In the distance, wolves howl again — many of them, closer. Bruno turns his head toward the sound, serious. Final frame: dozens of glowing eyes appearing between the trees.
+DIALOGUE 26–29s: Bruno (low, serious): "They come back. Hold on."
+SFX: sniffing, loud comical sneeze, scream, leaf rustle, Lily's laugh, pain gasp, wolves howling closer, branches cracking.
+MUSIC: light playful woodwinds for the comedy, turning into tense drums at the end.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -47,7 +47,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 14 | He saved her, healed her... then said "Tomorrow I take you home" 💔 #Bigfoot #Movie #Part14
+Part 14 | She thought he was a monster... then he said "Bruno also sing. Badly" 😂 #Bigfoot #Movie #Part14
 
 DOLA STATUS
 [ ] Images uploaded

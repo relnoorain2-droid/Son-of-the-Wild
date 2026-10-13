@@ -1,10 +1,10 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
 V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
-V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
 
 FROST: Son of the Wild
-PART 047 - "Like Bruno Taught Me"
+PART 047 - "Alive"
 Punch: FUN + EMOTION
 Status:-assets
 
@@ -20,21 +20,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; V09_Bruno_Spirit.png -> Variant Bruno_Spirit; L05_River.png -> Location River.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; L05_River.png -> Location River; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Daytime, standing in the shallow river near the cabin, sunlight on the water.
-0–3s: Lily tries to grab a salmon with her bare hands, slips and falls on her bottom with a splash.
-DIALOGUE 1–3s: Lily (frustrated): "Oh, come ON!"
-3–12s: She tries again and again; the fish slip through her hands. A fish slaps her face. She laughs and almost cries.
-DIALOGUE 6–10s: Lily (to herself): "How did you make it look so easy, Bruno?"
-12–22s: She closes her eyes. Soft memory flashback in warm golden light: Bruno standing in the river behind her, gently guiding her hands. A faint glowing outline of Bruno appears beside her.
-DIALOGUE 14–18s: Bruno (memory voice, very deep slow warm gravelly, echoing softly): "Be still. Like the river. Fish come to you."
-22–30s: Lily stays very still, hands in the water... and suddenly catches a big salmon. She holds it up, shocked and happy. Final frame: Lily laughing and crying, looking up at the sky.
-DIALOGUE 25–28s: Lily (happy tears): "I did it! Bruno, I did it!"
-SFX: splashes, slipping, fish slap, laughter, gentle magical chime for the memory, water flowing, big catch splash.
-MUSIC: playful plucky strings, then the soft love theme from earlier parts.
+Early morning, a calm river bank covered in mist, pine forest, soft golden light.
+0–3s: Close-up of Lily (pregnant, around 6 months, blonde, blue eyes) lying unconscious on the pebbles. A big moose lowers its head and licks her face. Her eyes snap open.
+DIALOGUE 1–3s: Lily (soft young American woman, startled): "Ahh! What—?!"
+3–10s: The moose snorts at her, unimpressed, and slowly walks away. Lily sits up, confused, wet and shivering, then laughs weakly.
+DIALOGUE 5–8s: Lily (breathless laugh): "Okay... okay, I'm alive. Thank you, Mr. Moose."
+10–22s: She remembers. Her smile disappears. She looks back at the river and the distant smoke on the horizon.
+DIALOGUE 12–16s: Lily (whispering, breaking down): "Bruno... you said we'd go together."
+DIALOGUE 17–21s: She puts both hands on her belly, crying: "It's just you and me now, little one."
+22–30s: She feels a kick, gasps, and smiles through her tears. Final frame: Lily standing up slowly on the riverbank, looking downstream where a thin line of chimney smoke rises over the trees.
+DIALOGUE 25–28s: Lily (soft, determined): "Then we keep going. For your papa."
+SFX: calm river, birds, moose snort and heavy footsteps, crying, a soft heartbeat, wind.
+MUSIC: soft sad piano, turning hopeful at the end.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 47 | She couldn't catch a fish... until she heard his voice 🥹🐟 #Bigfoot #Movie #Part47
+Part 47 | She woke up to a moose licking her face 😅🫎 ...then she remembered everything 💔 #Bigfoot #Movie #Part47
 
 DOLA STATUS
 [ ] Images uploaded

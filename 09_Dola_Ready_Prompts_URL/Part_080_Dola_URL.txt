@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
-L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
 V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 080 - "The Cave Behind the Waterfall"
-Punch: TWIST + EMOTION
-Status:-assets
+PART 080 - "Trick or Treat"
+Punch: FUN
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,20 +21,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; L04_BrunoCave.png -> Location BrunoCave; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S05_TommyMiller_FULL.png -> Tommy Miller; S06_SarahMiller_FULL.png -> Sarah Miller; L07_Village.png -> Location Village.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Daytime, deep inside the redwood forest, far from the village.
-0–3s: Kid Frost chases a white deer through the forest, laughing, then stops: he hears a huge waterfall.
-DIALOGUE 1–4s: Kid Frost (young boy voice, curious): "Whoa... I've never been this far."
-3–12s: He walks through the curtain of water and discovers a hidden cave: an old moss-covered bed of leaves, a burnt-out fire pit, and a broken wooden cradle that looks lopsided.
-DIALOGUE 6–9s: Kid Frost (whispering): "Someone lived here... someone big."
-12–22s: On the cave wall he finds a huge handprint pressed into dried clay. He slowly places his own hand inside it. It's much bigger than his, but the shape is exactly the same.
-DIALOGUE 15–18s: Kid Frost (shocked whisper): "Same hand... same as mine."
-22–30s: Next to it, an old carving scratched into the stone: a big Bigfoot, a small woman, and a tiny circle between them, like a family. Frost touches it, his eyes filling with tears without knowing why. Final frame: the carved family on the wall, lit by sunlight through the waterfall.
-DIALOGUE 26–29s: Kid Frost (soft, trembling): "Who are you?"
-SFX: running, deer hooves, waterfall roar, water dripping in the cave, soft echoes, a gentle magical hum.
-MUSIC: mysterious soft strings, then Bruno's love theme very softly.
+Halloween night in Cedar Hollow, carved pumpkins glowing on porches, orange string lights, kids in costumes.
+0–3s: Kid Frost walks down the street wearing a white bedsheet ghost costume that only covers his head and shoulders; his whole furry body sticks out underneath.
+DIALOGUE 1–3s: Kid Frost (cheerful young boy voice, proud): "Boooo! I'm a ghost!"
+3–12s: Tommy (dressed as a cowboy) and Sarah (dressed as a witch) walk beside him trying not to laugh.
+DIALOGUE 5–9s: Tommy (young boy, laughing): "Frost, you look like a ghost that ate a bear."
+DIALOGUE 9–11s: Sarah (small cute girl voice): "A big, fluffy ghost!"
+12–22s: They knock on a door. A visiting tourist couple from the city opens it, looks at Frost and gasps.
+DIALOGUE 14–19s: Tourist man (amazed American voice): "Honey, look at this costume! That's the most realistic Bigfoot costume I've ever seen!"
+DIALOGUE 19–21s: Kid Frost (confused): "...Thank you?"
+22–30s: The tourists give Frost the entire candy bowl. Frost walks away happily hugging the giant bowl while the other kids stare in jealousy. Final frame: Frost winking at the camera from under his tiny ghost sheet.
+DIALOGUE 26–29s: Kid Frost (whispering, grinning): "Best... costume... ever."
+SFX: spooky wind, door knock, doorbell, gasp, candy rattling, kids laughing, an owl hoot.
+MUSIC: playful spooky Halloween tune with xylophone and pizzicato strings.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -42,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 80 | He found a secret cave... with a handprint exactly like his 😳🖐️ #Bigfoot #Movie #Part80
+Part 80 | "That's the most realistic Bigfoot costume I've ever seen!" 👻😂 #Bigfoot #Movie #Part80
 
 DOLA STATUS
 [ ] Images uploaded

@@ -1,14 +1,14 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
-C04_Bruno_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FACE.png
-C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
+K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
 L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 012 - "He Can Talk?!"
-Punch: FUN + TWIST
-Status: ready - URL PACKAGE
+PART 012 - "Face to Face with a Grizzly"
+Punch: ACTION + CLIFFHANGER
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -22,23 +22,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; C04_Bruno_FACE.png -> Bruno; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; K09_Wolves.png -> Creature Wolves; K08_GrizzlyBear.png -> Creature GrizzlyBear; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night forest clearing, moonlight, fireflies.
-0–3s: Bruno tilts his head like a curious dog, sniffs Lily's hair, and sneezes loudly. Lily screams and covers her face.
-DIALOGUE 1–3s: Lily (soft young American woman, scared): "Ahh! Don't!"
-3–12s: Bruno gently picks a leaf out of her hair and holds it out to her like a gift. Lily slowly lowers her hands, confused.
-DIALOGUE 5–9s: Bruno (very deep slow warm gravelly voice, simple words): "Don't be afraid. Bruno... not hurt you."
-12–20s: Lily's jaw drops. She points at him, then at herself.
-DIALOGUE 12–15s: Lily (shocked, half laughing): "You... you can TALK?"
-DIALOGUE 15–18s: Bruno (proud, nodding): "Bruno talk. Bruno also... sing. Badly."
-DIALOGUE 18–20s: Lily laughs through her tears.
-20–30s: She tries to stand but cries out in pain, her foot cut and bleeding a little. Bruno immediately scoops her up in his arms like a feather. In the distance, wolves howl again — many of them, closer. Bruno turns his head toward the sound, serious. Final frame: dozens of glowing eyes appearing between the trees.
-DIALOGUE 26–29s: Bruno (low, serious): "They come back. Hold on."
-SFX: sniffing, loud comical sneeze, scream, leaf rustle, Lily's laugh, pain gasp, wolves howling closer, branches cracking.
-MUSIC: light playful woodwinds for the comedy, turning into tense drums at the end.
+Night, giant misty redwood forest, cold moonlight.
+0–3s: Lily (now in the torn, muddy short version of her dress, barefoot) runs between giant trees, wolves howling close behind.
+DIALOGUE 1–3s: Lily (terrified, out of breath): "Please, please, please..."
+3–12s: Wolves chase her; she climbs over a fallen redwood trunk and slides down a muddy slope into a creek, splashing.
+DIALOGUE 7–11s: NARRATOR (deep cinematic trailer voice): "No bride had ever survived a single night in this forest."
+12–20s: She hides inside a hollow tree, hand over her mouth. The wolves run past... then suddenly stop, whimper and run away in fear.
+DIALOGUE 16–18s: Lily (whispering, confused): "Why did they run away?"
+20–30s: A deep growl behind her. She slowly turns. A huge grizzly bear rises on its hind legs right in front of the hollow tree, roaring in her face, saliva flying. Lily screams and falls back. Final frame: the bear's giant claw swinging down toward her in slow motion... cut to black.
+DIALOGUE 27–29s: Lily (screaming): "NO!"
+SFX: running, wolves howling, mud slide, water splash, heavy breathing, wolves whimpering, deep bear growl, massive roar, scream.
+MUSIC: chase drums, sudden silence at 12s with only heartbeat, then a huge horror hit with the roar.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -47,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 12 | She thought he was a monster... then he said "Bruno also sing. Badly" 😂 #Bigfoot #Movie #Part12
+Part 12 | The wolves ran away... because something worse was coming 🐻😱 Part 13 tomorrow! #Bigfoot #Movie #Part12
 
 DOLA STATUS
 [ ] Images uploaded

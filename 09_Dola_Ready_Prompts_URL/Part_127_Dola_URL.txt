@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+C06_ElderOrin_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C06_ElderOrin/C06_ElderOrin_FULL.png
 S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 
 FROST: Son of the Wild
-PART 127 - "Trial 1: The Bear Rock"
-Punch: WOW + FUN
+PART 127 - "The Legend of Orin"
+Punch: TWIST + WOW
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,21 +21,24 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V12_Tommy_Adult.png -> Variant Tommy_Adult; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C06_ElderOrin_FULL.png -> Elder Orin; C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Morning, a high mountain meadow above the forest. In the middle stands a gigantic grey boulder, as big as a house, shaped a little like a sleeping bear. A giant old Bigfoot handprint is carved into its side.
-0–3s: Frost, Old Joe and Tommy walk out of the trees and stop. Frost looks up at the boulder.
-DIALOGUE 1–4s: Frost (deep voice, swallowing): "That's... a mountain, not a rock."
-3–12s: Old Joe points at a cliff edge about fifty yards away.
-DIALOGUE 5–10s: Old Joe (slow raspy voice): "Push the Bear Rock to the edge. That's it. That's the first trial."
-DIALOGUE 10–14s: Tommy (young man, grinning): "Easy. Ten bucks says he does it in five minutes."
-12–22s: Frost puts both hands on the rock, plants his feet, and pushes with a huge roar. His muscles bulge, the ground under his feet cracks... the rock doesn't move even a little.
-22–30s: He tries again, roaring louder. He slips and falls flat on his face in the grass. Silence. A small bird lands on his head.
-DIALOGUE 26–29s: Tommy (handing money to Old Joe, sighing): "...Okay. Double or nothing on tomorrow."
-Final frame: Frost lying face down, the giant rock not moved at all.
-SFX: wind on the mountain, footsteps, a massive straining roar, ground cracking, a slip, a body thud, bird chirping, money rustling.
-MUSIC: epic music that builds and then deflates comically.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Night inside the cabin, fireplace light. Old Joe tells a legend.
+0–3s: Old Joe turns to Lily.
+DIALOGUE 1–4s: Old Joe (slow raspy voice): "Lily. Did Bruno ever speak of his father?"
+DIALOGUE 4–9s: Lily (thinking, soft): "Only once... he said his father's name was... Orin."
+8–24s: Legend flashback in a glowing blue, painterly cinematic style, with Old Joe's voice-over:
+  8–14s: Elder Orin, an ancient grey Bigfoot sorcerer with glowing blue tattoos, standing on a mountain, calling down lightning with a wooden staff topped with a shining BLUE crystal.
+  DIALOGUE 9–16s: Old Joe (voice-over): "Elder Orin was the greatest sorcerer of the forest giants. Storms obeyed him. Animals bowed to him."
+  14–24s: A young Magnus Thorne sneaking into Orin's cave at night and stealing the crystal; the crystal turning from blue to blood-red in his hand.
+  DIALOGUE 16–23s: Old Joe (voice-over): "A greedy young man stole his crystal. In evil hands, the blue turned red. That man... was Magnus Thorne."
+24–30s: Back in the cabin. Frost sits up, shocked.
+DIALOGUE 26–29s: Frost (deep, stunned): "The king's crystal... belongs to my GRANDFATHER?"
+Final frame: Frost's eyes flickering blue in the firelight.
+SFX: fireplace, a soft echo for the legend, thunder, a magical hum, crystal ringing, a dark sound when it turns red.
+MUSIC: mystical, ancient-sounding orchestral theme with a deep choir.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +47,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 127 | Trial 1: move the Bear Rock... it didn't move even an inch 😂🪨 #Bigfoot #Movie #Part127
+Part 127 | The king's red crystal was STOLEN from Frost's grandfather 😱🔮 #Bigfoot #Movie #Part127
 
 DOLA STATUS
 [ ] Images uploaded

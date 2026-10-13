@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
+L08_Battlefield.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
 
 FROST: Son of the Wild
-PART 118 - "The Frying Pan"
-Punch: FUN + ACTION
+PART 118 - "Frost vs the Dark Bigfoots"
+Punch: ACTION + WOW
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,23 +21,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V10_Damian_Battle.png -> Variant Damian_Battle; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S02_MarthaHayes_FULL.png -> Martha Hayes; S03_HankMiller_FULL.png -> Hank Miller.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K01_DarkBigfoot.png -> Creature DarkBigfoot; L08_Battlefield.png -> Location Battlefield.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, inside the log wall, a burning corner of Cedar Hollow.
-0–3s: Prince Damian sneaks over a broken part of the wall while Frost is busy fighting outside. He grabs Lily by the arm.
-DIALOGUE 1–4s: Prince Damian (smooth, cruel): "You're coming home with me, wife."
-3–12s: Lily struggles. Hank runs at Damian; Damian knocks the shotgun away with his sword and kicks Hank down.
-DIALOGUE 6–9s: Lily (fighting): "Let go of me, Damian!"
-DIALOGUE 9–12s: Prince Damian (laughing): "Nobody can save you this time."
-12–22s: Behind Damian, Martha walks up calmly, holding her sharpened cast-iron frying pan with both hands.
-DIALOGUE 15–17s: Martha (sweet Southern voice): "Excuse me, young man?"
-DIALOGUE 17–18s: Prince Damian (turning around): "What?"
-22–30s: BONK! Martha hits him on the head with the frying pan. Damian spins once, cross-eyed, exactly like on his wedding night years ago, and falls flat on his face in the mud. Lily stares at Martha, then laughs. Final frame: Martha blowing on the frying pan like a cowboy blowing on a gun.
-DIALOGUE 26–29s: Martha (proud): "Told you I could sharpen it."
-SFX: footsteps, struggle, sword clang, shotgun clatter, kick, a loud comedic metal "BONK", body flop into mud, laughter.
-MUSIC: tense music, then a comedic hit and a short victorious Western whistle.
+Night battlefield in front of the log wall, full moon, fire and smoke.
+0–3s: Six dark Bigfoots with glowing red eyes surround Frost in a circle, growling.
+DIALOGUE 1–3s: Frost (deep powerful voice, calm): "Six? Only six?"
+3–14s: Fast, epic choreography: Frost catches the first punch, flips the attacker over his shoulder into the second; he ducks, spins, and slams two more together; blue lightning sparks with every hit.
+DIALOGUE 7–9s: Frost (fighting, roaring): "This is for my father!"
+14–22s: The last two jump on his back. He roars, his whole body flashes with blue lightning, and they are thrown off, landing far away and running into the forest whimpering.
+DIALOGUE 17–19s: Lily (on the wall, shouting): "That's my boy!"
+22–30s: Frost stands in the middle of the circle of defeated dark Bigfoots, steam rising from his white fur in the moonlight. The soldiers start backing away. Final frame: low-angle hero shot of Frost and the full moon.
+DIALOGUE 26–29s: Frost (deep, to the soldiers): "Who's next?"
+SFX: growls, heavy punches, body slams, electric crackles, roars, a big electric blast, whimpering, soldiers' armor clanking backwards.
+MUSIC: heroic action score with massive drums and brass.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -46,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 118 | Years later... the prince got hit AGAIN 🍳😂 #Bigfoot #Movie #Part118
+Part 118 | Six of the king's Bigfoots vs Frost ⚡💪 "Only six?" #Bigfoot #Movie #Part118
 
 DOLA STATUS
 [ ] Images uploaded

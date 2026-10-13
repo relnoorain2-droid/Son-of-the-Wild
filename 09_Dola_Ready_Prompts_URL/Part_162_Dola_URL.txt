@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L08_Battlefield.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 162 - "Grandma's Revenge"
-Punch: FUN + ACTION
-Status: ready - URL PACKAGE
+PART 162 - "MAGNUS!"
+Punch: WOW + CLIFFHANGER
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,22 +21,20 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: S02_MarthaHayes_FULL.png -> Martha Hayes; S03_HankMiller_FULL.png -> Hank Miller; S10_Villagers.png -> optional background group, skip unless you want crowd continuity; L08_Battlefield.png -> Location Battlefield.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; V10_Damian_Battle.png -> Variant Damian_Battle; L02_KingCastle.png -> Location KingCastle.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-The battlefield in front of Thorne Castle, soldiers in black helmets fighting villagers.
-0–3s: A line of the king's soldiers marches forward with shields. In front of them stands a line of grandmothers with frying pans.
-DIALOGUE 1–3s: Soldier (laughing): "Grandmas? They sent GRANDMAS?"
-3–12s: Martha smiles sweetly.
-DIALOGUE 4–6s: Martha (warm Southern voice): "Frying Pan Brigade... SWING!"
-The grandmothers swing their cast-iron pans: BONK! BONK! BONK! Soldiers spin around cross-eyed and fall over like dominoes, comedy style, no injuries shown.
-12–22s: Hank and the Pine Ridge sheriff fight back-to-back with rifles (firing into the air to scare horses) and lassos, roping soldiers like cattle.
-DIALOGUE 15–18s: Sheriff (Southern voice): "Hank, how many you got?"
-DIALOGUE 18–20s: Hank (deep rural voice): "Lost count at twelve!"
-22–30s: A huge soldier with a giant axe stands over Martha. She looks up, then calmly hits his toe with the pan. He hops around screaming, holding his foot, and falls into a mud puddle. Final frame: Martha blowing on her frying pan like a cowboy.
-DIALOGUE 27–30s: Martha (proud): "Never underestimate a Southern grandma, honey."
-SFX: marching, laughter, multiple comedic metal BONKs, bodies flopping, lasso whoosh, rifle shots in the air, a toe bonk, screaming, a mud splash.
-MUSIC: fun Western action theme with comedic stings on each bonk.
+Dawn, the open valley in front of Thorne Castle: the dark stone castle with red banners, dragons sleeping on its towers, war mammoths at the gate.
+0–3s: The army appears over the hill: thousands of people and animals in the morning fog, Frost glowing at the front.
+DIALOGUE 1–4s: Soldier on the castle wall (panicked): "Wake the king! WAKE THE KING!"
+3–12s: Alarm bells ring. On the highest balcony, King Magnus steps out, old but powerful, in black iron armor, holding his staff with the glowing red crystal. Prince Damian stands beside him, with the frying pan bruise still on his forehead.
+DIALOGUE 7–11s: King Magnus (deep, cold, booming): "So... the beast's son comes to die where his father did."
+12–22s: Frost flies up and lands on a rock in front of the whole army, face to face with the castle.
+DIALOGUE 15–22s: Frost (deep, thunderous, echoing through the valley): "MAGNUS! I am Frost, son of Bruno, grandson of Orin! I've come for my grandfather's crystal... and for you!"
+22–30s: King Magnus smiles and raises his staff; the red crystal flashes. On every tower, dragons open their glowing red eyes and roar. The mammoths stamp. The gates begin to open. Final frame: the gate opening, red eyes everywhere, Frost's blue eyes facing them.
+DIALOGUE 27–29s: King Magnus (shouting): "Then come and take it!"
+SFX: fog, thousands of footsteps, alarm bells, armor, a landing boom, echoing voices, a crystal flash, dozens of dragon roars, mammoth stamping, gate chains grinding.
+MUSIC: massive epic standoff theme, building to an explosive cliffhanger hit.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +43,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 162 | "They sent GRANDMAS?" ...and then the frying pans came out 🍳😂 #Bigfoot #Movie #Part162
+Part 162 | "I've come for my grandfather's crystal... and for YOU!" ⚡👑 The final battle begins! #Bigfoot #Movie #Part162
 
 DOLA STATUS
 [ ] Images uploaded

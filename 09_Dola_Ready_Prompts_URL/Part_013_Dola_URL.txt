@@ -1,13 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
 C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
-K10_MountainLion.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K10_MountainLion/K10_MountainLion.png
+K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 013 - "Hold On!"
-Punch: ACTION
+PART 013 - "The Shadow Arrives"
+Punch: WOW + ACTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -22,22 +22,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; K09_Wolves.png -> Creature Wolves; K10_MountainLion.png -> Creature MountainLion.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; K08_GrizzlyBear.png -> Creature GrizzlyBear; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, misty redwood forest.
-0–3s: A mountain lion leaps from a tree branch straight at Bruno, who is carrying Lily in one arm. He swats it away mid-air with his free hand.
-DIALOGUE 1–3s: Lily (screaming): "Bruno, above you!"
-3–14s: Bruno runs through the forest with Lily on his shoulder, wolves chasing from both sides. He jumps over a fallen giant redwood trunk; a wolf bites his leg, he kicks it into the ferns.
-DIALOGUE 6–9s: Bruno (deep gravelly voice, strained): "These... not normal wolves. King's wolves."
-DIALOGUE 9–11s: Lily (scared): "They're hunting me!"
-14–22s: Bruno stops at the edge of a cliff above a waterfall. The wolves and the mountain lion surround them, snarling. No way out.
-DIALOGUE 17–19s: Bruno (calm, deep): "You trust Bruno?"
-DIALOGUE 19–21s: Lily (shaking): "...Yes!"
-22–30s: Bruno hugs Lily tight and jumps off the cliff into the waterfall in slow motion; the moon behind them. The wolves stop at the edge, howling. Final frame: a huge splash in the dark pool below.
-SFX: mountain lion screech, heavy swat impact, running footsteps, wolf snarls and bites, kick thud, waterfall roar, wind rush, giant splash.
-MUSIC: fast action orchestra and drums, swelling to an epic choir during the jump.
+Night, giant misty redwood forest, moonlight.
+0–3s: Slow motion: the grizzly bear's giant claw swings down at Lily (torn muddy dress, blonde, blue eyes) — and a huge black furry hand catches the bear's arm in mid-air. Lily's eyes go wide.
+DIALOGUE 1–4s: NARRATOR (deep cinematic American trailer voice): "She thought it was the end..."
+3–12s: Reveal Bruno: a 9-foot gentle black Bigfoot with a small white crescent patch on his chest, amber eyes. He pushes the bear back. The bear roars and charges again; Bruno grabs it and throws it against a tree, bark exploding.
+DIALOGUE 7–9s: Bruno (very deep slow warm gravelly voice, firm): "Go away. Leave her!"
+12–22s: The bear swipes; Bruno ducks, then lets out a massive chest-pounding roar that shakes leaves from the trees. The bear backs off, scared, and runs into the darkness.
+22–30s: Silence. Bruno slowly turns toward Lily. She crawls backward, shaking. He kneels down to her eye level, calm. Final frame: close-up of his gentle amber eyes, and Lily's terrified face reflected in them.
+DIALOGUE 25–28s: Lily (soft young American woman, trembling whisper): "Please... don't eat me."
+DIALOGUE 14-16s: Lily (shaking, whispering): "Who... who are you?"
+DIALOGUE 18-21s: Bruno (very deep gentle voice): "Bruno. Forest friend."
+SFX: claw whoosh, heavy grab impact, bear roars, tree crack, bark splinters, giant chest pounding, Bigfoot roar, leaves falling, bear running away, heavy breathing.
+MUSIC: huge heroic brass hit at the reveal, epic fight drums, then soft mysterious strings at the end.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -46,7 +46,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 13 | Trapped on a cliff by the king's wolves... Bruno had only one choice 🌊 #Bigfoot #Movie #Part13
+Part 13 | The bear attacked... then a giant black hand caught it 😮👣 #Bigfoot #Movie #Part13
 
 DOLA STATUS
 [ ] Images uploaded

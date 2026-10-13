@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+K03_SmallDragons.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K03_SmallDragons/K03_SmallDragons.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
 
 FROST: Son of the Wild
-PART 119 - "The Red Chains"
-Punch: ACTION + TWIST
+PART 119 - "Dragon Catcher"
+Punch: WOW + ACTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,23 +21,20 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S07_CaptainVex_FULL.png -> Captain Vex; K02_RedDragon.png -> Creature RedDragon.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V12_Tommy_Adult.png -> Variant Tommy_Adult; K03_SmallDragons.png -> Creature SmallDragons; L07_Village.png -> Location Village.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night battlefield near a cliff above the waterfall outside Cedar Hollow, full moon, smoke.
-0–3s: A giant shadow covers the moon. The huge red dragon lands in front of Frost, Captain Vex riding on its back.
-DIALOGUE 1–4s: Captain Vex (harsh voice, smiling): "The king sent you a gift, beast."
-3–12s: Vex throws glowing red magical chains made from the king's crystal. They wrap around Frost's arms and neck; Frost's blue lightning flickers and dies.
-DIALOGUE 6–9s: Frost (deep, straining, shocked): "My power... it's gone!"
-DIALOGUE 9–12s: Captain Vex (laughing): "Magic chains for a magic beast."
-12–22s: The red dragon breathes fire around Frost; he can't break the chains. Soldiers pull the chains, dragging him to his knees toward the cliff edge. Lily screams from the wall.
-DIALOGUE 16–19s: Lily (screaming): "FROST! NO!"
-22–30s: Frost looks at his mother, closes his eyes, and whispers his father's words. A tiny blue spark returns in his chest.
-DIALOGUE 25–29s: Frost (deep whisper): "Strong hands... gentle heart."
-Final frame: the red chains starting to crack with blue light.
-SFX: giant wing beats, dragon landing, chains whipping, magical red hum, electric power dying, fire roar, soldiers grunting, a single crack of breaking magic.
-MUSIC: dark, desperate orchestra, then a quiet hopeful note.
+Night, the sky above Cedar Hollow, full moon, smoke.
+0–3s: Three smaller dragons dive at the village and breathe fire on the log wall.
+DIALOGUE 1–3s: Villager (shouting): "Dragons! The wall's on fire!"
+3–12s: Frost crouches, then jumps an incredible height into the air — higher than the trees — and grabs a dragon by the tail in mid-air.
+DIALOGUE 6–8s: Frost (deep, shouting): "Get away from my home!"
+12–22s: He spins the dragon around and throws it into a second dragon; they tumble out of the sky and crash into the forest. He lands on the back of the third dragon and rides it like a bucking horse.
+DIALOGUE 16–19s: Tommy (on the wall, amazed): "He's RIDING it! He's riding a dragon!"
+22–30s: Frost steers the dragon down into the river; it crashes into the water with a giant splash and flies away, wet and scared. Frost lands on his feet in the shallow water. Final frame: Frost in the river, fire behind him, the full moon above.
+DIALOGUE 26–29s: Frost (deep, smiling, shaking water off): "Like father, like son."
+SFX: dragon dives, fire whoosh, a massive jump whoosh, tail grab, dragon screeches, a mid-air crash, trees breaking, bucking wings, a giant splash.
+MUSIC: epic adventure orchestra with a heroic choir.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -46,7 +43,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 119 | Magic red chains took away Frost's power... 😱⛓️ #Bigfoot #Movie #Part119
+Part 119 | He jumped into the sky and caught a DRAGON by the tail 🐉😱 #Bigfoot #Movie #Part119
 
 DOLA STATUS
 [ ] Images uploaded

@@ -1,12 +1,14 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
 C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
-V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
+S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S09_Brides/S09_Brides_FULL.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
 
 FROST: Son of the Wild
-PART 006 - "I Do"
-Punch: EMOTION + TWIST
-Status: canon-safe opening version
+PART 006 - "The Monthly Bride"
+Punch: TWIST
+Status: ready - CANON SAFE DOLA VERSION
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,24 +22,40 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep Lily, Damian, and King Magnus exactly identical to the attached reference images. Lily is 22, young, innocent, beautiful, blue eyes, honey-blonde hair.
+CHARACTER LOCK: Keep every character's face, body, hair, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: C01_Lily_FULL.png -> Lily Carter; C02_KingMagnus_FULL.png -> King Magnus; C03_PrinceDamian_FULL.png -> Prince Damian; S09_Brides_FULL.png -> background adult candidates only; S11_Rose_FULL.png -> Rose.
+LILY LOOK LOCK: Lily is a 22-year-old poor American woman, young, innocent, beautiful, soft fair face, big blue eyes, honey-blonde hair.
 
-Scene: A grand Western royal wedding hall inside the dark forest castle, candles, red banners, stone arches, royal guests, no Asian elements.
-0-3s: Lily stands at the altar in a white wedding gown, trying to stay calm. Prince Damian smiles beside her. King Magnus watches from a raised throne.
-DIALOGUE 1-4s: NARRATOR (deep cinematic American trailer voice): "Lily had one day to find the truth."
-3-12s: The old priest opens a black ceremony book. Damian offers Lily his hand with a polished, charming smile. Lily remembers Rose's warning and hesitates.
-DIALOGUE 5-8s: Prince Damian (smooth charming voice): "Do you accept the house of Thorne?"
-DIALOGUE 9-11s: Lily (soft, nervous): "...I do."
-12-20s: The hall applauds. Damian slides a silver ring on Lily's finger. Lily notices Rose watching from the back, silently shaking her head.
-DIALOGUE 14-18s: Rose (whispering from the crowd): "Not the forest... please remember."
-20-26s: King Magnus raises his staff and the red crystal glows. His smile is cold and unreadable.
-DIALOGUE 21-25s: King Magnus (deep commanding voice): "Tonight, the old tradition continues."
-26-30s: Lily looks from Rose to the dark forest visible through the stained-glass window. Final frame: Lily's frightened blue eyes.
-SFX: soft crowd murmur, ceremony book opening, ring sound, staff tap, crystal hum.
-MUSIC: solemn wedding strings shifting into dark suspense.
+Scene: A giant candle-lit Western dark-fantasy throne hall hidden in a Pacific Northwest forest, red banners, stone pillars, warm torchlight, royal guards in the background. Grace is not in the castle; Lily stands alone.
+0-3s: King Magnus taps his staff on the stone floor. The hall falls silent.
+DIALOGUE 1-3s: King Magnus (deep rough commanding American voice): "The monthly royal tradition begins."
+3-10s: Lily, poor and nervous in a simple light-blue dress, stands with several nervous adult candidates. Prince Damian enters in a black velvet royal coat, smiling like he already knows the ending.
+DIALOGUE 5-9s: NARRATOR (deep cinematic American trailer voice): "Every month, the prince chose one bride... and the kingdom never asked where the last one went."
+10-18s: Prince Damian walks past the candidates, bored, then stops when Lily bravely lifts her eyes instead of looking down.
+DIALOGUE 12-15s: Prince Damian (smooth arrogant voice): "You. What is your name?"
+DIALOGUE 15-17s: Lily (soft but brave): "Lily Carter."
+18-24s: Damian turns to the king with a cold smirk and gestures toward Lily, without touching her.
+DIALOGUE 19-22s: Prince Damian: "Father... I choose Lily."
+24-30s: King Magnus smiles mysteriously. Behind a stone column, Rose watches Lily with fear, as if she knows the forest secret. Final frame: Rose's worried eyes looking at Lily.
+DIALOGUE 25-29s: Rose (old nervous whisper): "Poor child... she does not know about the forest."
+SFX: staff tap echo, torch crackle, quiet crowd murmur, soft footsteps on stone.
+MUSIC: dark tense cello, low drums, mysterious sting at Rose's final whisper.
 
 GLOBAL RULES:
-AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, vertical 9:16. SETTING: Fully American / Western, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no nudity, no coercive physical contact.
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English. No line may be skipped. Dialogue must stay louder than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin and hair, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forest kingdom, Western dark-fantasy castle, American people and clothing. No Asian elements.
+TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood, no explicit harm, no restraints, no chains, no forced physical contact, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 6 | Lily says "I do"... but Rose's warning keeps echoing. #Bigfoot #Movie #Part6
+Part 6 | Every month the prince chooses a bride... but Rose knows the forest secret. #Bigfoot #Movie #Part6
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+Corrected continuity: Grace is not present in the throne hall.

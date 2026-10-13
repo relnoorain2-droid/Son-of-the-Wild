@@ -1,14 +1,14 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
-K06_WarMammoth.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K06_WarMammoth/K06_WarMammoth.png
-L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 S01_GraceCarter_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S01_GraceCarter/S01_GraceCarter_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+L01_LilyHouse.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L01_LilyHouse/L01_LilyHouse.png
+C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 
 FROST: Son of the Wild
-PART 003 - "Into the Kingdom"
-Punch: WOW
-Status: ready - CANON LINEAR VERSION
+PART 003 - "The Royal Order"
+Punch: LILY CHOSEN
+Status: ready - LILY SUMMONED AFTER THE MONTHLY PATTERN
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -22,40 +22,44 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: C01_Lily_FULL.png -> Lily Carter; S01_GraceCarter_FULL.png -> Grace Carter; K02_RedDragon.png -> Western red dragon; K06_WarMammoth.png -> armored war mammoths; L02_KingCastle.png -> Thorne Castle.
-LILY LOOK LOCK: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older.
+CHARACTER LOCK: Keep every character's face, body, hair, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: C01_Lily_FULL.png -> Lily Carter; S01_GraceCarter_FULL.png -> Grace Carter; S07_CaptainVex_FULL.png -> Captain Vex; L01_LilyHouse.png -> Lily's poor home; C02_KingMagnus_FULL.png -> King Magnus in story insert/vision only.
+LILY LOOK LOCK: Lily is a 22-year-old poor American woman, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair.
 
-Scene: Rural Oregon road leading from Lily's house into the deep Pacific Northwest forest and then to Thorne Castle.
-0-4s: Grace hugs Lily tightly beside the black royal carriage. Guards wait behind them, silent.
-DIALOGUE 1-4s: Grace (crying): "They say no girl ever comes back from that forest..."
-4-8s: Lily wipes Grace's tears and forces a brave smile.
-DIALOGUE 4-8s: Lily (soft but brave): "Then I will be the first one, Mama."
-8-15s: The carriage rolls away. Lily watches Grace get smaller through the carriage window as the road enters giant redwoods and fog.
-DIALOGUE 11-14s: Lily (nervous whisper): "What kind of kingdom hides this deep in the woods?"
-15-20s: The forest opens to reveal a massive dark stone castle with red banners, armored mammoths at the gate, and dark Bigfoot guards standing watch, no chains.
-TEXT 16-18s: Brief location title card at bottom: "THORNE CASTLE".
-20-30s: A huge red Western dragon swoops over the carriage and roars fire into the sky. Lily screams and presses back against the seat. Final frame: the dragon landing on the highest tower as the gate closes behind Lily.
-DIALOGUE 23-28s: NARRATOR (deep cinematic American trailer voice): "Welcome... to the kingdom of King Magnus Thorne."
-SFX: crying, carriage wheels, horse hooves, forest wind, mammoth trumpet call, giant gate creak, dragon wing beats, dragon roar, fire whoosh, gate slamming shut.
-MUSIC: emotional strings for the goodbye, then epic dark fantasy orchestra when the castle appears.
-CAMERA: close goodbye, carriage window POV, drone reveal over the forest, low-angle dragon shot.
+LOOK LOCK: Lily always looks young (22-24 years old), innocent, sweet and beautiful - soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Scene: A poor wooden house on the edge of a small Oregon town, cold morning, empty shelves, cracked walls, patched curtains, Lily and her mother Grace struggling quietly.
+0-3s: Close-up of Lily counting a few coins on a wooden table. Grace places one small piece of bread between them. Lily pushes it back to her mother.
+DIALOGUE 1-3s: Lily (soft young American woman, worried): "Mama... this is all we have?"
+3-8s: Grace smiles through pain and touches Lily's hand. Outside, a church bell rings and townspeople whisper fearfully near the dirt road.
+DIALOGUE 4-7s: Grace (tired caring older American woman): "Eat, sweetheart. You still have your whole life ahead."
+8-14s: Lily looks through the window. Two women hurry past, whispering about King Magnus and Prince Damian's monthly bride tradition.
+DIALOGUE 9-13s: Village Woman (frightened American whisper): "Every month the prince chooses a bride... and nobody sees her again."
+14-20s: Cut to a dark royal insert: King Magnus on his throne, cold grey eyes, red banners, Prince Damian's silhouette beside him. No violence, just menace.
+DIALOGUE 15-19s: NARRATOR (deep cinematic American trailer voice): "Far beyond the trees, King Magnus kept a secret kingdom... and his son needed a new bride."
+20-26s: Hooves thunder outside Lily's house. Captain Vex and royal guards stop at the door with a black royal order. Grace freezes. Lily stands protectively in front of her mother.
+DIALOGUE 22-25s: Captain Vex (harsh loud threatening male voice): "By order of King Magnus, Lily Carter is summoned to the castle."
+26-30s: Lily's face turns pale. Grace grabs her hand. Final frame: Captain Vex's black-gloved hand holding the royal seal toward Lily.
+DIALOGUE 26-29s: Grace (crying whisper): "No... not my Lily."
+SFX: cold wind through wooden walls, coin clink, distant church bell, fearful town murmurs, horse hooves, hard knock on door, paper seal crackle.
+MUSIC: sad piano and low strings at the start, dark drums when the king is shown, sharp tense sting when Captain Vex gives the order.
+CAMERA: intimate handheld close-ups inside the poor house, slow push toward the window, dramatic throne insert, final low-angle shot on the royal seal.
 
 GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity, no chained people or creatures.
+AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English. No line may be skipped. Dialogue must stay louder than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin and hair, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forest kingdom, Western dark-fantasy castle, American people and clothing. No Asian elements.
+TEXT RULE: On-screen text is allowed only if needed for a short title card: "OREGON" for 2 seconds at the beginning. No subtitles for dialogue.
+NEGATIVE: no subtitles, no captions, no watermark, no logo, no gore, no blood, no explicit harm, no restraints, no chains, no forced physical contact, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 3 | Lily leaves home and sees Thorne Castle for the first time. #Bigfoot #Movie #Part3
+Part 3 | Lily was only a poor girl from Oregon... until the king's men came for her. #Bigfoot #Movie #Part3
 
 DOLA STATUS
-[ ] Images uploaded
+[ ] Images loaded by raw URLs
 [ ] Prompt pasted
 [ ] Video generated
 [ ] Downloaded
 [ ] Needs revision
 
 NOTES
-Corrected gate scene: dark Bigfoots are guards, not captives.
+This continues after the opening trailer and the first missing bride pattern. Lily is now the next monthly bride.

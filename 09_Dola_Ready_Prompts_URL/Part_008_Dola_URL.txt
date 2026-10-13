@@ -1,11 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
-S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
 V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
 
 FROST: Son of the Wild
-PART 008 - "The Escape"
-Punch: FUN + ACTION
+PART 008 - "I Do"
+Punch: EMOTION + TWIST
 Status: canon-safe opening version
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,25 +20,24 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep Lily, Damian, and Rose exactly identical to the attached reference images. Lily is 22, young, innocent, beautiful, blue eyes, honey-blonde hair.
+CHARACTER LOCK: Keep Lily, Damian, and King Magnus exactly identical to the attached reference images. Lily is 22, young, innocent, beautiful, blue eyes, honey-blonde hair.
 
-Scene: Candle-lit royal bedroom, tense but not romantic. Lily is fully dressed in her wedding gown. Rose hides near a curtain.
-0-3s: The door opens. Prince Damian enters with a smug smile and two goblets on a silver tray.
-DIALOGUE 1-3s: Prince Damian (smooth arrogant voice): "The ceremony is over, Lily."
-3-10s: Lily forces a sweet smile and points toward the window.
-DIALOGUE 4-7s: Lily (fake innocent voice): "Is that your dragon outside?"
-DIALOGUE 7-8s: Prince Damian: "Where?"
-8-15s: Damian turns toward the window. Lily quickly tips the goblets onto the floor and pulls the curtain cord. The room fills with harmless candle smoke and fluttering fabric. Rose opens a hidden servant door.
-DIALOGUE 11-14s: Rose (whispering, impressed): "Miss, move now!"
-15-23s: Lily runs through the hidden door with Rose guiding her through a narrow passage. Damian coughs in the smoke, confused but unharmed.
-DIALOGUE 16-20s: Lily (half laughing, half scared): "I am never following him into that forest."
-23-30s: Lily climbs down a bedsheet rope outside the castle wall under moonlight. Final frame: Damian reaches the window and realizes she is gone.
-DIALOGUE 26-29s: Prince Damian (angry shout): "GUARDS!"
-SFX: door creak, goblets clink, liquid splash, curtain whoosh, quick footsteps, wind outside, distant alarm bell.
-MUSIC: sneaky playful strings, then fast adventure drums.
+Scene: A grand Western royal wedding hall inside the dark forest castle, candles, red banners, stone arches, royal guests, no Asian elements.
+0-3s: Lily stands at the altar in a white wedding gown, trying to stay calm. Prince Damian smiles beside her. King Magnus watches from a raised throne.
+DIALOGUE 1-4s: NARRATOR (deep cinematic American trailer voice): "Lily had one day to find the truth."
+3-12s: The old priest opens a black ceremony book. Damian offers Lily his hand with a polished, charming smile. Lily remembers Rose's warning and hesitates.
+DIALOGUE 5-8s: Prince Damian (smooth charming voice): "Do you accept the house of Thorne?"
+DIALOGUE 9-11s: Lily (soft, nervous): "...I do."
+12-20s: The hall applauds. Damian slides a silver ring on Lily's finger. Lily notices Rose watching from the back, silently shaking her head.
+DIALOGUE 14-18s: Rose (whispering from the crowd): "Not the forest... please remember."
+20-26s: King Magnus raises his staff and the red crystal glows. His smile is cold and unreadable.
+DIALOGUE 21-25s: King Magnus (deep commanding voice): "Tonight, the old tradition continues."
+26-30s: Lily looks from Rose to the dark forest visible through the stained-glass window. Final frame: Lily's frightened blue eyes.
+SFX: soft crowd murmur, ceremony book opening, ring sound, staff tap, crystal hum.
+MUSIC: solemn wedding strings shifting into dark suspense.
 
 GLOBAL RULES:
-AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, vertical 9:16. SETTING: Fully American / Western, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no injury, no nudity, no romantic bedroom action.
+AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, vertical 9:16. SETTING: Fully American / Western, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no nudity, no coercive physical contact.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 8 | Lily escapes before the prince can take her to the forbidden forest. #Bigfoot #Movie #Part8
+Part 8 | Lily says "I do"... but Rose's warning keeps echoing. #Bigfoot #Movie #Part8

@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C06_ElderOrin_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C06_ElderOrin/C06_ElderOrin_FULL.png
+K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
 V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 180 - "Take Back What Is Ours"
-Punch: WOW + CLIFFHANGER
-Status: ready - URL PACKAGE
+PART 180 - "On the Dragon's Back"
+Punch: ACTION
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,22 +20,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; C06_ElderOrin_FULL.png -> Elder Orin.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; K02_RedDragon.png -> Creature RedDragon.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 CAST NOTE: the Great Red Dragon = three times bigger than any other dragon, dark lava-red scales, horns like a crown, enormous wings.
-On the flying dragon's back above the castle, the sun setting, storm clouds swirling.
-0–3s: Frost grabs the top of the king's staff with one hand. King Magnus holds the bottom with both hands. Tug of war.
-DIALOGUE 1–3s: King Magnus (desperate, straining): "Let GO, beast!"
-3–12s: The crystal between them pulses red-blue-red-blue. Cracks of light spread across it. The Great Red Dragon below them roars in confusion, its eyes flickering.
-DIALOGUE 6–9s: Frost (straining, deep): "It... belongs... to my family!"
-12–22s: The crystal starts burning Frost's hand with red light. He grits his teeth. He's losing grip.
-DIALOGUE 15–18s: Frost (whispering, desperate): "Grandfather... help me."
-22–30s: In the storm clouds above them, the giant face of Elder Orin appears, glowing blue, eyes open.
-DIALOGUE 24–28s: Elder Orin (ancient, very deep, echoing across the sky): "Take back what is ours, child."
-The crystal turns completely blue for one second — and a deep crack runs right through it. Final frame: close-up of the crystal splitting, blinding light about to explode.
-SFX: wind, a struggle, a pulsing crystal hum, cracking crystal, a confused dragon roar, a burning hiss, Orin's thunderous echoing voice, a deep crack.
-MUSIC: a huge building choir and orchestra, cutting to silence on the crack.
+On top of the flying Great Red Dragon's back, high above the clouds, strong wind, sunset.
+0–3s: Frost climbs up the dragon's wing onto its back, the wind blasting his fur.
+DIALOGUE 1–4s: Frost (deep, shouting over the wind): "Your crystal, Magnus. GIVE IT BACK!"
+3–12s: King Magnus walks down the dragon's back toward him, holding the staff with both hands; the red crystal glows on top.
+DIALOGUE 5–13s: King Magnus (deep, slow, mocking): "This? Your grandfather was weak. He used it to help animals. I used it to rule them. That's the difference between us."
+12–22s: They fight on the dragon's back: the king swings the staff like a war hammer; each hit blasts red lightning. Frost blocks with his glowing arms; sparks fly everywhere. The king is old but powerful with the crystal; he knocks Frost to his knees.
+DIALOGUE 17–20s: King Magnus (shouting): "Kneel! Like your father knelt!"
+22–30s: The king blasts Frost with a huge red bolt. Frost slides backwards to the very edge of the dragon's back, his feet over the empty sky. Final frame: Frost at the edge, the king raising the staff for the final strike.
+DIALOGUE 27–29s: King Magnus (cold): "Say hello to Bruno."
+SFX: howling wind, wing beats, footsteps on scales, staff swings, red lightning blasts, blocks, a heavy knee impact, sliding claws.
+MUSIC: intense duel music with dark brass and drums.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +43,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 180 | Grandfather Orin appeared in the sky... and the crystal CRACKED 🔮⚡ #Bigfoot #Movie #Part180
+Part 180 | Frost vs the king, ON TOP of a flying dragon 🐉⚔️ #Bigfoot #Movie #Part180
 
 DOLA STATUS
 [ ] Images uploaded

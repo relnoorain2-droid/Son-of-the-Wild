@@ -1,13 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
 C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
 V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 030 - "Bad Berries?"
-Punch: FUN + TWIST
-Status: ready - URL PACKAGE
+PART 030 - "Do Not Scare Me Like That"
+Punch: ANGER + MAKEUP
+Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,32 +19,31 @@ Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+CHARACTER LOCK: Keep Lily and Bruno exactly identical to the attached references.
+LILY LOOK LOCK: Lily always looks 22-24 years old, young, beautiful, blue eyes, honey-blonde hair.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; L05_River.png -> Location River.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
-
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Morning by the river, a few weeks later. Fall leaves on the ground.
-0–3s: Lily suddenly turns away from a bowl of fish and feels sick, holding her mouth.
-DIALOGUE 1–3s: NARRATOR (deep trailer voice): "A few weeks later..."
-3–12s: Bruno panics, running in circles, holding different leaves and berries.
-DIALOGUE 4–7s: Bruno (deep, panicked): "Lily eat bad berries? Bruno find medicine!"
-DIALOGUE 7–9s: Lily (weak, laughing): "Bruno, I'm okay!"
-12–22s: Bruno brings her a whole pile of random things: leaves, mushrooms, a pinecone, and a very confused live frog. Lily laughs and feels sick again.
-DIALOGUE 14–17s: Bruno (serious): "Frog is medicine." Lily: "Frog is NOT medicine!"
-22–30s: Lily goes quiet, then slowly places her hand on her belly. Her eyes widen with realization. Bruno stops, the frog jumping out of his hand. Final frame: close-up of Lily's shocked, emotional face.
-DIALOGUE 25–28s: Lily (whispering, shocked): "Bruno... I don't think it was the berries."
-SFX: retching (mild, off-screen), running footsteps, leaves rustling, frog croak, laughing, sudden silence.
-MUSIC: comedic plucky strings, then a soft magical chime at the realization.
-
+Scene: Night after a violent storm, Bruno's cave entrance, wet rocks, dripping trees, thunder fading.
+0-5s: Lily wakes and sees Bruno missing. She runs to the cave entrance, frightened.
+DIALOGUE 1-4s: Lily (calling, scared): "Bruno? Bruno!"
+5-12s: Bruno returns carrying a huge fallen log over his shoulder, soaked but calm. He used it to block floodwater from entering the cave.
+DIALOGUE 6-10s: Bruno (gentle): "Water coming. Bruno stop it."
+12-20s: Lily slaps his huge arm with both hands, more scared than angry. Bruno looks confused and guilty.
+DIALOGUE 12-17s: Lily (angry, crying): "Do not disappear in a storm! I thought I lost you!"
+DIALOGUE 17-20s: Bruno (soft): "Bruno sorry. Bruno forget Lily worries."
+20-27s: Lily turns away, upset. Bruno sits in the rain outside the cave like he has punished himself. Lily sighs and comes back with a blanket.
+DIALOGUE 22-26s: Lily (softening): "Come inside, you giant fool."
+27-30s: Bruno bows his head; Lily wraps the tiny blanket around one massive shoulder. Final frame: both laughing through tears.
+DIALOGUE 27-30s: Bruno (warm): "Lily angry means Lily care."
+SFX: dripping cave, distant thunder, heavy log drop, rain, soft crying, relieved laughter.
+MUSIC: tense strings easing into tender piano.
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
 SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
-
+TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 30 | Bruno thought it was bad berries... it wasn't 😳🍓 #Bigfoot #Movie #Part30
+Part 30 | Lily got angry because Bruno disappeared in the storm... then forgave him. #Bigfoot #Movie #Part30
 
 DOLA STATUS
 [ ] Images uploaded
@@ -55,3 +53,4 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
+Inserted after old Part 27 to add emotional anger and reconciliation.

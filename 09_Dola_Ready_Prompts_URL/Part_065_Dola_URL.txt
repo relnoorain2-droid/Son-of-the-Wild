@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
 S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 
 FROST: Son of the Wild
-PART 065 - "The Teddy Bear"
-Punch: EMOTION
+PART 065 - "MONSTER!"
+Punch: FUN + TWIST
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,23 +21,20 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V05_Frost_Baby.png -> Variant Frost_Baby; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S06_SarahMiller_FULL.png -> Sarah Miller; S03_HankMiller_FULL.png -> Hank Miller.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V05_Frost_Baby.png -> Variant Frost_Baby; S05_TommyMiller_FULL.png -> Tommy Miller; S06_SarahMiller_FULL.png -> Sarah Miller; L06_AbandonedCabin.png -> Location AbandonedCabin.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Dusk, in front of the cabin, torches.
-0–3s: Little Sarah slips out from behind Hank's legs and walks toward the baby.
-DIALOGUE 1–3s: Hank (panicked): "Sarah! Get back here!"
-3–14s: Baby Frost crawls slowly toward Sarah and holds out the teddy bear to her, very gently. Everyone holds their breath.
-DIALOGUE 7–9s: Sarah (small cute girl voice): "That's... my bear."
-DIALOGUE 9–12s: Frost makes a soft, sweet little coo and pushes the bear into her hands.
-14–22s: Sarah smiles and hugs the teddy bear, then hugs Frost. Frost hugs her back very carefully, as if he knows he's strong.
-DIALOGUE 16–19s: Sarah (giggling): "He's soft! Daddy, he's like a cloud!"
-22–30s: Villagers slowly lower their pitchforks. Some women wipe their eyes. Hank lowers his pitchfork completely.
-DIALOGUE 24–28s: Hank (deep voice, emotional, embarrassed): "Well... I'll be. He brought her bear back."
-Final frame: Lily crying with relief, Sarah and Frost hugging in the torchlight.
-SFX: soft footsteps, baby coo, giggling, pitchforks lowered, crackling torches, quiet sniffles.
-MUSIC: gentle piano, building into warm strings.
+Afternoon, the forest edge behind the cabin.
+0–3s: Tommy and Sarah sneak toward Lily's cabin with a homemade gift basket.
+DIALOGUE 1–3s: Tommy (excited young boy, whispering): "Let's surprise Miss Lily's baby!"
+3–12s: Baby Frost (now a bit bigger, crawling fast) crawls out of the bushes holding Sarah's dropped teddy bear in his mouth like a puppy. The kids freeze.
+DIALOGUE 7–9s: Sarah (small cute girl voice): "Tommy... is that a puppy?"
+DIALOGUE 9–11s: Tommy (shaking): "That's NOT a puppy."
+12–22s: Frost happily crawls toward them and lets out his little roar. The kids scream and Frost screams back, scared too. All three scream at each other.
+22–30s: Tommy grabs Sarah and runs toward the village, screaming. Frost sits alone holding the teddy bear, confused and sad. Final frame: Tommy running into the village street.
+DIALOGUE 25–29s: Tommy (screaming at the top of his lungs): "MONSTER! THERE'S A MONSTER AT MISS LILY'S HOUSE!"
+SFX: footsteps in leaves, bushes rustling, baby grunts, little roar, triple screaming, running, village dogs barking.
+MUSIC: comedic suspense, a funny triple-scream sting, then worried strings.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -46,7 +43,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 65 | They came to hurt him... he gave a little girl her teddy back 🧸🥺 #Bigfoot #Movie #Part65
+Part 65 | The kids found baby Frost... everybody screamed 😂😱 #Bigfoot #Movie #Part65
 
 DOLA STATUS
 [ ] Images uploaded

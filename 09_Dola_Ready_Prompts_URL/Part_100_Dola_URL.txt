@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
 
 FROST: Son of the Wild
-PART 100 - "The Biggest Fish"
-Punch: FUN + TWIST
+PART 100 - "Rockslide"
+Punch: ACTION + WOW
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,22 +21,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; L05_River.png -> Location River.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V12_Tommy_Adult.png -> Variant Tommy_Adult; S03_HankMiller_FULL.png -> Hank Miller; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Sunny morning at a wide, far-away mountain river, pine forest, snowy peaks.
-0–3s: Frost stands knee-deep in the river; a gigantic salmon leaps and he catches it in mid-air with one hand.
-DIALOGUE 1–4s: Frost (deep powerful young male voice, laughing): "Got you! Mom, look at this monster!"
-3–12s: The huge fish slaps Frost in the face with its tail and he falls backwards into the river with a giant splash. Lily laughs so hard she falls off her rock.
-DIALOGUE 6–11s: Lily (laughing): "Your father had the same fight with a fish! The fish won too!"
-DIALOGUE 11–13s: Frost (spitting water, grinning): "Rude fish!"
-12–22s: They sit together on the riverbank eating sandwiches. Lily leans on his huge arm, peaceful.
-DIALOGUE 14–18s: Lily (soft): "Sometimes I wish this day would never end."
-22–30s: Frost suddenly stops chewing. He sniffs the air. His smile disappears. Over the mountains, far away, thick black smoke rises into the sky in the direction of Cedar Hollow. Final frame: Lily slowly standing up, the sandwich falling from her hand.
-DIALOGUE 26–29s: Frost (deep, worried whisper): "Mom... that smoke is coming from home."
-SFX: river flowing, a giant fish splash, slap, laughter, birds, then wind and distant faint explosions.
-MUSIC: happy acoustic guitar that slowly turns into a low ominous drone.
+Afternoon, a mountain road above Cedar Hollow, a steep cliff, a logging truck driving down.
+0–3s: Rocks start falling from the mountain. A massive rockslide thunders down toward the road where Hank's pickup truck and Tommy are driving.
+DIALOGUE 1–3s: Tommy (young man voice, screaming): "Dad, LOOK OUT!"
+3–12s: Boulders the size of houses bounce down the slope. Frost, nearby, sprints up the road.
+DIALOGUE 6–8s: Frost (deep powerful voice): "Hank! Stop the truck!"
+12–22s: Frost jumps in front of the truck and catches a giant boulder with both hands, his feet sliding back on the road. He throws it off the cliff. He punches another into pieces. He shields the truck with his back as the last rocks hit him and bounce off his fur without hurting him.
+DIALOGUE 17–19s: Frost (straining): "Not today!"
+22–30s: The dust settles. The truck is safe. Frost stands up, shakes rocks off his fur like a dog, unhurt. Hank and Tommy stare. Final frame: a huge boulder broken on Frost's back, Frost smiling.
+DIALOGUE 24–28s: Hank (stunned, deep voice): "Son... the rocks broke on YOU."
+DIALOGUE 28–30s: Frost (shrugs): "Felt like rain."
+SFX: rumbling mountain, crashing boulders, tires screeching, heavy catch impact, feet sliding, punch shattering rock, rocks bouncing, dust settling.
+MUSIC: intense action drums and brass, with a cool heroic sting at the end.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 100 | "Rude fish!" ...then they saw the smoke over home 😰 #Bigfoot #Movie #Part100
+Part 100 | A rockslide hit him... and the ROCKS broke 🪨💪 "Felt like rain." #Bigfoot #Movie #Part100
 
 DOLA STATUS
 [ ] Images uploaded

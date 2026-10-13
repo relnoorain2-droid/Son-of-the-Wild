@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K06_WarMammoth.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K06_WarMammoth/K06_WarMammoth.png
-L08_Battlefield.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
+K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
+K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
 
 FROST: Son of the Wild
-PART 168 - "Gentle Giants"
-Punch: WOW + TWIST
+PART 168 - "Get Up, Frost"
+Punch: EMOTION + ACTION
 Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,20 +21,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V10_Damian_Battle.png -> Variant Damian_Battle; K06_WarMammoth.png -> Creature WarMammoth; L08_Battlefield.png -> Location Battlefield.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K09_Wolves.png -> Creature Wolves; K08_GrizzlyBear.png -> Creature GrizzlyBear.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-The battlefield, war mammoths still rampaging, Prince Damian whipping his mammoth with a chain.
-0–3s: Damian whips his mammoth; it screams in pain.
-DIALOGUE 1–3s: Prince Damian (cruel, shouting): "Faster, you stupid beast!"
-3–12s: Frost walks calmly into the path of fifty charging war mammoths. He doesn't raise his fists. His eyes glow soft blue and he speaks with a deep, gentle animal rumble.
-DIALOGUE 6–11s: Frost (deep, gentle): "You don't have to fight for him. He hurts you. I won't."
-12–22s: The lead mammoth slows down... stops right in front of Frost... and lowers its trunk to touch his hand. One by one, all fifty mammoths stop. They shake off their heavy war armor; it falls to the ground with loud clangs.
-DIALOGUE 17–20s: Prince Damian (panicking): "What are you doing?! I command you! ATTACK!"
-22–30s: The lead mammoth turns, lifts Damian off its back with its trunk, and drops him headfirst into a big pile of mud. All fifty mammoths trumpet together and walk to stand behind Frost's army. Final frame: Damian sitting in the mud, the mammoths behind Frost.
-DIALOGUE 27–29s: Frost (deep, calm, to Damian): "They were never yours."
-SFX: whip crack, mammoth screams, thundering footsteps slowing, a deep gentle rumble, armor clanging to the ground, a trunk lifting, a mud splash, fifty mammoths trumpeting.
-MUSIC: tense, then a beautiful, majestic, emotional swell.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
+The battlefield, smoke and fire, Frost buried under dark Bigfoots.
+0–3s: Lily runs through the battle, dodging soldiers, straight toward the pile of dark Bigfoots.
+DIALOGUE 1–3s: Lily (screaming): "GET OFF MY SON!"
+3–12s: Old Scar crashes into the pile from one side, wolves from the other; they pull dark Bigfoots away one by one. Lily climbs onto the pile and finds Frost's face.
+DIALOGUE 7–10s: Frost (weak, deep whisper): "Mom... I can't. He's too strong. I'm sorry."
+12–22s: Lily holds his face with both hands, fire behind her, completely calm.
+DIALOGUE 13–23s: Lily (strong, emotional): "Listen to me. Your father didn't win because he was strong. He won because he never stopped standing up. Strong hands... gentle heart. NOW GET UP!"
+22–30s: Frost's eyes snap open, bright blue. The red chains of magic crack. He roars and stands up, throwing the last dark Bigfoots off him in every direction. His tattoos blaze brighter than ever. Final frame: Frost standing tall, Lily beside him, Old Scar and the wolves around them.
+DIALOGUE 27–29s: Frost (deep, powerful): "Thanks, Mom."
+SFX: running, battle noise, bear roar, wolves snarling, heavy bodies pulled, a soft voice, magic cracking, a massive roar, bodies flying, electricity surging.
+MUSIC: desperate battle music, a moment of silence, then a huge heroic rising theme.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 168 | He didn't fight the 50 war mammoths... he FREED them 🦣🥹 #Bigfoot #Movie #Part168
+Part 168 | He couldn't get up... until his mom came 🥹💪 "NOW GET UP!" #Bigfoot #Movie #Part168
 
 DOLA STATUS
 [ ] Images uploaded

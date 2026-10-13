@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
-C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 077 - "The White Beast"
-Punch: TWIST + CLIFFHANGER
+PART 077 - "Thanksgiving"
+Punch: EMOTION + FUN
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,22 +21,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; C02_KingMagnus_FULL.png -> King Magnus; C03_PrinceDamian_FULL.png -> Prince Damian; S07_CaptainVex_FULL.png -> Captain Vex.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S03_HankMiller_FULL.png -> Hank Miller; S02_MarthaHayes_FULL.png -> Martha Hayes.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-0–3s: A scruffy fur hunter hiding in the snowy trees at the edge of Cedar Hollow watches Kid Frost playing with the kids, through a brass spyglass.
-DIALOGUE 1–4s: Hunter (rough greedy American male voice, whispering): "A white one... with blue eyes."
-3–12s: Night. The hunter kneels in front of Captain Vex at a campfire in the forest.
-DIALOGUE 5–12s: Hunter: "A white beast lives with the villagers. They call it Frost. Its mother is a blonde woman."
-DIALOGUE 12–14s: Captain Vex (harsh voice, slowly smiling): "A blonde woman..."
-12–22s: Thorne Castle throne hall. King Magnus, a little older and greyer, listens. Prince Damian, older too, with a scar on his forehead from the silver tray, stands up angrily.
-DIALOGUE 14–17s: Prince Damian (smooth voice, bitter): "The girl who hit me... is ALIVE?"
-DIALOGUE 17–21s: King Magnus (deep menacing voice): "And the beast had a son."
-22–30s: King Magnus stands and looks out of the window at his dragons.
-DIALOGUE 24–29s: King Magnus (cold and slow): "Not yet. Let the boy grow. Let them feel safe. Then... we take everything."
-Final frame: the red dragon's glowing eye opening in the dark.
-SFX: snow crunching, spyglass click, campfire crackle, echoing throne hall, dragon breathing.
-MUSIC: dark villain theme, low brass and a slow, ominous drumbeat.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+CAST NOTE: Tommy = a cheerful boy (10–14), messy brown hair, freckles, red cap.
+Autumn evening, a long outdoor Thanksgiving table in Cedar Hollow under string lights, orange leaves, a big roast turkey, pies, pumpkins.
+0–3s: Kid Frost carries the entire long wooden table, fully set with food, over his head into place.
+DIALOGUE 1–3s: Martha (warm Southern voice): "Careful with my pies, sweetie!"
+3–12s: Everyone sits. Frost sits on the ground and he's still the tallest at the table. He grabs a turkey leg that is bigger than Tommy's head.
+DIALOGUE 6–9s: Tommy (excited): "Frost gets the WHOLE turkey?"
+DIALOGUE 9–13s: Kid Frost (grinning): "Just the legs. And the wings. And the middle."
+12–22s: Hank stands up and raises his glass of apple cider.
+DIALOGUE 13–23s: Hank (deep rural voice, emotional): "Two years ago, we came to Lily's door with torches. Today... I'm thankful we were wrong. To Frost — the best neighbor this town ever had."
+22–30s: The whole village cheers "To Frost!" Frost gets shy and covers his face with his huge hands. Lily wipes a tear. Final frame: the whole town around the table, warm lights, laughter.
+DIALOGUE 26–29s: Lily (soft, to herself): "Look, Bruno. He has a family."
+SFX: table thump, plates clinking, cheering, glasses toasting, laughter, autumn wind.
+MUSIC: warm, emotional Americana with acoustic guitar and soft strings.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +46,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 77 | The king found out about Frost... and he's waiting for the perfect moment 😈🐉 #Bigfoot #Movie #Part77
+Part 77 | "Two years ago we came with torches... today I'm thankful we were wrong." 🦃🥹 #Bigfoot #Movie #Part77
 
 DOLA STATUS
 [ ] Images uploaded

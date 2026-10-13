@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C04_Bruno_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FACE.png
 C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
 V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 042 - "His Name Is Frost"
-Punch: EMOTION + TWIST
+PART 042 - "Hands Off My Family"
+Punch: ACTION + FUN
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,22 +21,24 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C04_Bruno_FULL.png -> Bruno; C04_Bruno_FACE.png -> Bruno; V03_Lily_Pregnant.png -> Variant Lily_Pregnant; L05_River.png -> Location River.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C04_Bruno_FULL.png -> Bruno; V03_Lily_Pregnant.png -> Variant Lily_Pregnant; V10_Damian_Battle.png -> Variant Damian_Battle; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-The bank of the wide fast river, sunset, smoke in the sky.
-0–3s: Bruno carries Lily to the edge of the rushing river, limping, soldiers' torches visible through the trees behind.
-DIALOGUE 1–4s: Lily (crying): "What are you doing? Bruno, no!"
-3–14s: Bruno sets her down and holds her face in his giant hands.
-DIALOGUE 4–10s: Bruno (deep, slow, gentle voice): "If baby is boy... call him Frost. Like the first snow. Quiet... but stronger than everything."
-DIALOGUE 10–14s: Lily (sobbing): "You'll name him yourself. You'll see him!"
-14–22s: Bruno smiles with tears in his eyes. He pulls the small blue wildflower Lily once braided into his fur, places it in her hand and gently closes her fingers around it. He kisses her forehead.
-DIALOGUE 15–21s: Bruno (deep whisper): "Keep this. Tell Frost... his papa was not afraid. Bruno love you. Forever."
-22–30s: Before she can react, Bruno gently pushes her backward into the river. The current pulls her away. She reaches out to him, screaming. Final frame: Bruno standing alone on the riverbank, turning to face the army as the torches surround him.
-DIALOGUE 26–29s: Lily (screaming from the water): "BRUUUNO!"
-SFX: rushing river, crying, footsteps, approaching soldiers, splash, scream echoing.
-MUSIC: heartbreaking love theme on piano and strings, rising to a full emotional orchestra.
+The valley in front of the cave, smoke and fire around.
+0–3s: Damian's sword swings down at Lily — a huge black hand grabs the blade and bends it like a spoon.
+DIALOGUE 1–3s: Bruno (deep, furious): "Hands off... my family."
+3–12s: Prince Damian stares at his bent sword, then at Bruno, and smiles nervously.
+DIALOGUE 5–8s: Prince Damian (nervous, fake laugh): "Let's... talk about this like gentlemen?"
+8–14s: Bruno picks Damian up by his cape and throws him far across the valley; he lands face-first in a pile of mammoth dung. Soldiers try not to laugh.
+DIALOGUE 12–14s: Prince Damian (muffled, disgusted): "Ughh! Father!"
+14–22s: Bruno lifts Lily into his arms. He has burn marks on his back and is breathing heavily, limping.
+DIALOGUE 16–19s: Lily (crying): "You're hurt, Bruno!"
+DIALOGUE 19–22s: Bruno (deep, trying to smile): "Bruno is fine. Bruno... totally fine."
+22–30s: Bruno runs with Lily toward the forest. Behind them, King Magnus raises his staff; the red crystal charges with red lightning. Final frame: the red bolt flying toward Bruno's back.
+DIALOGUE 26–28s: King Magnus (booming): "NO ONE ESCAPES ME!"
+SFX: metal bending, nervous laugh, whoosh of throw, comedic squelch landing, soldiers snickering, heavy limping footsteps, magical lightning charge, crackling bolt.
+MUSIC: heroic hit, a quick comedic sting on the dung landing, then dark rising tension.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +47,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 42 | "Call him Frost... quiet, but stronger than everything." 😭❄️ #Bigfoot #Movie #Part42
+Part 42 | The prince landed in mammoth poop 😂 ...but the king wasn't laughing ⚡ #Bigfoot #Movie #Part42
 
 DOLA STATUS
 [ ] Images uploaded

@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C04_Bruno_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FACE.png
 C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
-V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
+K05_Anaconda.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K05_Anaconda/K05_Anaconda.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 
 FROST: Son of the Wild
-PART 043 - "The Last Stand"
-Punch: EMOTION + ACTION
+PART 043 - "Run, Lily"
+Punch: EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,20 +21,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C04_Bruno_FULL.png -> Bruno; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; K01_DarkBigfoot.png -> Creature DarkBigfoot; K02_RedDragon.png -> Creature RedDragon.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C04_Bruno_FULL.png -> Bruno; C04_Bruno_FACE.png -> Bruno; V03_Lily_Pregnant.png -> Variant Lily_Pregnant; K05_Anaconda.png -> Creature Anaconda.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Riverbank at sunset, orange sky, smoke, the whole army in front of Bruno.
-0–3s: Bruno stands alone, wounded, facing dark Bigfoots, soldiers and the red dragon with King Magnus on its back.
-DIALOGUE 0–3s: King Magnus (deep cold voice): "Where is the girl, beast?"
-3–8s: Bruno smiles.
-DIALOGUE 4–7s: Bruno (deep, proud, calm): "Gone. Where you never find her."
-8–20s: Bruno roars and charges into the army in slow motion. He throws soldiers, knocks down two dark Bigfoots, and grabs a small dragon out of the air. Shot in silhouette against the orange sunset, heroic.
-DIALOGUE 12–15s: NARRATOR (deep cinematic trailer voice): "He fought for every second she needed."
-20–30s: King Magnus raises his staff; a huge red lightning blast hits Bruno. In slow motion, Bruno falls to his knees, looks toward the river one last time and smiles. Then he slowly falls forward into the grass, in silhouette. No blood, no gore. Final frame: Bruno's open hand resting in the grass; beside it, a single small blue wildflower slowly blooms in the sunset light.
-DIALOGUE 26–29s: Bruno (deep final whisper): "Be... happy... Lily."
-SFX: battle cries, roars, impacts, dragon screech, magical lightning blast, heavy fall, then total silence, wind.
-MUSIC: epic tragic choir and orchestra, fading to a single soft violin note.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Deep forest near the river, smoke drifting through trees, late afternoon light.
+0–3s: The red lightning bolt hits Bruno's back; he falls to his knees in slow motion, still holding Lily safely.
+DIALOGUE 1–3s: Lily (screaming): "BRUNO!"
+3–12s: A giant anaconda slides out of the river and blocks their path, hissing. Bruno, weak, stands up and grabs its head, holding it back with shaking arms.
+DIALOGUE 6–9s: Bruno (deep, weak, urgent): "Lily... run. Run now!"
+DIALOGUE 9–12s: Lily (crying): "No! I'm not leaving you!"
+12–22s: Bruno throws the anaconda into the river with his last strength and collapses against a tree. Lily runs to him, holding his face.
+DIALOGUE 14–18s: Lily (sobbing): "We go together, Bruno. Together, like you promised!"
+DIALOGUE 18–21s: Bruno (deep whisper, smiling sadly): "Bruno promise... keep you safe. This is how."
+22–30s: The sound of the army gets closer: horns, roars, marching. Bruno looks at Lily's belly and puts his huge hand gently on it. Final frame: his tearful amber eyes.
+DIALOGUE 26–29s: Bruno (deep, emotional): "Hello, little one. Papa loves you."
+SFX: lightning impact, heavy fall, snake hiss, struggle, splash, crying, approaching war horns and marching.
+MUSIC: tragic slow strings and choir.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +46,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 43 | He fought the whole army so she could live 💔🖤 RIP Bruno #Bigfoot #Movie #Part43
+Part 43 | "Hello, little one. Papa loves you." 💔😭 #Bigfoot #Movie #Part43
 
 DOLA STATUS
 [ ] Images uploaded

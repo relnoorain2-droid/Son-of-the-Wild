@@ -1,12 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
-V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 
 FROST: Son of the Wild
-PART 102 - "Gone Fishing"
-Punch: TWIST
+PART 102 - "The Biggest Fish"
+Punch: FUN + TWIST
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,21 +20,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; S07_CaptainVex_FULL.png -> Captain Vex; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; L05_River.png -> Location River.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-The burning town square of Cedar Hollow, smoke everywhere.
-0–3s: The red dragon lands in the square with a ground-shaking thud. King Magnus, older and greyer in black iron armor, steps down.
-DIALOGUE 1–3s: King Magnus (deep rough menacing voice): "Where is the white beast?"
-3–12s: Captain Vex drags Old Joe forward and throws him to the ground in front of the king.
-DIALOGUE 5–7s: Captain Vex (harsh voice): "Answer the king, old man!"
-DIALOGUE 7–11s: Old Joe (slow raspy voice, calm and defiant, slowly getting up): "Gone fishing. You just missed him."
-12–22s: King Magnus leans down to Old Joe's face.
-DIALOGUE 14–19s: King Magnus (cold, quiet): "Then give him a message. Tell him... and tell his mother... Thorne never forgets."
-22–30s: The king raises his staff; red lightning blasts the town's church bell tower and it crashes down. He climbs back onto his dragon. Final frame: Old Joe watching the dragon fly away, holding the little carved Bigfoot in his fist.
-DIALOGUE 26–29s: Old Joe (whispering to the sky): "And Orin's blood never forgets either."
-SFX: dragon landing thud, armor clanking, fire crackling, body thrown on dirt, red lightning blast, bell tower collapsing, a bell clanging as it falls, wing beats.
-MUSIC: dark villain theme, a huge crashing hit for the bell tower.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Sunny morning at a wide, far-away mountain river, pine forest, snowy peaks.
+0–3s: Frost stands knee-deep in the river; a gigantic salmon leaps and he catches it in mid-air with one hand.
+DIALOGUE 1–4s: Frost (deep powerful young male voice, laughing): "Got you! Mom, look at this monster!"
+3–12s: The huge fish slaps Frost in the face with its tail and he falls backwards into the river with a giant splash. Lily laughs so hard she falls off her rock.
+DIALOGUE 6–11s: Lily (laughing): "Your father had the same fight with a fish! The fish won too!"
+DIALOGUE 11–13s: Frost (spitting water, grinning): "Rude fish!"
+12–22s: They sit together on the riverbank eating sandwiches. Lily leans on his huge arm, peaceful.
+DIALOGUE 14–18s: Lily (soft): "Sometimes I wish this day would never end."
+22–30s: Frost suddenly stops chewing. He sniffs the air. His smile disappears. Over the mountains, far away, thick black smoke rises into the sky in the direction of Cedar Hollow. Final frame: Lily slowly standing up, the sandwich falling from her hand.
+DIALOGUE 26–29s: Frost (deep, worried whisper): "Mom... that smoke is coming from home."
+SFX: river flowing, a giant fish splash, slap, laughter, birds, then wind and distant faint explosions.
+MUSIC: happy acoustic guitar that slowly turns into a low ominous drone.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 102 | "Where is the white beast?" "Gone fishing." 😤 #Bigfoot #Movie #Part102
+Part 102 | "Rude fish!" ...then they saw the smoke over home 😰 #Bigfoot #Movie #Part102
 
 DOLA STATUS
 [ ] Images uploaded

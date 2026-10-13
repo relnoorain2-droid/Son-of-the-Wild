@@ -1,11 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
 V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 089 - "The County Fair"
-Punch: FUN + WOW
+PART 089 - "Lightning"
+Punch: WOW + TWIST
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,21 +20,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; S03_HankMiller_FULL.png -> Hank Miller; S10_Villagers.png -> optional background group, skip unless you want crowd continuity; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Sunny day at a small-town American county fair: a Ferris wheel, cotton candy, hay bales, a big "lumberjack games" stage with wooden logs.
-0–3s: Three huge bearded lumberjacks in plaid shirts each throw a big log; the crowd cheers.
-DIALOGUE 1–4s: Announcer (loud enthusiastic American fair announcer voice): "Fifteen feet! A new county record!"
-3–12s: Teen Frost steps up nervously. The lumberjacks laugh at him.
-DIALOGUE 5–8s: Lumberjack (rough deep voice, mocking): "Go home, fuzzy. This is a man's game."
-DIALOGUE 8–11s: Hank (shouting from the crowd): "Show 'em, Frost!"
-12–22s: Frost picks up not one log but the entire stack of logs, all at once. The crowd goes silent. He spins and throws. The logs fly over the Ferris wheel and land in a lake far away with a distant splash.
-DIALOGUE 18–21s: Announcer (stunned, slow): "That's... that's in the next county."
-22–30s: The crowd explodes in cheers. The lumberjacks' jaws drop. One of them faints. Frost receives a giant blue-ribbon trophy and grins shyly. Final frame: Frost holding the tiny trophy in his huge hand.
-DIALOGUE 26–29s: Teen Frost (energetic teenage voice, voice cracking): "Can I... keep the logs too?"
-SFX: fair music, crowd cheering, logs thudding, mocking laughter, a massive throw whoosh, distant splash, fainting thump.
-MUSIC: upbeat country fair fiddle and banjo, a triumphant brass hit for the throw.
+Night, a violent thunderstorm on a hill above Cedar Hollow, dark clouds, rain.
+0–3s: A lightning bolt strikes a tree right next to Teen Frost; the tree explodes into sparks.
+DIALOGUE 1–3s: Teen Frost (scared, voice cracking): "Whoa!"
+3–12s: Blue electric sparks jump from the burning tree onto Frost's hands. Instead of hurting him, they crawl across his fingers. His eyes glow electric blue.
+DIALOGUE 6–9s: Teen Frost (panicked): "What's happening to me? Stop! STOP!"
+12–22s: He shakes his hands; a blue bolt shoots out of his palm and blasts a rock into pieces. He falls back in the mud, shocked, staring at his glowing hands.
+DIALOGUE 16–19s: Teen Frost (breathing hard): "Did I... do that?"
+22–30s: Lightning flashes. In the bright light, Old Joe stands at the edge of the hill under a big umbrella, leaning on his walking stick, watching calmly.
+DIALOGUE 25–29s: Old Joe (slow raspy wise voice): "Yes, son. You did. And that's only the beginning."
+Final frame: blue sparks fading in Frost's hands, Old Joe's face lit by lightning.
+SFX: thunder, heavy rain, lightning crack, tree explosion, electric crackling, blast, rock shattering, mud splash.
+MUSIC: dramatic storm orchestra, a powerful magical choir hit when the bolt fires.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +43,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 89 | They told him "this is a man's game"... he threw the logs into the next county 😂🪵 #Bigfoot #Movie #Part89
+Part 89 | Lightning hit the tree... and the power jumped into Frost's hands ⚡😱 #Bigfoot #Movie #Part89
 
 DOLA STATUS
 [ ] Images uploaded

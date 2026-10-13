@@ -1,13 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K07_WarHorses.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K07_WarHorses/K07_WarHorses.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 088 - "Not Yet"
-Punch: TWIST + CLIFFHANGER
-Status: ready - URL PACKAGE
+PART 088 - "Strong Hands, Gentle Heart"
+Punch: EMOTION + FUN
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -21,22 +20,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; S07_CaptainVex_FULL.png -> Captain Vex; K07_WarHorses.png -> Creature WarHorses.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; L05_River.png -> Location River.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Night after the storm, inside Old Joe's small wooden house, a fireplace, old books, carved wooden figures on shelves.
-0–3s: Teen Frost, wet and shaking, sits on the floor of Old Joe's house. Old Joe hands him a cup of hot cocoa.
-DIALOGUE 1–3s: Teen Frost (scared, teenage voice): "Joe, what's wrong with me?"
-3–14s: Old Joe picks up the carved wooden Bigfoot holding a staff from his shelf.
-DIALOGUE 5–10s: Old Joe (slow raspy wise voice): "Nothing's wrong with you. There's an old power in your blood, son. Very old."
-DIALOGUE 10–14s: Teen Frost (eager): "Then teach me! Tell me everything!"
-14–22s: Old Joe puts the carving down and shakes his head.
-DIALOGUE 15–21s: Old Joe: "Not yet. Power before wisdom is just another storm. When the time comes... you'll know."
-22–30s: Outside on the dark hills above Cedar Hollow, three riders on black war horses watch the village lights through a spyglass. One of them is Captain Vex, older now, smiling.
-DIALOGUE 25–29s: Captain Vex (harsh voice, quiet and cruel): "The boy is ready. Tell the king."
-Final frame: Vex turning his horse and riding away into the dark.
-SFX: fireplace crackle, cocoa cup, rain dripping, wooden carving set down, wind on the hills, horse snort, galloping away.
-MUSIC: warm mysterious strings inside, dark villain theme outside.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Sunset by the river.
+0–3s: Lily sits down next to Teen Frost and hands him something small: a single chicken egg.
+DIALOGUE 1–3s: Lily (soft, warm): "Hold this. Don't break it."
+3–12s: Frost holds the egg in his giant hand. CRACK — it breaks instantly. Yolk drips. Lily hands him another. Crack. Another. Crack.
+DIALOGUE 7–10s: Teen Frost (frustrated, voice cracking): "See? I can't do anything right!"
+12–22s: Lily takes his huge hand in both of hers.
+DIALOGUE 13–25s: Lily (emotional): "Your father was the strongest creature in the forest. And he once caught a flower falling from a tree without hurting a single petal. He always said: strong hands... gentle heart."
+22–30s: Frost closes his eyes, breathes slowly, and holds a new egg very, very gently. He opens his eyes. The egg is perfect. Then a tiny crack appears on it — and a baby chick pops its head out. Frost gasps with joy. Final frame: the tiny chick sitting in Frost's giant palm, chirping.
+DIALOGUE 27–29s: Teen Frost (whispering, amazed): "Strong hands... gentle heart."
+SFX: river, eggs cracking, frustrated groan, deep breathing, tiny shell crack, chick chirping.
+MUSIC: soft emotional piano, then a sweet magical twinkle with the chick.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +43,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 88 | Old Joe knows the secret of Frost's power... but the king's men are watching 👀🐎 #Bigfoot #Movie #Part88
+Part 88 | He broke every egg... until he remembered his father's words 🐣🥹 #Bigfoot #Movie #Part88
 
 DOLA STATUS
 [ ] Images uploaded

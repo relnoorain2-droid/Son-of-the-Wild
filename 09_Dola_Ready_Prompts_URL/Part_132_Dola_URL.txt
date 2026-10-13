@@ -1,10 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
 
 FROST: Son of the Wild
-PART 132 - "The Iron Trap"
-Punch: ACTION + TWIST
+PART 132 - "Something to Protect"
+Punch: WOW + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -19,21 +20,20 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V13_Sarah_Adult.png -> Variant Sarah_Adult; S10_Villagers.png -> optional background group, skip unless you want crowd continuity; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
-The Deep Wild, foggy forest floor.
-0–3s: Frost gets up angry and charges at Old Scar. They crash together like two trucks.
-DIALOGUE 1–4s: Frost (deep, roaring): "Fine! Then we do it the hard way!"
-3–12s: An epic wrestling fight: Frost throws a punch; Old Scar blocks it with his giant paw and throws Frost to the ground; they roll down a slope through ferns.
-DIALOGUE 7–9s: Frost (straining): "You're... strong... old man!"
-12–22s: Frost pins the bear's front leg — and suddenly the bear cries out in real pain, not anger. Frost stops and looks down: Old Scar's back leg is caught in a huge rusty iron trap, chained to a tree. The trap has a red snake-and-crown symbol: the crest of King Magnus Thorne.
-DIALOGUE 17–21s: Frost (quiet, shocked): "The king's hunters... you've been trapped all this time."
-22–30s: Frost slowly lets go and steps back. Old Scar growls, but he's limping, tired and in pain. Frost's face changes from anger to understanding. Final frame: close-up of the rusty trap with the king's crest.
-DIALOGUE 26–29s: Frost (soft): "You're not angry. You're hurting."
-SFX: a heavy crash, roars, punches, rolling through ferns, a painful bear cry, chain clanking, heavy breathing.
-MUSIC: intense fight drums, then a sudden emotional cello note.
+Sunset at the Bear Rock meadow. The whole village has come to watch.
+0–3s: Frost stands in front of the Bear Rock once more. Behind him, the entire village stands quietly holding lanterns.
+DIALOGUE 1–4s: Sarah (young woman now, calling out): "You can do it, Frost! We're all here!"
+3–12s: Frost closes his eyes. Quick memory flashes: baby Frost giving Sarah her teddy; the children in the cellar; Martha's sweater; his mother's face.
+DIALOGUE 6–10s: Frost (deep, quiet): "I'm not pushing for me. I'm pushing for them."
+12–22s: He places his hand inside the giant carved handprint. It fits perfectly now. He pushes. The ground shakes. With a deep grinding sound, the Bear Rock moves... an inch... a foot... then rolls slowly across the meadow.
+DIALOGUE 16–19s: Frost (roaring with everything): "FOR CEDAR HOLLOOOOW!"
+22–30s: The rock rolls off the cliff edge and crashes down the mountain. The village explodes in cheers. A glowing blue mark burns itself onto Frost's right forearm like a tattoo, shining. Frost stares at it in wonder. Final frame: the glowing blue mark on his arm, lanterns behind him.
+DIALOGUE 27–29s: Old Joe (smiling, slow raspy voice): "Trial one... complete."
+SFX: lanterns, wind, memory echoes, deep stone grinding, ground rumbling, a huge roar, the rock tumbling, massive crash below, cheering, a magical burning hum.
+MUSIC: emotional build-up to a huge triumphant orchestral and choir climax.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -42,7 +42,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 132 | He was fighting the bear... then he saw WHY the bear was so angry 😢⛓️ #Bigfoot #Movie #Part132
+Part 132 | He finally moved the Bear Rock... TRIAL 1 COMPLETE ✅⚡ #Bigfoot #Movie #Part132
 
 DOLA STATUS
 [ ] Images uploaded

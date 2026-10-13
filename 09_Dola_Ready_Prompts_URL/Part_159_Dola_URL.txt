@@ -1,13 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
 
 FROST: Son of the Wild
-PART 159 - "The March"
-Punch: WOW
-Status: ready - URL PACKAGE
+PART 159 - "Through the Front Door"
+Punch: EMOTION
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -21,22 +19,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S11_Rose_FULL.png -> Rose; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Epic march montage through the Pacific Northwest: redwood forests, river crossings, mountain passes, from sunrise to sunset.
-0–3s: Aerial drone shot: a huge army moving through the giant redwood forest, Frost glowing at the front, Lily beside him on a big elk.
-DIALOGUE 1–3s: NARRATOR (deep cinematic American trailer voice): "They marched for three days."
-3–12s: Bison pull wagons across a river; bears carry supply crates; eagles fly scouting above. Kids from the villages wave goodbye from a hill.
-DIALOGUE 6–9s: Old Joe (riding in a wagon, to Rose): "Never thought I'd live to see this."
-DIALOGUE 9–11s: Rose (old British voice, smiling): "Neither did I, love."
-12–22s: Night: they pass small, poor villages of the king's kingdom. Frightened people peek from windows... then one by one, they light lanterns and put them in their windows: a secret sign of support.
-DIALOGUE 15–19s: Lily (amazed, emotional): "Frost, look. They're lighting lanterns for us."
-22–30s: Some of the kingdom's villagers step out and join the march with farm tools. The army grows bigger. Final frame: a long line of lanterns stretching behind the army into the dark.
-DIALOGUE 26–29s: Frost (deep, moved): "The people are rising."
-SFX: marching thousands, animal footsteps, wagon wheels, river splashing, eagle cries, lanterns lighting, quiet voices joining.
-MUSIC: a heroic marching theme with drums and a slow-building choir.
+Night, the last night before the march, a quiet hill above the camp, the full moon.
+0–3s: Frost finds Lily putting on an old leather jacket and boots, tying her hair back.
+DIALOGUE 1–3s: Frost (deep, worried): "Mom, what are you doing?"
+3–12s: Lily turns, calm and strong.
+DIALOGUE 4–6s: Lily (firm): "I'm coming with you."
+DIALOGUE 6–11s: Frost (pleading): "No. Mom, it's too dangerous. Stay here with Martha. Please."
+12–22s: Lily takes his huge glowing hand.
+DIALOGUE 13–25s: Lily (strong, emotional): "Years ago I climbed out of that castle's window in a wedding dress and ran for my life. This time, I'm walking in through the front door. Next to my son."
+22–30s: Frost looks at her for a long moment, then smiles and kneels so they're eye to eye.
+DIALOGUE 25–29s: Frost (deep, proud): "Then stay close to me, Mom. Always."
+Final frame: mother and son forehead to forehead under the full moon.
+SFX: wind, leather jacket zipping, boots, distant campfire sounds, crickets.
+MUSIC: emotional strings, rising into a proud heroic theme.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 159 | As they marched, the king's own people lit lanterns for them 🏮⚔️ #Bigfoot #Movie #Part159
+Part 159 | "This time, I'm walking in through the FRONT DOOR." 💪👩 #Bigfoot #Movie #Part159
 
 DOLA STATUS
 [ ] Images uploaded

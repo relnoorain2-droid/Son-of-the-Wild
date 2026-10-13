@@ -1,14 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
-K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
-K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
-V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
 
 FROST: Son of the Wild
-PART 010 - "Face to Face with a Grizzly"
-Punch: ACTION + CLIFFHANGER
-Status:-assets
+PART 010 - "The Escape"
+Punch: FUN + ACTION
+Status: canon-safe opening version
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -22,36 +20,25 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; K09_Wolves.png -> Creature Wolves; K08_GrizzlyBear.png -> Creature GrizzlyBear; L03_DeepForest.png -> Location DeepForest.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+CHARACTER LOCK: Keep Lily, Damian, and Rose exactly identical to the attached reference images. Lily is 22, young, innocent, beautiful, blue eyes, honey-blonde hair.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, giant misty redwood forest, cold moonlight.
-0–3s: Lily (now in the torn, muddy short version of her dress, barefoot) runs between giant trees, wolves howling close behind.
-DIALOGUE 1–3s: Lily (terrified, out of breath): "Please, please, please..."
-3–12s: Wolves chase her; she climbs over a fallen redwood trunk and slides down a muddy slope into a creek, splashing.
-DIALOGUE 7–11s: NARRATOR (deep cinematic trailer voice): "No bride had ever survived a single night in this forest."
-12–20s: She hides inside a hollow tree, hand over her mouth. The wolves run past... then suddenly stop, whimper and run away in fear.
-DIALOGUE 16–18s: Lily (whispering, confused): "Why did they run away?"
-20–30s: A deep growl behind her. She slowly turns. A huge grizzly bear rises on its hind legs right in front of the hollow tree, roaring in her face, saliva flying. Lily screams and falls back. Final frame: the bear's giant claw swinging down toward her in slow motion... cut to black.
-DIALOGUE 27–29s: Lily (screaming): "NO!"
-SFX: running, wolves howling, mud slide, water splash, heavy breathing, wolves whimpering, deep bear growl, massive roar, scream.
-MUSIC: chase drums, sudden silence at 12s with only heartbeat, then a huge horror hit with the roar.
+Scene: Candle-lit royal bedroom, tense but not romantic. Lily is fully dressed in her wedding gown. Rose hides near a curtain.
+0-3s: The door opens. Prince Damian enters with a smug smile and two goblets on a silver tray.
+DIALOGUE 1-3s: Prince Damian (smooth arrogant voice): "The ceremony is over, Lily."
+3-10s: Lily forces a sweet smile and points toward the window.
+DIALOGUE 4-7s: Lily (fake innocent voice): "Is that your dragon outside?"
+DIALOGUE 7-8s: Prince Damian: "Where?"
+8-15s: Damian turns toward the window. Lily quickly tips the goblets onto the floor and pulls the curtain cord. The room fills with harmless candle smoke and fluttering fabric. Rose opens a hidden servant door.
+DIALOGUE 11-14s: Rose (whispering, impressed): "Miss, move now!"
+15-23s: Lily runs through the hidden door with Rose guiding her through a narrow passage. Damian coughs in the smoke, confused but unharmed.
+DIALOGUE 16-20s: Lily (half laughing, half scared): "I am never following him into that forest."
+23-30s: Lily climbs down a bedsheet rope outside the castle wall under moonlight. Final frame: Damian reaches the window and realizes she is gone.
+DIALOGUE 26-29s: Prince Damian (angry shout): "GUARDS!"
+SFX: door creak, goblets clink, liquid splash, curtain whoosh, quick footsteps, wind outside, distant alarm bell.
+MUSIC: sneaky playful strings, then fast adventure drums.
 
 GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, vertical 9:16. SETTING: Fully American / Western, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no injury, no nudity, no romantic bedroom action.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 10 | The wolves ran away... because something worse was coming 🐻😱 Part 11 tomorrow! #Bigfoot #Movie #Part10
-
-DOLA STATUS
-[ ] Images uploaded
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
-
-NOTES
+Part 10 | Lily escapes before the prince can take her to the forbidden forest. #Bigfoot #Movie #Part10

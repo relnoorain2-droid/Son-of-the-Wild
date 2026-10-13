@@ -1,12 +1,10 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
-K10_MountainLion.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K10_MountainLion/K10_MountainLion.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 
 FROST: Son of the Wild
-PART 134 - "King of the Wild"
-Punch: WOW
+PART 134 - "The Iron Trap"
+Punch: ACTION + TWIST
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,21 +19,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; K09_Wolves.png -> Creature Wolves; K10_MountainLion.png -> Creature MountainLion.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
-The Deep Wild, sunrise, golden light through the giant trees.
-0–3s: Old Scar slowly walks up to Frost, lowers his giant head, and touches his forehead to Frost's chest.
-DIALOGUE 1–3s: Frost (deep whisper, amazed): "...Thank you."
-3–14s: All around them, the animals of the Deep Wild step out of the fog: wolves, mountain lions, elk with huge antlers, bison, a bald eagle landing on a branch. One by one, they all bow their heads to Frost.
-DIALOGUE 7–11s: NARRATOR (deep cinematic American trailer voice): "The wild does not follow the strongest... it follows the kindest."
-14–22s: A burning blue light runs down Frost's LEFT forearm and forms a second glowing mark, matching the first. He holds both arms up, staring.
-DIALOGUE 17–19s: Frost (deep, emotional): "Two."
-22–30s: Frost walks out of the Deep Wild. Old Scar walks beside him like a giant dog, the three cubs riding on his back, and the animals follow. Old Joe is waiting at the edge of the forest; his jaw drops. Final frame: Frost leading a parade of wild animals out of the forest.
-DIALOGUE 26–29s: Old Joe (slow raspy voice, smiling): "Trial two... complete. Show-off."
-SFX: soft bear breathing, animal footsteps, wolves, an eagle screech, a magical burning hum, heavy paws, cubs squeaking.
-MUSIC: majestic, emotional orchestra with choir.
+The Deep Wild, foggy forest floor.
+0–3s: Frost gets up angry and charges at Old Scar. They crash together like two trucks.
+DIALOGUE 1–4s: Frost (deep, roaring): "Fine! Then we do it the hard way!"
+3–12s: An epic wrestling fight: Frost throws a punch; Old Scar blocks it with his giant paw and throws Frost to the ground; they roll down a slope through ferns.
+DIALOGUE 7–9s: Frost (straining): "You're... strong... old man!"
+12–22s: Frost pins the bear's front leg — and suddenly the bear cries out in real pain, not anger. Frost stops and looks down: Old Scar's back leg is caught in a huge rusty iron trap, chained to a tree. The trap has a red snake-and-crown symbol: the crest of King Magnus Thorne.
+DIALOGUE 17–21s: Frost (quiet, shocked): "The king's hunters... you've been trapped all this time."
+22–30s: Frost slowly lets go and steps back. Old Scar growls, but he's limping, tired and in pain. Frost's face changes from anger to understanding. Final frame: close-up of the rusty trap with the king's crest.
+DIALOGUE 26–29s: Frost (soft): "You're not angry. You're hurting."
+SFX: a heavy crash, roars, punches, rolling through ferns, a painful bear cry, chain clanking, heavy breathing.
+MUSIC: intense fight drums, then a sudden emotional cello note.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +42,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 134 | The whole forest bowed to Frost 🐻🐺🦅 TRIAL 2 COMPLETE ✅ #Bigfoot #Movie #Part134
+Part 134 | He was fighting the bear... then he saw WHY the bear was so angry 😢⛓️ #Bigfoot #Movie #Part134
 
 DOLA STATUS
 [ ] Images uploaded

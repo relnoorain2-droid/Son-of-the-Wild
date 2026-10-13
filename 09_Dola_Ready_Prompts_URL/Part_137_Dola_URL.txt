@@ -1,10 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 
 FROST: Son of the Wild
-PART 137 - "Be Still"
-Punch: EMOTION + WOW
+PART 137 - "Trial 3: Thunder Peak"
+Punch: WOW + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -19,20 +20,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V09_Bruno_Spirit.png -> Variant Bruno_Spirit.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Near the summit of Thunder Peak, inside the storm cloud: darkness, wind, lightning everywhere.
-0–3s: A lightning bolt hits the rock right next to Frost; the blast throws him off a ledge. He falls onto a lower ledge and lies there, smoking, exhausted.
-DIALOGUE 1–3s: Frost (groaning): "Aaagh!"
-3–12s: He tries to stand and falls again. Rain beats on him. He looks up at the storm.
-DIALOGUE 5–12s: Frost (deep, broken, shouting into the storm): "I can't! I can't fight the sky! I'm not Orin! I'm not my father! I'm just... me!"
-12–22s: He lies back, giving up. The framed flower falls out of his chest fur onto the rock beside his face. He looks at it. Everything goes quiet. A soft golden glow appears; Bruno's translucent spirit kneels beside him, smiling.
-DIALOGUE 16–22s: Bruno (spirit voice, very deep slow warm gravelly, echoing): "You don't fight the river, son. Be still. Like the river. Let it come to you."
-22–30s: Frost's eyes fill with tears. He reaches for his father's glowing hand, but the spirit fades. Frost picks up the flower, puts it back on his chest, and slowly stands up. Final frame: Frost standing, calm, facing the summit, the storm swirling around him.
-DIALOGUE 26–29s: Frost (deep whisper): "Be still... Thank you, Dad."
-SFX: lightning blast, falling, heavy rain, wind, sudden silence, a soft magical chime, Bruno's echoing voice, then the storm returning.
-MUSIC: desperate storm music, then the soft love theme for Bruno, building to a determined swell.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Afternoon at the foot of Thunder Peak: a black, jagged mountain whose top is always covered by a giant spinning storm cloud with constant lightning.
+0–3s: Wide shot: Thunder Peak, lightning striking its summit again and again. Frost, Lily and Old Joe stand small at its base.
+DIALOGUE 1–6s: Old Joe (slow raspy voice): "Thunder Peak. Climb to the top. Touch the lightning... and survive it."
+3–12s: Lily grabs Frost's hand. She is scared.
+DIALOGUE 6–11s: Lily (soft, shaking): "Frost, please. You've already done two. You don't have to do this one."
+DIALOGUE 11–14s: Frost (deep, gentle): "Yes I do, Mom. For Dad."
+12–22s: Lily takes the small framed flower from her coat and tucks it into the fur on Frost's chest, near the crescent patch.
+DIALOGUE 15–19s: Lily (crying): "Then take your father with you."
+22–30s: Frost hugs her, turns, and starts climbing. Lightning flashes. Lily watches him get smaller and smaller on the black rock. Final frame: tiny Frost on the giant mountain, lightning striking above him.
+DIALOGUE 26–29s: Lily (whispering, praying): "Bruno... watch over our boy."
+SFX: constant thunder, wind howling, lightning cracks, rocks, crying, climbing.
+MUSIC: epic, ominous, mountain-sized orchestral theme.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -41,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 137 | He wanted to give up... then his father came 😭👻 "Be still. Like the river." #Bigfoot #Movie #Part137
+Part 137 | Trial 3: climb Thunder Peak and touch the lightning ⚡⛰️ #Bigfoot #Movie #Part137
 
 DOLA STATUS
 [ ] Images uploaded

@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
 C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 
 FROST: Son of the Wild
-PART 107 - "I Will Not Spare Him"
-Punch: WOW + ACTION
+PART 107 - "The Bride Who Ran"
+Punch: TWIST + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,21 +21,24 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; C05_Frost_FACE.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; C05_Frost_FACE.png -> Frost; C03_PrinceDamian_FULL.png -> Prince Damian; L02_KingCastle.png -> Location KingCastle.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, outside the cabin, at the edge of the forest. A storm is gathering above.
-0–3s: Frost walks out of the cabin and punches a huge boulder; it explodes into pieces.
-DIALOGUE 1–3s: Frost (deep, roaring with rage): "HE KILLED MY FATHER!"
-3–12s: His eyes glow electric blue. Blue lightning crackles across his whole body. The clouds above swirl and thunder answers him. Trees bend in the wind.
-DIALOGUE 6–11s: Frost (thunderous voice): "He hurt my mother! He burned my home! He killed my friends!"
-12–22s: He rips a dead pine tree out of the ground and throws it into the forest. Lightning strikes the ground around him three times.
-DIALOGUE 15–20s: Frost (roaring to the sky): "I WILL NOT SPARE HIM! Do you hear me, Magnus? I'M COMING FOR YOU!"
-22–30s: He falls to his knees in the mud, breathing hard, blue sparks fading, rain starting to fall. Lily runs out into the storm. Final frame: Frost kneeling, fists in the mud, lightning above.
-DIALOGUE 27–29s: Lily (screaming): "FROST! STOP!"
-SFX: boulder explosion, electric crackling, thunder, wind howling, tree ripping out, lightning strikes, rain.
-MUSIC: powerful dark epic choir and drums, building to a peak.
+Night, inside the half-burnt cabin, a single candle. Frost sits on the floor; Lily sits facing him.
+0–3s: Lily takes a deep breath, wiping tears.
+DIALOGUE 1–5s: Lily (soft, shaking): "I never told you the whole story, Frost. Tonight I will."
+3–25s: Flashback montage in a cold, blue-grey cinematic tint, with Lily's voice-over:
+  3–8s: Lily, in her old blue dress, with her mother in their poor Oregon house; the royal guards arriving.
+  DIALOGUE 5–12s: Lily (voice-over): "I was a poor girl. The king's men came and chose me... as a bride for his son."
+  8–15s: Prince Damian smirking in the throne hall; the dark castle; dragons above.
+  DIALOGUE 12–20s: Lily (voice-over): "Prince Damian. Every week he married a new girl... and after one night, he threw her into the forest for the beasts."
+  15–25s: Lily in the wedding dress hitting Damian with the silver tray and escaping down the bedsheets.
+  DIALOGUE 20–25s: Lily (voice-over, a small sad smile): "So on my wedding night... I hit him with a tray and I ran."
+25–30s: Back to the present. Frost stares, stunned.
+DIALOGUE 26–29s: Frost (deep, shocked): "The prince... was your HUSBAND?"
+SFX: candle flicker, soft echo on the flashback, horses, a dragon roar in the distance, the metal "bonk", wind.
+MUSIC: mysterious, sad flashback theme on strings.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +47,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 107 | "I WILL NOT SPARE HIM!" ⚡😡 Frost's rage shook the sky #Bigfoot #Movie #Part107
+Part 107 | Lily finally tells Frost the truth... "The prince was your HUSBAND?" 😳 #Bigfoot #Movie #Part107
 
 DOLA STATUS
 [ ] Images uploaded

@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
-V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
+K06_WarMammoth.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K06_WarMammoth/K06_WarMammoth.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
 
 FROST: Son of the Wild
-PART 163 - "The Secret Tunnel"
-Punch: TWIST
+PART 163 - "Mammoths vs Bison"
+Punch: WOW + ACTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,22 +21,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V12_Tommy_Adult.png -> Variant Tommy_Adult; V13_Sarah_Adult.png -> Variant Sarah_Adult; S11_Rose_FULL.png -> Rose; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V10_Damian_Battle.png -> Variant Damian_Battle; V08_Frost_Powered.png -> Variant Frost_Powered; S03_HankMiller_FULL.png -> Hank Miller; K06_WarMammoth.png -> Creature WarMammoth.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Inside a dark, narrow stone tunnel under Thorne Castle, torchlight, dripping water, rats.
-0–3s: Rose pushes open a hidden stone door behind a waterfall at the back of the castle. Tommy, Sarah and Old Joe follow with torches.
-DIALOGUE 1–5s: Rose (old British voice, whispering): "This way. The servants' tunnel. The king forgot it exists."
-3–12s: They creep through the tunnel. A rat runs over Tommy's boot; he almost screams; Sarah covers his mouth.
-DIALOGUE 6–9s: Tommy (muffled, whispering): "Mmmph! Rat! Big rat!"
-DIALOGUE 9–11s: Sarah (whispering, annoyed): "You rode a BISON yesterday!"
-12–22s: The tunnel opens into a huge underground cave: the dragon pens. Dozens of small and medium dragons lie in heavy iron chains, their eyes glowing red, crying softly.
-DIALOGUE 16–20s: Old Joe (slow raspy whisper, sad): "Lord have mercy... look at them."
-22–30s: A small young green dragon looks at Sarah. For a moment its red eyes flicker to their natural gold color. It whimpers. Sarah slowly reaches out.
-DIALOGUE 25–28s: Sarah (soft): "It's okay. We're here to help you."
-Final frame: Sarah's hand almost touching the young dragon's nose; a shadow with an axe appearing behind them.
-SFX: stone door grinding, torches, dripping water, rat squeaks, muffled scream, chains rattling, dragons whimpering, a heavy footstep.
-MUSIC: quiet suspense, turning sad and gentle at the dragons, ending on a tense sting.
+CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
+Morning, the wide valley in front of Thorne Castle, fog and dust, two armies facing each other.
+0–3s: The castle gate crashes open. Prince Damian rides out on the lead war mammoth, sword raised; fifty armored mammoths thunder behind him.
+DIALOGUE 1–3s: Prince Damian (smooth arrogant voice, screaming): "CRUSH THEM!"
+3–12s: Frost raises his glowing hand and roars a deep animal call. From the hills, hundreds of American bison charge down, led by grizzly bears, Old Scar in front.
+DIALOGUE 6–9s: Frost (deep, thunderous): "WILD ONES... NOW!"
+12–22s: Slow-motion wide shot: the two stampedes crash together in the middle of the valley; dust explodes into the air; mammoths and bison push horn against tusk; bears knock soldiers off mammoths.
+DIALOGUE 16–19s: Hank (riding an elk, shouting): "YEE-HAW! Now THAT'S a rodeo!"
+22–30s: Old Scar stands up on his hind legs and roars at a mammoth twice his size; the mammoth backs away. Damian, struggling to control his mammoth, looks at the battle in shock. Final frame: dust and chaos, bison everywhere.
+DIALOGUE 27–30s: Prince Damian (shocked): "Since when do BEARS fight in wars?!"
+SFX: gate crashing, mammoth trumpets, a deep animal call, a huge bison stampede, a massive collision, roaring bears, hooves, dust, shouts.
+MUSIC: epic battle orchestra with heavy war drums and choir.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 163 | The secret tunnel led to the dragon prison... the dragons were CRYING 😢🐉 #Bigfoot #Movie #Part163
+Part 163 | 50 war mammoths vs a stampede of American bison 🦬🦣💥 #Bigfoot #Movie #Part163
 
 DOLA STATUS
 [ ] Images uploaded

@@ -1,11 +1,10 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 
 FROST: Son of the Wild
-PART 057 - "Hello, Frost"
-Punch: WOW + EMOTION
+PART 057 - "It's Time"
+Punch: EMOTION + CLIFFHANGER
 Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,23 +19,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; L06_AbandonedCabin.png -> Location AbandonedCabin.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; L06_AbandonedCabin.png -> Location AbandonedCabin.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Inside the cabin, candlelight, snow falling outside the window.
-0–3s: Lily lifts a small bundle wrapped in the old patchwork quilt. The quilt moves. A tiny white furry hand pokes out.
-DIALOGUE 1–4s: Lily (soft, breathless): "Let me see you, little one..."
-3–12s: She slowly opens the quilt: a newborn WHITE baby Bigfoot with fluffy snow-white fur, a pale-pink face and big blue eyes exactly like Lily's. Lily gasps.
-DIALOGUE 6–9s: Lily (shocked whisper): "You're... white. Like the snow."
-12–22s: The baby looks at her and grabs her finger tightly. Lily laughs and cries at the same time. Snowflakes outside start glowing softly for a moment, like magic.
-DIALOGUE 14–17s: Lily (emotional): "You have my eyes... and your papa's grip."
-DIALOGUE 18–21s: Lily (to the window, tearful smile): "Bruno, look. Look at our son."
-22–30s: She holds him close to her face; the baby makes a tiny happy grunt.
-DIALOGUE 25–29s: Lily (soft, loving): "Hello, Frost. Welcome to the world."
-Final frame: Lily kissing the baby's furry forehead, candles glowing, snow outside.
-SFX: quilt rustle, tiny baby grunts and coos, a magical chime as snowflakes glow, crackling fire.
-MUSIC: beautiful emotional orchestra with soft choir, a new gentle "Frost theme" on piano.
+Snowy night, inside the cabin, a fire in the stove, candles.
+0–3s: Lily (9 months pregnant) stands up from her chair and freezes. Water splashes on the wooden floor near her feet (shown only on the floor, tasteful).
+DIALOGUE 1–3s: Lily (soft, shocked): "Oh no... oh, it's time."
+3–12s: She grabs the edge of the table as the first contraction hits, breathing hard.
+DIALOGUE 5–8s: Lily (breathing, scared): "Okay, okay... breathe, Lily. Breathe."
+12–22s: She stumbles to the window and sees the warm lights of Martha's house in the distance through the snow. She reaches for the door... then stops.
+DIALOGUE 14–21s: Lily (whispering, torn): "If I call them... and the baby looks like his father... they'll be scared. They'll send us away."
+22–30s: She slowly locks the door and closes the curtains. She lights more candles, holding her belly, tears in her eyes but determined. Final frame: Lily alone in the candlelight, looking up.
+DIALOGUE 25–29s: Lily (whispering): "Bruno... if you can hear me... stay with me tonight."
+SFX: water drip on floor, heavy breathing, snow wind, creaking floor, door lock click, curtain, candle lighting.
+MUSIC: tense heartbeat drums, then a soft emotional choir.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +42,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 57 | She gave birth to a white Bigfoot... "Hello, Frost" 🥹❄️👶 #Bigfoot #Movie #Part57
+Part 57 | The baby is coming... and she's all alone 😰❄️ What will he look like? #Bigfoot #Movie #Part57
 
 DOLA STATUS
 [ ] Images uploaded

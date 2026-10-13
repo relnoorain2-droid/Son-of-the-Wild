@@ -1,13 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 
 FROST: Son of the Wild
-PART 062 - "Tiny Giant Trouble"
-Punch: BABY COMEDY
-Status: ready - EXTENDED CANON URL PACKAGE
+PART 062 - "A Baby Is a Baby"
+Punch: EMOTION
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,30 +19,33 @@ Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
-CHARACTER LOCK: Keep Lily, baby Frost, Martha, and the cabin exactly identical to attached references.
-LILY LOOK LOCK: Lily looks young and beautiful as a new mother, not older.
 
-Scene: Lily's small cabin, morning, baby blankets, flour sack, sunlight through wooden window.
-0-5s: Baby Frost sneezes. The sneeze blasts flour from a bowl into the air like a white cloud.
-DIALOGUE 1-4s: Lily (startled laugh): "Oh! Frost, sweetheart!"
-5-12s: Martha enters and finds Lily, baby Frost, and the table covered in flour. Frost blinks innocently.
-DIALOGUE 6-10s: Martha (trying not to laugh): "Well, I asked for white flour, not a white thunderstorm."
-12-20s: Lily tries to scold Frost gently, but Frost smiles with tiny blue eyes and reaches for her finger.
-DIALOGUE 13-17s: Lily (fake stern): "No more giant sneezes in the kitchen."
-DIALOGUE 17-20s: Martha (soft): "Good luck teaching that to a baby built like a barrel."
-20-27s: Frost sneezes again, softer this time, blowing flour only onto Martha's apron. Everyone goes silent.
-27-30s: Martha looks down, then laughs. Lily laughs too. Final frame: baby Frost giggling in Lily's arms.
-DIALOGUE 27-30s: Martha: "All right. He is adorable. I surrender."
-SFX: baby sneeze boom, flour puff, soft baby giggle, Lily laugh, Martha apron flap.
-MUSIC: playful baby comedy music with warm family ending.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; S02_MarthaHayes_FULL.png -> Martha Hayes.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Inside the cabin, soft morning light, soup spilled on the floor.
+0–3s: Lily kneels in front of Martha, holding baby Frost tightly, tears in her eyes.
+DIALOGUE 1–4s: Lily (soft, begging): "Please, Martha. Please don't tell anyone."
+3–14s: Martha slowly sits down on a chair, staring at the baby.
+DIALOGUE 5–8s: Martha (shaky Southern voice): "Honey... who was his father?"
+DIALOGUE 8–14s: Lily (emotional): "The kindest, bravest soul I ever met. He gave his life so we could live."
+14–22s: Baby Frost reaches out his tiny furry hand toward Martha's glasses. Martha hesitates, then lets him hold her finger. He smiles. Her face softens completely.
+DIALOGUE 17–21s: Martha (whispering, melting): "Oh my... look at those blue eyes. He has your eyes."
+22–30s: Martha takes the baby in her arms and rocks him gently.
+DIALOGUE 23–30s: Martha (warm, firm): "A baby's a baby, Lily. And this one's got a grandma now. Your secret's safe with me."
+Final frame: Lily hugging Martha, Frost between them grabbing Martha's glasses.
+SFX: soft crying, chair creak, baby coos, gentle rocking.
+MUSIC: warm emotional piano and strings.
+
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
 SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 62 | Baby Frost sneezed once and turned the whole cabin white. #Bigfoot #Movie #Part62
+Part 62 | "A baby's a baby. And this one's got a grandma now." 🥹❤️ #Bigfoot #Movie #Part62
 
 DOLA STATUS
 [ ] Images uploaded
@@ -53,4 +55,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-Inserted after old Part 056 before the village fear beat.

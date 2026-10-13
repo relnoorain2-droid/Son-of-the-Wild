@@ -1,11 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 
 FROST: Son of the Wild
-PART 128 - "Day After Day"
-Punch: EMOTION
+PART 128 - "The Four Trials"
+Punch: WOW + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,22 +20,26 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Montage at the Bear Rock meadow over many days and changing weather.
-0–3s: Day 2: Frost pushes the rock at sunrise, roaring. Nothing.
-DIALOGUE 1–3s: NARRATOR (deep cinematic American trailer voice): "Day after day..."
-3–12s: Day 5: pouring rain, Frost slipping in the mud, pushing again and again. Day 9: snow falling, his breath steaming, his hands wrapped in torn bandages.
-DIALOGUE 7–10s: Frost (deep, exhausted, to himself): "Come on... come ON... move!"
-12–22s: Day 12: Frost loses his temper and punches the rock with all his strength. A crack of pain — he falls back holding his hand, groaning. The rock has only a tiny scratch.
-DIALOGUE 15–18s: Frost (angry, roaring): "WHY WON'T YOU MOVE?!"
-22–30s: Evening. Lily sits next to him on the cold grass, gently wrapping his bruised hands with clean cloth.
-DIALOGUE 23–30s: Lily (soft): "Your father didn't win because he was angry, Frost. He won because he had something to protect."
-Final frame: Frost looking at his bandaged hands, thinking.
-SFX: wind, rain, snow, heavy straining, a punch impact, a pained groan, cloth wrapping.
-MUSIC: slow, heavy, determined strings, then soft piano.
+Night inside the cabin. Old Joe unrolls a very old deerskin map on the table, with four strange symbols drawn on it.
+0–3s: Old Joe taps the map with his stick.
+DIALOGUE 1–6s: Old Joe (slow raspy voice): "Orin's power sleeps in your blood. Pass his Four Trials to wake it."
+3–20s: Close-ups of the map as Old Joe points to each symbol (each glows softly blue when touched):
+DIALOGUE 6–9s: Old Joe: "STRENGTH — move the Bear Rock."
+DIALOGUE 9–13s: Old Joe: "THE WILD — earn the trust of the wildest beast."
+DIALOGUE 13–17s: Old Joe: "THE STORM — touch the lightning on Thunder Peak."
+DIALOGUE 17–21s: Old Joe: "And THE HEART... face what you fear most."
+DIALOGUE 21–24s: Lily (scared): "Joe... how many giants survived these trials?"
+20–30s: Old Joe is silent for a moment.
+DIALOGUE 24–26s: Old Joe (quietly): "Only one. Orin himself."
+Lily grabs Frost's arm in fear. Frost stands up slowly, his head almost touching the ceiling, and puts his hand on the map.
+DIALOGUE 26–29s: Frost (deep, calm, determined): "Then I'll be the second."
+Final frame: Frost's hand on the map, all four symbols glowing blue at once.
+SFX: map unrolling, stick tapping, soft magical hums for each symbol, fireplace crackle, a powerful chime at the end.
+MUSIC: mystical, building heroic theme.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +48,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 128 | 12 days of pushing... and the rock still won't move 😢💪 #Bigfoot #Movie #Part128
+Part 128 | Only ONE giant ever survived the Four Trials... Frost wants to be the second 💪⚡ #Bigfoot #Movie #Part128
 
 DOLA STATUS
 [ ] Images uploaded

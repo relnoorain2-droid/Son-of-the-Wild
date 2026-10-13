@@ -1,12 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
-K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
+K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
 V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
 
 FROST: Son of the Wild
-PART 009 - "The Trackers"
-Punch: ACTION + WOW
+PART 009 - "The Truth"
+Punch: TWIST + EMOTION
 Status: canon-safe opening version
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,23 +20,24 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep Lily and King Magnus identical to attached images. Dark Bigfoot guards and red dragon stay Western fantasy, not Asian.
+CHARACTER LOCK: Keep Lily, Rose, and animal references identical to attached images. Lily is 22, innocent, beautiful, blue eyes, honey-blonde hair.
 
-Scene: Night castle courtyard lit by torches, alarm bells ringing, Western dark-fantasy castle in the Pacific Northwest forest.
-0-3s: Lily drops from the bedsheet rope into a haystack, rolls out, and runs toward a side gate.
-DIALOGUE 1-3s: Lily (out of breath, determined): "Okay... just run."
-3-12s: Guards rush past with lanterns. A dark Bigfoot guard stands nearby and sniffs the air, alert but not chained. Lily hides behind a cart and holds her breath.
-12-18s: The red Western dragon on the tower wakes up, glowing eyes scanning the courtyard. King Magnus appears on a high balcony in a black fur cloak.
-DIALOGUE 13-17s: King Magnus (deep booming voice): "She ran? Then the forest will hide the truth."
-DIALOGUE 17-19s: Prince Damian (off-screen, angry): "Find her!"
-18-26s: Lily tears the long train from her gown so she can run, sprints through the side gate, and slides under it at the last second as it closes.
-DIALOGUE 23-26s: King Magnus (cold): "Send the trackers."
-26-30s: Trained wolf trackers leap from the courtyard and sniff Lily's trail toward the forest gate. Final frame: Lily disappearing into the moonlit trees.
-SFX: alarm bells, haystack thump, running footsteps, guards shouting, Bigfoot sniffing, dragon breathing, fabric ripping, gate grinding, wolves howling.
-MUSIC: intense action orchestra with fast drums and brass.
+Scene: Lily's castle bedroom at night, candles almost burned out, storm wind outside.
+0-3s: Lily steps close to Rose, desperate but gentle.
+DIALOGUE 0-3s: Lily (soft but urgent): "Rose, tell me the truth. Please."
+3-8s: Rose closes the door and whispers, crying quietly.
+DIALOGUE 3-10s: Rose (old nervous maid, whispering): "Every month a new bride. After the ceremony, guards escort her to the forbidden forest gate."
+8-18s: Flashback in cold blue moonlight: a young bride is escorted through a huge iron gate into a dark forest. The gate closes behind her. Glowing animal eyes appear far between the trees. Cut away before any harm is shown.
+DIALOGUE 11-17s: Rose (voice-over): "After that, the kingdom says the forest took her."
+18-25s: Back to Lily. She steps back, shaking, then becomes determined.
+DIALOGUE 19-23s: Lily (whispering): "Then I leave before he takes me there."
+25-30s: Footsteps and laughter approach in the hallway. Lily grabs a silver tray from the table, ready to improvise. Final frame: the door handle turning.
+DIALOGUE 25-29s: Rose (terrified whisper): "He's coming!"
+SFX: door lock click, forest wind, distant wolf howl, footsteps, door handle turning.
+MUSIC: dark emotional strings, rising suspense drums.
 
 GLOBAL RULES:
-AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, vertical 9:16. SETTING: Fully American / Western, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no restraints, no chains, no graphic animal attack, no nudity.
+AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, vertical 9:16. SETTING: Fully American / Western, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no graphic harm, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 9 | Lily escapes the castle... and the king sends trackers into the forest. #Bigfoot #Movie #Part9
+Part 9 | Rose reveals the forest secret. Lily has one chance to run. #Bigfoot #Movie #Part9

@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
 S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
 S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 069 - "Home Run"
-Punch: FUN + WOW
+PART 069 - "Cannonball!"
+Punch: FUN
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,22 +21,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S05_TommyMiller_FULL.png -> Tommy Miller; S03_HankMiller_FULL.png -> Hank Miller; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S05_TommyMiller_FULL.png -> Tommy Miller; S03_HankMiller_FULL.png -> Hank Miller.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Sunny afternoon, a dusty small-town baseball field in Cedar Hollow, wooden bleachers full of villagers, an American flag on a pole.
-0–3s: Kid Frost holds a wooden baseball bat that looks like a toothpick in his huge hands.
-DIALOGUE 1–3s: Hank (as umpire, deep rural voice): "Batter up!"
-3–12s: Tommy pitches. Frost swings — CRACK! The ball flies straight up into the sky and disappears into the clouds. Everyone looks up, waiting.
-DIALOGUE 7–10s: Tommy (shocked young boy): "Where... where did it go?"
-DIALOGUE 10–12s: Kid Frost (nervous): "Um... space?"
-12–22s: Quick comedic cut: the crowd still looking up, eating popcorn. Martha falls asleep. A dog lies down. The sun moves across the sky.
-DIALOGUE 17–20s: NARRATOR (deep trailer voice, deadpan): "Two hours later..."
-22–30s: The ball finally falls from the sky and lands right in Frost's hand. The crowd goes wild.
-DIALOGUE 25–30s: Hank (laughing): "I don't know if that's a home run or a moon landing!"
-Final frame: villagers lifting Frost (with a lot of effort) and cheering.
-SFX: bat crack, whistle of the ball flying away, crickets, popcorn crunching, snoring, falling whistle, catch thump, cheering crowd.
-MUSIC: classic American ballpark organ tune, then triumphant brass.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Bright summer day at a lake near Cedar Hollow, families having a picnic, pine trees, mountains.
+0–3s: Kid Frost runs down a wooden dock at full speed and jumps high into the air.
+DIALOGUE 1–3s: Kid Frost (cheerful young boy voice, slightly deep): "CANNONBAAALL!"
+3–10s: He hits the lake; a giant wave flies up and completely soaks the entire village picnic: sandwiches, pies, and Hank in his cowboy hat.
+DIALOGUE 5–10s: NARRATOR (deep cinematic American trailer voice): "Two summers later... Frost had grown faster than any child in America."
+10–20s: Everyone stands frozen and dripping. Hank slowly lifts his soaked hat; a small fish flops out of it.
+DIALOGUE 13–16s: Hank (deep rural voice, deadpan): "...Lily."
+DIALOGUE 16–20s: Lily (trying not to laugh): "Frost Carter, get out of that lake right now!"
+20–30s: Frost pops up from the water with a huge innocent smile, Tommy and Sarah cheering on his shoulders. Everyone bursts out laughing, even Hank. Final frame: the whole picnic laughing, soaked.
+DIALOGUE 23–26s: Tommy (excited young boy): "Do it again, Frost! Do it again!"
+DIALOGUE 26–30s: Kid Frost (grinning): "Mom said no... but she didn't say no TWICE!"
+SFX: running on a wooden dock, a giant splash, wave crash, dripping water, fish flop, laughter.
+MUSIC: bright, bouncy American summer country-pop with banjo and drums.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +46,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 69 | Bigfoot plays baseball... the ball came back 2 hours later ⚾😂 #Bigfoot #Movie #Part69
+Part 69 | When a Bigfoot kid does a cannonball at the town picnic 😂🌊 #Bigfoot #Movie #Part69
 
 DOLA STATUS
 [ ] Images uploaded

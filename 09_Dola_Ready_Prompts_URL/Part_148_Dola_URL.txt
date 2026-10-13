@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+C06_ElderOrin_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C06_ElderOrin/C06_ElderOrin_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
+V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
 
 FROST: Son of the Wild
-PART 148 - "He Can Fly?!"
-Punch: WOW + FUN
+PART 148 - "Three Generations"
+Punch: WOW + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,20 +21,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V13_Sarah_Adult.png -> Variant Sarah_Adult; S02_MarthaHayes_FULL.png -> Martha Hayes; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V09_Bruno_Spirit.png -> Variant Bruno_Spirit; C06_ElderOrin_FULL.png -> Elder Orin; V04_Lily_VillageMom.png -> Variant Lily_VillageMom.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Daytime above the redwood forest, then Cedar Hollow main street.
-0–3s: Powered Frost crouches on a cliff and jumps. Instead of falling, he flies forward through the air in a giant leap, blue energy trailing behind him like a comet.
-DIALOGUE 1–3s: Frost (deep, laughing with joy): "WHOOOAAA!"
-3–12s: He soars over the treetops, over a waterfall, past a flock of geese (one goose stares at him in shock), over the river.
-DIALOGUE 7–10s: Frost (deep, amazed): "Dad, are you seeing this?!"
-12–22s: In Cedar Hollow, Martha is hanging laundry. A shadow passes over her. She looks up, squints, and adjusts her glasses.
-DIALOGUE 16–20s: Martha (warm Southern voice): "Is that an eagle? A hot-air balloon? ...Is that FROST?"
-22–30s: Frost lands in the middle of Main Street with a huge BOOM; a ring of dust and wind blows all of Martha's laundry away. Grown-up Sarah runs up laughing. Final frame: a pair of Hank's underwear landing on Frost's head.
-DIALOGUE 26–29s: Martha (hands on hips): "Young man, you are picking up every sock."
-SFX: a jump whoosh, rushing wind, joyful shout, geese honking, laundry flapping, a huge landing boom, dust whoosh, laughter.
-MUSIC: soaring, joyful adventure theme, ending with a comedic sting.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Night at Bruno's grave by the river, the spirits in the sky.
+0–3s: Elder Orin's spirit touches his staff to Bruno's head; a river of blue light flows from grandfather into father.
+DIALOGUE 1–3s: Elder Orin (ancient echoing voice): "From me... to my son."
+3–12s: Bruno's spirit reaches down from the sky and places his giant glowing hand on Frost's chest, over the crescent patch. The blue light pours from father into son.
+DIALOGUE 5–9s: Bruno (spirit voice, deep and warm): "From me... to MY son."
+12–22s: Frost rises into the air, glowing. Electric-blue tattoos spread across his arms, chest and face, connecting the four trial marks into one powerful pattern. His fur shines silver. His eyes blaze blue. Lightning dances around him.
+DIALOGUE 16–20s: Bruno (spirit, proud): "I am proud of you, Frost. Protect them. Always."
+22–30s: Frost lands softly, transformed into his powered form. Bruno's spirit looks down at Lily. She looks up, crying.
+DIALOGUE 24–28s: Bruno (spirit, gentle): "Lily... be happy. Bruno love you. Forever."
+DIALOGUE 28–30s: Lily (whispering, smiling through tears): "Forever."
+Final frame: the spirits fading into the stars; powered Frost and Lily holding hands at the grave.
+SFX: massive magical energy surge, electric crackling, wind, a deep heartbeat, a soft landing, the spirits' echoing voices fading.
+MUSIC: the biggest emotional climax so far: full orchestra and choir with Bruno's love theme.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +46,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 148 | Is it an eagle? A balloon? No... it's FROST 😂🦸 #Bigfoot #Movie #Part148
+Part 148 | Grandfather → Father → Son ⚡ Frost finally has the POWER! "I am proud of you" 😭 #Bigfoot #Movie #Part148
 
 DOLA STATUS
 [ ] Images uploaded

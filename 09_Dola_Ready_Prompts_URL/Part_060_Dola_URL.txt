@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 
 FROST: Son of the Wild
-PART 060 - "A Baby Is a Baby"
-Punch: EMOTION
-Status: ready - URL PACKAGE
+PART 060 - "Strong Baby"
+Punch: FUN + CLIFFHANGER
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,23 +20,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; S02_MarthaHayes_FULL.png -> Martha Hayes.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; L06_AbandonedCabin.png -> Location AbandonedCabin.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Inside the cabin, soft morning light, soup spilled on the floor.
-0–3s: Lily kneels in front of Martha, holding baby Frost tightly, tears in her eyes.
-DIALOGUE 1–4s: Lily (soft, begging): "Please, Martha. Please don't tell anyone."
-3–14s: Martha slowly sits down on a chair, staring at the baby.
-DIALOGUE 5–8s: Martha (shaky Southern voice): "Honey... who was his father?"
-DIALOGUE 8–14s: Lily (emotional): "The kindest, bravest soul I ever met. He gave his life so we could live."
-14–22s: Baby Frost reaches out his tiny furry hand toward Martha's glasses. Martha hesitates, then lets him hold her finger. He smiles. Her face softens completely.
-DIALOGUE 17–21s: Martha (whispering, melting): "Oh my... look at those blue eyes. He has your eyes."
-22–30s: Martha takes the baby in her arms and rocks him gently.
-DIALOGUE 23–30s: Martha (warm, firm): "A baby's a baby, Lily. And this one's got a grandma now. Your secret's safe with me."
-Final frame: Lily hugging Martha, Frost between them grabbing Martha's glasses.
-SFX: soft crying, chair creak, baby coos, gentle rocking.
-MUSIC: warm emotional piano and strings.
+Next morning, inside the cabin, bright winter sunlight.
+0–3s: Lily, tired but happy, tries to feed baby Frost; he grabs a lock of her hair and won't let go.
+DIALOGUE 1–4s: Lily (laughing, in pain): "Ow, ow! Frost, that's Mommy's hair!"
+3–12s: She gives him the painted wooden toy horse; he squeezes it and it cracks in half. Lily stares.
+DIALOGUE 6–10s: Lily (shocked): "One day old... and you just broke a horse."
+12–22s: Frost tries to roar like his father; only a tiny squeaky "roar" comes out. Lily bursts out laughing. Frost looks offended and tries again — this time a little louder, and a cup falls off the shelf.
+DIALOGUE 16–19s: Lily (laughing, proud): "Okay, okay! That one was scary!"
+22–30s: Knock, knock, knock. Lily freezes.
+DIALOGUE 24–28s: Martha (warm Southern voice, from outside): "Lily, honey? I brought you some soup! Open up, it's freezing!"
+Final frame: Lily looking in panic between the door and the furry white baby.
+DIALOGUE 28–30s: Lily (whispering): "Oh no."
+SFX: baby grunts, hair tug, wood cracking, tiny squeaky roar, louder baby roar, cup falling, knocking.
+MUSIC: playful comedic strings, a sudden stop with the knock.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 60 | "A baby's a baby. And this one's got a grandma now." 🥹❤️ #Bigfoot #Movie #Part60
+Part 60 | One day old and already breaking toys 😂 ...then grandma knocked 😳 #Bigfoot #Movie #Part60
 
 DOLA STATUS
 [ ] Images uploaded

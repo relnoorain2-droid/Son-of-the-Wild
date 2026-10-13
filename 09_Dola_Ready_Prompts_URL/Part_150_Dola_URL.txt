@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
-S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
 
 FROST: Son of the Wild
-PART 150 - "The People Will Rise"
-Punch: TWIST + CLIFFHANGER
+PART 150 - "He Can Fly?!"
+Punch: WOW + FUN
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,25 +21,20 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S11_Rose_FULL.png -> Rose; K09_Wolves.png -> Creature Wolves.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V13_Sarah_Adult.png -> Variant Sarah_Adult; S02_MarthaHayes_FULL.png -> Martha Hayes; L07_Village.png -> Location Village.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
-Night, at the edge of the forest near Cedar Hollow.
-0–3s: Powered Frost stands on a rock and lets out a long, deep roar into the forest; his tattoos glow.
-DIALOGUE 1–3s: Frost (deep roar, powerful): "WILD ONES... I NEED YOU!"
-3–12s: From every direction, thousands of glowing eyes appear in the dark: wolves, bears, elk, bison, mountain lions, eagles landing in the trees. Old Scar walks to the front.
-DIALOGUE 7–10s: NARRATOR (deep cinematic American trailer voice): "The wild answered."
-12–22s: Suddenly an old woman stumbles out of the trees, exhausted, her black maid's dress torn: Rose, the castle maid, now older and greyer. Lily gasps.
-DIALOGUE 14–16s: Lily (shocked): "Rose?! Is that you?"
-DIALOGUE 16–21s: Rose (old, tired, British-accented voice): "Miss Lily! You haven't aged a day! I escaped the castle to find you."
-22–30s: Rose grabs Frost's hand.
-DIALOGUE 21–28s: Rose (urgent, emotional): "The king's own people are starving, beaten, afraid. If you march on Thorne Castle... they will rise with you."
-Final frame: Frost looking toward the distant dark castle on the horizon, the army of animals behind him, his eyes glowing.
-DIALOGUE 28–30s: Frost (deep, determined): "Then we march."
-SFX: a long roar, echoing, thousands of animal footsteps, wolves howling, eagle cries, stumbling footsteps, gasps, wind.
-MUSIC: a powerful rising war anthem with drums, choir and brass.
+Daytime above the redwood forest, then Cedar Hollow main street.
+0–3s: Powered Frost crouches on a cliff and jumps. Instead of falling, he flies forward through the air in a giant leap, blue energy trailing behind him like a comet.
+DIALOGUE 1–3s: Frost (deep, laughing with joy): "WHOOOAAA!"
+3–12s: He soars over the treetops, over a waterfall, past a flock of geese (one goose stares at him in shock), over the river.
+DIALOGUE 7–10s: Frost (deep, amazed): "Dad, are you seeing this?!"
+12–22s: In Cedar Hollow, Martha is hanging laundry. A shadow passes over her. She looks up, squints, and adjusts her glasses.
+DIALOGUE 16–20s: Martha (warm Southern voice): "Is that an eagle? A hot-air balloon? ...Is that FROST?"
+22–30s: Frost lands in the middle of Main Street with a huge BOOM; a ring of dust and wind blows all of Martha's laundry away. Grown-up Sarah runs up laughing. Final frame: a pair of Hank's underwear landing on Frost's head.
+DIALOGUE 26–29s: Martha (hands on hips): "Young man, you are picking up every sock."
+SFX: a jump whoosh, rushing wind, joyful shout, geese honking, laundry flapping, a huge landing boom, dust whoosh, laughter.
+MUSIC: soaring, joyful adventure theme, ending with a comedic sting.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -48,7 +43,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 150 | The wild answered his call... and Rose came back with a secret 🐺🦅👑 #Bigfoot #Movie #Part150
+Part 150 | Is it an eagle? A balloon? No... it's FROST 😂🦸 #Bigfoot #Movie #Part150
 
 DOLA STATUS
 [ ] Images uploaded

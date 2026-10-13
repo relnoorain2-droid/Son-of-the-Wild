@@ -1,10 +1,10 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L01_LilyHouse.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L01_LilyHouse/L01_LilyHouse.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
-V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
 
 FROST: Son of the Wild
-PART 155 - "I'm Scared Too"
+PART 155 - "Not Yet, Mama"
 Punch: EMOTION
 Status:-assets
 
@@ -20,22 +20,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V12_Tommy_Adult.png -> Variant Tommy_Adult; V13_Sarah_Adult.png -> Variant Sarah_Adult.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V08_Frost_Powered.png -> Variant Frost_Powered; L01_LilyHouse.png -> Location LilyHouse.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Night in the army camp, campfires, tents, quiet.
-0–3s: Tommy sits alone by a dying campfire, sharpening an old pitchfork, hands shaking.
-DIALOGUE 1–4s: Tommy (young man, quiet): "Hey, Frost... can I tell you something?"
-3–12s: Frost sits down next to him; the ground shakes a little.
-DIALOGUE 4–9s: Tommy (embarrassed): "I'm scared. Like, really scared. Everybody thinks I'm brave. I'm not."
-12–22s: Frost looks at the fire.
-DIALOGUE 13–22s: Frost (deep, honest): "Tommy, I'm scared too. Every single day. Remember the frozen lake? I was terrified. But you were in that water... so I went in."
-DIALOGUE 22–24s: Tommy (small smile): "Yeah. You did."
-22–30s: Sarah sits down on Frost's other side. The three friends sit together like when they were kids, looking at the stars.
-DIALOGUE 25–29s: Sarah (soft): "Same as always. The three of us. Together."
-Final frame: three friends by the fire, the castle's red glow far away on the horizon.
-SFX: campfire, crickets, a whetstone scraping metal, soft laughter.
-MUSIC: warm, nostalgic acoustic guitar.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Evening, Millbrook, Oregon: Lily's old small hometown, the same poor wooden house with peeling white paint and a rusty mailbox. Brief location title card at bottom for 2 seconds: "MILLBROOK, OREGON".
+0–3s: Lily stands across the street from her old house, frozen.
+DIALOGUE 1–3s: Lily (soft, emotional whisper): "Nothing has changed..."
+3–12s: Through the window, the silhouette of an old woman with a grey bun moves slowly in the kitchen, setting two plates on the table — one for herself, one empty.
+DIALOGUE 6–10s: Lily (crying): "She still sets a plate for me. After all these years."
+12–22s: Frost, standing behind a tree so he doesn't scare anyone, puts his hand on her shoulder.
+DIALOGUE 14–17s: Frost (deep, gentle): "Go to her, Mom. She's right there."
+DIALOGUE 17–22s: Lily (shaking her head): "If the king finds out she's alive, he'll use her against us. Not yet."
+22–30s: Lily walks to the mailbox and secretly leaves a small blue wildflower, picked from Bruno's grave, inside it. She looks at the window one more time.
+DIALOGUE 25–29s: Lily (whispering): "Not yet, Mama. When this is over... I'm coming home."
+Final frame: the old woman's silhouette in the window, the flower in the mailbox.
+SFX: quiet street, crickets, a dog barking far away, plates clinking inside, mailbox creak.
+MUSIC: deeply emotional piano and violin.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 155 | "I'm scared." "Me too, every day." 🥺🔥 Three best friends before the war #Bigfoot #Movie #Part155
+Part 155 | She saw her mother through the window after all these years... "Not yet, Mama" 😭🏠 #Bigfoot #Movie #Part155
 
 DOLA STATUS
 [ ] Images uploaded

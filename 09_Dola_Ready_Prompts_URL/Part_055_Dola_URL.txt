@@ -1,11 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
 V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 
 FROST: Son of the Wild
-PART 055 - "It's Time"
-Punch: EMOTION + CLIFFHANGER
-Status:-assets
+PART 055 - "Months Go By"
+Punch: FUN + EMOTION
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -19,21 +21,25 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; L06_AbandonedCabin.png -> Location AbandonedCabin.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; S02_MarthaHayes_FULL.png -> Martha Hayes; S05_TommyMiller_FULL.png -> Tommy Miller; S06_SarahMiller_FULL.png -> Sarah Miller.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Snowy night, inside the cabin, a fire in the stove, candles.
-0–3s: Lily (9 months pregnant) stands up from her chair and freezes. Water splashes on the wooden floor near her feet (shown only on the floor, tasteful).
-DIALOGUE 1–3s: Lily (soft, shocked): "Oh no... oh, it's time."
-3–12s: She grabs the edge of the table as the first contraction hits, breathing hard.
-DIALOGUE 5–8s: Lily (breathing, scared): "Okay, okay... breathe, Lily. Breathe."
-12–22s: She stumbles to the window and sees the warm lights of Martha's house in the distance through the snow. She reaches for the door... then stops.
-DIALOGUE 14–21s: Lily (whispering, torn): "If I call them... and the baby looks like his father... they'll be scared. They'll send us away."
-22–30s: She slowly locks the door and closes the curtains. She lights more candles, holding her belly, tears in her eyes but determined. Final frame: Lily alone in the candlelight, looking up.
-DIALOGUE 25–29s: Lily (whispering): "Bruno... if you can hear me... stay with me tonight."
-SFX: water drip on floor, heavy breathing, snow wind, creaking floor, door lock click, curtain, candle lighting.
-MUSIC: tense heartbeat drums, then a soft emotional choir.
+CAST NOTE: Hank = a sturdy farmer, grey-brown beard, worn cowboy hat, plaid shirt, overalls.
+A warm montage around the cabin and the village, seasons changing from fall to first snow.
+0–3s: Lily (now around 8 months pregnant) fixes the cabin roof with a hammer, Hank holding the ladder nervously.
+DIALOGUE 1–4s: Hank (deep friendly rural voice, worried): "Ma'am, please let me do that!"
+3–12s: Montage: Lily painting the cabin, planting flowers; Martha knitting tiny baby socks (very big ones, by mistake); Lily laughing at the giant socks.
+DIALOGUE 6–10s: Martha (warm Southern voice): "I don't know why, but I made them extra big."
+DIALOGUE 10–12s: Lily (nervous laugh): "They might... fit perfectly."
+12–22s: Tommy and Sarah (7, blonde pigtails, teddy bear) bring her a wooden toy horse they made.
+DIALOGUE 14–17s: Sarah (small cute girl voice): "It's for the baby! I painted it myself!"
+DIALOGUE 17–21s: Tommy (excited): "And I didn't help at all. That's why it's ugly."
+22–30s: First snow falls. Lily stands at her cabin door, hand on her big belly, watching the snow with a soft smile.
+DIALOGUE 23–28s: Martha (off-screen, calling): "When that baby comes, you send for me right away, you hear?"
+DIALOGUE 28–30s: Lily (whispering to the snow): "Like the first snow... Frost."
+SFX: hammer, ladder creak, paintbrush, knitting needles, kids laughing, gentle snowfall wind.
+MUSIC: warm, happy Americana with soft piano, turning magical as the snow falls.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -42,7 +48,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 55 | The baby is coming... and she's all alone 😰❄️ What will he look like? #Bigfoot #Movie #Part55
+Part 55 | Grandma Martha knitted baby socks... extra big 😂🧦 #Bigfoot #Movie #Part55
 
 DOLA STATUS
 [ ] Images uploaded

@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 104 - "It's My Fault"
-Punch: EMOTION + TWIST
+PART 104 - "Gone Fishing"
+Punch: TWIST
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,22 +21,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; C05_Frost_FULL.png -> Frost; S03_HankMiller_FULL.png -> Hank Miller; S10_Villagers.png -> optional background group, skip unless you want crowd continuity.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; S07_CaptainVex_FULL.png -> Captain Vex; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; L07_Village.png -> Location Village.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Sunset on a hill above Cedar Hollow, a small cemetery with simple fresh wooden crosses, villagers in dark clothes, a fiddle lying on one grave.
-0–3s: Villagers stand silently around the new graves. A fiddle rests on one of them — the fiddle player who started the village song.
-DIALOGUE 1–4s: NARRATOR (deep cinematic American trailer voice): "Cedar Hollow lost seven good people that day."
-3–12s: Hank, his arm in a sling, places a hat on a grave. Tommy holds his father's shoulder.
-DIALOGUE 5–13s: Hank (deep voice, broken): "They asked for the white one... and his mother. A king on a dragon. Who in God's name are these people, Lily?"
-12–22s: Everyone turns to Lily. She falls to her knees in front of the graves, crying.
-DIALOGUE 14–19s: Lily (sobbing): "It's my fault. They came for me. I brought this on all of you."
-22–30s: Martha kneels and holds her. Frost stands behind them, his fists slowly clenching, a tiny blue spark crackling between his fingers.
-DIALOGUE 25–29s: Frost (deep, quiet, dangerous): "Mom. Who is the king?"
-Final frame: close-up of Frost's blue eyes, starting to glow.
-SFX: wind, crows, quiet sobbing, a soft electric crackle.
-MUSIC: sad funeral violin, then a low tense drone.
+The burning town square of Cedar Hollow, smoke everywhere.
+0–3s: The red dragon lands in the square with a ground-shaking thud. King Magnus, older and greyer in black iron armor, steps down.
+DIALOGUE 1–3s: King Magnus (deep rough menacing voice): "Where is the white beast?"
+3–12s: Captain Vex drags Old Joe forward and throws him to the ground in front of the king.
+DIALOGUE 5–7s: Captain Vex (harsh voice): "Answer the king, old man!"
+DIALOGUE 7–11s: Old Joe (slow raspy voice, calm and defiant, slowly getting up): "Gone fishing. You just missed him."
+12–22s: King Magnus leans down to Old Joe's face.
+DIALOGUE 14–19s: King Magnus (cold, quiet): "Then give him a message. Tell him... and tell his mother... Thorne never forgets."
+22–30s: The king raises his staff; red lightning blasts the town's church bell tower and it crashes down. He climbs back onto his dragon. Final frame: Old Joe watching the dragon fly away, holding the little carved Bigfoot in his fist.
+DIALOGUE 26–29s: Old Joe (whispering to the sky): "And Orin's blood never forgets either."
+SFX: dragon landing thud, armor clanking, fire crackling, body thrown on dirt, red lightning blast, bell tower collapsing, a bell clanging as it falls, wing beats.
+MUSIC: dark villain theme, a huge crashing hit for the bell tower.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 104 | "They came for me... it's my fault." 😢 Frost wants answers #Bigfoot #Movie #Part104
+Part 104 | "Where is the white beast?" "Gone fishing." 😤 #Bigfoot #Movie #Part104
 
 DOLA STATUS
 [ ] Images uploaded

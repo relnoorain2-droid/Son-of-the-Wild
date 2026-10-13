@@ -1,10 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
+K10_MountainLion.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K10_MountainLion/K10_MountainLion.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
 
 FROST: Son of the Wild
-PART 136 - "The Climb"
-Punch: ACTION
-Status: ready
+PART 136 - "King of the Wild"
+Punch: WOW
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -18,21 +21,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; K09_Wolves.png -> Creature Wolves; K10_MountainLion.png -> Creature MountainLion.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Thunder Peak, halfway up: black icy cliffs, freezing wind, snow and rain blowing sideways, lightning all around.
-0–3s: Frost climbs a vertical icy wall; the ice cracks under his hand and he slides down several feet before catching a rock.
-DIALOGUE 1–3s: Frost (deep, straining): "Whoa— got it! Got it..."
-3–12s: A huge gust of wind slams into him; he flattens himself against the cliff. Rocks fall from above; one hits his shoulder.
-DIALOGUE 6–9s: Frost (gritting teeth): "Is that all you've got?!"
-12–22s: Thunder answers. A massive rockslide pours down the mountain toward him. He jumps sideways across a deep crack, barely grabbing the other side with one hand, his legs hanging over a huge drop.
-DIALOGUE 16–18s: Frost (breathing hard): "Okay... okay, don't look down."
-DIALOGUE 18–20s: He looks down. (comedic pause) "I looked down."
-22–30s: He pulls himself up with a roar and keeps climbing, ice in his fur, eyes on the storm above. Final frame: Frost silhouetted against a giant lightning bolt.
-DIALOGUE 27–29s: Frost (deep, determined): "Keep going. Just keep going."
-SFX: ice cracking, sliding, howling wind, falling rocks, a rock impact, thunder, a huge rockslide, a desperate grab, heavy climbing.
-MUSIC: intense climbing action score with pounding drums.
+CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
+The Deep Wild, sunrise, golden light through the giant trees.
+0–3s: Old Scar slowly walks up to Frost, lowers his giant head, and touches his forehead to Frost's chest.
+DIALOGUE 1–3s: Frost (deep whisper, amazed): "...Thank you."
+3–14s: All around them, the animals of the Deep Wild step out of the fog: wolves, mountain lions, elk with huge antlers, bison, a bald eagle landing on a branch. One by one, they all bow their heads to Frost.
+DIALOGUE 7–11s: NARRATOR (deep cinematic American trailer voice): "The wild does not follow the strongest... it follows the kindest."
+14–22s: A burning blue light runs down Frost's LEFT forearm and forms a second glowing mark, matching the first. He holds both arms up, staring.
+DIALOGUE 17–19s: Frost (deep, emotional): "Two."
+22–30s: Frost walks out of the Deep Wild. Old Scar walks beside him like a giant dog, the three cubs riding on his back, and the animals follow. Old Joe is waiting at the edge of the forest; his jaw drops. Final frame: Frost leading a parade of wild animals out of the forest.
+DIALOGUE 26–29s: Old Joe (slow raspy voice, smiling): "Trial two... complete. Show-off."
+SFX: soft bear breathing, animal footsteps, wolves, an eagle screech, a magical burning hum, heavy paws, cubs squeaking.
+MUSIC: majestic, emotional orchestra with choir.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -41,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 136 | Ice, wind, rockslides... and he looked down 😱⛰️ #Bigfoot #Movie #Part136
+Part 136 | The whole forest bowed to Frost 🐻🐺🦅 TRIAL 2 COMPLETE ✅ #Bigfoot #Movie #Part136
 
 DOLA STATUS
 [ ] Images uploaded

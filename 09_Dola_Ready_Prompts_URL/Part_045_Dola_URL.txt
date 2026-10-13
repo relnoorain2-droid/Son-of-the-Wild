@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
-L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
+K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 045 - "Alive"
-Punch: FUN + EMOTION
-Status:-assets
+PART 045 - "The Last Stand"
+Punch: EMOTION + ACTION
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,22 +21,20 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; L05_River.png -> Location River; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C04_Bruno_FULL.png -> Bruno; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; K01_DarkBigfoot.png -> Creature DarkBigfoot; K02_RedDragon.png -> Creature RedDragon.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Early morning, a calm river bank covered in mist, pine forest, soft golden light.
-0–3s: Close-up of Lily (pregnant, around 6 months, blonde, blue eyes) lying unconscious on the pebbles. A big moose lowers its head and licks her face. Her eyes snap open.
-DIALOGUE 1–3s: Lily (soft young American woman, startled): "Ahh! What—?!"
-3–10s: The moose snorts at her, unimpressed, and slowly walks away. Lily sits up, confused, wet and shivering, then laughs weakly.
-DIALOGUE 5–8s: Lily (breathless laugh): "Okay... okay, I'm alive. Thank you, Mr. Moose."
-10–22s: She remembers. Her smile disappears. She looks back at the river and the distant smoke on the horizon.
-DIALOGUE 12–16s: Lily (whispering, breaking down): "Bruno... you said we'd go together."
-DIALOGUE 17–21s: She puts both hands on her belly, crying: "It's just you and me now, little one."
-22–30s: She feels a kick, gasps, and smiles through her tears. Final frame: Lily standing up slowly on the riverbank, looking downstream where a thin line of chimney smoke rises over the trees.
-DIALOGUE 25–28s: Lily (soft, determined): "Then we keep going. For your papa."
-SFX: calm river, birds, moose snort and heavy footsteps, crying, a soft heartbeat, wind.
-MUSIC: soft sad piano, turning hopeful at the end.
+Riverbank at sunset, orange sky, smoke, the whole army in front of Bruno.
+0–3s: Bruno stands alone, wounded, facing dark Bigfoots, soldiers and the red dragon with King Magnus on its back.
+DIALOGUE 0–3s: King Magnus (deep cold voice): "Where is the girl, beast?"
+3–8s: Bruno smiles.
+DIALOGUE 4–7s: Bruno (deep, proud, calm): "Gone. Where you never find her."
+8–20s: Bruno roars and charges into the army in slow motion. He throws soldiers, knocks down two dark Bigfoots, and grabs a small dragon out of the air. Shot in silhouette against the orange sunset, heroic.
+DIALOGUE 12–15s: NARRATOR (deep cinematic trailer voice): "He fought for every second she needed."
+20–30s: King Magnus raises his staff; a huge red lightning blast hits Bruno. In slow motion, Bruno falls to his knees, looks toward the river one last time and smiles. Then he slowly falls forward into the grass, in silhouette. No blood, no gore. Final frame: Bruno's open hand resting in the grass; beside it, a single small blue wildflower slowly blooms in the sunset light.
+DIALOGUE 26–29s: Bruno (deep final whisper): "Be... happy... Lily."
+SFX: battle cries, roars, impacts, dragon screech, magical lightning blast, heavy fall, then total silence, wind.
+MUSIC: epic tragic choir and orchestra, fading to a single soft violin note.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +43,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 45 | She woke up to a moose licking her face 😅🫎 ...then she remembered everything 💔 #Bigfoot #Movie #Part45
+Part 45 | He fought the whole army so she could live 💔🖤 RIP Bruno #Bigfoot #Movie #Part45
 
 DOLA STATUS
 [ ] Images uploaded

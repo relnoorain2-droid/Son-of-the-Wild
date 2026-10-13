@@ -1,12 +1,14 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+C04_Bruno_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FACE.png
 C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 033 - "Baby Name Fight"
-Punch: FUN + HEART
-Status: ready - EXTENDED CANON URL PACKAGE
+PART 033 - "We're Having a Baby!"
+Punch: EMOTION + FUN
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -19,32 +21,34 @@ Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
-CHARACTER LOCK: Keep pregnant Lily and Bruno exactly identical to the attached references.
-LILY LOOK LOCK: Lily looks young, beautiful, soft fair face, big blue eyes, honey-blonde hair, pregnant but not older.
 
-Scene: Warm cave at night, handmade baby cradle, soft firelight, rain outside, carved wooden toys.
-0-5s: Bruno proudly carves a tiny wooden sign for the cradle. It reads only as rough marks, not readable text.
-DIALOGUE 1-4s: Bruno (proud): "Baby name should be Rock. Strong name."
-5-11s: Lily stops folding a tiny blanket and stares at him.
-DIALOGUE 5-8s: Lily (deadpan): "I am not naming my child Rock."
-DIALOGUE 8-11s: Bruno (defensive): "Rock never run away."
-11-18s: Lily suggests sweet names. Bruno keeps rejecting them with serious Bigfoot logic.
-DIALOGUE 11-14s: Lily: "What about Hope?"
-DIALOGUE 14-17s: Bruno: "Hope too small. Baby kick like mountain."
-18-25s: Snowflakes drift through the cave opening even though it is early season. Lily catches one on her finger.
-DIALOGUE 19-23s: Lily (soft): "Then maybe something from the snow... if winter comes early."
-25-30s: Bruno touches Lily's belly gently. The baby kicks; both laugh. Final frame: snow drifting outside the warm cave.
-DIALOGUE 25-29s: Bruno (whisper): "Tiny snow mountain."
-SFX: wood carving, fire crackle, rain softening, tiny kick, Lily laugh, Bruno chuckle.
-MUSIC: gentle family theme with a playful warm ending.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; C04_Bruno_FACE.png -> Bruno; L03_DeepForest.png -> Location DeepForest.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Morning, sunlit meadow near the river.
+0–3s: Lily takes Bruno's huge hand and gently places it on her belly.
+DIALOGUE 1–4s: Lily (soft, nervous, smiling): "Bruno... we're going to have a baby."
+3–12s: Bruno freezes. His eyes slowly fill with tears. He looks at her belly, then her face.
+DIALOGUE 6–9s: Bruno (deep, trembling whisper): "Baby? Bruno... be a father?"
+DIALOGUE 9–11s: Lily (crying happy tears): "Yes!"
+12–22s: Bruno lets out a giant joyful roar that echoes through the whole forest; birds fly up from every tree. He lifts Lily very gently and spins her slowly in the sunlight.
+DIALOGUE 16–19s: Bruno (deep happy shout): "BRUNO WILL BE PAPA!"
+22–30s: He carefully sets her down, kneels, and puts his ear on her belly like listening. He gasps.
+DIALOGUE 25–27s: Bruno (whispering, amazed): "Baby say hello."
+DIALOGUE 27–30s: Lily (laughing, crying): "Bruno, it's way too early for that!"
+Final frame: both laughing, foreheads touching.
+SFX: birds, giant joyful roar echo, hundreds of birds flying up, wind, laughter.
+MUSIC: emotional rising orchestra into a bright happy theme.
+
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
 SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 33 | Bruno wanted to name the baby Rock. Lily strongly disagreed. #Bigfoot #Movie #Part33
+Part 33 | "BRUNO WILL BE PAPA!" 🥹👶 Their biggest surprise ever #Bigfoot #Movie #Part33
 
 DOLA STATUS
 [ ] Images uploaded
@@ -54,4 +58,3 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-Inserted after old Part 029 as a funny family foreshadow before Frost's name.

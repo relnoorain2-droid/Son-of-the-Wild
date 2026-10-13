@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 
 FROST: Son of the Wild
-PART 126 - "The Four Trials"
-Punch: WOW + EMOTION
+PART 126 - "I'm Not Strong Enough"
+Punch: EMOTION + TWIST
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,26 +21,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FACE.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; L06_AbandonedCabin.png -> Location AbandonedCabin.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night inside the cabin. Old Joe unrolls a very old deerskin map on the table, with four strange symbols drawn on it.
-0–3s: Old Joe taps the map with his stick.
-DIALOGUE 1–6s: Old Joe (slow raspy voice): "Orin's power sleeps in your blood. Pass his Four Trials to wake it."
-3–20s: Close-ups of the map as Old Joe points to each symbol (each glows softly blue when touched):
-DIALOGUE 6–9s: Old Joe: "STRENGTH — move the Bear Rock."
-DIALOGUE 9–13s: Old Joe: "THE WILD — earn the trust of the wildest beast."
-DIALOGUE 13–17s: Old Joe: "THE STORM — touch the lightning on Thunder Peak."
-DIALOGUE 17–21s: Old Joe: "And THE HEART... face what you fear most."
-DIALOGUE 21–24s: Lily (scared): "Joe... how many giants survived these trials?"
-20–30s: Old Joe is silent for a moment.
-DIALOGUE 24–26s: Old Joe (quietly): "Only one. Orin himself."
-Lily grabs Frost's arm in fear. Frost stands up slowly, his head almost touching the ceiling, and puts his hand on the map.
-DIALOGUE 26–29s: Frost (deep, calm, determined): "Then I'll be the second."
-Final frame: Frost's hand on the map, all four symbols glowing blue at once.
-SFX: map unrolling, stick tapping, soft magical hums for each symbol, fireplace crackle, a powerful chime at the end.
-MUSIC: mystical, building heroic theme.
+Inside Lily's cabin, days later, rain on the windows. Frost lies on a huge bed made from three beds pushed together.
+0–3s: Frost tries to make lightning in his palm. Only a tiny weak spark appears, then dies.
+DIALOGUE 1–4s: Frost (deep voice, weak, frustrated): "It's gone. My power's almost gone."
+3–12s: He turns his face to the wall.
+DIALOGUE 5–14s: Frost (broken): "I lost, Mom. One dragon... one chain... and I lost. The king has a hundred dragons. I'm not strong enough. I'll never be strong enough."
+12–22s: Lily holds his hand silently, not knowing what to say. The door opens; Old Joe walks in, shaking rain off his umbrella. He puts the small carved Bigfoot-with-a-staff on the table.
+DIALOGUE 16–20s: Old Joe (slow raspy wise voice): "You're right, son. You're not strong enough. Not yet."
+22–30s: Frost and Lily look at him.
+DIALOGUE 24–29s: Old Joe (serious): "Remember when I told you 'not yet'? Well... now it's time."
+Final frame: close-up of the carved figure, a faint blue glow appearing in its tiny wooden eyes.
+SFX: rain, a weak electric fizzle, heavy sigh, door opening, umbrella shaking, a carving placed on wood, a soft magical hum.
+MUSIC: sad cello, then a mysterious magical tone.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -48,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 126 | Only ONE giant ever survived the Four Trials... Frost wants to be the second 💪⚡ #Bigfoot #Movie #Part126
+Part 126 | "I'm not strong enough." "Not yet... but now it's time." 🔥 #Bigfoot #Movie #Part126
 
 DOLA STATUS
 [ ] Images uploaded

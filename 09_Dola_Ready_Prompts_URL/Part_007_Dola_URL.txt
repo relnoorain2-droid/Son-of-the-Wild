@@ -1,10 +1,9 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
 V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
 
 FROST: Son of the Wild
-PART 007 - "The Truth"
+PART 007 - "The Warning"
 Punch: TWIST + EMOTION
 Status: canon-safe opening version
 
@@ -20,24 +19,24 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep Lily, Rose, and animal references identical to attached images. Lily is 22, innocent, beautiful, blue eyes, honey-blonde hair.
+CHARACTER LOCK: Keep Lily and Rose exactly identical to the attached reference images. Lily is 22, innocent, beautiful, blue eyes, honey-blonde hair. Rose is an older nervous castle maid with kind eyes.
 
-Scene: Lily's castle bedroom at night, candles almost burned out, storm wind outside.
-0-3s: Lily steps close to Rose, desperate but gentle.
-DIALOGUE 0-3s: Lily (soft but urgent): "Rose, tell me the truth. Please."
-3-8s: Rose closes the door and whispers, crying quietly.
-DIALOGUE 3-10s: Rose (old nervous maid, whispering): "Every month a new bride. After the ceremony, guards escort her to the forbidden forest gate."
-8-18s: Flashback in cold blue moonlight: a young bride is escorted through a huge iron gate into a dark forest. The gate closes behind her. Glowing animal eyes appear far between the trees. Cut away before any harm is shown.
-DIALOGUE 11-17s: Rose (voice-over): "After that, the kingdom says the forest took her."
-18-25s: Back to Lily. She steps back, shaking, then becomes determined.
-DIALOGUE 19-23s: Lily (whispering): "Then I leave before he takes me there."
-25-30s: Footsteps and laughter approach in the hallway. Lily grabs a silver tray from the table, ready to improvise. Final frame: the door handle turning.
-DIALOGUE 25-29s: Rose (terrified whisper): "He's coming!"
-SFX: door lock click, forest wind, distant wolf howl, footsteps, door handle turning.
-MUSIC: dark emotional strings, rising suspense drums.
+Scene: A candle-lit royal dressing room inside the Western dark-fantasy castle, white wedding gown, mirror, roses, moonlight through tall windows.
+0-3s: Lily stands before the mirror in a white royal wedding gown and veil. Rose adjusts the veil with trembling hands.
+DIALOGUE 1-4s: Rose (old nervous maid, soft whisper): "You look like an angel, miss."
+3-10s: Lily notices Rose's hands shaking and turns toward her.
+DIALOGUE 6-9s: Lily (soft, nervous): "Rose... why are you so afraid?"
+10-18s: Rose glances at the locked door, then silently points to faint scratch marks hidden behind the mirror frame, left by previous brides.
+DIALOGUE 12-17s: Rose (whispering, scared): "Every month, a bride sleeps in this room... and none of them ever come back."
+18-25s: Lily's smile fades. She touches the wall marks, realizing this wedding is hiding a secret.
+DIALOGUE 19-23s: Lily (whispering): "What happens after the ceremony?"
+25-30s: Heavy footsteps approach outside the door. Rose drops the hairbrush in fear. Final frame: Rose looking at Lily with urgent warning in her eyes.
+DIALOGUE 26-29s: Rose (shaking whisper): "Do not follow him into the forest."
+SFX: soft fabric rustle, candle crackle, distant footsteps, hairbrush drop.
+MUSIC: quiet sad piano turning into dark suspense strings.
 
 GLOBAL RULES:
-AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, vertical 9:16. SETTING: Fully American / Western, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no graphic harm, no nudity.
+AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, vertical 9:16. SETTING: Fully American / Western castle, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no nudity, no forced physical contact.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 7 | Rose reveals the forest secret. Lily has one chance to run. #Bigfoot #Movie #Part7
+Part 7 | Rose warns Lily: every bride enters this room... but none come back. #Bigfoot #Movie #Part7

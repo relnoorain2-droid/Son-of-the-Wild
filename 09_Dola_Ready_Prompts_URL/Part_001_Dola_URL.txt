@@ -1,14 +1,15 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
-S01_GraceCarter_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S01_GraceCarter/S01_GraceCarter_FULL.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
-L01_LilyHouse.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L01_LilyHouse/L01_LilyHouse.png
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S09_Brides/S09_Brides_FULL.png
+S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 
 FROST: Son of the Wild
-PART 001 - "The Poor Girl"
-Punch: DRAMA + THREAT
-Status: ready - LINEAR STORY START
+PART 001 - "The Monthly Bride"
+Punch: TRAILER + DARK SECRET
+Status: ready - OPENING TITLE AND PATTERN
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -22,37 +23,39 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: C01_Lily_FULL.png -> Lily Carter; S01_GraceCarter_FULL.png -> Grace Carter; S07_CaptainVex_FULL.png -> Captain Vex; L01_LilyHouse.png -> Lily's poor home; C02_KingMagnus_FULL.png -> King Magnus in story insert/vision only.
-LILY LOOK LOCK: Lily is a 22-year-old poor American woman, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair.
+CHARACTER LOCK: Keep every character's face, body, hair, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: L02_KingCastle.png -> Thorne Castle; C02_KingMagnus_FULL.png -> King Magnus; C03_PrinceDamian_FULL.png -> Prince Damian; S09_Brides_FULL.png -> previous brides / unnamed first bride; S08_KingdomGuards_FULL.png -> royal guards; L03_DeepForest.png -> forbidden forest.
 
-LOOK LOCK: Lily always looks young (22-24 years old), innocent, sweet and beautiful - soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Scene: A poor wooden house on the edge of a small Oregon town, cold morning, empty shelves, cracked walls, patched curtains, Lily and her mother Grace struggling quietly.
-0-3s: Close-up of Lily counting a few coins on a wooden table. Grace places one small piece of bread between them. Lily pushes it back to her mother.
-DIALOGUE 1-3s: Lily (soft young American woman, worried): "Mama... this is all we have?"
-3-8s: Grace smiles through pain and touches Lily's hand. Outside, a church bell rings and townspeople whisper fearfully near the dirt road.
-DIALOGUE 4-7s: Grace (tired caring older American woman): "Eat, sweetheart. You still have your whole life ahead."
-8-14s: Lily looks through the window. Two women hurry past, whispering about King Magnus and Prince Damian's monthly bride tradition.
-DIALOGUE 9-13s: Village Woman (frightened American whisper): "Every month the prince chooses a bride... and nobody sees her again."
-14-20s: Cut to a dark royal insert: King Magnus on his throne, cold grey eyes, red banners, Prince Damian's silhouette beside him. No violence, just menace.
-DIALOGUE 15-19s: NARRATOR (deep cinematic American trailer voice): "Far beyond the trees, King Magnus kept a secret kingdom... and his son needed a new bride."
-20-26s: Hooves thunder outside Lily's house. Captain Vex and royal guards stop at the door with a black royal order. Grace freezes. Lily stands protectively in front of her mother.
-DIALOGUE 22-25s: Captain Vex (harsh loud threatening male voice): "By order of King Magnus, Lily Carter is summoned to the castle."
-26-30s: Lily's face turns pale. Grace grabs her hand. Final frame: Captain Vex's black-gloved hand holding the royal seal toward Lily.
-DIALOGUE 26-29s: Grace (crying whisper): "No... not my Lily."
-SFX: cold wind through wooden walls, coin clink, distant church bell, fearful town murmurs, horse hooves, hard knock on door, paper seal crackle.
-MUSIC: sad piano and low strings at the start, dark drums when the king is shown, sharp tense sting when Captain Vex gives the order.
-CAMERA: intimate handheld close-ups inside the poor house, slow push toward the window, dramatic throne insert, final low-angle shot on the royal seal.
+TEXT CARD 0-3s: Show cinematic title text only, centered over a dark Pacific Northwest forest and castle silhouette: "FROST: SON OF THE WILD" then below it "Directed by Noorul Ain". No other text.
+Scene: Dark cinematic trailer opening in Oregon's hidden forest kingdom, Western dark-fantasy castle, rain, torches, red banners, royal guards, tense mystery.
+0-3s: Title card over storm clouds and the castle, slow push toward the forest.
+SFX 0-3s: distant thunder, low wind, single deep drum.
+3-8s: A royal calendar page turns to "MONTH ONE" for two seconds. Inside Thorne Castle, a scared unnamed young bride in a simple white dress stands before Prince Damian and King Magnus.
+DIALOGUE 3-6s: NARRATOR (deep cinematic American trailer voice): "In the forests of Oregon, one royal secret returned every month."
+DIALOGUE 6-8s: Prince Damian (smooth cold American voice): "She will do."
+8-14s: King Magnus watches from his throne, cold grey eyes shining. Guards lower their heads as if this is normal.
+DIALOGUE 8-11s: King Magnus (deep rough commanding voice): "Then the tradition continues."
+DIALOGUE 11-14s: First Bride (frightened young American woman): "Where are you taking me after the wedding?"
+14-21s: Night at the forbidden forest gate. A black carriage stops. Damian stands beside the bride, the forest beyond them full of fog and animal shadows. No violence, no graphic harm.
+DIALOGUE 14-18s: Prince Damian (quiet, cruel): "Beyond the gate, no one asks questions."
+DIALOGUE 18-21s: NARRATOR: "By sunrise, she was gone... and the kingdom called it fate."
+21-26s: Empty castle corridor, another wedding veil hanging on a chair, frightened maids whispering. King Magnus and Damian walk past without emotion.
+DIALOGUE 22-25s: Castle Maid (whispering): "Another bride never came back."
+26-30s: The calendar flips to "ONE MONTH LATER" for two seconds. Cut to Lily's poor wooden house far away on the edge of town.
+DIALOGUE 26-29s: NARRATOR: "Then the next name was Lily Carter."
+SFX: thunder, castle doors, calendar page flip, torch crackle, carriage wheels, distant wolves, whispering maids.
+MUSIC: dark trailer drums and low strings, rising sting on Lily's house.
+CAMERA: cinematic trailer style, slow dolly toward castle, close-ups on king and prince, wide shot of forest gate, hard cut to Lily's poor house.
 
 GLOBAL RULES:
 AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English. No line may be skipped. Dialogue must stay louder than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin and hair, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
 SETTING: Fully American / Western. Pacific Northwest USA forest kingdom, Western dark-fantasy castle, American people and clothing. No Asian elements.
-TEXT RULE: On-screen text is allowed only if needed for a short title card: "OREGON" for 2 seconds at the beginning. No subtitles for dialogue.
-NEGATIVE: no subtitles, no captions, no watermark, no logo, no gore, no blood, no explicit harm, no restraints, no chains, no forced physical contact, no nudity.
+TEXT RULE: On-screen text is allowed only for these title cards: "FROST: SON OF THE WILD", "Directed by Noorul Ain", "MONTH ONE", and "ONE MONTH LATER". No subtitles for dialogue.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no gore, no blood, no explicit harm, no restraints, no chains, no forced physical contact, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 1 | Lily was only a poor girl from Oregon... until the king's men came for her. #Bigfoot #Movie #Part1
+Part 1 | Every month the prince chose a bride... and every month she vanished. #Bigfoot #Movie #Part1
 
 DOLA STATUS
 [ ] Images loaded by raw URLs
@@ -62,4 +65,4 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-This is the corrected linear story opening. The jungle escape begins later after Lily is chosen, married, warned by Rose, and runs from the castle.
+This is the required movie opening: title, Directed by Noorul Ain, and the monthly bride pattern before Lily's turn.

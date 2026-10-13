@@ -1,13 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K03_SmallDragons.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K03_SmallDragons/K03_SmallDragons.png
-S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 172 - "Chains Aren't Enough"
-Punch: TWIST + ACTION
-Status: ready - URL PACKAGE
+PART 172 - "Burn Them All"
+Punch: ACTION + CLIFFHANGER
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -21,24 +21,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V13_Sarah_Adult.png -> Variant Sarah_Adult; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S11_Rose_FULL.png -> Rose; K03_SmallDragons.png -> Creature SmallDragons.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K02_RedDragon.png -> Creature RedDragon.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-CAST NOTE: Tommy = a young man (about 22), messy brown hair, light freckles, red baseball cap, plaid flannel shirt; Hank = a sturdy farmer, grey-brown beard, worn cowboy hat, plaid shirt, overalls; Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye; the Great Red Dragon = three times bigger than any other dragon, dark lava-red scales, horns like a crown, enormous wings.
-The underground dragon pens beneath the castle, then the battlefield.
-0–3s: Sarah, Tommy and Rose smash the last iron chain with a hammer. Dozens of dragons are free of their chains.
-DIALOGUE 1–4s: Tommy (excited young man): "That's all of them! They're free!"
-3–12s: But the dragons' eyes are still glowing red. They don't fly away. They slowly turn toward the kids, growling, under the crystal's control.
-DIALOGUE 6–9s: Sarah (scared, backing up): "Tommy... why are they still red?"
-DIALOGUE 9–13s: Rose (old British voice, horrified): "The chains were never the real prison. It's the CRYSTAL!"
-12–22s: The dragons fly up out of the cave toward the battlefield under the king's command. On the battlefield, Lily, Hank and Old Scar hold the line as more dragons dive at them.
-DIALOGUE 16–20s: Hank (shouting): "Lily! More dragons! We can't hold them much longer!"
-22–30s: Lily looks up at the gigantic Great Red Dragon circling the castle, the king on its head, the red crystal glowing.
-DIALOGUE 25–29s: Lily (whispering, hoping): "Come on, Frost... the crystal. Get the crystal."
-Final frame: the red crystal glowing like a red star above the battlefield.
-SFX: hammer on chain, chain breaking, dragons growling, wings, battle noise, dragon dives, shouts.
-MUSIC: hope turning into danger, tense battle drums.
+CAST NOTE: Hank = a sturdy farmer, grey-brown beard, worn cowboy hat, plaid shirt, overalls; the Great Red Dragon = three times bigger than any other dragon, dark lava-red scales, horns like a crown, enormous wings.
+The battlefield in front of Thorne Castle, the Great Red Dragon in the sky.
+0–3s: The Great Red Dragon sweeps over the battlefield breathing a river of fire. Villagers and animals dive behind rocks and mammoths.
+DIALOGUE 1–3s: Hank (shouting): "TAKE COVER!"
+3–12s: Frost shields a group of villagers with his glowing body; the fire splashes off his blue energy. He looks up.
+DIALOGUE 6–9s: Frost (deep, determined): "Mom, stay with Old Scar. This one's mine."
+DIALOGUE 9–11s: Lily (scared): "Frost, be careful!"
+12–22s: Frost jumps and flies straight up at the gigantic dragon, lightning trailing behind him like a comet. He punches the dragon in the jaw; its head snaps sideways. King Magnus nearly falls off.
+DIALOGUE 17–19s: Frost (roaring): "That's for my FATHER!"
+22–30s: The Great Red Dragon recovers, swings its gigantic tail, and smashes Frost out of the sky like a baseball. He flies across the valley and crashes through the castle wall, disappearing inside in a cloud of dust and falling stones. Silence. Final frame: the hole in the castle wall, smoke, no movement.
+DIALOGUE 27–29s: King Magnus (cold, from the dragon's head): "Burn them all."
+SFX: a massive fire breath, screams, fire splashing on energy, a jump boom, flying whoosh, a huge punch impact, dragon roar, a giant tail whoosh, a crash through stone, falling rocks, then silence.
+MUSIC: epic action score, ending on a shocking hit and silence.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -47,7 +46,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 172 | They broke every chain... but the dragons' eyes stayed RED 😨🐉 #Bigfoot #Movie #Part172
+Part 172 | Frost punched the Great Red Dragon... and its tail smashed him through the castle wall 😱🏰 #Bigfoot #Movie #Part172
 
 DOLA STATUS
 [ ] Images uploaded

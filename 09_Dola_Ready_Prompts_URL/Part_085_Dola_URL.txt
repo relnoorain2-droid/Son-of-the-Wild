@@ -1,10 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 085 - "I Break Everything"
-Punch: FUN + EMOTION
+PART 085 - "Growth Spurt"
+Punch: FUN
 Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
@@ -19,22 +20,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; S10_Villagers.png -> optional background group, skip unless you want crowd continuity; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; L06_AbandonedCabin.png -> Location AbandonedCabin.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-CAST NOTE: Tommy = a teenage boy (about 17), messy brown hair, freckles, red cap.
-Afternoon, a grassy field next to Cedar Hollow's wooden water tower.
-0–3s: Teen Frost and Tommy, now a teenager (about 17, messy brown hair, freckles, red cap), play American football. Tommy throws; Frost catches the ball and runs.
-DIALOGUE 1–3s: Tommy (teen boy voice): "Go long, Frost! GO LONG!"
-3–12s: Frost runs too fast, can't stop, and crashes straight into the town water tower. The tower tips over in slow motion.
-DIALOGUE 6–8s: Teen Frost (panicked, voice cracking): "No no no no no!"
-12–22s: A huge wave of water floods Main Street: a man on a bicycle gets washed away (laughing, safe), chickens float by in a bucket, Martha's laundry flies everywhere. Villagers, soaked, stare at Frost.
-DIALOGUE 15–18s: Villager man (angry, dripping): "FROST! That's the third time this month!"
-22–30s: Frost walks away alone, sits by the river, and drops the football. His face is sad.
-DIALOGUE 24–28s: Teen Frost (quiet, sad): "I'm too big. Too strong. I break everything I touch."
-Final frame: Frost's reflection in the river, looking lonely.
-SFX: football throw, running thuds, wood cracking, tower crash, a huge water wave, bicycle bell, chickens clucking, angry shouting, river flowing.
-MUSIC: energetic sports music, a comedic crash, then soft sad guitar.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Morning, inside Lily's cozy cabin.
+0–3s: Teen Frost (8 feet tall now) wakes up, stretches, stands up — and his head goes straight through the cabin roof. Shingles fly.
+DIALOGUE 1–3s: Teen Frost (energetic teenage boy voice, voice cracking): "Oh no. Not AGAIN!"
+3–12s: Outside, the camera shows his head sticking out of the roof. A bird sits on his head. Lily walks out with coffee.
+DIALOGUE 5–10s: NARRATOR (deep cinematic trailer voice): "A few more years... and Frost was growing faster than the cabin."
+DIALOGUE 10–13s: Lily (sighing, smiling): "That's the third roof this year, honey."
+12–22s: Frost tries to speak deeply like a man, but his voice cracks high and low.
+DIALOGUE 14–19s: Teen Frost (deep voice) "Mom, I am a grown-up now—" (voice cracks very high) "—and I can fix it MYSELF!"
+DIALOGUE 19–21s: Lily (laughing): "Sure you can, big man."
+22–30s: Frost pulls his head out, holds a hammer, hits one nail — and the whole porch collapses. Silence. A shingle falls on his head. Final frame: Frost slowly turning to his mother with an innocent face.
+DIALOGUE 27–29s: Teen Frost (tiny voice): "...Can Hank fix it?"
+SFX: stretching groan, roof crash, shingles flying, bird chirp, coffee sip, voice crack, hammer tap, porch collapse, shingle bonk.
+MUSIC: upbeat comedic country-rock.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 85 | "I break everything I touch." Being a teen Bigfoot is hard 😢🏈 #Bigfoot #Movie #Part85
+Part 85 | Teen Bigfoot problems: you stand up and break the roof 😂🏠 #Bigfoot #Movie #Part85
 
 DOLA STATUS
 [ ] Images uploaded

@@ -1,13 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+C06_ElderOrin_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C06_ElderOrin/C06_ElderOrin_FULL.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 182 - "Caught"
-Punch: WOW + EMOTION
-Status:-assets
+PART 182 - "Take Back What Is Ours"
+Punch: WOW + CLIFFHANGER
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -21,22 +20,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V12_Tommy_Adult.png -> Variant Tommy_Adult; K02_RedDragon.png -> Creature RedDragon.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; C06_ElderOrin_FULL.png -> Elder Orin.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 CAST NOTE: the Great Red Dragon = three times bigger than any other dragon, dark lava-red scales, horns like a crown, enormous wings.
-The sky above the battlefield at sunset.
-0–3s: Frost falls fast, eyes closed, toward the rocks.
-DIALOGUE 0–2s: Lily (screaming, running): "No, no, NO!"
-3–12s: A gigantic shadow dives below him. The Great Red Dragon, its eyes now warm gold, gently catches Frost on its back between its huge horns.
-DIALOGUE 6–9s: Tommy (shouting, amazed): "The big one CAUGHT him!"
-12–22s: The Great Red Dragon lands softly in front of Lily and lowers its giant head so Frost can slide down. Frost opens his eyes, weak, and holds up his hand: inside it, the pieces of the crystal have joined together into one small, pure BLUE crystal, glowing softly.
-DIALOGUE 16–20s: Frost (deep, weak, smiling): "Mom... I got Grandpa's crystal back."
-22–30s: Lily hugs him, crying and laughing. The Great Red Dragon gently nudges Frost with its nose, making a deep purring sound like a giant cat. Final frame: Frost hugging the dragon's nose, Lily laughing.
-DIALOGUE 27–29s: Frost (deep, laughing softly): "You're welcome, big guy."
-SFX: falling wind, a giant dive whoosh, a soft catch, wing beats, a gentle landing, a magical crystal hum, crying, a giant dragon purr.
-MUSIC: an emotional, beautiful, soaring theme.
+On the flying dragon's back above the castle, the sun setting, storm clouds swirling.
+0–3s: Frost grabs the top of the king's staff with one hand. King Magnus holds the bottom with both hands. Tug of war.
+DIALOGUE 1–3s: King Magnus (desperate, straining): "Let GO, beast!"
+3–12s: The crystal between them pulses red-blue-red-blue. Cracks of light spread across it. The Great Red Dragon below them roars in confusion, its eyes flickering.
+DIALOGUE 6–9s: Frost (straining, deep): "It... belongs... to my family!"
+12–22s: The crystal starts burning Frost's hand with red light. He grits his teeth. He's losing grip.
+DIALOGUE 15–18s: Frost (whispering, desperate): "Grandfather... help me."
+22–30s: In the storm clouds above them, the giant face of Elder Orin appears, glowing blue, eyes open.
+DIALOGUE 24–28s: Elder Orin (ancient, very deep, echoing across the sky): "Take back what is ours, child."
+The crystal turns completely blue for one second — and a deep crack runs right through it. Final frame: close-up of the crystal splitting, blinding light about to explode.
+SFX: wind, a struggle, a pulsing crystal hum, cracking crystal, a confused dragon roar, a burning hiss, Orin's thunderous echoing voice, a deep crack.
+MUSIC: a huge building choir and orchestra, cutting to silence on the crack.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 182 | The dragon that was trying to kill him... caught him 🐉🥹 #Bigfoot #Movie #Part182
+Part 182 | Grandfather Orin appeared in the sky... and the crystal CRACKED 🔮⚡ #Bigfoot #Movie #Part182
 
 DOLA STATUS
 [ ] Images uploaded

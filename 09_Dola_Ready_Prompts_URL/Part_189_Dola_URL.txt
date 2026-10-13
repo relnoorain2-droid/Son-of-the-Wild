@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L01_LilyHouse.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L01_LilyHouse/L01_LilyHouse.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
 V14_Grace_Older.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V14_Grace_Older/V14_Grace_Older.png
 
 FROST: Son of the Wild
-PART 189 - "You and Me and the Wild"
-Punch: EMOTION + WOW
+PART 189 - "Meet Your Grandson"
+Punch: FUN + EMOTION
 Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,26 +21,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V14_Grace_Older.png -> Variant Grace_Older; S10_Villagers.png -> optional background group, skip unless you want crowd continuity.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V14_Grace_Older.png -> Variant Grace_Older; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; L01_LilyHouse.png -> Location LilyHouse.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night at the celebration, string lights, a big bonfire, the stars above, a fiddle player on the stage.
-0–3s: Lily steps onto the stage. The crowd goes quiet. She looks at Frost.
-DIALOGUE 0–3s: Lily (soft, emotional): "I wrote this song... for Frost's father."
-3–27s: Lily SINGS, lip-synced, soft country-folk; then the whole crowd joins in; Frost hums deep and a little off-key, exactly like his father did:
-  3–10s: Lily sings: "No castle walls, no golden crown, just a river song and the stars come down."
-  — Shots: Grace holding Martha's hand; Rose with her too-big crown; the brides smiling.
-  10–20s: Everyone sings: "It's you and me and the wild, running free like a child..."
-  — Shots: Frost dancing his clumsy stomp, kids and bear cubs dancing around him; dragons swaying their heads to the music.
-  20–27s: Everyone sings: "...no one can find us here, you and me and the wild."
-  — Shots: Frost lifting Lily onto his shoulder, exactly like Bruno did in the meadow years ago.
-27–30s: Lily, on Frost's shoulder, looks up at the stars, tears in her eyes, smiling.
-DIALOGUE 27–30s: Lily (whispering): "He sings as badly as you did, Bruno."
-DIALOGUE 8-11s: Frost (deep emotional voice): "Mama... can I sing it too?"
-DIALOGUE 16-20s: Villagers (warm crowd voices, singing): "You and me and the wild!"
-SFX: bonfire, crowd singing, Frost's deep off-key humming, stomping, laughter.
-MUSIC: the full version of Song 1 with fiddle, guitar and a big warm crowd choir.
+Evening, the front yard of Grace's small house in Millbrook.
+0–3s: Lily holds Grace's hand and leads her outside.
+DIALOGUE 1–5s: Lily (nervous, smiling): "Mama... there's someone you need to meet. Please don't scream."
+3–12s: Frost steps out from behind the big oak tree, 11 feet tall, glowing slightly, trying to look small and friendly. He waves shyly. Grace looks up... and up... and up.
+DIALOGUE 7–10s: Frost (deep, gentle, nervous): "Hi, Grandma. I'm Frost."
+12–22s: Grace's eyes roll back and she faints. Frost catches her very gently in one hand, like a feather, and fans her face with a leaf. She wakes up, looks at him again.
+DIALOGUE 15–17s: Grace (weakly): "Lily... is he... eating enough?"
+DIALOGUE 17–20s: Lily (laughing, crying): "Mama, he eats a whole turkey for breakfast!"
+22–30s: Grace looks into Frost's eyes. She sees they are the same blue as Lily's. Her face softens; she reaches up and touches his furry cheek.
+DIALOGUE 24–28s: Grace (soft, tearful): "You have your mother's eyes. Come here, sweetheart."
+Final frame: Frost kneeling down so tiny Grace can hug his huge head, Lily hugging them both.
+SFX: footsteps, a shy wave, a soft fainting fall caught, a leaf fanning, laughter, crying, crickets.
+MUSIC: comedic light music, turning into a warm, emotional family theme.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -48,7 +46,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 189 | The whole crowd sang "You and Me and the Wild" 🎶😭 #Bigfoot #Movie #Part189
+Part 189 | Grandma met her 11-foot Bigfoot grandson 😂🥹 "Is he eating enough?" #Bigfoot #Movie #Part189
 
 DOLA STATUS
 [ ] Images uploaded

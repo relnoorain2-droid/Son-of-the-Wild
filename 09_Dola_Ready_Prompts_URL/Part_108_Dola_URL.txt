@@ -1,10 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
 C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
 
 FROST: Son of the Wild
-PART 108 - "I Can't Lose You Too"
+PART 108 - "Your Father, Bruno"
 Punch: EMOTION
 Status: ready - URL PACKAGE
 
@@ -20,24 +21,25 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FACE.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; C05_Frost_FACE.png -> Frost; C04_Bruno_FULL.png -> Bruno; V09_Bruno_Spirit.png -> Variant Bruno_Spirit.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, in the rain outside the cabin, then a quiet moment.
-0–3s: Lily grabs Frost's huge face with both hands in the rain.
-DIALOGUE 1–4s: Lily (crying): "Look at me! LOOK at me!"
-3–14s: Close-up on both faces, rain falling.
-DIALOGUE 4–9s: Lily (emotional): "Revenge already took your father from me. The king has dragons, an army, magic..."
-DIALOGUE 9–13s: Lily (breaking): "I can't lose you too, Frost. Please. I can't."
-14–22s: Frost's anger melts. He hugs his mother gently, his huge body protecting her from the rain.
-DIALOGUE 17–20s: Frost (deep, soft, broken): "I'm sorry, Mom. I'm sorry."
-22–30s: Old Joe appears under his umbrella on the porch.
-DIALOGUE 22–26s: Old Joe (slow raspy wise voice): "Anger without power is how good men die, son."
-DIALOGUE 26–30s: Frost (quietly, firm): "Then I'll wait. But if they come again... I fight."
-Final frame: Frost and Lily in the rain, Old Joe watching, lightning far away.
-SFX: heavy rain, crying, thunder rolling away, umbrella rain drops.
-MUSIC: soft, emotional piano and cello.
+Night, inside the cabin, candlelight. Lily holds the small framed flower.
+0–3s: Lily smiles through tears.
+DIALOGUE 0–4s: Lily (soft): "No. My heart only had one husband. Your father. Bruno."
+3–24s: Flashback montage in warm golden light, with Lily's voice-over:
+  3–9s: Bruno catching the grizzly's claw; Bruno saying "Bruno also sing. Badly."; Bruno shaking water on Lily.
+  DIALOGUE 4–10s: Lily (voice-over): "He saved me from the beasts. He was gentle, and funny, and he sang so badly."
+  9–16s: Bruno spinning her in the meadow; Bruno shouting "BRUNO WILL BE PAPA!"
+  DIALOGUE 10–15s: Lily (voice-over): "When he found out about you, his roar shook the whole forest."
+  16–24s: Bruno alone at sunset facing the army; the red lightning; Bruno falling in silhouette (no gore).
+  DIALOGUE 17–26s: Lily (voice-over, breaking): "The king's army came. He pushed me into the river to save us... and he fought them all alone. King Magnus killed him."
+24–30s: Back to the present. Frost has tears running down his face.
+DIALOGUE 26–30s: Lily (crying): "His last words were your name, Frost. He named you."
+Final frame: Frost looking at the flower in the frame, his hands shaking.
+SFX: soft echo for flashbacks, Bruno's roar, laughter, war horns, red lightning, then silence and crying.
+MUSIC: Bruno's love theme, swelling into tragic choir, then silence.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -46,7 +48,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 108 | "Revenge took your father. I can't lose you too." 💔 #Bigfoot #Movie #Part108
+Part 108 | "King Magnus killed him... and his last words were your name." 😭💙 #Bigfoot #Movie #Part108
 
 DOLA STATUS
 [ ] Images uploaded

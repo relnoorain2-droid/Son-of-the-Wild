@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K06_WarMammoth.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K06_WarMammoth/K06_WarMammoth.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
 
 FROST: Son of the Wild
-PART 161 - "Mammoths vs Bison"
-Punch: WOW + ACTION
+PART 161 - "The March"
+Punch: WOW
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,21 +21,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V10_Damian_Battle.png -> Variant Damian_Battle; V08_Frost_Powered.png -> Variant Frost_Powered; S03_HankMiller_FULL.png -> Hank Miller; K06_WarMammoth.png -> Creature WarMammoth.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S11_Rose_FULL.png -> Rose; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
-Morning, the wide valley in front of Thorne Castle, fog and dust, two armies facing each other.
-0–3s: The castle gate crashes open. Prince Damian rides out on the lead war mammoth, sword raised; fifty armored mammoths thunder behind him.
-DIALOGUE 1–3s: Prince Damian (smooth arrogant voice, screaming): "CRUSH THEM!"
-3–12s: Frost raises his glowing hand and roars a deep animal call. From the hills, hundreds of American bison charge down, led by grizzly bears, Old Scar in front.
-DIALOGUE 6–9s: Frost (deep, thunderous): "WILD ONES... NOW!"
-12–22s: Slow-motion wide shot: the two stampedes crash together in the middle of the valley; dust explodes into the air; mammoths and bison push horn against tusk; bears knock soldiers off mammoths.
-DIALOGUE 16–19s: Hank (riding an elk, shouting): "YEE-HAW! Now THAT'S a rodeo!"
-22–30s: Old Scar stands up on his hind legs and roars at a mammoth twice his size; the mammoth backs away. Damian, struggling to control his mammoth, looks at the battle in shock. Final frame: dust and chaos, bison everywhere.
-DIALOGUE 27–30s: Prince Damian (shocked): "Since when do BEARS fight in wars?!"
-SFX: gate crashing, mammoth trumpets, a deep animal call, a huge bison stampede, a massive collision, roaring bears, hooves, dust, shouts.
-MUSIC: epic battle orchestra with heavy war drums and choir.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Epic march montage through the Pacific Northwest: redwood forests, river crossings, mountain passes, from sunrise to sunset.
+0–3s: Aerial drone shot: a huge army moving through the giant redwood forest, Frost glowing at the front, Lily beside him on a big elk.
+DIALOGUE 1–3s: NARRATOR (deep cinematic American trailer voice): "They marched for three days."
+3–12s: Bison pull wagons across a river; bears carry supply crates; eagles fly scouting above. Kids from the villages wave goodbye from a hill.
+DIALOGUE 6–9s: Old Joe (riding in a wagon, to Rose): "Never thought I'd live to see this."
+DIALOGUE 9–11s: Rose (old British voice, smiling): "Neither did I, love."
+12–22s: Night: they pass small, poor villages of the king's kingdom. Frightened people peek from windows... then one by one, they light lanterns and put them in their windows: a secret sign of support.
+DIALOGUE 15–19s: Lily (amazed, emotional): "Frost, look. They're lighting lanterns for us."
+22–30s: Some of the kingdom's villagers step out and join the march with farm tools. The army grows bigger. Final frame: a long line of lanterns stretching behind the army into the dark.
+DIALOGUE 26–29s: Frost (deep, moved): "The people are rising."
+SFX: marching thousands, animal footsteps, wagon wheels, river splashing, eagle cries, lanterns lighting, quiet voices joining.
+MUSIC: a heroic marching theme with drums and a slow-building choir.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 161 | 50 war mammoths vs a stampede of American bison 🦬🦣💥 #Bigfoot #Movie #Part161
+Part 161 | As they marched, the king's own people lit lanterns for them 🏮⚔️ #Bigfoot #Movie #Part161
 
 DOLA STATUS
 [ ] Images uploaded

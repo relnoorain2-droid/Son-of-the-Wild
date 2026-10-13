@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L01_LilyHouse.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L01_LilyHouse/L01_LilyHouse.png
+K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V14_Grace_Older.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V14_Grace_Older/V14_Grace_Older.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 186 - "Mama"
-Punch: EMOTION (BIGGEST)
+PART 186 - "The King's End"
+Punch: ACTION + EMOTION
 Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,23 +21,24 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V14_Grace_Older.png -> Variant Grace_Older; L01_LilyHouse.png -> Location LilyHouse.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K08_GrizzlyBear.png -> Creature GrizzlyBear.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Evening, Millbrook, Oregon: Lily's old small wooden house with peeling white paint and the rusty mailbox. Golden sunset light.
-0–4s: Lily walks slowly up the old dusty path. Through the kitchen window she sees the small blue wildflower she secretly left in the mailbox, now standing in a little glass of water on the table.
-DIALOGUE 1–4s: Lily (whispering, shaking): "She found it... okay. You can do this."
-4–12s: She knocks. Footsteps. The door opens slowly. Grace — her mother, now older, with white hair in a bun, a wooden cane and the same faded apron — stands there and freezes.
-DIALOGUE 7–9s: Grace (old, trembling, caring voice): "...Lily?"
-DIALOGUE 9–12s: Lily (crying): "Hi, Mama. I'm home."
-12–22s: Grace drops her cane and holds Lily's face with both shaking hands, touching her cheeks and her hair as if she can't believe it.
-DIALOGUE 13–17s: Grace (sobbing): "Every single night I set a plate for you. Every night."
-DIALOGUE 17–21s: Grace (crying and smiling): "And look at you... you haven't changed at all."
-22–30s: Mother and daughter hug in the doorway, both crying, holding each other tightly. Final frame: through the kitchen window behind them, two plates on the table and the little blue flower in its glass.
-DIALOGUE 25–29s: Lily (crying into her shoulder): "I know, Mama. I saw the plate."
-SFX: footsteps on the dusty path, a soft knock, a door creak, a cane falling, sobbing, birds at sunset.
-MUSIC: the most emotional piano and string theme of the movie.
+CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
+The castle courtyard at dusk, the giant dark crack in the ground glowing faintly red from deep below.
+0–3s: Frost turns his back on the king and walks toward Lily. Behind him, King Magnus pulls a hidden dagger from his boot.
+DIALOGUE 1–4s: King Magnus (hissing): "If I lose everything... so do you!"
+3–12s: The king charges at Lily with the dagger. Old Scar the giant grizzly jumps between them and knocks the king backward with one paw. The king stumbles toward the edge of the dark crack.
+DIALOGUE 6–9s: Lily (screaming): "Frost!"
+12–22s: The ground at the edge breaks. The king slips and falls, grabbing the crumbling edge with one hand above the deep, dark abyss. Frost runs and reaches down his huge hand.
+DIALOGUE 15–19s: Frost (deep, urgent): "Take my hand! Magnus, TAKE IT!"
+22–30s: The king looks at Frost's hand... the hand of the son of the giant he killed. His face fills with pride and hate.
+DIALOGUE 24–27s: King Magnus (cold, final): "Never... from a beast."
+He lets go and falls into the darkness, disappearing into the same pit where he chained the dragon for a hundred years. No gore, just darkness. The crack slowly closes with a deep rumble. Final frame: Frost's empty hand still reaching down, Lily's hand on his shoulder.
+DIALOGUE 27–30s: Lily (soft): "You tried, my love. That's what matters."
+SFX: a dagger drawn, charging footsteps, a bear roar and swipe, stumbling, ground breaking, a desperate grip, wind from the abyss, a fading scream, a deep earth rumble as the crack closes.
+MUSIC: a sudden action hit, tense strings, then a solemn, quiet ending.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +47,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 186 | After all these years... "Hi, Mama. I'm home." 😭😭😭 #Bigfoot #Movie #Part186
+Part 186 | Frost offered the king his hand... and the king chose the darkness 😶🕳️ #Bigfoot #Movie #Part186
 
 DOLA STATUS
 [ ] Images uploaded

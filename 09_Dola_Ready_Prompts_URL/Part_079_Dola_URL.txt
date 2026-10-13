@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 079 - "Sit!"
-Punch: WOW + FUN
+PART 079 - "The White Beast"
+Punch: TWIST + CLIFFHANGER
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,22 +21,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S03_HankMiller_FULL.png -> Hank Miller; K09_Wolves.png -> Creature Wolves; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; C02_KingMagnus_FULL.png -> King Magnus; C03_PrinceDamian_FULL.png -> Prince Damian; S07_CaptainVex_FULL.png -> Captain Vex.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Early morning fog over Hank's sheep farm at the edge of Cedar Hollow, wooden fences, a red farmhouse.
-0–3s: A pack of grey timber wolves jumps the fence; the sheep scatter, bleating.
-DIALOGUE 1–4s: Hank (deep rural voice, running out with a pitchfork in his pajamas): "WOLVES! Get away from my sheep!"
-3–12s: The wolves turn and snarl at Hank. He freezes. Kid Frost jumps over the fence and lands between them.
-DIALOGUE 6–8s: Kid Frost (calm but serious young boy voice): "Hey! Leave them alone!"
-12–22s: Frost's eyes glow soft blue. He points at the ground and speaks; a low rumbling animal sound echoes. The wolves stop snarling, look at each other... and sit down like obedient dogs.
-DIALOGUE 14–16s: Kid Frost: "Sit!"
-DIALOGUE 17–19s: Kid Frost (surprised whisper): "Wait... that actually worked?"
-22–30s: The wolves roll over on command. One licks Hank's hand. Hank stares, speechless, still in his pajamas. Final frame: Hank holding his pitchfork while a wolf wags its tail at him.
-DIALOGUE 22–24s: Kid Frost (cheerful young boy voice, testing it): "Roll over!"
-DIALOGUE 26–29s: Hank (deadpan): "I need more coffee for this."
-SFX: sheep bleating, fence creaking, snarling, magical hum, low rumbling, wolves whining happily, tail thumping, licking.
-MUSIC: tense drums, then a magical chime, then comedic light music.
+0–3s: A scruffy fur hunter hiding in the snowy trees at the edge of Cedar Hollow watches Kid Frost playing with the kids, through a brass spyglass.
+DIALOGUE 1–4s: Hunter (rough greedy American male voice, whispering): "A white one... with blue eyes."
+3–12s: Night. The hunter kneels in front of Captain Vex at a campfire in the forest.
+DIALOGUE 5–12s: Hunter: "A white beast lives with the villagers. They call it Frost. Its mother is a blonde woman."
+DIALOGUE 12–14s: Captain Vex (harsh voice, slowly smiling): "A blonde woman..."
+12–22s: Thorne Castle throne hall. King Magnus, a little older and greyer, listens. Prince Damian, older too, with a scar on his forehead from the silver tray, stands up angrily.
+DIALOGUE 14–17s: Prince Damian (smooth voice, bitter): "The girl who hit me... is ALIVE?"
+DIALOGUE 17–21s: King Magnus (deep menacing voice): "And the beast had a son."
+22–30s: King Magnus stands and looks out of the window at his dragons.
+DIALOGUE 24–29s: King Magnus (cold and slow): "Not yet. Let the boy grow. Let them feel safe. Then... we take everything."
+Final frame: the red dragon's glowing eye opening in the dark.
+SFX: snow crunching, spyglass click, campfire crackle, echoing throne hall, dragon breathing.
+MUSIC: dark villain theme, low brass and a slow, ominous drumbeat.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 79 | He told the wolves to "sit"... and they did 🐺✨😂 #Bigfoot #Movie #Part79
+Part 79 | The king found out about Frost... and he's waiting for the perfect moment 😈🐉 #Bigfoot #Movie #Part79
 
 DOLA STATUS
 [ ] Images uploaded

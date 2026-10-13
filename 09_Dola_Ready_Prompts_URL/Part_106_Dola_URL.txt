@@ -1,12 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
+C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
 
 FROST: Son of the Wild
-PART 106 - "Your Father, Bruno"
-Punch: EMOTION
+PART 106 - "It's My Fault"
+Punch: EMOTION + TWIST
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,25 +20,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; C05_Frost_FACE.png -> Frost; C04_Bruno_FULL.png -> Bruno; V09_Bruno_Spirit.png -> Variant Bruno_Spirit.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; C05_Frost_FULL.png -> Frost; S03_HankMiller_FULL.png -> Hank Miller; S10_Villagers.png -> optional background group, skip unless you want crowd continuity.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, inside the cabin, candlelight. Lily holds the small framed flower.
-0–3s: Lily smiles through tears.
-DIALOGUE 0–4s: Lily (soft): "No. My heart only had one husband. Your father. Bruno."
-3–24s: Flashback montage in warm golden light, with Lily's voice-over:
-  3–9s: Bruno catching the grizzly's claw; Bruno saying "Bruno also sing. Badly."; Bruno shaking water on Lily.
-  DIALOGUE 4–10s: Lily (voice-over): "He saved me from the beasts. He was gentle, and funny, and he sang so badly."
-  9–16s: Bruno spinning her in the meadow; Bruno shouting "BRUNO WILL BE PAPA!"
-  DIALOGUE 10–15s: Lily (voice-over): "When he found out about you, his roar shook the whole forest."
-  16–24s: Bruno alone at sunset facing the army; the red lightning; Bruno falling in silhouette (no gore).
-  DIALOGUE 17–26s: Lily (voice-over, breaking): "The king's army came. He pushed me into the river to save us... and he fought them all alone. King Magnus killed him."
-24–30s: Back to the present. Frost has tears running down his face.
-DIALOGUE 26–30s: Lily (crying): "His last words were your name, Frost. He named you."
-Final frame: Frost looking at the flower in the frame, his hands shaking.
-SFX: soft echo for flashbacks, Bruno's roar, laughter, war horns, red lightning, then silence and crying.
-MUSIC: Bruno's love theme, swelling into tragic choir, then silence.
+Sunset on a hill above Cedar Hollow, a small cemetery with simple fresh wooden crosses, villagers in dark clothes, a fiddle lying on one grave.
+0–3s: Villagers stand silently around the new graves. A fiddle rests on one of them — the fiddle player who started the village song.
+DIALOGUE 1–4s: NARRATOR (deep cinematic American trailer voice): "Cedar Hollow lost seven good people that day."
+3–12s: Hank, his arm in a sling, places a hat on a grave. Tommy holds his father's shoulder.
+DIALOGUE 5–13s: Hank (deep voice, broken): "They asked for the white one... and his mother. A king on a dragon. Who in God's name are these people, Lily?"
+12–22s: Everyone turns to Lily. She falls to her knees in front of the graves, crying.
+DIALOGUE 14–19s: Lily (sobbing): "It's my fault. They came for me. I brought this on all of you."
+22–30s: Martha kneels and holds her. Frost stands behind them, his fists slowly clenching, a tiny blue spark crackling between his fingers.
+DIALOGUE 25–29s: Frost (deep, quiet, dangerous): "Mom. Who is the king?"
+Final frame: close-up of Frost's blue eyes, starting to glow.
+SFX: wind, crows, quiet sobbing, a soft electric crackle.
+MUSIC: sad funeral violin, then a low tense drone.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -48,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 106 | "King Magnus killed him... and his last words were your name." 😭💙 #Bigfoot #Movie #Part106
+Part 106 | "They came for me... it's my fault." 😢 Frost wants answers #Bigfoot #Movie #Part106
 
 DOLA STATUS
 [ ] Images uploaded

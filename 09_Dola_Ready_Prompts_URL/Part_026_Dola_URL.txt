@@ -1,13 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
 C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 026 - "The Rapids"
-Punch: ACTION
-Status: ready - URL PACKAGE
+PART 026 - "The Honey Apology"
+Punch: COMEDY
+Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,31 +19,31 @@ Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+CHARACTER LOCK: Keep Lily and Bruno exactly identical to the attached references for the full 30 seconds.
+LILY LOOK LOCK: Lily always looks 22-24 years old, young, innocent, sweet and beautiful.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; L05_River.png -> Location River.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
-
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Daytime, a wide fast mountain river with white-water rapids and big rocks, a waterfall drop downstream.
-0–3s: Lily slips from a wet rock while picking berries and falls into the rushing river.
-DIALOGUE 1–3s: Lily (screaming): "BRUNO!"
-3–12s: She is swept away by the rapids, crashing between rocks, gasping. Bruno, upstream, drops a basket of fish and sprints along the riverbank, smashing through bushes.
-DIALOGUE 6–8s: Bruno (deep roaring voice, panicked): "LILY! Hold on!"
-12–22s: Ahead, the river drops off a tall waterfall. Lily grabs a thin branch at the very edge; it starts to crack. Bruno pulls up a whole fallen tree trunk and throws it across the river like a bridge.
-DIALOGUE 15–17s: Lily (crying): "I can't hold it!"
-22–30s: The branch snaps; Lily falls — Bruno leaps onto the log and catches her wrist at the last second, hanging over the waterfall edge. He pulls her up into his arms. Final frame: both soaked and breathing hard on the riverbank, Lily clinging to him.
-DIALOGUE 26–29s: Bruno (deep, shaking voice): "Never scare Bruno like that again."
-SFX: slip, splash, roaring rapids, gasping, crashing through bushes, tree trunk ripping from the ground, heavy log impact, branch crack, waterfall roar.
-MUSIC: fast intense action strings and drums, resolving to emotional strings.
-
+Scene: Bright forest clearing near a huge old cedar tree, flowers, buzzing bees, sunlight through pine branches.
+0-4s: Lily tries to braid small flowers into Bruno's fur. Bruno stands perfectly still, looking proud and ridiculous.
+DIALOGUE 1-4s: Lily (laughing): "Hold still. You look almost royal."
+4-10s: Bruno notices a beehive and quietly reaches for honey to impress her. Lily turns and gasps.
+DIALOGUE 5-8s: Lily: "Bruno... please tell me you are not touching that hive."
+DIALOGUE 8-10s: Bruno (confident): "Bruno ask nicely."
+10-18s: Bees swarm around Bruno's face. He runs in circles, trying not to step on flowers. Lily laughs so hard she has to sit down.
+DIALOGUE 12-16s: Bruno (panicked whisper): "Tiny flying guards very angry!"
+18-25s: Bruno trips into a bush. Honey drips down his nose. Lily wipes it gently with a leaf.
+DIALOGUE 19-23s: Lily (soft, teasing): "Next time, let the bees keep their castle."
+25-30s: Bruno gives Lily a tiny honeycomb piece he saved safely. She smiles and forgives him. Final frame: Bruno with flowers in his fur and honey on his nose.
+DIALOGUE 25-29s: Bruno (shy): "For Lily. Sweet, like laugh."
+SFX: bees buzzing, heavy Bigfoot footsteps, flowers rustling, Lily laughter, soft honey drip.
+MUSIC: playful woodland comedy music turning warm at the end.
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
 SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
-
+TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 26 | One slip... and Lily was heading for the waterfall 😨🌊 #Bigfoot #Movie #Part26
+Part 26 | Bruno tried to steal honey for Lily... and lost to tiny flying guards. #Bigfoot #Movie #Part26
 
 DOLA STATUS
 [ ] Images uploaded
@@ -54,3 +53,4 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
+Inserted after old Part 24 for a light romantic comedy beat.

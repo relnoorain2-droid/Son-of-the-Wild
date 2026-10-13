@@ -1,12 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
 V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 087 - "Lightning"
-Punch: WOW + TWIST
-Status: ready - URL PACKAGE
+PART 087 - "I Break Everything"
+Punch: FUN + EMOTION
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,21 +19,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; S10_Villagers.png -> optional background group, skip unless you want crowd continuity; L07_Village.png -> Location Village.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Night, a violent thunderstorm on a hill above Cedar Hollow, dark clouds, rain.
-0–3s: A lightning bolt strikes a tree right next to Teen Frost; the tree explodes into sparks.
-DIALOGUE 1–3s: Teen Frost (scared, voice cracking): "Whoa!"
-3–12s: Blue electric sparks jump from the burning tree onto Frost's hands. Instead of hurting him, they crawl across his fingers. His eyes glow electric blue.
-DIALOGUE 6–9s: Teen Frost (panicked): "What's happening to me? Stop! STOP!"
-12–22s: He shakes his hands; a blue bolt shoots out of his palm and blasts a rock into pieces. He falls back in the mud, shocked, staring at his glowing hands.
-DIALOGUE 16–19s: Teen Frost (breathing hard): "Did I... do that?"
-22–30s: Lightning flashes. In the bright light, Old Joe stands at the edge of the hill under a big umbrella, leaning on his walking stick, watching calmly.
-DIALOGUE 25–29s: Old Joe (slow raspy wise voice): "Yes, son. You did. And that's only the beginning."
-Final frame: blue sparks fading in Frost's hands, Old Joe's face lit by lightning.
-SFX: thunder, heavy rain, lightning crack, tree explosion, electric crackling, blast, rock shattering, mud splash.
-MUSIC: dramatic storm orchestra, a powerful magical choir hit when the bolt fires.
+CAST NOTE: Tommy = a teenage boy (about 17), messy brown hair, freckles, red cap.
+Afternoon, a grassy field next to Cedar Hollow's wooden water tower.
+0–3s: Teen Frost and Tommy, now a teenager (about 17, messy brown hair, freckles, red cap), play American football. Tommy throws; Frost catches the ball and runs.
+DIALOGUE 1–3s: Tommy (teen boy voice): "Go long, Frost! GO LONG!"
+3–12s: Frost runs too fast, can't stop, and crashes straight into the town water tower. The tower tips over in slow motion.
+DIALOGUE 6–8s: Teen Frost (panicked, voice cracking): "No no no no no!"
+12–22s: A huge wave of water floods Main Street: a man on a bicycle gets washed away (laughing, safe), chickens float by in a bucket, Martha's laundry flies everywhere. Villagers, soaked, stare at Frost.
+DIALOGUE 15–18s: Villager man (angry, dripping): "FROST! That's the third time this month!"
+22–30s: Frost walks away alone, sits by the river, and drops the football. His face is sad.
+DIALOGUE 24–28s: Teen Frost (quiet, sad): "I'm too big. Too strong. I break everything I touch."
+Final frame: Frost's reflection in the river, looking lonely.
+SFX: football throw, running thuds, wood cracking, tower crash, a huge water wave, bicycle bell, chickens clucking, angry shouting, river flowing.
+MUSIC: energetic sports music, a comedic crash, then soft sad guitar.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +43,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 87 | Lightning hit the tree... and the power jumped into Frost's hands ⚡😱 #Bigfoot #Movie #Part87
+Part 87 | "I break everything I touch." Being a teen Bigfoot is hard 😢🏈 #Bigfoot #Movie #Part87
 
 DOLA STATUS
 [ ] Images uploaded

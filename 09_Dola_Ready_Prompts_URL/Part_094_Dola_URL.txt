@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 094 - "Cedar Hollow Home"
-Punch: EMOTION + WOW
-Status:-assets
+PART 094 - "Forest Medicine"
+Punch: EMOTION + ACTION
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,26 +21,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S10_Villagers.png -> optional background group, skip unless you want crowd continuity; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S02_MarthaHayes_FULL.png -> Martha Hayes; L04_BrunoCave.png -> Location BrunoCave.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Golden evening montage in Cedar Hollow, autumn leaves, string lights, a fiddle player on a porch.
-0–3s: A villager plays a fiddle on a porch; people start clapping along. Lily stands up and smiles.
-DIALOGUE 1–3s: Lily (soft young American woman, cheerful): "Alright, everybody, sing with me!"
-3–27s: The whole village SINGS together, clearly audible, lip-synced, upbeat country-folk, Lily leading:
-  3–10s: Lily sings: "Porch lights on and the kettle's warm, we stand together through every storm."
-  — Shots: Frost carrying three kids on his shoulders; Hank rebuilding the water tower with Frost holding it.
-  10–20s: Everyone sings: "Oh Cedar Hollow, you're my home, never gonna walk this road alone..."
-  — Shots: the whole village waving from porches; Frost lifting Martha's car out of the mud; the wolves sleeping near the sheep.
-  20–27s: Everyone sings: "...big or small, we're family, here in Cedar Hollow... home."
-  — Shots: Frost in the middle of the town square, everyone hugging him at once.
-27–30s: Everyone squeezes into one giant group hug around Frost; he laughs and hugs them back very gently. Final frame: the whole town in one big hug.
-DIALOGUE 27–30s: Frost (deep teenage voice, laughing): "Group hug! Careful, careful!"
-DIALOGUE 8-11s: Hank (deep friendly rural voice): "Cedar Hollow, make some noise for our boy!"
-DIALOGUE 15-18s: Villagers (warm crowd voices): "Frost! Frost! Frost!"
-SFX: clapping, stomping boots, laughter, crickets.
-MUSIC: upbeat American country-folk with fiddle, acoustic guitar, banjo and foot-stomp percussion under the song.
+Night, inside Lily's cabin, a stormy night.
+0–3s: Lily lies in bed, pale and sweating with a high fever, shivering. Martha holds a wet cloth to her forehead.
+DIALOGUE 1–6s: Martha (worried Southern voice): "The fever won't go down. The doctor in town is two days away."
+3–12s: Teen Frost kneels by the bed, holding his mother's small hand, scared.
+DIALOGUE 6–9s: Lily (weak whisper): "Don't worry, baby... I'll be okay."
+DIALOGUE 9–13s: Teen Frost (shaking voice): "Mom told me a story... Dad used forest medicine."
+12–22s: Frost runs through the dark forest in the storm, jumping over rivers and fallen trees, lightning flashing, until he reaches the old waterfall cave. Inside, he finds the same green healing leaves still growing on the cave wall.
+DIALOGUE 17–20s: Teen Frost (out of breath): "Please be the right ones..."
+22–30s: Back at the cabin, Frost gently crushes the leaves in his palm, just like Bruno did years ago, and places them on Lily's forehead. By morning, the sun comes in and Lily opens her eyes, smiling, the fever gone. Final frame: Frost asleep on the floor beside her bed, still holding her hand.
+DIALOGUE 26–29s: Lily (soft, smiling with tears): "Just like your father."
+SFX: storm, thunder, heavy breathing, fast footsteps, splashes, waterfall, leaves crushing, morning birds.
+MUSIC: worried strings, a heroic run theme, then Bruno's love theme at the end.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -48,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 94 | "Big or small, we're family..." 🎶🏡 The whole town sings for Frost #Bigfoot #Movie #Part94
+Part 94 | His mom was sick... so he ran through the storm to his father's cave 🌿😭 #Bigfoot #Movie #Part94
 
 DOLA STATUS
 [ ] Images uploaded

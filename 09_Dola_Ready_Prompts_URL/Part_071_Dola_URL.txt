@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
 S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
 V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 071 - "The Barn Fire"
-Punch: ACTION
+PART 071 - "Home Run"
+Punch: FUN + WOW
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,21 +21,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S03_HankMiller_FULL.png -> Hank Miller; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S05_TommyMiller_FULL.png -> Tommy Miller; S03_HankMiller_FULL.png -> Hank Miller; L07_Village.png -> Location Village.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, Hank's big red barn on fire on the edge of Cedar Hollow, flames and smoke, villagers with buckets.
-0–3s: The barn roof bursts into flames; horses scream inside.
-DIALOGUE 1–3s: Hank (desperate): "My horses! They're trapped inside!"
-3–12s: Villagers throw buckets of water but the fire is too big. Kid Frost runs past everyone straight into the burning barn.
-DIALOGUE 6–9s: Lily (screaming): "FROST! NO!"
-12–22s: Inside the barn: flames everywhere, smoke. Frost lifts a burning beam off a stall, grabs two frightened horses by their ropes, and shields them with his body from falling fire.
-DIALOGUE 15–18s: Kid Frost (coughing, brave): "Come on, come on! I got you!"
-22–30s: The barn doors explode open. Frost runs out carrying a young foal in his arms, with two horses running behind him. The barn collapses behind them. His white fur is black with soot. He coughs and smiles. Final frame: Hank hugging the foal, then hugging Frost.
-DIALOGUE 26–30s: Hank (emotional, deep voice): "Son... you're the bravest boy in this whole town."
-SFX: roaring fire, horses neighing, water splashes, wood cracking, coughing, doors bursting, barn collapsing.
-MUSIC: intense heroic action score, ending with a warm emotional swell.
+Sunny afternoon, a dusty small-town baseball field in Cedar Hollow, wooden bleachers full of villagers, an American flag on a pole.
+0–3s: Kid Frost holds a wooden baseball bat that looks like a toothpick in his huge hands.
+DIALOGUE 1–3s: Hank (as umpire, deep rural voice): "Batter up!"
+3–12s: Tommy pitches. Frost swings — CRACK! The ball flies straight up into the sky and disappears into the clouds. Everyone looks up, waiting.
+DIALOGUE 7–10s: Tommy (shocked young boy): "Where... where did it go?"
+DIALOGUE 10–12s: Kid Frost (nervous): "Um... space?"
+12–22s: Quick comedic cut: the crowd still looking up, eating popcorn. Martha falls asleep. A dog lies down. The sun moves across the sky.
+DIALOGUE 17–20s: NARRATOR (deep trailer voice, deadpan): "Two hours later..."
+22–30s: The ball finally falls from the sky and lands right in Frost's hand. The crowd goes wild.
+DIALOGUE 25–30s: Hank (laughing): "I don't know if that's a home run or a moon landing!"
+Final frame: villagers lifting Frost (with a lot of effort) and cheering.
+SFX: bat crack, whistle of the ball flying away, crickets, popcorn crunching, snoring, falling whistle, catch thump, cheering crowd.
+MUSIC: classic American ballpark organ tune, then triumphant brass.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -44,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 71 | He ran INTO the fire to save the horses 🔥🐴 #Bigfoot #Movie #Part71
+Part 71 | Bigfoot plays baseball... the ball came back 2 hours later ⚾😂 #Bigfoot #Movie #Part71
 
 DOLA STATUS
 [ ] Images uploaded

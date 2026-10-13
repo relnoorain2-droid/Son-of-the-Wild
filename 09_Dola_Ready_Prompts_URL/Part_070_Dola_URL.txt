@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 070 - "The Bear Whisperer"
-Punch: WOW + TWIST
+PART 070 - "First Day of School"
+Punch: FUN + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,20 +21,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; S06_SarahMiller_FULL.png -> Sarah Miller; S03_HankMiller_FULL.png -> Hank Miller.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S05_TommyMiller_FULL.png -> Tommy Miller; S02_MarthaHayes_FULL.png -> Martha Hayes.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Late afternoon in Cedar Hollow, near the general store.
-0–3s: A huge grizzly bear smashes through a fence into the village street. People scream and run.
-DIALOGUE 1–3s: Villager woman (screaming): "BEAR! Get inside!"
-3–12s: The bear roars at little Sarah, who is frozen in the middle of the street. Hank runs for his shotgun. Kid Frost steps in front of Sarah.
-DIALOGUE 7–9s: Hank (shouting): "Frost, get away from it!"
-12–22s: Frost doesn't fight. He looks into the bear's eyes. His own eyes glow softly blue for a moment. He speaks calmly; we hear a low, soft rumbling sound like an animal language, and the bear slowly stops roaring.
-DIALOGUE 14–19s: Kid Frost (calm young boy voice): "Hey, big guy. You're just hungry, huh? Nobody wants to hurt you."
-22–30s: The bear sniffs Frost's hand, lies down, and lets Sarah pet its nose. Frost gives the bear a basket of apples from the store. Everyone watches in total silence. Final frame: the grizzly walking calmly back into the forest with an apple in its mouth.
-DIALOGUE 25–29s: Old Joe (from the porch, slow raspy voice): "He speaks to the wild... just like the old legends."
-SFX: fence crash, screams, roar, running, a soft magical hum, low gentle rumbling, sniffing, apple crunch.
-MUSIC: tense drums, then a magical soft choir and gentle strings.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Morning, a small red one-room American country schoolhouse with a bell, a wooden porch, kids with lunch boxes.
+0–3s: Kid Frost squeezes through the schoolhouse door sideways; the door frame cracks.
+DIALOGUE 1–4s: Kid Frost (cheerful young boy voice): "Sorry! Sorry! I'll pay for it!"
+3–12s: Martha is the teacher today, wearing glasses and holding chalk. Frost sits at a tiny desk; it collapses under him. The kids laugh.
+DIALOGUE 6–9s: Martha (warm Southern voice, smiling): "Floor's fine too, honey. Sit on the floor."
+12–22s: Martha writes letters on the chalkboard. Frost holds a tiny piece of chalk in his huge hand very carefully, tongue out, concentrating, and slowly writes on his little slate.
+DIALOGUE 15–18s: Tommy (whispering): "What are you writing?"
+DIALOGUE 18–20s: Kid Frost (proud whisper): "My first word."
+22–30s: At the end of school, Lily waits outside. Frost runs to her and shows the slate: it says "MOM" in big shaky letters. Lily's eyes fill with tears and she hugs him. Final frame: the slate with "MOM" between them.
+DIALOGUE 26–29s: Lily (emotional): "That's the best thing anyone has ever written."
+SFX: school bell, door frame crack, desk collapsing, kids laughing, chalk scratching, footsteps.
+MUSIC: playful school-day tune, turning into the soft Frost theme on piano.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 70 | A grizzly attacked the town... Frost just TALKED to it 🐻✨ #Bigfoot #Movie #Part70
+Part 70 | A Bigfoot's first day of school... his first word made mom cry 🥹✏️ #Bigfoot #Movie #Part70
 
 DOLA STATUS
 [ ] Images uploaded

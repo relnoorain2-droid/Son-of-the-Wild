@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
 C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
+V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
 
 FROST: Son of the Wild
-PART 099 - "A Perfect Day"
-Punch: EMOTION + CLIFFHANGER
+PART 099 - "The Giant"
+Punch: WOW
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,22 +21,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; S02_MarthaHayes_FULL.png -> Martha Hayes.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; C05_Frost_FACE.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V12_Tommy_Adult.png -> Variant Tommy_Adult.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Early morning in Cedar Hollow, a peaceful, perfect sunny day.
-0–3s: Frost carries two fishing rods and a picnic basket; Lily walks beside him, smiling.
-DIALOGUE 1–5s: Lily (soft, happy): "Just you and me today. Like the old days."
-3–12s: Martha waves from her porch with a mug of coffee.
-DIALOGUE 5–9s: Martha (warm Southern voice): "Catch me a big one, Frost! I'm making fish pie tonight!"
-DIALOGUE 9–12s: Frost (deep warm voice, laughing): "The biggest in the river, Grandma Martha!"
-12–20s: Mother and son walk over the hill toward the far river. Kids wave goodbye. Everything is peaceful: laundry on lines, a dog sleeping, children playing.
-DIALOGUE 15–19s: NARRATOR (deep cinematic trailer voice): "It was the most perfect day Cedar Hollow had ever seen..."
-20–30s: Hard cut: on the other side of the mountains, King Magnus in black battle armor rides the red dragon at the front of a huge army: dark Bigfoots, mammoths, soldiers, flying dragons. Captain Vex points toward Cedar Hollow. Final frame: the dragon's shadow sliding over the hills toward the peaceful village.
-DIALOGUE 25–29s: NARRATOR: "...and the last."
-SFX: birds, footsteps, a porch creak, kids laughing, dog snoring, then war horns, dragon wings, marching army.
-MUSIC: warm, happy country melody, cut sharply into a dark war theme.
+Morning, Cedar Hollow main street, mountains behind.
+0–3s: Extreme close-up of a giant white furry foot stepping onto the dirt road. BOOM. Coffee cups on a café table jump.
+DIALOGUE 1–4s: NARRATOR (deep cinematic American trailer voice): "Years later... the boy became a giant."
+3–14s: Slow-motion reveal from feet to head: adult Frost, 11 feet tall, massive muscles, shining snow-white fur with subtle silver dragon-like scale patterns on his shoulders, blue eyes like his mother's, the black crescent patch on his chest. Every step makes the ground shake; windows rattle; birds fly up.
+DIALOGUE 9–12s: Tommy (now a young man, amazed): "Whoa... Frost, you got HUGE."
+14–22s: Frost waves to villagers who wave back. A little girl gives him a flower; he takes it very gently between two giant fingers.
+DIALOGUE 17–20s: Frost (deep powerful young male voice, calm and kind): "Thank you, sweetheart. I'll keep it safe."
+22–30s: The old wooden bridge over the river cracks and collapses while a horse cart is on it. Frost jumps into the river and holds the entire bridge up on his shoulders while the cart crosses safely. Final frame: Frost standing in the river holding the bridge above his head, the sun behind him.
+DIALOGUE 27–30s: Frost (calm, deep, smiling): "Take your time. I've got it."
+SFX: earth-shaking footsteps, rattling cups and windows, birds, cheering, wood cracking, a huge splash, horse hooves on wood.
+MUSIC: epic heroic theme with full orchestra and choir.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 99 | The most perfect day in Cedar Hollow... and the last 😰🐉 #Bigfoot #Movie #Part99
+Part 99 | The boy became a GIANT 😱👣 "Take your time. I've got it." #Bigfoot #Movie #Part99
 
 DOLA STATUS
 [ ] Images uploaded

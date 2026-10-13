@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+K07_WarHorses.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K07_WarHorses/K07_WarHorses.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
 FROST: Son of the Wild
-PART 090 - "Driving Lesson"
-Punch: FUN
+PART 090 - "Not Yet"
+Punch: TWIST + CLIFFHANGER
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,21 +21,22 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; S03_HankMiller_FULL.png -> Hank Miller; L07_Village.png -> Location Village.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; S07_CaptainVex_FULL.png -> Captain Vex; K07_WarHorses.png -> Creature WarHorses.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Daytime, a dirt road outside Cedar Hollow, an old red pickup truck.
-0–3s: Teen Frost squeezes into the driver's seat of Hank's old pickup truck. His head pushes through the roof, his knees around his ears.
-DIALOGUE 1–3s: Hank (deep rural voice, nervous, in the passenger seat): "Okay, son. Nice and easy."
-3–12s: Frost carefully touches the gas pedal with one huge toe. The truck rockets forward. Hank screams.
-DIALOGUE 5–7s: Hank (screaming): "EASY, I SAID EASY!"
-DIALOGUE 7–9s: Teen Frost (panicked, voice cracking): "This IS easy!"
-12–22s: The truck bounces through a cornfield, corn flying everywhere, through a farmer's laundry line (a shirt lands on Hank's face), and through a small creek.
-DIALOGUE 16–19s: Teen Frost: "Which one is the brake?!"
-22–30s: The truck flies into a giant haystack and stops. Silence. Hay everywhere. Hank slowly climbs out, covered in hay, and lies down on the grass. Frost lifts the whole truck out of the haystack with both hands. Final frame: Frost holding the truck above his head.
-DIALOGUE 26–29s: Teen Frost (proud): "Good news! I found the brake!"
-SFX: engine roar, tires spinning, screaming, corn stalks breaking, laundry flapping, water splash, hay explosion, silence, metal creaking.
-MUSIC: fast comedic country chase music.
+Night after the storm, inside Old Joe's small wooden house, a fireplace, old books, carved wooden figures on shelves.
+0–3s: Teen Frost, wet and shaking, sits on the floor of Old Joe's house. Old Joe hands him a cup of hot cocoa.
+DIALOGUE 1–3s: Teen Frost (scared, teenage voice): "Joe, what's wrong with me?"
+3–14s: Old Joe picks up the carved wooden Bigfoot holding a staff from his shelf.
+DIALOGUE 5–10s: Old Joe (slow raspy wise voice): "Nothing's wrong with you. There's an old power in your blood, son. Very old."
+DIALOGUE 10–14s: Teen Frost (eager): "Then teach me! Tell me everything!"
+14–22s: Old Joe puts the carving down and shakes his head.
+DIALOGUE 15–21s: Old Joe: "Not yet. Power before wisdom is just another storm. When the time comes... you'll know."
+22–30s: Outside on the dark hills above Cedar Hollow, three riders on black war horses watch the village lights through a spyglass. One of them is Captain Vex, older now, smiling.
+DIALOGUE 25–29s: Captain Vex (harsh voice, quiet and cruel): "The boy is ready. Tell the king."
+Final frame: Vex turning his horse and riding away into the dark.
+SFX: fireplace crackle, cocoa cup, rain dripping, wooden carving set down, wind on the hills, horse snort, galloping away.
+MUSIC: warm mysterious strings inside, dark villain theme outside.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 90 | Teaching a teen Bigfoot to drive... Hank will never be the same 😂🛻 #Bigfoot #Movie #Part90
+Part 90 | Old Joe knows the secret of Frost's power... but the king's men are watching 👀🐎 #Bigfoot #Movie #Part90
 
 DOLA STATUS
 [ ] Images uploaded

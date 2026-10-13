@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
-L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
-S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
-V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
+K03_SmallDragons.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K03_SmallDragons/K03_SmallDragons.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
+V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
 
 FROST: Son of the Wild
-PART 169 - "The Great Red Dragon"
-Punch: WOW + TWIST
+PART 169 - "Free the Dragons"
+Punch: ACTION + WOW
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,20 +21,21 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; S11_Rose_FULL.png -> Rose; K02_RedDragon.png -> Creature RedDragon; L02_KingCastle.png -> Location KingCastle.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V13_Sarah_Adult.png -> Variant Sarah_Adult; V12_Tommy_Adult.png -> Variant Tommy_Adult; S07_CaptainVex_FULL.png -> Captain Vex; K03_SmallDragons.png -> Creature SmallDragons.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Thorne Castle's highest tower, dark storm clouds gathering, battlefield below.
-0–3s: King Magnus watches his army falling apart. His face twists with rage.
-DIALOGUE 1–3s: King Magnus (deep, furious): "Useless! All of you, USELESS!"
-3–12s: He holds the staff with both hands and slams the red crystal into the stone floor of the tower. The whole castle shakes. A giant crack opens in the castle courtyard; red light pours out of it.
-DIALOGUE 6–11s: King Magnus (shouting a dark spell, echoing): "RISE, Great One! Rise and burn them ALL!"
-12–22s: From under the castle, a gigantic red dragon rises: three times bigger than any dragon before, scales like dark lava, horns like a crown, wings that cover the sun, eyes blazing red. The ground cracks, towers fall.
-DIALOGUE 17–22s: Rose (from the tunnel entrance, horrified): "The Great Red... he's been chained under the castle for a hundred years!"
-22–30s: The Great Red Dragon roars so loud that every fighter on the battlefield, human and animal, freezes and covers their ears. King Magnus climbs onto its head. Final frame: the king standing on the gigantic dragon's head, the sun blocked by its wings.
-DIALOGUE 27–29s: King Magnus (laughing madly): "NOW it ends!"
-SFX: an enraged shout, crystal slam, a castle-shaking quake, a ground crack, a deep red magical roar, collapsing towers, giant wing beats, a world-shaking dragon roar.
-MUSIC: terrifying epic choir and orchestra, the biggest dark theme in the movie.
+The underground dragon pens beneath Thorne Castle, torchlight, chains.
+0–3s: Captain Vex steps out of the shadows with his axe, blocking the tunnel.
+DIALOGUE 1–4s: Captain Vex (harsh voice, cruel smile): "Well, well. Rats in my dungeon."
+3–12s: Tommy steps in front of Sarah, raising a pitchfork. Vex snaps it in half with one swing of his axe.
+DIALOGUE 5–8s: Tommy (shaking but brave): "You'll have to go through me!"
+DIALOGUE 8–10s: Captain Vex (laughing): "Gladly, boy."
+12–22s: Behind them, Sarah and Rose use a big iron key ring and a hammer to break the chain on the young green dragon's leg. The chain snaps. The dragon's eyes change from red to gold.
+DIALOGUE 16–19s: Sarah (shouting): "You're FREE! Go!"
+22–30s: Vex raises his axe over Tommy — and the young green dragon blasts him with a burst of (golden) fire from behind, not burning him but launching him into a pile of hay. The dragon grabs Vex by the back of his armor and flies away with him through a hole in the cave ceiling, Vex screaming. Final frame: Tommy on the ground, staring up, the dragon flying away with Vex dangling.
+DIALOGUE 27–30s: Tommy (shocked, laughing): "Did a dragon just... take out the trash?"
+SFX: footsteps, a cruel laugh, a pitchfork snapping, chain hammering, a chain snapping, a happy dragon chirp, a fire burst, a hay pile thump, wing beats, Vex screaming fading away.
+MUSIC: tense villain theme, then a heroic, joyful dragon theme.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -43,7 +44,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 169 | The king woke the GREAT RED DRAGON... 3x bigger than any dragon 😱🐉 #Bigfoot #Movie #Part169
+Part 169 | They freed ONE dragon... and it carried Captain Vex away 🐉😂 #Bigfoot #Movie #Part169
 
 DOLA STATUS
 [ ] Images uploaded

@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 
 FROST: Son of the Wild
-PART 067 - "Cannonball!"
-Punch: FUN
+PART 067 - "The Teddy Bear"
+Punch: EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,23 +21,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S05_TommyMiller_FULL.png -> Tommy Miller; S03_HankMiller_FULL.png -> Hank Miller.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V05_Frost_Baby.png -> Variant Frost_Baby; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S06_SarahMiller_FULL.png -> Sarah Miller; S03_HankMiller_FULL.png -> Hank Miller.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Bright summer day at a lake near Cedar Hollow, families having a picnic, pine trees, mountains.
-0–3s: Kid Frost runs down a wooden dock at full speed and jumps high into the air.
-DIALOGUE 1–3s: Kid Frost (cheerful young boy voice, slightly deep): "CANNONBAAALL!"
-3–10s: He hits the lake; a giant wave flies up and completely soaks the entire village picnic: sandwiches, pies, and Hank in his cowboy hat.
-DIALOGUE 5–10s: NARRATOR (deep cinematic American trailer voice): "Two summers later... Frost had grown faster than any child in America."
-10–20s: Everyone stands frozen and dripping. Hank slowly lifts his soaked hat; a small fish flops out of it.
-DIALOGUE 13–16s: Hank (deep rural voice, deadpan): "...Lily."
-DIALOGUE 16–20s: Lily (trying not to laugh): "Frost Carter, get out of that lake right now!"
-20–30s: Frost pops up from the water with a huge innocent smile, Tommy and Sarah cheering on his shoulders. Everyone bursts out laughing, even Hank. Final frame: the whole picnic laughing, soaked.
-DIALOGUE 23–26s: Tommy (excited young boy): "Do it again, Frost! Do it again!"
-DIALOGUE 26–30s: Kid Frost (grinning): "Mom said no... but she didn't say no TWICE!"
-SFX: running on a wooden dock, a giant splash, wave crash, dripping water, fish flop, laughter.
-MUSIC: bright, bouncy American summer country-pop with banjo and drums.
+Dusk, in front of the cabin, torches.
+0–3s: Little Sarah slips out from behind Hank's legs and walks toward the baby.
+DIALOGUE 1–3s: Hank (panicked): "Sarah! Get back here!"
+3–14s: Baby Frost crawls slowly toward Sarah and holds out the teddy bear to her, very gently. Everyone holds their breath.
+DIALOGUE 7–9s: Sarah (small cute girl voice): "That's... my bear."
+DIALOGUE 9–12s: Frost makes a soft, sweet little coo and pushes the bear into her hands.
+14–22s: Sarah smiles and hugs the teddy bear, then hugs Frost. Frost hugs her back very carefully, as if he knows he's strong.
+DIALOGUE 16–19s: Sarah (giggling): "He's soft! Daddy, he's like a cloud!"
+22–30s: Villagers slowly lower their pitchforks. Some women wipe their eyes. Hank lowers his pitchfork completely.
+DIALOGUE 24–28s: Hank (deep voice, emotional, embarrassed): "Well... I'll be. He brought her bear back."
+Final frame: Lily crying with relief, Sarah and Frost hugging in the torchlight.
+SFX: soft footsteps, baby coo, giggling, pitchforks lowered, crackling torches, quiet sniffles.
+MUSIC: gentle piano, building into warm strings.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -46,7 +46,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 67 | When a Bigfoot kid does a cannonball at the town picnic 😂🌊 #Bigfoot #Movie #Part67
+Part 67 | They came to hurt him... he gave a little girl her teddy back 🧸🥺 #Bigfoot #Movie #Part67
 
 DOLA STATUS
 [ ] Images uploaded
