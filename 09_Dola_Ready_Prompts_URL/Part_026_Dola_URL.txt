@@ -14,9 +14,11 @@ REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
 
 PROMPT TO PASTE IN DOLA
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
 Use active skill: Zakariya Seedance 2 5 30s
 Model: Seedance 2.5
-Duration: 30 seconds
+Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
@@ -56,4 +58,5 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
+
 

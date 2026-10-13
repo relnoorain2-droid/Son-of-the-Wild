@@ -8,6 +8,7 @@ description: "Seedance 2.5 video generation, hard-locked to one single 30-second
 ## Hard Lock (non-negotiable, overrides everything below)
 
 - **Duration is locked at 30 seconds.** Always pass `duration: 30`.
+- **Never deliver a 15-second result.** If the generated file is shorter than 29 seconds, it is not complete. Regenerate once with the same references and an even stronger exact-duration instruction before delivering.
 - **One single continuous segment.** One tool call = one complete 30-second video.
 - **Model is locked to Seedance 2.5.** Always pass `model_version: "seedance_2.5"`.
 - **Ratio is locked to 9:16** (vertical reels) unless the user explicitly asks for another ratio. If a PART block contains `FORMAT: YOUTUBE 16:9`, it is the YouTube version: use ratio 16:9 and write "widescreen 16:9" instead of "vertical 9:16" in the GLOBAL RULES.
@@ -55,7 +56,8 @@ Triggered when the user pastes a block that starts with `PART xx` (from the file
    - If the video tool rejects or cuts the prompt because it is too long, shorten ONLY the visual description lines. Every DIALOGUE, SFX and MUSIC line stays word-for-word.
    - DIALOGUE time windows are a guide: every line must be spoken, in the given order, clearly, at a natural speed. Never drop a line to save time.
    - The "LOOK LOCK" line inside a PART is part of the prompt. Keep it.
-6. Deliver the video via `NotifyHuman` with a renderable video asset, plus the Facebook caption from the PART block.
+7. **Verify duration before final delivery.** The output must be 29-31 seconds. If the first render is about 15 seconds, do not call it complete; regenerate using the same images and prepend: `EXACT 30 SECOND OUTPUT REQUIRED. Do not make a 15-second version. Use the full 0-30s timeline.`
+8. Deliver the video via `NotifyHuman` with a renderable video asset, plus the Facebook caption from the PART block.
 
 ### CHARACTER LOCK (prepend to every movie prompt)
 
@@ -92,6 +94,7 @@ LILY LOOK LOCK (only if Lily is in the part): Lily always looks 22–24 years ol
 ### GLOBAL RULES (append to every movie prompt)
 
 ```
+AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Every part must include at least 4 spoken lines whenever possible, with active character conversation across the full 30 seconds. Prefer 5-7 short, clear lines when the action allows. Include all listed sound effects and background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
 SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
@@ -101,6 +104,7 @@ TEXT RULE: On-screen text is allowed only for intentional short cinematic title/
 ### Movie content rules
 
 - **Punch rule:** every part has a 0–3 s hook, a 3–22 s story beat with dialogue, and a 22–30 s punch or cliffhanger (action, fun, emotion, twist or wow).
+- **Duration verification rule:** after generation, check that the delivered file is 29-31 seconds. If it is around 15 seconds, regenerate immediately with exact 30-second wording and the same references.
 - **Standalone rule:** every part makes sense on its own; at least 3 spoken dialogue lines, preferably 4-6 short lines; character voices + SFX + music in every part.
 - **Safety:** Lily is always an adult (22+). Romance is shown only by looks, hand-holding, hugging, then fade to black. Deaths and violence are shown emotionally (slow motion, silhouettes, impact cuts), never graphic.
 
@@ -151,7 +155,7 @@ image_to_video(
   model_version: "seedance_2.5",
   duration: 30,
   ratio: "9:16",
-  prompt: "<CHARACTER LOCK> + <PART prompt exactly as written> + <GLOBAL RULES>",
+  prompt: "EXACT 30 SECOND OUTPUT REQUIRED. Do not generate 15 seconds. Use the full 0-30s timeline. " + "<CHARACTER LOCK> + <PART prompt exactly as written> + <GLOBAL RULES>",
   image_reference_url_list: ["<url-from-FileBatchUpload>", ...]
 )
 ```
@@ -161,7 +165,7 @@ text_to_video(
   model_version: "seedance_2.5",
   duration: 30,
   ratio: "9:16",
-  prompt: "<full 30-second prompt with dialogue, SFX, music> + <GLOBAL RULES>"
+  prompt: "EXACT 30 SECOND OUTPUT REQUIRED. Do not generate 15 seconds. Use the full 0-30s timeline. " + "<full 30-second prompt with dialogue, SFX, music> + <GLOBAL RULES>"
 )
 ```
 
