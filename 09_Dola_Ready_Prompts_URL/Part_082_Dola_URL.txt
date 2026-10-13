@@ -35,6 +35,9 @@ DIALOGUE 26–29s: Kid Frost (soft, trembling): "Who are you?"
 SFX: running, deer hooves, waterfall roar, water dripping in the cave, soft echoes, a gentle magical hum.
 MUSIC: mysterious soft strings, then Bruno's love theme very softly.
 
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 083 - "Your Father's Home": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.

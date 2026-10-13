@@ -36,6 +36,9 @@ DIALOGUE 25-29s: Rose (terrified whisper): "He's coming!"
 SFX: door lock click, forest wind, distant wolf howl, footsteps, door handle turning.
 MUSIC: dark emotional strings, rising suspense drums.
 
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 010 - "The Escape": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
 GLOBAL RULES:
 AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, vertical 9:16. SETTING: Fully American / Western, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no graphic harm, no nudity.
 

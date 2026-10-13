@@ -36,6 +36,9 @@ DIALOGUE 21-25s: King Magnus (deep commanding voice): "Tonight, the old traditio
 SFX: soft crowd murmur, ceremony book opening, ring sound, staff tap, crystal hum.
 MUSIC: solemn wedding strings shifting into dark suspense.
 
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 009 - "The Truth": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
 GLOBAL RULES:
 AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, vertical 9:16. SETTING: Fully American / Western, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no nudity, no coercive physical contact.
 

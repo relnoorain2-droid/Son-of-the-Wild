@@ -46,6 +46,9 @@ SFX: thunder, castle doors, calendar page flip, torch crackle, carriage wheels, 
 MUSIC: dark trailer drums and low strings, rising sting on Lily's house.
 CAMERA: cinematic trailer style, slow dolly toward castle, close-ups on king and prince, wide shot of forest gate, hard cut to Lily's poor house.
 
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 002 - "Lily's Month": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
 GLOBAL RULES:
 AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English. No line may be skipped. Dialogue must stay louder than music and effects.

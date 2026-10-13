@@ -43,6 +43,9 @@ SFX: cold wind through wooden walls, coin clink, distant church bell, fearful to
 MUSIC: sad piano and low strings at the start, dark drums when the king is shown, sharp tense sting when Captain Vex gives the order.
 CAMERA: intimate handheld close-ups inside the poor house, slow push toward the window, dramatic throne insert, final low-angle shot on the royal seal.
 
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 004 - "The Royal Visit": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
 GLOBAL RULES:
 AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English. No line may be skipped. Dialogue must stay louder than music and effects.

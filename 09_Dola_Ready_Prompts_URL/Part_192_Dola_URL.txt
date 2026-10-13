@@ -39,6 +39,9 @@ Final frame: the sky full of stars, one star shaped like a giant handprint glowi
 SFX: night wind, distant party music, crickets, a soft magical shimmer, Bruno's echoing voice, a final gentle chime.
 MUSIC: the love theme and the Frost theme together, building to a beautiful final orchestral chord, then fading to silence.
 
+FINAL EMOTIONAL CLOSURE LOCK:
+This is the final movie ending. Do not add a new cliffhanger. End with emotional closure, a lingering magical image, and a final feeling that the story is complete but unforgettable.
+
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.

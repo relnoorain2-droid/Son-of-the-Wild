@@ -1,6 +1,6 @@
 ---
 name: zakariya-seedance-2-5-30s
-description: "Seedance 2.5 video generation, hard-locked to one single 30-second 9:16 video per call, with full dialogue, sound effects and music. Use for Seedance 2.5, 30-second videos, cinematic animation, and especially for the Frost Son of the Wild Bigfoot movie parts (PART 01 to PART 180) that use character reference images. Never splits into multiple clips."
+description: "Seedance 2.5 video generation, hard-locked to one single 30-second 9:16 video per call, with full dialogue, sound effects, music, and suspense hooks. Use for Seedance 2.5, 30-second videos, cinematic animation, and especially for the Frost Son of the Wild Bigfoot movie parts (PART 001 to PART 192) that use character reference images. Never splits into multiple clips."
 ---
 
 # Zakariya Seedance 2.5 — 30s Hard Lock (Movie Edition)
@@ -13,6 +13,7 @@ description: "Seedance 2.5 video generation, hard-locked to one single 30-second
 - **Model is locked to Seedance 2.5.** Always pass `model_version: "seedance_2.5"`.
 - **Ratio is locked to 9:16** (vertical reels) unless the user explicitly asks for another ratio. If a PART block contains `FORMAT: YOUTUBE 16:9`, it is the YouTube version: use ratio 16:9 and write "widescreen 16:9" instead of "vertical 9:16" in the GLOBAL RULES.
 - **Audio is ON.** Every video must include spoken dialogue, sound effects and background music exactly as written in the prompt.
+- **Suspense hook is ON.** Every normal movie part must end with a final 3-second hook that pulls viewers into the next part. The final movie part must close emotionally instead of adding a new cliffhanger.
 
 ### Anti-spreading rules — never do any of these:
 
@@ -56,6 +57,7 @@ Triggered when the user pastes a block that starts with `PART xx` (from the file
    - If the video tool rejects or cuts the prompt because it is too long, shorten ONLY the visual description lines. Every DIALOGUE, SFX and MUSIC line stays word-for-word.
    - DIALOGUE time windows are a guide: every line must be spoken, in the given order, clearly, at a natural speed. Never drop a line to save time.
    - The "LOOK LOCK" line inside a PART is part of the prompt. Keep it.
+   - The "SUSPENSE HOOK LOCK" line inside a PART is part of the prompt. Keep it for Parts 001-191. Keep the "FINAL EMOTIONAL CLOSURE LOCK" for Part 192.
 7. **Verify duration before final delivery.** The output must be 29-31 seconds. If the first render is about 15 seconds, do not call it complete and do not retry the same backend path. Switch to the Seedance 2.5 30s composer/text route and prepend: `EXACT 30 SECOND OUTPUT REQUIRED. Use Seedance 2.5 30s route. Do not use any route that returns 15 seconds. Use the full 0-30s timeline.`
 8. Deliver the video via `NotifyHuman` with a renderable video asset, plus the Facebook caption from the PART block.
 

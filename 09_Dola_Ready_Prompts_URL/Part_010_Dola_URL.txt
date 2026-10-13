@@ -37,6 +37,9 @@ DIALOGUE 26-29s: Prince Damian (angry shout): "GUARDS!"
 SFX: door creak, goblets clink, liquid splash, curtain whoosh, quick footsteps, wind outside, distant alarm bell.
 MUSIC: sneaky playful strings, then fast adventure drums.
 
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 011 - "The Trackers": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
 GLOBAL RULES:
 AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, vertical 9:16. SETTING: Fully American / Western, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no injury, no nudity, no romantic bedroom action.
 

@@ -36,6 +36,9 @@ DIALOGUE 23-26s: King Magnus (cold): "Send the trackers."
 SFX: alarm bells, haystack thump, running footsteps, guards shouting, Bigfoot sniffing, dragon breathing, fabric ripping, gate grinding, wolves howling.
 MUSIC: intense action orchestra with fast drums and brass.
 
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 012 - "Face to Face with a Grizzly": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
 GLOBAL RULES:
 AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, vertical 9:16. SETTING: Fully American / Western, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no restraints, no chains, no graphic animal attack, no nudity.
 

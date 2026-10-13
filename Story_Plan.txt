@@ -143,3 +143,9 @@ The generated movie must not begin with Lily immediately receiving the royal mar
 3. PART 003 begins Lily's direct story at home with Grace and the king's men arriving.
 
 This structure is required so viewers understand that Lily is not the first bride. The king and prince repeat this same pattern every month, and Lily becomes the next victim of that system.
+
+## Suspense Production Rule - Updated 2026-10-13
+
+Every normal 30-second part must end with a suspense hook in the final 3 seconds. The hook can be a worried look, a mysterious sound, a shadow, a reveal, an unfinished question, danger approaching, or an emotional doubt. It must lead naturally into the next numbered part and must not add random new characters or break continuity.
+
+Only the final part should avoid a cliffhanger. The final part must close emotionally with a complete ending.
