@@ -36,6 +36,7 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Night, inside the cabin, candlelight. Lily holds the small framed flower.
 0–3s: Lily smiles through tears.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 204's final image: Build into the hook: Lightning flickers in his blue eyes. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 0–4s: Lily (soft): "No. My heart only had one husband. Your father. Bruno."
 3–24s: Flashback montage in warm golden light, with Lily's voice-over:
   3–9s: Bruno catching the grizzly's claw; Bruno saying "Bruno also sing. Badly."; Bruno shaking water on Lily.

@@ -33,6 +33,7 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Dawn after the battle, smoke drifting over Cedar Hollow's broken log wall.
 0–3s: Captain Vex limps out of the forest, bruised, his armor dented. Two soldiers drag the unconscious Prince Damian behind them on a stretcher.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 220's final image: He disappears into the white roaring water far below. Lily, on the wall, screams with everything she has. Final frame: the empty waterfall in the moonlight, foam and mist, no sign of Frost. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Captain Vex (harsh voice, hoarse): "The white beast is dead!"
 3–12s: The surviving soldiers cheer weakly. Vex looks up at the villagers on the wall.
 DIALOGUE 5–10s: Captain Vex: "Keep your gold. Next time the king comes himself... and he burns everything."

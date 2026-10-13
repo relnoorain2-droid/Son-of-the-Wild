@@ -34,6 +34,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Night by the campfire outside the waterfall cave, stars above.
 0–3s: Lily pulls Bruno up by his giant finger; he almost trips over a log.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 069's final image: Bruno with flowers in his fur and honey on his nose. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Lily (laughing): "Come on, I'm teaching you to dance!"
 3–12s: Lily shows a simple country two-step. Bruno copies her very badly, stomping so hard the ground shakes and a pinecone falls on his head.
 DIALOGUE 5–8s: Bruno (deep, confused): "Left foot... which one is left?"

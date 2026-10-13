@@ -32,6 +32,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Morning, sunlight sparkling through the waterfall into the cave.
 0–3s: Lily wakes up under the bearskin. A giant live salmon flops right onto her lap, splashing her face.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 051's final image: Build into the hook: Both become shy and look away. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Lily (screaming, then laughing): "AAH! What is this?!"
 3–12s: Bruno stands proudly at the entrance holding more flopping fish in both hands.
 DIALOGUE 4–7s: Bruno (deep voice, proud and happy): "Breakfast! Bruno catch. Very fresh."

@@ -33,6 +33,7 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
 The castle courtyard at dusk, the giant dark crack in the ground glowing faintly red from deep below.
 0–3s: Frost turns his back on the king and walks toward Lily. Behind him, King Magnus pulls a hidden dagger from his boot.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 304's final image: Frost stares at him for a long time. His fists glow. Then the glow fades. He lowers his hands. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: King Magnus (hissing): "If I lose everything... so do you!"
 3–12s: The king charges at Lily with the dagger. Old Scar the giant grizzly jumps between them and knocks the king backward with one paw. The king stumbles toward the edge of the dark crack.
 DIALOGUE 6–9s: Lily (screaming): "Frost!"

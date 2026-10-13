@@ -31,6 +31,7 @@ LILY LOOK LOCK: Lily always looks 22-24 years old, young, beautiful, blue eyes, 
 
 Scene: Night after a violent storm, Bruno's cave entrance, wet rocks, dripping trees, thunder fading.
 0-5s: Lily wakes and sees Bruno missing. She runs to the cave entrance, frightened.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 072's final image: Lightning flashes outside; in the light, they look into each other's eyes. Lily gently places her hand on his huge cheek. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1-4s: Lily (calling, scared): "Bruno? Bruno!"
 5-12s: Bruno returns carrying a huge fallen log over his shoulder, soaked but calm. He used it to block floodwater from entering the cave.
 DIALOGUE 6-10s: Bruno (gentle): "Water coming. Bruno stop it."

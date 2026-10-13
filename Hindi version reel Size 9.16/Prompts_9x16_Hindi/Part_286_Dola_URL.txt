@@ -36,6 +36,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powered.png for present-day Frost; do not revert to baby, kid, teen, or unpowered adult Frost unless a memory is explicitly shown.
 Scene: Prince Damian tries to frighten Lily in the castle hall.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 285's final image: The Great Red Dragon recovers, swings its gigantic tail, and smashes Frost out of the sky like a baseball. He flies across the valley and crashes through the castle wall, disappearing inside in a cloud of dust and falling stones. Silence. Final frame: the hole in the castle wall, smoke, no movement. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1-4s: NARRATOR (epic cinematic voice): "The final war was not for revenge alone. It was for everyone Magnus broke."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
 DIALOGUE 5-8s: Frost (thunderous calm): "No more fear. No more stolen lives."

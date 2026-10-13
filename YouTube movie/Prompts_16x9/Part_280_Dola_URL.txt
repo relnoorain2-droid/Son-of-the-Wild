@@ -32,6 +32,7 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 The battlefield, Thorne Castle's highest tower above.
 0–3s: On the highest tower, King Magnus raises his staff. The red crystal glows brighter than ever.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 279's final image: He spins the T-rex by its jaw and throws it into the castle moat with a giant splash. The remaining dark Bigfoots look at each other... and run away. Final frame: Frost standing alone, electricity crackling, the T-rex's tail sinking in the moat. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: King Magnus (deep, menacing): "Enough games, boy."
 3–12s: A huge bolt of RED lightning shoots from the tower and hits Frost in the chest. He is thrown back across the battlefield and crashes into the ground, leaving a long trench.
 DIALOGUE 6–8s: Lily (screaming from the battlefield): "FROST!"

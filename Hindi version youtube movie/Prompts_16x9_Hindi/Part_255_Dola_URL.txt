@@ -34,6 +34,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powered.png for present-day Frost; do not revert to baby, kid, teen, or unpowered adult Frost unless a memory is explicitly shown.
 Scene: Frost learns to call lightning but nearly burns a tree.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 254's final image: Frost lands softly, transformed into his powered form. Bruno's spirit looks down at Lily. She looks up, crying. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1-4s: NARRATOR (mystical cinematic voice): "Frost needed more than strength. He needed the truth of his bloodline."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
 DIALOGUE 5-8s: Frost (deep, emotional): "Father... if you can hear me, help me protect them."

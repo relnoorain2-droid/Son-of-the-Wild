@@ -30,6 +30,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 The waterfall cave entrance and valley, smoke, fire.
 0–3s: Three smaller dragons dive from the sky and breathe fire at the waterfall; steam explodes, revealing the cave.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 091's final image: At the very edge, Bruno jumps off; the T-rex skids, can't stop, and falls over the cliff into the river far below with a giant splash. Bruno lands on one knee, exhausted. Final frame: the king's face, angry, his red crystal glowing. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Lily (screaming): "Bruno!"
 3–14s: Bruno runs and jumps in front of the cave, shielding the entrance with his body as dragon fire hits his back. He grabs one dragon by the tail and swings it into another.
 DIALOGUE 7–9s: Bruno (deep, in pain, roaring): "Not... her!"

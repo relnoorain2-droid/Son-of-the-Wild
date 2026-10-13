@@ -32,6 +32,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 
 The battlefield in front of Thorne Castle, soldiers in black helmets fighting villagers.
 0–3s: A line of the king's soldiers marches forward with shields. In front of them stands a line of grandmothers with frying pans.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 276's final image: Old Scar stands up on his hind legs and roars at a mammoth twice his size; the mammoth backs away. Damian, struggling to control his mammoth, looks at the battle in shock. Final frame: dust and chaos, bison everywhere. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Soldier (laughing): "Grandmas? They sent GRANDMAS?"
 3–12s: Martha smiles sweetly.
 DIALOGUE 4–6s: Martha (warm Southern voice): "Frying Pan Brigade... SWING!"

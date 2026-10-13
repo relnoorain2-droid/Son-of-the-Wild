@@ -28,6 +28,7 @@ FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient f
 
 Scene: Afternoon behind Lily's cabin, split-rail fence, tall grass, village barns in the distance.
 0-5s: Frost sits angry beside a broken fence post after asking about his father. Lily stands nearby, worried.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 154's final image: Lily smiles and points at the black crescent patch on Frost's chest. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1-5s: Frost (young deep voice, upset): "Everyone else has a dad at school. Why can't I?"
 5-12s: Lily kneels beside him. Frost turns away, hurt.
 DIALOGUE 5-9s: Lily (soft): "Because your father gave everything to keep us safe."

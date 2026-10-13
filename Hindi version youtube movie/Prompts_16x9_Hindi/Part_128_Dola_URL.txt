@@ -34,6 +34,7 @@ FROST AGE LOCK: Frost is a newborn/baby here. Use only V05_Frost_Baby.png for Fr
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Inside the cabin, candlelight, snow falling outside the window.
 0–3s: Lily lifts a small bundle wrapped in the old patchwork quilt. The quilt moves. A tiny white furry hand pokes out.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 127's final image: Build into the hook: Someone knocks on the cabin door. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Lily (soft, breathless): "Let me see you, little one..."
 3–12s: She slowly opens the quilt: a newborn WHITE baby Bigfoot with fluffy snow-white fur, a pale-pink face and big blue eyes exactly like Lily's. Lily gasps.
 DIALOGUE 6–9s: Lily (shocked whisper): "You're... white. Like the snow."

@@ -31,6 +31,7 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 
 Bright morning on a hill above Cedar Hollow, a clear blue sky, mountains in the distance.
 0–3s: Powered Frost stands on the hill. Tommy and Hank stand behind him, holding coffee.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 258's final image: Build into the hook: The village bells ring for war. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Tommy (young man, excited): "Okay, okay. Show us. Do the lightning thing."
 3–12s: Frost raises one hand to the perfectly clear sky. A single cloud forms out of nothing above him in seconds.
 DIALOGUE 6–9s: Frost (deep powerful voice, calm): "Be still... and come."

@@ -35,6 +35,7 @@ FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient f
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Night, Hank's big red barn on fire on the edge of Cedar Hollow, flames and smoke, villagers with buckets.
 0–3s: The barn roof bursts into flames; horses scream inside.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 152's final image: The bear sniffs Frost's hand, lies down, and lets Sarah pet its nose. Frost gives the bear a basket of apples from the store. Everyone watches in total silence. Final frame: the grizzly walking calmly back into the forest with an apple in its mouth. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Hank (desperate): "My horses! They're trapped inside!"
 3–12s: Villagers throw buckets of water but the fire is too big. Kid Frost runs past everyone straight into the burning barn.
 DIALOGUE 6–9s: Lily (screaming): "FROST! NO!"

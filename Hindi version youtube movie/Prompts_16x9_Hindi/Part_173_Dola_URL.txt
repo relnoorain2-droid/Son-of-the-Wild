@@ -34,6 +34,7 @@ FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Sunset by the river.
 0–3s: Lily sits down next to Teen Frost and hands him something small: a single chicken egg.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 172's final image: Frost walks away alone, sits by the river, and drops the football. His face is sad. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Lily (soft, warm): "Hold this. Don't break it."
 3–12s: Frost holds the egg in his giant hand. CRACK — it breaks instantly. Yolk drips. Lily hands him another. Crack. Another. Crack.
 DIALOGUE 7–10s: Teen Frost (frustrated, voice cracking): "See? I can't do anything right!"

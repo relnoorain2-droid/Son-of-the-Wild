@@ -34,6 +34,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 A cozy cave hidden behind a waterfall, moss, wildflowers, a crackling campfire, moonlight shining through the falling water.
 0–3s: Bruno walks through the curtain of water carrying a soaked, shivering Lily, and the hidden cave is revealed, glowing warm orange.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 045's final image: Bruno hugs Lily tight and jumps off the cliff into the waterfall in slow motion; the moon behind them. The wolves stop at the edge, howling. Final frame: a huge splash in the dark pool below. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Lily (soft amazed whisper): "Wow... you live here?"
 3–14s: Bruno gently sets her down by the fire, crushes green leaves in his huge palm and carefully presses them on her cut foot. She winces, then smiles.
 DIALOGUE 5–8s: Bruno (deep slow warm voice): "Forest medicine. Stop the pain."

@@ -35,6 +35,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient forest magic run in his blood. Use only V06_Frost_Kid.png for present-day Frost; do not show baby, teen, adult, or powered Frost here.
 Scene: Little Frost carries two heavy milk pails Martha cannot lift.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 141's final image: close-up of Old Joe's serious eyes. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1-4s: NARRATOR (gentle cinematic voice): "Weeks passed like years; Bruno's Bigfoot genes made Frost grow into a strong little boy before Cedar Hollow understood his heart."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
 DIALOGUE 5-8s: Lily (protective mother): "His name is Frost. He is innocent."

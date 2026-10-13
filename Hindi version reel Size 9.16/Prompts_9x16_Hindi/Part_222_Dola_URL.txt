@@ -32,6 +32,7 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Morning, along the wild river below the waterfall, rocks, mist, villagers searching.
 0–3s: Lily climbs over wet rocks along the river, calling out.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 221's final image: Lily walks alone to the edge of the cliff and stares down at the waterfall, her hair moving in the wind. Her face is calm, determined, no tears. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Lily (shouting): "FROST! FROST, CAN YOU HEAR ME?"
 3–12s: Hank, Tommy and villagers search with lanterns and ropes. Hours pass; the sun moves.
 DIALOGUE 6–10s: Hank (deep voice, gentle): "Lily... we've been searching all day. The river's too strong."

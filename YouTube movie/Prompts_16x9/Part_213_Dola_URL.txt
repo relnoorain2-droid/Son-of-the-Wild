@@ -32,6 +32,7 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Night, the roof of Lily's cabin, a huge full moon rising over the mountains.
 0–3s: Frost and Lily sit on the roof watching the giant full moon rise.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 212's final image: Frost practices his lightning: he aims at a row of tin cans on a fence; the bolt misses and blows up Hank's outhouse instead. Hank comes out of the smoke with his newspaper. Final frame: everyone frozen, staring at Hank. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–5s: Lily (soft): "Your father and I used to watch the stars like this."
 3–12s: Lily takes his huge hand.
 DIALOGUE 5–10s: Lily (emotional): "Whatever happens tomorrow, remember what he always said: strong hands... gentle heart."

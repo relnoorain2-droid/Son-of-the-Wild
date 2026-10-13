@@ -32,6 +32,7 @@ FROST AGE LOCK: Frost is a newborn/baby here. Use only V05_Frost_Baby.png for Fr
 CAST NOTE: Tommy = a cheerful boy (10–14), messy brown hair, freckles, red cap.
 Dusk at the forest edge near the cabin, torches.
 0–3s: From a tree branch above, a mountain lion leaps down toward little Sarah.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 140's final image: Villagers slowly lower their pitchforks. Some women wipe their eyes. Hank lowers his pitchfork completely. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Hank (screaming): "SARAH!"
 3–12s: Slow motion: before anyone can move, baby Frost jumps in front of Sarah and lets out a ROAR — not a squeak this time, but a deep powerful roar. For one second his blue eyes glow and tiny blue sparks crackle in his fur.
 12–20s: The mountain lion freezes mid-air, lands, and runs away in terror into the forest. Everyone stares, stunned. Frost sits down, sneezes, and looks proud.

@@ -30,6 +30,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Bright afternoon by a wide mountain river surrounded by tall pines, sunbeams.
 0–3s: Lily swings on a long vine swing high over the river, screaming with joy, hair flying.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 056's final image: From the fog, an armored dark Bigfoot tracker steps forward with glowing red eyes. It sniffs the veil, growls, and points toward the waterfall. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Lily (soft voice, laughing loudly): "Higher, Bruno! Higher!"
 3–12s: Bruno pushes the swing with one finger and Lily flies high above the treetops, laughing.
 DIALOGUE 6–9s: Bruno (deep happy voice): "Lily fly like bird!"

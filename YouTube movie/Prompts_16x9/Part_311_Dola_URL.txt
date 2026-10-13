@@ -31,6 +31,7 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Night at the celebration, string lights, a big bonfire, the stars above, a fiddle player on the stage.
 0–3s: Lily steps onto the stage. The crowd goes quiet. She looks at Frost.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 310's final image: Tommy nervously asks grown-up Sarah to dance; she smiles and takes his hand. Everyone cheers "Finally!" Final frame: the huge happy crowd, people and animals together under the lights. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 0–3s: Lily (soft, emotional): "I wrote this song... for Frost's father."
 3–27s: Lily SINGS, lip-synced, soft country-folk; then the whole crowd joins in; Frost hums deep and a little off-key, exactly like his father did:
   3–10s: Lily sings: "No castle walls, no golden crown, just a river song and the stars come down."

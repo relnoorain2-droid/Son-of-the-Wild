@@ -30,6 +30,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 The valley in front of the waterfall, dust, smoke, daylight.
 0–3s: Prince Damian points his sword.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 089's final image: Build into the hook: A soldier's horn sounds outside. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 0–2s: Prince Damian (arrogant shout): "Kill him!"
 3–14s: Five dark Bigfoots with red eyes charge Bruno at once. Bruno grabs the first one and throws it into the second, ducks a punch, and slams a third into the ground with both fists.
 DIALOGUE 7–9s: Bruno (deep roaring voice): "Bruno protect family!"

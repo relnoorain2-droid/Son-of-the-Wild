@@ -28,6 +28,7 @@ LILY LOOK LOCK: Lily always looks 22-24 years old, sweet, soft fair face, big bl
 
 Scene: Morning inside Bruno's cave behind the waterfall, warm firelight, moss beds, forest light at the cave mouth.
 0-4s: Bruno proudly places breakfast in front of Lily: berries, roots, and one very large wiggling beetle on a leaf. Lily freezes.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 052's final image: He then proudly offers a dripping wild honeycomb instead, with a few bees buzzing around his head. He tries to stay brave while a bee stings his nose. He freezes, eyes watering. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1-4s: Bruno (deep gentle voice): "Bruno make breakfast. Best cave breakfast."
 4-9s: Lily tries to smile but pushes the beetle away with one finger.
 DIALOGUE 4-7s: Lily (trying not to hurt him): "That is... very kind. But I do not eat things that wave back."

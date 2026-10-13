@@ -30,6 +30,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Snowy night inside the candle-lit cabin. Fully tasteful: show only Lily's face, hands, the quilt and candles.
 0–3s: Close-up of Lily's face, sweating, gripping the quilt in pain, candles flickering.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 125's final image: She slowly locks the door and closes the curtains. She lights more candles, holding her belly, tears in her eyes but determined. Final frame: Lily alone in the candlelight, looking up. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Lily (soft young American woman, in pain): "I can do this... I can do this..."
 3–12s: Close-ups: her hand squeezing the bedpost, snow hitting the window, the fire in the stove.
 DIALOGUE 6–10s: Lily (crying, exhausted): "I'm so scared, Bruno. I can't do this alone."

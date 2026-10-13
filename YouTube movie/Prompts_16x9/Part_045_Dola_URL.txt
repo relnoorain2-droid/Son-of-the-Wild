@@ -32,6 +32,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Night, misty redwood forest.
 0–3s: A mountain lion leaps from a tree branch straight at Bruno, who is carrying Lily in one arm. He swats it away mid-air with his free hand.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 044's final image: dozens of glowing eyes appearing between the trees. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Lily (screaming): "Bruno, above you!"
 3–14s: Bruno runs through the forest with Lily on his shoulder, wolves chasing from both sides. He jumps over a fallen giant redwood trunk; a wolf bites his leg, he kicks it into the ferns.
 DIALOGUE 6–9s: Bruno (deep gravelly voice, strained): "These... not normal wolves. King's wolves."

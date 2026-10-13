@@ -29,6 +29,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Daytime, standing in the shallow river near the cabin, sunlight on the water.
 0–3s: Lily tries to grab a salmon with her bare hands, slips and falls on her bottom with a splash.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 115's final image: The snake strikes; she blocks with the broom, sweeps it into an old bucket, slams a pan on top and kicks the bucket out of the door. She falls back onto the bed, breathing hard, then laughs. Final frame: Lily lying on the dusty bed with her hand on her belly, smiling. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Lily (frustrated): "Oh, come ON!"
 3–12s: She tries again and again; the fish slip through her hands. A fish slaps her face. She laughs and almost cries.
 DIALOGUE 6–10s: Lily (to herself): "How did you make it look so easy, Bruno?"

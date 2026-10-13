@@ -30,6 +30,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 The bank of the wide fast river, sunset, smoke in the sky.
 0–3s: Bruno carries Lily to the edge of the rushing river, limping, soldiers' torches visible through the trees behind.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 100's final image: Build into the hook: A dragon lands behind Bruno. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Lily (crying): "What are you doing? Bruno, no!"
 3–14s: Bruno sets her down and holds her face in his giant hands.
 DIALOGUE 4–10s: Bruno (deep, slow, gentle voice): "If baby is boy... call him Frost. Like the first snow. Quiet... but stronger than everything."

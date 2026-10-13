@@ -33,6 +33,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 
 Daytime, a wide valley in the redwood forest in front of the waterfall, smoke and dust.
 0–3s: Giant redwood trees crash down as a T-rex in an iron war harness bursts through the forest, roaring.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 085's final image: A massive shadow passes over them. They look up: the huge red dragon flies over the treetops, followed by three smaller dragons, blocking the sun. Final frame: the dragon's shadow covering Lily's terrified face. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: NARRATOR (deep cinematic trailer voice): "The army of King Magnus Thorne."
 3–14s: Epic wide shots: woolly mammoths in dark-red war armor marching, dark Bigfoots with red eyes in chains, soldiers in black helmets with spears, a giant anaconda sliding through the river, and King Magnus in black iron armor landing on the back of the huge red dragon.
 DIALOGUE 8–12s: King Magnus (deep booming menacing voice): "Come out, beast! I know you're hiding my son's bride!"

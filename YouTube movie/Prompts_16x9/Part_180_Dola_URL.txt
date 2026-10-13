@@ -31,6 +31,7 @@ FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 A sunny afternoon party in Cedar Hollow's town square, balloons, bunting, picnic tables.
 0–3s: Villagers wheel out a giant birthday cake the size of a pickup truck.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 179's final image: Back at the cabin, Frost gently crushes the leaves in his palm, just like Bruno did years ago, and places them on Lily's forehead. By morning, the sun comes in and Lily opens her eyes, smiling, the fever gone. Final frame: Frost asleep on the floor beside her bed, still holding her hand. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Everyone (cheerful crowd): "SURPRISE! Happy birthday, Frost!"
 3–12s: Frost covers his mouth, overwhelmed. He leans in to blow out the candles — his breath blows away every hat, a balloon stand, and Martha's big church hat flies off and lands on a goat.
 DIALOGUE 7–10s: Martha (shocked, then laughing, pointing at the goat): "Oh, for heaven's sake! That's my Sunday hat!"

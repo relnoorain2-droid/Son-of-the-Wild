@@ -31,6 +31,7 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Dawn, a huge meadow. The whole army gathered: villagers from Cedar Hollow, Pine Ridge and Millbrook with rifles, pitchforks and frying pans; riders on elk and bison; bears, wolves, mountain lions; eagles on every tree. Frost stands on a big rock in front of them, glowing.
 0–3s: Frost raises his hand; everyone goes silent.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 269's final image: Frost looks at her for a long moment, then smiles and kneels so they're eye to eye. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Frost (deep, powerful voice, echoing): "Look around you!"
 3–20s: Slow camera moves across the faces of the army as he speaks.
 DIALOGUE 4–10s: Frost: "Farmers. Grandmothers. Wolves. Bears. Nobody thought we'd stand together. The king never thought so either."

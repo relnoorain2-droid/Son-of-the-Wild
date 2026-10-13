@@ -28,6 +28,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Snowy night, inside the cabin, a fire in the stove, candles.
 0–3s: Lily (9 months pregnant) stands up from her chair and freezes. Water splashes on the wooden floor near her feet (shown only on the floor, tasteful).
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 124's final image: Build into the hook: A baby cry begins before dawn. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Lily (soft, shocked): "Oh no... oh, it's time."
 3–12s: She grabs the edge of the table as the first contraction hits, breathing hard.
 DIALOGUE 5–8s: Lily (breathing, scared): "Okay, okay... breathe, Lily. Breathe."

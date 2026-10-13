@@ -35,6 +35,7 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Inside a dark cave behind a small waterfall, light shining through the falling water.
 0–3s: Lily squeezes into the cave — and freezes: the big grizzly bear Frost once talked to is lying in front of Frost, guarding him, keeping him warm.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 222's final image: The lead wolf sniffs the water, then runs downstream. The whole pack follows, then stops at a dark crack in the rocks behind a smaller waterfall and howls all together. Final frame: the wolves howling at the dark cave entrance. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Lily (whispering, shocked): "You... you stayed with him?"
 3–12s: The bear gently moves aside. Frost lies on the rocks, wet, bruised, his fur dirty, eyes closed, barely breathing.
 DIALOGUE 6–10s: Lily (falling to her knees, crying): "Frost? Baby, it's Mom. Please... please wake up."

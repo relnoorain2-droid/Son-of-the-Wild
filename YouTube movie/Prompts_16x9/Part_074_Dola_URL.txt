@@ -32,6 +32,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 After the storm, a clear night, millions of stars, the campfire glowing at the cave entrance. Fully tasteful and family-safe: only loving looks, hand-holding and a warm hug.
 0–3s: Lily sits beside Bruno by the fire, wrapped in a blanket, resting her head on his big arm.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 073's final image: both laughing through tears. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 0–3s: NARRATOR (deep cinematic American trailer voice): "Some love stories don't need words..."
 3–14s: They look up at the stars. A shooting star crosses the sky.
 DIALOGUE 5–7s: Lily (soft): "Make a wish, Bruno."

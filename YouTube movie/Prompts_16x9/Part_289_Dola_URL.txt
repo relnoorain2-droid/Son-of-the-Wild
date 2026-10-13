@@ -29,6 +29,7 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 
 Inside Thorne Castle, a dusty, gloomy old bedroom with red curtains, a broken bed, stone walls. Dust falling through a giant hole in the wall.
 0–3s: Frost lies in the rubble, coughing, slowly opening his eyes. Dust and small stones fall on him.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 288's final image: Build into the hook: Blue lightning gathers around Frost. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Frost (deep, groaning): "Ugh... where am I?"
 3–12s: He sits up and sees the stone wall in front of him: dozens of women's names scratched into the stone ("Emily", "Sarah", "Kate"...), and below them, in big desperate scratches, the word "RUN".
 DIALOGUE 7–10s: Frost (whispering, realizing): "This is... the room. Mom's room."

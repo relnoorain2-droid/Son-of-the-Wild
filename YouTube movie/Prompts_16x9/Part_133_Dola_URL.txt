@@ -32,6 +32,7 @@ FROST AGE LOCK: Frost is a newborn/baby here. Use only V05_Frost_Baby.png for Fr
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Spring montage by the river near the cabin, sunny, flowers blooming.
 0–3s: Lily tries to give baby Frost a bath in a wooden tub; he splashes so hard that Lily is completely soaked.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 132's final image: Martha takes the baby in her arms and rocks him gently. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Lily (laughing, dripping): "Frost! Every single time!"
 3–12s: Frost crawls out of the tub, grabs a young pine tree and pulls it out of the ground, roots and all, then looks proud.
 DIALOGUE 6–10s: NARRATOR (deep cinematic trailer voice): "Frost was growing fast... and getting stronger every day."

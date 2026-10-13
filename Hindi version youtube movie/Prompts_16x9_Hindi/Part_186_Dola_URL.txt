@@ -35,6 +35,7 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Early morning in Cedar Hollow, a peaceful, perfect sunny day.
 0–3s: Frost carries two fishing rods and a picnic basket; Lily walks beside him, smiling.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 185's final image: The dust settles. The truck is safe. Frost stands up, shakes rocks off his fur like a dog, unhurt. Hank and Tommy stare. Final frame: a huge boulder broken on Frost's back, Frost smiling. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–5s: Lily (soft, happy): "Just you and me today. Like the old days."
 3–12s: Martha waves from her porch with a mug of coffee.
 DIALOGUE 5–9s: Martha (warm Southern voice): "Catch me a big one, Frost! I'm making fish pie tonight!"

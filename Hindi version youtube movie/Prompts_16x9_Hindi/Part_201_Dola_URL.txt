@@ -34,6 +34,7 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Sunset on a hill above Cedar Hollow, a small cemetery with simple fresh wooden crosses, villagers in dark clothes, a fiddle lying on one grave.
 0–3s: Villagers stand silently around the new graves. A fiddle rests on one of them — the fiddle player who started the village song.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 200's final image: Build into the hook: Frost asks, 'What did he do to us?' Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: NARRATOR (deep cinematic Hindi trailer voice): "Cedar Hollow lost seven good people that day."
 3–12s: Hank, his arm in a sling, places a hat on a grave. Tommy holds his father's shoulder.
 DIALOGUE 5–13s: Hank (deep voice, broken): "They asked for the white one... and his mother. A king on a dragon. Who in God's name are these people, Lily?"

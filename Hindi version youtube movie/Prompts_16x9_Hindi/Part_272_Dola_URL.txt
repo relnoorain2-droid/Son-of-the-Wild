@@ -34,6 +34,7 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 
 Dawn, the open valley in front of Thorne Castle: the dark stone castle with red banners, dragons sleeping on its towers, war mammoths at the gate.
 0–3s: The army appears over the hill: thousands of people and animals in the morning fog, Frost glowing at the front.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 271's final image: Some of the kingdom's villagers step out and join the march with farm tools. The army grows bigger. Final frame: a long line of lanterns stretching behind the army into the dark. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Soldier on the castle wall (panicked): "Wake the king! WAKE THE KING!"
 3–12s: Alarm bells ring. On the highest balcony, King Magnus steps out, old but powerful, in black iron armor, holding his staff with the glowing red crystal. Prince Damian stands beside him, with the frying pan bruise still on his forehead.
 DIALOGUE 7–11s: King Magnus (deep, cold, booming): "So... the beast's son comes to die where his father did."

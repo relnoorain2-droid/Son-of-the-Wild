@@ -29,6 +29,7 @@ CHARACTER LOCK: Keep Lily and King Magnus identical to attached images. Dark Big
 
 Scene: Night castle courtyard lit by torches, alarm bells ringing, Western dark-fantasy castle in the Pacific Northwest forest.
 0-3s: Lily drops from the bedsheet rope into a haystack, rolls out, and runs toward a side gate.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 036's final image: Build into the hook: A guard finds a piece of her veil. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1-3s: Lily (out of breath, determined): "Okay... just run."
 3-12s: Guards rush past with lanterns. A dark Bigfoot guard stands nearby and sniffs the air, alert but not chained. Lily hides behind a cart and holds her breath.
 12-18s: The red Western dragon on the tower wakes up, glowing eyes scanning the courtyard. King Magnus appears on a high balcony in a black fur cloak.

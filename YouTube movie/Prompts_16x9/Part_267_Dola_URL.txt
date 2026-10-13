@@ -30,6 +30,7 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 
 Night in the army camp, campfires, tents, quiet.
 0–3s: Tommy sits alone by a dying campfire, sharpening an old pitchfork, hands shaking.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 266's final image: Old Scar teaches bears to stand in a line; one cub keeps stealing honey. Eagles practice dropping pinecones on targets — one hits Hank on the head. Final frame: Hank rubbing his head, looking up at an innocent eagle. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Tommy (young man, quiet): "Hey, Frost... can I tell you something?"
 3–12s: Frost sits down next to him; the ground shakes a little.
 DIALOGUE 4–9s: Tommy (embarrassed): "I'm scared. Like, really scared. Everybody thinks I'm brave. I'm not."

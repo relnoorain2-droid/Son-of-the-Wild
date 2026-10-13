@@ -32,6 +32,7 @@ FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Night, inside Lily's cabin, a stormy night.
 0–3s: Lily lies in bed, pale and sweating with a high fever, shivering. Martha holds a wet cloth to her forehead.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 178's final image: The fire reaches the trench and stops, unable to cross. Rain begins to fall. Frost collapses to his knees, covered in ash, exhausted. The animals surround him. Final frame: the village safe behind him, the burnt forest in front. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–6s: Martha (worried Southern voice): "The fever won't go down. The doctor in town is two days away."
 3–12s: Teen Frost kneels by the bed, holding his mother's small hand, scared.
 DIALOGUE 6–9s: Lily (weak whisper): "Don't worry, baby... I'll be okay."

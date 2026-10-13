@@ -33,6 +33,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient forest magic run in his blood. Use only V06_Frost_Kid.png for present-day Frost; do not show baby, teen, adult, or powered Frost here.
 
 0–3s: A scruffy fur hunter hiding in the snowy trees at the edge of Cedar Hollow watches Kid Frost playing with the kids, through a brass spyglass.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 158's final image: Frost pulls Tommy out of the water with one arm and slides back to shore as the ice collapses behind them. He wraps the shivering Tommy in his warm white fur. Final frame: Tommy hugging Frost, teeth chattering. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Hunter (rough greedy Hindi male voice, whispering): "A white one... with blue eyes."
 3–12s: Night. The hunter kneels in front of Captain Vex at a campfire in the forest.
 DIALOGUE 5–12s: Hunter: "A white beast lives with the villagers. They call it Frost. Its mother is a blonde woman."

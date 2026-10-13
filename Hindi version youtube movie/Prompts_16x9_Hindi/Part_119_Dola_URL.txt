@@ -34,6 +34,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Sunny morning, the small village of Cedar Hollow, Washington: log cabins, a general store, old pickup trucks, a dirt road, mountains behind.
 0-3s: Lily walks into the village with Martha; villagers stop and stare. A dog runs up and sniffs her. Brief location title card at bottom for 2 seconds: "CEDAR HOLLOW, WASHINGTON".
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 118's final image: Martha wraps a warm blanket around Lily and hands her fresh bread. Lily bites it and starts crying from relief. Final frame: Martha hugging Lily, Hank awkwardly holding the lantern. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–5s: NARRATOR (deep cinematic Hindi trailer voice): "Cedar Hollow. A tiny town, far from the king's castle."
 3–14s: Villagers gather around kindly. A woman gives her a jar of jam; a man tips his hat.
 DIALOGUE 6–9s: Villager woman (friendly Hindi voice): "Where did you come from, sweetheart?"

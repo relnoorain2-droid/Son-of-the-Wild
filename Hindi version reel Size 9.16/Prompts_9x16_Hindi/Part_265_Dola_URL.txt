@@ -30,6 +30,7 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Evening, Millbrook, Oregon: Lily's old small hometown, the same poor wooden house with peeling white paint and a rusty mailbox. Brief location title card at bottom for 2 seconds: "MILLBROOK, OREGON".
 0–3s: Lily stands across the street from her old house, frozen.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 264's final image: The sheriff lowers his gun, then looks at the burnt barn on the edge of his town — burned by the king's dragons last month. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Lily (soft, emotional whisper): "Nothing has changed..."
 3–12s: Through the window, the silhouette of an old woman with a grey bun moves slowly in the kitchen, setting two plates on the table — one for herself, one empty.
 DIALOGUE 6–10s: Lily (crying): "She still sets a plate for me. After all these years."

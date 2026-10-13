@@ -32,6 +32,7 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 CAST NOTE: Hank = a sturdy farmer, grey-brown beard, worn cowboy hat, plaid shirt, overalls; the Great Red Dragon = three times bigger than any other dragon, dark lava-red scales, horns like a crown, enormous wings.
 The battlefield in front of Thorne Castle, the Great Red Dragon in the sky.
 0–3s: The Great Red Dragon sweeps over the battlefield breathing a river of fire. Villagers and animals dive behind rocks and mammoths.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 284's final image: The Great Red Dragon roars so loud that every fighter on the battlefield, human and animal, freezes and covers their ears. King Magnus climbs onto its head. Final frame: the king standing on the gigantic dragon's head, the sun blocked by its wings. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Hank (shouting): "TAKE COVER!"
 3–12s: Frost shields a group of villagers with his glowing body; the fire splashes off his blue energy. He looks up.
 DIALOGUE 6–9s: Frost (deep, determined): "Mom, stay with Old Scar. This one's mine."

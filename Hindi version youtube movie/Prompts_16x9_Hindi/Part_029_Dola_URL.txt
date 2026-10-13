@@ -35,6 +35,7 @@ CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and p
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
 Scene: Rose slips into Lily's room after Damian leaves and finally whispers about the missing brides.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 028's final image: Build into the hook: Damian tells her to sleep early for tomorrow's forest ride. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1-4s: NARRATOR (deep cinematic American trailer voice): "Then the kingdom turned its eyes toward Lily Carter."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
 DIALOGUE 5-8s: Lily (young trembling American woman): "Mama... why are they all afraid to look at me?"

@@ -28,6 +28,7 @@ LILY LOOK LOCK: Lily always looks 22-24 years old, young, innocent, sweet and be
 
 Scene: Bright forest clearing near a huge old cedar tree, flowers, buzzing bees, sunlight through pine branches.
 0-4s: Lily tries to braid small flowers into Bruno's fur. Bruno stands perfectly still, looking proud and ridiculous.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 068's final image: Lily smiling with tears in her eyes, firelight on both faces. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1-4s: Lily (laughing): "Hold still. You look almost royal."
 4-10s: Bruno notices a beehive and quietly reaches for honey to impress her. Lily turns and gasps.
 DIALOGUE 5-8s: Lily: "Bruno... please tell me you are not touching that hive."

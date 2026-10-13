@@ -34,6 +34,7 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Night, a perfectly still black lake surrounded by silver birch trees, the full moon reflected in it like a mirror, mist on the water.
 0–3s: Frost, now with three glowing marks, walks to the edge of the lake with Old Joe and Lily.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 246's final image: The lightning fades. The storm above Thunder Peak slowly stops spinning, and for the first time in a hundred years the clouds open and sunlight hits the summit. A third glowing blue mark burns across Frost's chest, around the crescent patch. He opens his eyes; they glow bright electric blue. Final frame: Frost on the summit in the sunlight, three marks glowing. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Old Joe (slow raspy voice, serious): "Mirror Lake. The last trial. The Heart."
 3–12s: Old Joe points at the water.
 DIALOGUE 4–14s: Old Joe: "Look into the water. It will show you what you fear most... and what you hate most. Many strong giants went in. None came out the same."

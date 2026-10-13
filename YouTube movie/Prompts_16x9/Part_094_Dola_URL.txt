@@ -31,6 +31,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Deep forest near the river, smoke drifting through trees, late afternoon light.
 0–3s: The red lightning bolt hits Bruno's back; he falls to his knees in slow motion, still holding Lily safely.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 093's final image: Bruno runs with Lily toward the forest. Behind them, King Magnus raises his staff; the red crystal charges with red lightning. Final frame: the red bolt flying toward Bruno's back. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Lily (screaming): "BRUNO!"
 3–12s: A giant anaconda slides out of the river and blocks their path, hissing. Bruno, weak, stands up and grabs its head, holding it back with shaking arms.
 DIALOGUE 6–9s: Bruno (deep, weak, urgent): "Lily... run. Run now!"

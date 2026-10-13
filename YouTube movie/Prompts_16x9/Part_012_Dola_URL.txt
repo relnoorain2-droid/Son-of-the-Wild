@@ -32,6 +32,7 @@ CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and p
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
 Scene: The carriage rolls through the sleeping kingdom while Damian holds the bride's hand too tightly.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 011's final image: Build into the hook: Damian says, 'Come. I want to show you my favorite place.' Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1-4s: NARRATOR (deep cinematic American trailer voice): "In Thorne Kingdom, every smile hid a royal secret."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
 DIALOGUE 5-8s: Prince Damian (smooth cold voice): "Do not be afraid. The crown only chooses what belongs to it."

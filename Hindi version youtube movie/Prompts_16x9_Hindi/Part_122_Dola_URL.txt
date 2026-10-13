@@ -35,6 +35,7 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 CAST NOTE: Hank = a sturdy farmer, grey-brown beard, worn cowboy hat, plaid shirt, overalls.
 A warm montage around the cabin and the village, seasons changing from fall to first snow.
 0–3s: Lily (now around 8 months pregnant) fixes the cabin roof with a hammer, Hank holding the ladder nervously.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 121's final image: Lily stands up quickly, scared her secret is out. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Hank (deep friendly rural voice, worried): "Ma'am, please let me do that!"
 3–12s: Montage: Lily painting the cabin, planting flowers; Martha knitting tiny baby socks (very big ones, by mistake); Lily laughing at the giant socks.
 DIALOGUE 6–10s: Martha (warm Southern voice): "I don't know why, but I made them extra big."

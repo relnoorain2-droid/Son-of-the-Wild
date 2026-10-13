@@ -28,6 +28,7 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 
 Scene: Night inside Lily's cabin, full moon light through the window, map on table, distant thunder over the forest.
 0-5s: Frost packs a rope, an axe, and a blanket, determined to face King Magnus alone.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 209's final image: Captain Vex (cold): "By the next full moon, beast. Or we come back... with every dragon the king owns." Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1-4s: Lily (alarmed): "Where do you think you are going?"
 5-12s: Frost turns, angry and scared under the anger.
 DIALOGUE 5-9s: Frost (deep young adult voice): "To end this before he hurts anyone else."

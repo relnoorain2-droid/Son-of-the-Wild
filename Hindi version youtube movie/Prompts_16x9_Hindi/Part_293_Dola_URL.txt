@@ -35,6 +35,7 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 The battlefield below the castle, smoke clearing.
 0–3s: Frost sets Damian down. Damian tries to run — and stops. A line of women blocks his way: grown women in simple dresses and farm clothes, holding pitchforks and torches.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 292's final image: Lily stands up, mud on her face, and puts her hand on Frost's arm. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Prince Damian (confused): "Who... who are you?"
 3–12s: Rose steps forward beside the women.
 DIALOGUE 4–12s: Rose (old British voice, proud): "Some of your brides survived the forest, Your Highness. The kingdom's villages hid them for years. They marched here today too."

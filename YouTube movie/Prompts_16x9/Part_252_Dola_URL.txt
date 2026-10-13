@@ -33,6 +33,7 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
 Night, the riverbank where Bruno fell years ago, moonlight on the water.
 0–3s: Old Scar stops at the riverbank. In front of them: a circle of big river stones, carefully placed, covered in hundreds of glowing blue wildflowers that shine softly in the dark.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 251's final image: The bear grunts once and walks into the forest. Frost, Lily and Old Joe follow him through the moonlit trees. Final frame: the bear leading them down a hidden path, the full moon ahead. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Frost (deep whisper): "What is this place?"
 3–12s: Lily walks forward slowly, her hand on her mouth. She recognizes the river, the trees.
 DIALOGUE 5–9s: Lily (shaking): "This is where... this is where he fell."

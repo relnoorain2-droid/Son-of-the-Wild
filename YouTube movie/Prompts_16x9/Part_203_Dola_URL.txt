@@ -33,6 +33,7 @@ FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Night, inside the half-burnt cabin, a single candle. Frost sits on the floor; Lily sits facing him.
 0–3s: Lily takes a deep breath, wiping tears.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 202's final image: Build into the hook: She says his father's name: Bruno. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–5s: Lily (soft, shaking): "I never told you the whole story, Frost. Tonight I will."
 3–25s: Flashback montage in a cold, blue-grey cinematic tint, with Lily's voice-over:
   3–8s: Lily, in her old blue dress, with her mother in their poor Oregon house; the royal guards arriving.

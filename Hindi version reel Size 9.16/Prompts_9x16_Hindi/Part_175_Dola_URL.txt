@@ -30,6 +30,7 @@ FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07
 
 Night after the storm, inside Old Joe's small wooden house, a fireplace, old books, carved wooden figures on shelves.
 0–3s: Teen Frost, wet and shaking, sits on the floor of Old Joe's house. Old Joe hands him a cup of hot cocoa.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 174's final image: Lightning flashes. In the bright light, Old Joe stands at the edge of the hill under a big umbrella, leaning on his walking stick, watching calmly. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Teen Frost (scared, teenage voice): "Joe, what's wrong with me?"
 3–14s: Old Joe picks up the carved wooden Bigfoot holding a staff from his shelf.
 DIALOGUE 5–10s: Old Joe (slow raspy wise voice): "Nothing's wrong with you. There's an old power in your blood, son. Very old."

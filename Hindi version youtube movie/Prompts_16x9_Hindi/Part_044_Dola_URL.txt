@@ -35,6 +35,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Night forest clearing, moonlight, fireflies.
 0–3s: Bruno tilts his head like a curious dog, sniffs Lily's hair, and sneezes loudly. Lily screams and covers her face.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 043's final image: Silence. Bruno slowly turns toward Lily. She crawls backward, shaking. He kneels down to her eye level, calm. Final frame: close-up of his gentle amber eyes, and Lily's terrified face reflected in them. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Lily (soft young Hindi-dubbed woman, scared): "Ahh! Don't!"
 3–12s: Bruno gently picks a leaf out of her hair and holds it out to her like a gift. Lily slowly lowers her hands, confused.
 DIALOGUE 5–9s: Bruno (very deep slow warm gravelly voice, simple words): "Don't be afraid. Bruno... not hurt you."

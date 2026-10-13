@@ -31,6 +31,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 FROST AGE LOCK: Frost is now adult because his Bigfoot genes and ancient forest magic made him grow fast. Use C05_Frost_FULL.png for present-day Frost; do not use baby, kid, teen, or powered Frost unless this part explicitly shows a memory or future power form.
 Scene: Frost follows old signs toward the part of the forest where Bruno once lived.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 227's final image: Back in the cabin. Frost sits up, shocked. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1-4s: NARRATOR (mystical cinematic voice): "Frost needed more than strength. He needed the truth of his bloodline."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
 DIALOGUE 5-8s: Frost (deep, emotional): "Father... if you can hear me, help me protect them."

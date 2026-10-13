@@ -29,6 +29,7 @@ FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07
 
 Sunny day at a small-town American county fair: a Ferris wheel, cotton candy, hay bales, a big "lumberjack games" stage with wooden logs.
 0–3s: Three huge bearded lumberjacks in plaid shirts each throw a big log; the crowd cheers.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 175's final image: Outside on the dark hills above Cedar Hollow, three riders on black war horses watch the village lights through a spyglass. One of them is Captain Vex, older now, smiling. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Announcer (loud enthusiastic American fair announcer voice): "Fifteen feet! A new county record!"
 3–12s: Teen Frost steps up nervously. The lumberjacks laugh at him.
 DIALOGUE 5–8s: Lumberjack (rough deep voice, mocking): "Go home, fuzzy. This is a man's game."

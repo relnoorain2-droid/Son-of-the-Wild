@@ -33,6 +33,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 
 Thorne Castle's highest tower, dark storm clouds gathering, battlefield below.
 0–3s: King Magnus watches his army falling apart. His face twists with rage.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 283's final image: The lead mammoth turns, lifts Damian off its back with its trunk, and drops him headfirst into a big pile of mud. All fifty mammoths trumpet together and walk to stand behind Frost's army. Final frame: Damian sitting in the mud, the mammoths behind Frost. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: King Magnus (deep, furious): "Useless! All of you, USELESS!"
 3–12s: He holds the staff with both hands and slams the red crystal into the stone floor of the tower. The whole castle shakes. A giant crack opens in the castle courtyard; red light pours out of it.
 DIALOGUE 6–11s: King Magnus (shouting a dark spell, echoing): "RISE, Great One! Rise and burn them ALL!"

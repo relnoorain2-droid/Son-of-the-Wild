@@ -32,6 +32,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Night, giant misty redwood forest, cold moonlight.
 0–3s: Lily (now in the torn, muddy short version of her dress, barefoot) runs between giant trees, wolves howling close behind.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 041's final image: Build into the hook: Lily cries, 'I cannot go back.' Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Lily (terrified, out of breath): "Please, please, please..."
 3–12s: Wolves chase her; she climbs over a fallen redwood trunk and slides down a muddy slope into a creek, splashing.
 DIALOGUE 7–11s: NARRATOR (deep cinematic trailer voice): "No bride had ever survived a single night in this forest."

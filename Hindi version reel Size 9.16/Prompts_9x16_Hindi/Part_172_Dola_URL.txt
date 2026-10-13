@@ -29,6 +29,7 @@ FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07
 CAST NOTE: Tommy = a teenage boy (about 17), messy brown hair, freckles, red cap.
 Afternoon, a grassy field next to Cedar Hollow's wooden water tower.
 0–3s: Teen Frost and Tommy, now a teenager (about 17, messy brown hair, freckles, red cap), play American football. Tommy throws; Frost catches the ball and runs.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 171's final image: Frost ducking proudly. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Tommy (teen boy voice): "Go long, Frost! GO LONG!"
 3–12s: Frost runs too fast, can't stop, and crashes straight into the town water tower. The tower tips over in slow motion.
 DIALOGUE 6–8s: Teen Frost (panicked, voice cracking): "No no no no no!"

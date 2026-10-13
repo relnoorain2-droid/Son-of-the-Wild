@@ -33,6 +33,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 
 Morning, the dark castle throne hall and the forest gate outside the castle.
 0-3s: Prince Damian storms in with a bandage wrapped around his head, furious, kicking over a chair.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 055's final image: Build into the hook: A torch flickers across the river. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1-4s: Prince Damian (smooth voice now furious): "She hit me with a tray, Father!"
 3-12s: King Magnus on his throne almost smiles, then his face turns cold.
 DIALOGUE 4-6s: King Magnus (deep cold voice): "Then she is braver than you."

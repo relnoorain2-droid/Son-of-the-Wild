@@ -36,6 +36,7 @@ LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beau
 CAST NOTE: King Magnus = an old cruel king, scar on his left cheek, long silver-grey hair, black iron armor, staff with a glowing red crystal; Sarah = a young woman (about 19), long blonde side braid, denim jacket.
 The sky above Thorne Castle at sunset.
 0–3s: The cracked crystal explodes in a gigantic blast of pure BLUE light that spreads across the whole sky like a wave.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 298's final image: In the storm clouds above them, the giant face of Elder Orin appears, glowing blue, eyes open. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: King Magnus (screaming): "NOOOOO!"
 3–12s: The blue wave passes over every dragon in the sky. One by one, their red eyes change to warm gold. They stop attacking, shake their heads like waking from a nightmare, and look around in wonder.
 DIALOGUE 6–11s: NARRATOR (deep cinematic Hindi trailer voice): "For the first time in a hundred years... the dragons were free."

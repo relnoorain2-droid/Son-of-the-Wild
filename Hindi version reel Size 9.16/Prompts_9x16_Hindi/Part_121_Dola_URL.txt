@@ -29,6 +29,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Evening, the porch of the general store in Cedar Hollow, an old rocking chair, a lantern.
 0–3s: Old Joe Whitaker (80, long white beard, wool coat, walking stick) grabs Lily's wrist as she walks past. She jumps.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 120's final image: warm kitchen family moment. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Old Joe (slow raspy wise old man): "Sit with me a minute, young lady."
 3–14s: She sits, nervous. Old Joe looks deep into her eyes.
 DIALOGUE 5–10s: Old Joe: "You came out of the deep forest. Nobody comes out of the deep forest."

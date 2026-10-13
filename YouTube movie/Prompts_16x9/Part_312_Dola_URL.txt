@@ -32,6 +32,7 @@ FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powe
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Late night, a quiet hill above the celebration, a sky full of stars, the party lights glowing below.
 0–3s: Frost and Lily sit on the hill looking at the stars. Frost holds the small glowing blue crystal.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 311's final image: the final image, location, emotion, lighting, and character positions from the previous part. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: Frost (deep, soft): "Mom... do you think Dad would be proud?"
 3–12s: Lily leans on his huge arm, just like she leaned on Bruno's long ago.
 DIALOGUE 4–12s: Lily (soft, smiling): "Frost, you had every reason to hate. And you chose to protect. He'd be the proudest giant in the whole sky."

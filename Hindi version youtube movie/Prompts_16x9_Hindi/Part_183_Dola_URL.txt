@@ -35,6 +35,7 @@ FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Night, a harvest festival in a big barn decorated with lanterns and pumpkins, a huge full orange moon outside.
 0–3s: Frost stands shyly at the edge of the dance floor. Martha drags him onto it.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 182's final image: lanterns glowing under Frost's tall flower arch. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 0–3s: Martha (warm Southern voice): "Come on, sugar! Nobody sits out tonight!"
 3–25s: The village SINGS, lip-synced, upbeat country-folk:
   3–10s: "Muddy boots and a fiddle tune, dancing under a harvest moon."

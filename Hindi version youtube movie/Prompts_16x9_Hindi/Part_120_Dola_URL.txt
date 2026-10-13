@@ -32,6 +32,7 @@ LILY LOOK LOCK: Lily looks 22-24, young, beautiful, pregnant, not older or tired
 
 Scene: Martha's cozy kitchen in Cedar Hollow, morning sunlight, flour on the table, pie crust, old kettle, village street through window.
 0-4s: Martha sits Lily down and places a giant plate of pancakes in front of her. Lily looks shocked by the kindness.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 119's final image: Tommy (10, red cap, freckles) runs up, out of breath, holding a frog. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1-4s: Martha (warm Southern voice): "Rule one in my house: nobody cries on an empty stomach."
 4-11s: Hank enters with muddy boots. Martha points at the floor. Hank freezes like a guilty schoolboy.
 DIALOGUE 5-8s: Martha (sharp but loving): "Rule two: boots off, Hank Miller."

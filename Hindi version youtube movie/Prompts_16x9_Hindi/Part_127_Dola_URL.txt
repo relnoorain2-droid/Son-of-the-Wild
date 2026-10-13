@@ -37,6 +37,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 FROST AGE LOCK: Frost is a newborn/baby here. Use only V05_Frost_Baby.png for Frost; do not show kid, teen, adult, or powered Frost in this part.
 Scene: The baby is born with snow-white fur and Lily's blue eyes.
 0-3s: Start with a strong immediate visual hook connected to the previous part.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 126's final image: Lily takes a deep breath, gathers all her strength and screams. The screen fades to white. Silence. Then a tiny, strange baby cry — half human, half a small animal-like howl. Final frame: Lily's exhausted face turning toward the sound, eyes wide. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1-4s: NARRATOR (sad cinematic voice): "Far from Bruno, Lily had to survive for the child he saved."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
 DIALOGUE 5-8s: Lily (weak but determined): "I am still here, little one. We are still here."

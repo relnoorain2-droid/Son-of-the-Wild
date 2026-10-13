@@ -30,6 +30,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 The muddy battlefield in front of the castle, smoke and fire.
 0–3s: Prince Damian, covered in mud from head to toe, staggers out of the smoke holding his sword, furious. He sees Lily alone.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 290's final image: Lily looks up at the gigantic Great Red Dragon circling the castle, the king on its head, the red crystal glowing. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Prince Damian (smooth voice turned crazy): "YOU! You ruined EVERYTHING!"
 3–12s: He swings his sword; Lily ducks and rolls in the mud. She has no weapon.
 DIALOGUE 6–8s: Lily (shouting): "Somebody! A weapon!"

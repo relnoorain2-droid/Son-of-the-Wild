@@ -33,6 +33,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 0–3s: High above the forest, a bald eagle with a tiny red crystal on its leg band circles over the waterfall.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 083's final image: snow drifting outside the warm cave. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–4s: NARRATOR (deep trailer voice): "But the king's eyes were everywhere."
 3–10s: From the eagle's point of view: pregnant Lily and Bruno picking apples by the river, laughing. The eagle screeches and flies away toward the dark castle.
 10–20s: Castle throne hall. King Magnus holds his staff; the red crystal glows and shows a floating magical image of Lily and Bruno. Prince Damian stares, shocked and furious.

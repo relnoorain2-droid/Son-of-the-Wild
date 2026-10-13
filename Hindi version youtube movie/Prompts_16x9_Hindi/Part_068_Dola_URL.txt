@@ -35,6 +35,7 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Sunset to night montage around the waterfall cave and a hilltop overlooking the forest.
 0–3s: Bruno and Lily sit on a hilltop watching a huge orange sunset, Lily leaning on his arm.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 067's final image: both laughing in the sunny meadow. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 0–3s: Lily (soft): "I never want this day to end."
 3–25s: Lily SINGS, soft and sweet, lip-synced, with Bruno humming deeply:
   3–11s: "Big old hands and a gentle heart, the forest knew we'd never be apart."

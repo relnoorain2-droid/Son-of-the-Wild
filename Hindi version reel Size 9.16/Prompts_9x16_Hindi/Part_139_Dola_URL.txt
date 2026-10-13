@@ -30,6 +30,7 @@ FROST AGE LOCK: Frost is a newborn/baby here. Use only V05_Frost_Baby.png for Fr
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
 Dusk, in front of Lily's cabin, villagers with torches and pitchforks.
 0–3s: An angry crowd of villagers marches up the path with torches; Hank leads them, holding a lantern and a pitchfork.
+OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 138's final image: Tommy grabs Sarah and runs toward the village, screaming. Frost sits alone holding the teddy bear, confused and sad. Final frame: Tommy running into the village street. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
 DIALOGUE 1–3s: Hank (deep rural Hindi voice, angry and scared): "Lily! Bring out that creature!"
 3–12s: Lily steps out of the cabin and stands in front of the door, arms wide.
 DIALOGUE 4–6s: Villager man (angry): "It'll eat our children!"
