@@ -1,13 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 
 FROST: Son of the Wild
-PART 172 - "Burn Them All"
-Punch: ACTION + CLIFFHANGER
-Status:-assets
+PART 172 - "Welcome to Cedar Hollow"
+Punch: EMOTION + FUN
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -24,26 +24,27 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K02_RedDragon.png -> Creature RedDragon.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; S02_MarthaHayes_FULL.png -> Martha Hayes; S05_TommyMiller_FULL.png -> Tommy Miller; L07_Village.png -> Location Village.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-CAST NOTE: Hank = a sturdy farmer, grey-brown beard, worn cowboy hat, plaid shirt, overalls; the Great Red Dragon = three times bigger than any other dragon, dark lava-red scales, horns like a crown, enormous wings.
-The battlefield in front of Thorne Castle, the Great Red Dragon in the sky.
-0–3s: The Great Red Dragon sweeps over the battlefield breathing a river of fire. Villagers and animals dive behind rocks and mammoths.
-DIALOGUE 1–3s: Hank (shouting): "TAKE COVER!"
-3–12s: Frost shields a group of villagers with his glowing body; the fire splashes off his blue energy. He looks up.
-DIALOGUE 6–9s: Frost (deep, determined): "Mom, stay with Old Scar. This one's mine."
-DIALOGUE 9–11s: Lily (scared): "Frost, be careful!"
-12–22s: Frost jumps and flies straight up at the gigantic dragon, lightning trailing behind him like a comet. He punches the dragon in the jaw; its head snaps sideways. King Magnus nearly falls off.
-DIALOGUE 17–19s: Frost (roaring): "That's for my FATHER!"
-22–30s: The Great Red Dragon recovers, swings its gigantic tail, and smashes Frost out of the sky like a baseball. He flies across the valley and crashes through the castle wall, disappearing inside in a cloud of dust and falling stones. Silence. Final frame: the hole in the castle wall, smoke, no movement.
-DIALOGUE 27–29s: King Magnus (cold, from the dragon's head): "Burn them all."
-SFX: a massive fire breath, screams, fire splashing on energy, a jump boom, flying whoosh, a huge punch impact, dragon roar, a giant tail whoosh, a crash through stone, falling rocks, then silence.
-MUSIC: epic action score, ending on a shocking hit and silence.
+Sunny morning, the small village of Cedar Hollow, Washington: log cabins, a general store, old pickup trucks, a dirt road, mountains behind.
+0-3s: Lily walks into the village with Martha; villagers stop and stare. A dog runs up and sniffs her. Brief location title card at bottom for 2 seconds: "CEDAR HOLLOW, WASHINGTON".
+DIALOGUE 1–5s: NARRATOR (deep cinematic Hindi trailer voice): "Cedar Hollow. A tiny town, far from the king's castle."
+3–14s: Villagers gather around kindly. A woman gives her a jar of jam; a man tips his hat.
+DIALOGUE 6–9s: Villager woman (friendly Hindi voice): "Where did you come from, sweetheart?"
+DIALOGUE 9–14s: Lily (hesitates, then soft and sad): "Far away... My husband... he passed away. It's just me and the baby now."
+14–22s: The villagers go quiet, sympathetic. Martha squeezes her hand.
+DIALOGUE 16–20s: Martha (warm Southern voice): "Then you've got a whole town now, honey."
+22–30s: Tommy (10, red cap, freckles) runs up, out of breath, holding a frog.
+DIALOGUE 22–27s: Tommy (excited young boy): "Is the baby gonna be a boy? Can he play with my frog?"
+DIALOGUE 27–30s: Lily (laughing for the first time): "Maybe one day, Tommy."
+Final frame: Lily smiling, surrounded by friendly villagers.
+SFX: village sounds, dog barking, footsteps on dirt, birds, frog croak, laughter.
+MUSIC: warm Americana acoustic guitar and harmonica.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 173 - "The Room with the Names": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 173 - "Martha's House Rules": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

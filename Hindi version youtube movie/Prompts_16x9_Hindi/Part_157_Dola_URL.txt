@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
-V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
+L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 
 FROST: Son of the Wild
-PART 157 - "I'm Scared Too"
-Punch: EMOTION
-Status:-assets
+PART 157 - "The Forest Goes Quiet"
+Punch: TWIST + WOW
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -27,25 +28,25 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V12_Tommy_Adult.png -> Variant Tommy_Adult; V13_Sarah_Adult.png -> Variant Sarah_Adult.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; C04_Bruno_FULL.png -> Bruno; K02_RedDragon.png -> Creature RedDragon; L05_River.png -> Location River.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Night in the army camp, campfires, tents, quiet.
-0–3s: Tommy sits alone by a dying campfire, sharpening an old pitchfork, hands shaking.
-DIALOGUE 1–4s: Tommy (young man, quiet): "Hey, Frost... can I tell you something?"
-3–12s: Frost sits down next to him; the ground shakes a little.
-DIALOGUE 4–9s: Tommy (embarrassed): "I'm scared. Like, really scared. Everybody thinks I'm brave. I'm not."
-12–22s: Frost looks at the fire.
-DIALOGUE 13–22s: Frost (deep, honest): "Tommy, I'm scared too. Every single day. Remember the frozen lake? I was terrified. But you were in that water... so I went in."
-DIALOGUE 22–24s: Tommy (small smile): "Yeah. You did."
-22–30s: Sarah sits down on Frost's other side. The three friends sit together like when they were kids, looking at the stars.
-DIALOGUE 25–29s: Sarah (soft): "Same as always. The three of us. Together."
-Final frame: three friends by the fire, the castle's red glow far away on the horizon.
-SFX: campfire, crickets, a whetstone scraping metal, soft laughter.
-MUSIC: warm, nostalgic acoustic guitar.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Peaceful morning by the river near the waterfall, mist, golden light.
+0–3s: Lily (pregnant, around 6 months, blonde, blue eyes) laughs as Bruno balances a stack of apples on his head. Suddenly every bird in the forest flies away at once.
+DIALOGUE 1–4s: Lily (soft young Hindi-dubbed woman): "Bruno... why are the birds leaving?"
+3–12s: Deer, elk and rabbits run past them in panic. The river water starts rippling in rhythm. Bruno drops the apples, sniffing the air, his face turning serious.
+DIALOGUE 6–9s: Bruno (very deep gravelly voice, low and serious): "Animals running... from something big."
+12–22s: Distant war horns echo through the trees. The ground shakes harder. Bruno pulls Lily behind him.
+DIALOGUE 14–17s: Lily (scared): "Is it the king?"
+DIALOGUE 17–21s: Bruno (deep, calm but afraid): "Lily go inside cave. Now. Don't come out."
+22–30s: A massive shadow passes over them. They look up: the huge red dragon flies over the treetops, followed by three smaller dragons, blocking the sun. Final frame: the dragon's shadow covering Lily's terrified face.
+DIALOGUE 26–30s: NARRATOR (deep cinematic Hindi trailer voice): "The king had come... and he brought the whole kingdom."
+SFX: birds taking off, animals stampeding, rhythmic ground rumble, distant war horns, giant wing beats, dragon roar.
+MUSIC: peaceful flute cut off by deep ominous drums, rising into a dark war theme.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 158 - "The Spy": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 158 - "The Army of Thorne": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

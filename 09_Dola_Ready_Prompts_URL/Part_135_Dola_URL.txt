@@ -1,11 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
+K10_MountainLion.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K10_MountainLion/K10_MountainLion.png
+V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 135 - "Gentle Heart"
-Punch: EMOTION + FUN
+PART 135 - "Hold On!"
+Punch: ACTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,24 +22,25 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; C05_Frost_FACE.png -> Frost; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; K09_Wolves.png -> Creature Wolves; K10_MountainLion.png -> Creature MountainLion.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
-The Deep Wild, foggy forest floor, soft beams of light through the trees.
-0–3s: Frost kneels down slowly in front of Old Scar, hands open, eyes no longer glowing.
-DIALOGUE 1–4s: Frost (deep, very gentle): "I won't fight you. Let me help."
-3–12s: He reaches for the trap. Old Scar panics and bites down on Frost's shoulder (no blood, just a hard grip on the fur). Frost groans in pain but does NOT fight back.
-DIALOGUE 7–10s: Frost (through gritted teeth, calm): "It's okay... it's okay. Strong hands... gentle heart."
-12–22s: With the bear still holding his shoulder, Frost grips the iron jaws of the trap with both hands and slowly pulls them apart; the metal screams and bends. The bear's leg slides free. Old Scar lets go of Frost's shoulder and stares at him.
-22–30s: Suddenly three fluffy bear cubs tumble out of a hollow log and climb all over Frost, pulling his ears and fur, playing. Frost laughs. Old Scar watches. Final frame: one cub sitting on Frost's head, chewing his ear.
-DIALOGUE 26–29s: Frost (laughing): "Hey! Ow! Okay, okay, you win!"
-DIALOGUE 18-21s: NARRATOR (deep cinematic American voice): "The beast expected anger... but Frost chose mercy."
-SFX: soft footsteps, a deep growl, a painful grunt, metal straining and bending, the trap clanging open, playful cub squeaks, laughing.
-MUSIC: emotional strings with tension, then a sweet playful melody when the cubs appear.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Night, misty redwood forest.
+0–3s: A mountain lion leaps from a tree branch straight at Bruno, who is carrying Lily in one arm. He swats it away mid-air with his free hand.
+DIALOGUE 1–3s: Lily (screaming): "Bruno, above you!"
+3–14s: Bruno runs through the forest with Lily on his shoulder, wolves chasing from both sides. He jumps over a fallen giant redwood trunk; a wolf bites his leg, he kicks it into the ferns.
+DIALOGUE 6–9s: Bruno (deep gravelly voice, strained): "These... not normal wolves. King's wolves."
+DIALOGUE 9–11s: Lily (scared): "They're hunting me!"
+14–22s: Bruno stops at the edge of a cliff above a waterfall. The wolves and the mountain lion surround them, snarling. No way out.
+DIALOGUE 17–19s: Bruno (calm, deep): "You trust Bruno?"
+DIALOGUE 19–21s: Lily (shaking): "...Yes!"
+22–30s: Bruno hugs Lily tight and jumps off the cliff into the waterfall in slow motion; the moon behind them. The wolves stop at the edge, howling. Final frame: a huge splash in the dark pool below.
+SFX: mountain lion screech, heavy swat impact, running footsteps, wolf snarls and bites, kick thud, waterfall roar, wind rush, giant splash.
+MUSIC: fast action orchestra and drums, swelling to an epic choir during the jump.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 136 - "King of the Wild": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 136 - "The Cave Behind the Waterfall": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -46,7 +49,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 135 | He let the bear bite him... just to free it 🥺 Then the cubs came out! 🐻 #Bigfoot #Movie #Part135
+Part 135 | Trapped on a cliff by the king's wolves... Bruno had only one choice 🌊 #Bigfoot #Movie #Part135
 
 DOLA STATUS
 [ ] Images uploaded

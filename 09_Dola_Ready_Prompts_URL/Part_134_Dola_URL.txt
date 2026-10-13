@@ -1,10 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+C04_Bruno_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FACE.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
 L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 134 - "The Iron Trap"
-Punch: ACTION + TWIST
+PART 134 - "He Can Talk?!"
+Punch: FUN + TWIST
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -19,24 +22,26 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; C04_Bruno_FACE.png -> Bruno; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
-The Deep Wild, foggy forest floor.
-0–3s: Frost gets up angry and charges at Old Scar. They crash together like two trucks.
-DIALOGUE 1–4s: Frost (deep, roaring): "Fine! Then we do it the hard way!"
-3–12s: An epic wrestling fight: Frost throws a punch; Old Scar blocks it with his giant paw and throws Frost to the ground; they roll down a slope through ferns.
-DIALOGUE 7–9s: Frost (straining): "You're... strong... old man!"
-12–22s: Frost pins the bear's front leg — and suddenly the bear cries out in real pain, not anger. Frost stops and looks down: Old Scar's back leg is caught in a huge rusty iron trap, chained to a tree. The trap has a red snake-and-crown symbol: the crest of King Magnus Thorne.
-DIALOGUE 17–21s: Frost (quiet, shocked): "The king's hunters... you've been trapped all this time."
-22–30s: Frost slowly lets go and steps back. Old Scar growls, but he's limping, tired and in pain. Frost's face changes from anger to understanding. Final frame: close-up of the rusty trap with the king's crest.
-DIALOGUE 26–29s: Frost (soft): "You're not angry. You're hurting."
-SFX: a heavy crash, roars, punches, rolling through ferns, a painful bear cry, chain clanking, heavy breathing.
-MUSIC: intense fight drums, then a sudden emotional cello note.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Night forest clearing, moonlight, fireflies.
+0–3s: Bruno tilts his head like a curious dog, sniffs Lily's hair, and sneezes loudly. Lily screams and covers her face.
+DIALOGUE 1–3s: Lily (soft young American woman, scared): "Ahh! Don't!"
+3–12s: Bruno gently picks a leaf out of her hair and holds it out to her like a gift. Lily slowly lowers her hands, confused.
+DIALOGUE 5–9s: Bruno (very deep slow warm gravelly voice, simple words): "Don't be afraid. Bruno... not hurt you."
+12–20s: Lily's jaw drops. She points at him, then at herself.
+DIALOGUE 12–15s: Lily (shocked, half laughing): "You... you can TALK?"
+DIALOGUE 15–18s: Bruno (proud, nodding): "Bruno talk. Bruno also... sing. Badly."
+DIALOGUE 18–20s: Lily laughs through her tears.
+20–30s: She tries to stand but cries out in pain, her foot cut and bleeding a little. Bruno immediately scoops her up in his arms like a feather. In the distance, wolves howl again — many of them, closer. Bruno turns his head toward the sound, serious. Final frame: dozens of glowing eyes appearing between the trees.
+DIALOGUE 26–29s: Bruno (low, serious): "They come back. Hold on."
+SFX: sniffing, loud comical sneeze, scream, leaf rustle, Lily's laugh, pain gasp, wolves howling closer, branches cracking.
+MUSIC: light playful woodwinds for the comedy, turning into tense drums at the end.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 135 - "Gentle Heart": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 135 - "Hold On!": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -45,7 +50,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 134 | He was fighting the bear... then he saw WHY the bear was so angry 😢⛓️ #Bigfoot #Movie #Part134
+Part 134 | She thought he was a monster... then he said "Bruno also sing. Badly" 😂 #Bigfoot #Movie #Part134
 
 DOLA STATUS
 [ ] Images uploaded

@@ -1,13 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
+C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
+K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
+K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
+V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
 
 FROST: Son of the Wild
-PART 131 - "Training Montage"
-Punch: FUN + WOW
-Status: ready - URL PACKAGE
+PART 131 - "The Trackers"
+Punch: ACTION + WOW
+Status: canon-safe opening version
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -28,41 +28,27 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V12_Tommy_Adult.png -> Variant Tommy_Adult; S03_HankMiller_FULL.png -> Hank Miller; S02_MarthaHayes_FULL.png -> Martha Hayes.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+CHARACTER LOCK: Keep Lily and King Magnus identical to attached images. Dark Bigfoot guards and red dragon stay Western fantasy, not Asian.
 
-Daytime training montage around Cedar Hollow, upbeat.
-0–3s: Hank blows a whistle like a football coach, wearing a baseball cap, holding a clipboard.
-DIALOGUE 1–3s: Hank (deep rural voice, coach style): "Alright, big guy! Let's GO!"
-3–12s: Frost runs up a hill carrying three huge logs while Tommy rides on top cheering. Frost pulls Hank's pickup truck with a rope, with the entire village sitting in the back. Frost swims upstream against the wild river current.
-DIALOGUE 6–9s: Tommy (shouting from the logs): "Faster! My grandma runs faster than that!"
-DIALOGUE 9–11s: Martha (from the truck): "I do NOT!"
-12–22s: Martha serves Frost a stack of pancakes taller than a man, with a whole jar of maple syrup.
-DIALOGUE 15–18s: Martha (Southern voice, proud): "Breakfast of champions, sugar. Eat every bite."
-DIALOGUE 18–21s: Frost (mouth full, happy): "Yes, ma'am!"
-22–30s: Frost does push-ups with Hank, Tommy, Sarah and Martha all sitting on his back, counting together. Final frame: Frost on push-up number 1000, everyone cheering on his back.
-DIALOGUE 26–29s: Everyone (cheering, counting): "...998, 999... ONE THOUSAND!"
-SFX: whistle, heavy footsteps, rope straining, truck wheels, rushing water, pancakes stacking, syrup pouring, cheering, counting.
-MUSIC: classic upbeat 80s-style American training montage rock with drums and electric guitar.
+Scene: Night castle courtyard lit by torches, alarm bells ringing, Western dark-fantasy castle in the Pacific Northwest forest.
+0-3s: Lily drops from the bedsheet rope into a haystack, rolls out, and runs toward a side gate.
+DIALOGUE 1-3s: Lily (out of breath, determined): "Okay... just run."
+3-12s: Guards rush past with lanterns. A dark Bigfoot guard stands nearby and sniffs the air, alert but not chained. Lily hides behind a cart and holds her breath.
+12-18s: The red Western dragon on the tower wakes up, glowing eyes scanning the courtyard. King Magnus appears on a high balcony in a black fur cloak.
+DIALOGUE 13-17s: King Magnus (deep booming voice): "She ran? Then the forest will hide the truth."
+DIALOGUE 17-19s: Prince Damian (off-screen, angry): "Find her!"
+18-26s: Lily tears the long train from her gown so she can run, sprints through the side gate, and slides under it at the last second as it closes.
+DIALOGUE 23-26s: King Magnus (cold): "Send the trackers."
+26-30s: Trained wolf trackers leap from the courtyard and sniff Lily's trail toward the forest gate. Final frame: Lily disappearing into the moonlit trees.
+SFX: alarm bells, haystack thump, running footsteps, guards shouting, Bigfoot sniffing, dragon breathing, fabric ripping, gate grinding, wolves howling.
+MUSIC: intense action orchestra with fast drums and brass.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 132 - "Something to Protect": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 132 - "Face to Face with a Grizzly": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, widescreen 16:9 cinematic movie frame. SETTING: Fully American / Western, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no restraints, no chains, no graphic animal attack, no nudity.
 
 HINDI YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
 HINDI CAPTION LOCK: Write the final post title/description/caption in Hindi, using Hindi emotion and hashtags. Do not output an English caption.
 भाग 131 | फ्रॉस्ट: जंगल का बेटा - कहानी अब और गहरी होती जा रही है। #बिगफुट #फिल्म #भाग131
-
-DOLA STATUS
-[ ] Images uploaded
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
-
-NOTES

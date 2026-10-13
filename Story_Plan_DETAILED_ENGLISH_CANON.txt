@@ -133,3 +133,33 @@ When Lily reaches the village/cabin area after the river carries her away, show 
 ## Dialogue Production Rule
 
 Every 30-second part must have strong voice. Use at least 3 spoken lines in each part, preferably 4-6 short lines. Character dialogue should carry emotion and story; narrator should only support context. No part should feel silent or boring. Dialogue must stay louder than music and sound effects.
+
+## Opening Production Rule - Updated 2026-10-13
+
+The generated movie must not begin with Lily immediately receiving the royal marriage order. The opening must first show the audience the kingdom system, the public bride selection, the fake wedding happiness, and the morning forest betrayal before Lily's turn begins.
+
+The expanded opening should use multiple 30-second parts, not one rushed summary:
+
+1. Show Thorne Kingdom alive with common people, poor families, palace servants, nobles, priests, musicians, guards, and frightened adult women gathered for the monthly bride selection.
+2. Show Prince Damian choosing an adult bride publicly while King Magnus watches and the kingdom stays silent from fear.
+3. Show the public wedding as beautiful on the outside but frightening underneath: music, flowers, clapping citizens, whispering maids, and the bride's family silently crying.
+4. Show Damian pretending to be a loving husband after the wedding: gentle words, dinner, soft smiles, and false promises, so the bride and audience can feel the manipulation.
+5. Show the bridal chamber only in a safe suspense style: no explicit intimacy, no nudity, no coercive bedroom visuals. Damian tells the bride to sleep early because tomorrow begins their real life.
+6. Before sunrise, Damian wakes, prepares the black carriage, and takes the bride toward the forbidden forest while still pretending kindness.
+7. At the forest gate, Damian's mask drops. He leaves the bride near the wild forest. Show fog, animal shadows, distant growls, and fear, but no graphic harm.
+8. Show the kingdom lying afterward: the official story says the bride ran away, disappeared, or was unworthy. The people know something is wrong but cannot speak.
+9. Then show the next monthly selection beginning and Lily Carter's name being chosen.
+
+This structure is required so viewers understand that Lily is not the first bride. The king and prince repeat this same pattern every month, and Lily becomes the next victim of that system.
+
+## Lily Castle Suspense Rule - Updated 2026-10-13
+
+Lily's own castle arc must also breathe before she escapes.
+
+- Lily should be selected in a public kingdom setting, with Grace begging and Lily trying to stay brave.
+- Lily should enter the kingdom and see common people, servants, and maids afraid to meet her eyes.
+- Damian should act loving in public so Lily becomes confused and unsure whether the rumors are true.
+- In the private royal room, Damian can pretend affection and speak sweetly, but the scene must remain safe and suspenseful. Lily must escape before any wedding-night intimacy happens.
+- Lily discovers clues: torn bridal veil, hidden scratches, Rose crying, guards preparing a black carriage before dawn, and whispered warnings about the missing brides.
+- Rose tells Lily enough truth for Lily to understand that she must run that same night.
+- Lily escapes through servant halls, kitchen corridors, laundry yard, castle garden, and then into the forest.

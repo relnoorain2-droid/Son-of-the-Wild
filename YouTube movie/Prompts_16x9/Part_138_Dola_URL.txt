@@ -1,10 +1,14 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
+L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 138 - "The Climb"
-Punch: ACTION
-Status: ready
+PART 138 - "Bigfoot Breakfast"
+Punch: FUN
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -22,24 +26,26 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; L04_BrunoCave.png -> Location BrunoCave; L05_River.png -> Location River.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Thunder Peak, halfway up: black icy cliffs, freezing wind, snow and rain blowing sideways, lightning all around.
-0–3s: Frost climbs a vertical icy wall; the ice cracks under his hand and he slides down several feet before catching a rock.
-DIALOGUE 1–3s: Frost (deep, straining): "Whoa— got it! Got it..."
-3–12s: A huge gust of wind slams into him; he flattens himself against the cliff. Rocks fall from above; one hits his shoulder.
-DIALOGUE 6–9s: Frost (gritting teeth): "Is that all you've got?!"
-12–22s: Thunder answers. A massive rockslide pours down the mountain toward him. He jumps sideways across a deep crack, barely grabbing the other side with one hand, his legs hanging over a huge drop.
-DIALOGUE 16–18s: Frost (breathing hard): "Okay... okay, don't look down."
-DIALOGUE 18–20s: He looks down. (comedic pause) "I looked down."
-22–30s: He pulls himself up with a roar and keeps climbing, ice in his fur, eyes on the storm above. Final frame: Frost silhouetted against a giant lightning bolt.
-DIALOGUE 27–29s: Frost (deep, determined): "Keep going. Just keep going."
-SFX: ice cracking, sliding, howling wind, falling rocks, a rock impact, thunder, a huge rockslide, a desperate grab, heavy climbing.
-MUSIC: intense climbing action score with pounding drums.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Morning, sunlight sparkling through the waterfall into the cave.
+0–3s: Lily wakes up under the bearskin. A giant live salmon flops right onto her lap, splashing her face.
+DIALOGUE 1–3s: Lily (screaming, then laughing): "AAH! What is this?!"
+3–12s: Bruno stands proudly at the entrance holding more flopping fish in both hands.
+DIALOGUE 4–7s: Bruno (deep voice, proud and happy): "Breakfast! Bruno catch. Very fresh."
+DIALOGUE 7–10s: Lily (laughing): "Bruno, it's still alive! It's looking at me!"
+12–22s: Bruno tries to help but the slippery salmon jumps out of his hands, slaps him in the face and lands back in the river. He stares, offended. Lily laughs so hard she falls over.
+DIALOGUE 15–18s: Bruno (deadpan, offended): "Rude fish."
+22–30s: He then proudly offers a dripping wild honeycomb instead, with a few bees buzzing around his head. He tries to stay brave while a bee stings his nose. He freezes, eyes watering.
+DIALOGUE 25–28s: Bruno (tiny voice, trying to be tough): "...Bruno fine. Bruno... totally fine."
+Final frame: Lily laughing, tasting honey, Bruno's nose slightly swollen.
+SFX: fish flopping, water splash, slap, Lily laughing, bees buzzing, tiny sting sound, comedic gulp.
+MUSIC: bouncy happy country-folk banjo and fiddle.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 139 - "Be Still": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 139 - "The First Argument": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -48,7 +54,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 138 | Ice, wind, rockslides... and he looked down 😱⛰️ #Bigfoot #Movie #Part138
+Part 138 | When a Bigfoot makes you breakfast 🐟🍯😂 "Rude fish." #Bigfoot #Movie #Part138
 
 DOLA STATUS
 [ ] Images uploaded

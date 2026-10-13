@@ -1,0 +1,60 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
+
+FROST: Son of the Wild
+PART 215 - "Happy Birthday, Frost"
+Punch: FUN + EMOTION
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: vertical 9:16
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S02_MarthaHayes_FULL.png -> Martha Hayes.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+A sunny afternoon party in Cedar Hollow's town square, balloons, bunting, picnic tables.
+0–3s: Villagers wheel out a giant birthday cake the size of a pickup truck.
+DIALOGUE 1–3s: Everyone (cheerful crowd): "SURPRISE! Happy birthday, Frost!"
+3–12s: Frost covers his mouth, overwhelmed. He leans in to blow out the candles — his breath blows away every hat, a balloon stand, and Martha's big church hat flies off and lands on a goat.
+DIALOGUE 7–10s: Martha (shocked, then laughing, pointing at the goat): "Oh, for heaven's sake! That's my Sunday hat!"
+12–22s: Gifts: Sarah (now about 14, blonde braid, yellow sweater) gives him a drawing of the whole village holding hands with him; Martha gives him a hand-knitted sweater that is HUGE — it finally fits.
+DIALOGUE 16–19s: Martha (proud): "I've been knitting this one for three years."
+DIALOGUE 19–21s: Teen Frost (shy, emotional): "It fits... it actually fits!"
+22–30s: Lily gives the last gift: the small dried flower from Bruno, now in a little wooden frame.
+DIALOGUE 25–29s: Lily (soft): "From your father. He'd want you to have it."
+Final frame: Frost holding the tiny frame to his chest, tears in his eyes, the whole village smiling.
+SFX: cheering, balloons, a huge whoosh of breath, hats flying, laughter, paper rustling, gentle applause.
+MUSIC: happy birthday-style party music, turning into the soft Frost theme.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 216 - "Cedar Hollow Home": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 215 | His birthday wish blew grandma's hat onto a goat 😂🎂 ...then mom gave him the last gift 🥹 #Bigfoot #Movie #Part215
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES

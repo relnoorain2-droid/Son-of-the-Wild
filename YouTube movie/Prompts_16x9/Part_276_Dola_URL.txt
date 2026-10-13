@@ -1,0 +1,65 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
+
+FROST: Son of the Wild
+PART 276 - "The Frying Pan Brigade"
+Punch: FUN
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+FORMAT: YOUTUBE 16:9
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s YouTube 16x9
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+YOUTUBE 16:9 FRAMING LOCK:
+Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V12_Tommy_Adult.png -> Variant Tommy_Adult; S02_MarthaHayes_FULL.png -> Martha Hayes; S03_HankMiller_FULL.png -> Hank Miller.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+CAST NOTE: Sarah = a young woman (about 19), long blonde side braid, denim jacket; Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
+Daytime training camp in a big meadow outside Cedar Hollow: tents, villagers from three towns, animals everywhere.
+0–3s: Tommy tries to ride a huge bison like a horse; the bison takes off running and Tommy screams, holding its horns.
+DIALOGUE 1–3s: Tommy (young man, screaming): "WHOA! STOP! STOP THE COW!"
+3–12s: Grown-up Sarah rides a giant elk calmly past him, perfectly balanced.
+DIALOGUE 6–10s: Sarah (young woman, laughing): "It's a BISON, Tommy! And you're holding it wrong!"
+12–22s: Martha marches a line of grandmothers, all holding cast-iron frying pans like soldiers with rifles.
+DIALOGUE 14–18s: Martha (warm Southern voice, like a drill sergeant): "Frying Pan Brigade! Present... PANS!"
+All the grandmothers raise their pans at the same time. Frost salutes them, trying not to laugh.
+DIALOGUE 18–21s: Frost (deep, serious face): "Ma'am. Terrifying, ma'am."
+22–30s: Old Scar teaches bears to stand in a line; one cub keeps stealing honey. Eagles practice dropping pinecones on targets — one hits Hank on the head. Final frame: Hank rubbing his head, looking up at an innocent eagle.
+DIALOGUE 27–30s: Hank (deadpan): "Whose side is that bird on?"
+SFX: bison stampede, screaming, elk hooves, marching boots, pans clanging, bear grunts, eagle screech, pinecone bonk.
+MUSIC: fun upbeat military-march meets country fiddle.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 277 - "I'm Scared Too": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
+Part 276 | Grandma's Frying Pan Brigade is ready for war 🍳😂 #Bigfoot #Movie #Part276
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES

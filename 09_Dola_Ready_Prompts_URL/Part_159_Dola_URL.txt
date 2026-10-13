@@ -1,11 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
 
 FROST: Son of the Wild
-PART 159 - "Through the Front Door"
-Punch: EMOTION
-Status:-assets
+PART 159 - "Bruno vs the Dark Bigfoots"
+Punch: ACTION
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -19,26 +21,25 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C04_Bruno_FULL.png -> Bruno; V10_Damian_Battle.png -> Variant Damian_Battle; V03_Lily_Pregnant.png -> Variant Lily_Pregnant; K01_DarkBigfoot.png -> Creature DarkBigfoot.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night, the last night before the march, a quiet hill above the camp, the full moon.
-0–3s: Frost finds Lily putting on an old leather jacket and boots, tying her hair back.
-DIALOGUE 1–3s: Frost (deep, worried): "Mom, what are you doing?"
-3–12s: Lily turns, calm and strong.
-DIALOGUE 4–6s: Lily (firm): "I'm coming with you."
-DIALOGUE 6–11s: Frost (pleading): "No. Mom, it's too dangerous. Stay here with Martha. Please."
-12–22s: Lily takes his huge glowing hand.
-DIALOGUE 13–25s: Lily (strong, emotional): "Years ago I climbed out of that castle's window in a wedding dress and ran for my life. This time, I'm walking in through the front door. Next to my son."
-22–30s: Frost looks at her for a long moment, then smiles and kneels so they're eye to eye.
-DIALOGUE 25–29s: Frost (deep, proud): "Then stay close to me, Mom. Always."
-Final frame: mother and son forehead to forehead under the full moon.
-SFX: wind, leather jacket zipping, boots, distant campfire sounds, crickets.
-MUSIC: emotional strings, rising into a proud heroic theme.
+The valley in front of the waterfall, dust, smoke, daylight.
+0–3s: Prince Damian points his sword.
+DIALOGUE 0–2s: Prince Damian (arrogant shout): "Kill him!"
+3–14s: Five dark Bigfoots with red eyes charge Bruno at once. Bruno grabs the first one and throws it into the second, ducks a punch, and slams a third into the ground with both fists.
+DIALOGUE 7–9s: Bruno (deep roaring voice): "Bruno protect family!"
+14–22s: Two grab his arms from behind. Bruno roars, flexes, and smashes them together, then spins and kicks the last one into the river.
+DIALOGUE 16–18s: Lily (from inside the cave, crying out): "Bruno, be careful!"
+22–30s: Five dark Bigfoots lie groaning around him. Bruno breathes hard, steam rising from his black fur. The soldiers step back in fear. Damian's horse rears up.
+DIALOGUE 25–28s: Prince Damian (nervous, trying to sound brave): "...Send in the T-rex."
+Final frame: the T-rex's giant head lowering behind Bruno, roaring.
+SFX: heavy footsteps, punches and body slams, roars, ground cracks, splash, groaning, horse neigh, T-rex roar.
+MUSIC: intense heroic action drums and brass.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 160 - "For Everyone He Hurt": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 160 - "Bigfoot vs T-Rex": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -47,7 +48,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 159 | "This time, I'm walking in through the FRONT DOOR." 💪👩 #Bigfoot #Movie #Part159
+Part 159 | Five of the king's Bigfoots vs Bruno 💪 ...then came the T-rex 🦖 #Bigfoot #Movie #Part159
 
 DOLA STATUS
 [ ] Images uploaded

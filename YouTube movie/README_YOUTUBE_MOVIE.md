@@ -6,7 +6,7 @@ Use this folder for YouTube movie generation only.
 
 ## Folder Contents
 
-- `Prompts_16x9/` - all 192 Dola-ready prompts converted for YouTube landscape 16:9.
+- `Prompts_16x9/` - all 312 Dola-ready prompts converted for YouTube landscape 16:9.
 - `Skill/SKILL.md` - YouTube-specific Dola skill. Upload this skill in Dola before using these prompts.
 - `Production_Docs/` - notes for YouTube generation and framing.
 

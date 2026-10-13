@@ -1,9 +1,10 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 
 FROST: Son of the Wild
-PART 154 - "It's the Costume Guy!"
+PART 154 - "A Cradle for the Baby"
 Punch: FUN + EMOTION
 Status: ready - URL PACKAGE
 
@@ -22,26 +23,27 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; S03_HankMiller_FULL.png -> Hank Miller; S10_Villagers.png -> optional background group, skip unless you want crowd continuity.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; C04_Bruno_FULL.png -> Bruno; L04_BrunoCave.png -> Location BrunoCave.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Daytime, the main street of another small American mountain town called Pine Ridge: a diner, a gas station, a sheriff's office.
-0–3s: Frost lands from the sky in the middle of Main Street. People scream; a sheriff draws his pistol.
-DIALOGUE 1–3s: Sheriff (deep Southern-Hindi voice, shaking): "Don't you move, monster!"
-3–12s: Hank steps out from behind Frost, raising his hands.
-DIALOGUE 4–11s: Hank (deep rural voice): "Easy, Sheriff! He's with us. The king who's been burning towns... we're going to stop him. We need help."
-DIALOGUE 11–14s: Sheriff (unconvinced): "And why should we trust a Bigfoot?"
-12–22s: From the diner, the tourist couple from the Halloween part runs out, excited, pointing.
-DIALOGUE 14–20s: Tourist woman (excited Hindi voice): "Honey! It's the COSTUME GUY from Cedar Hollow! He gave us the best Halloween ever!"
-DIALOGUE 20–22s: Frost (deep, embarrassed): "...Hi again."
-22–30s: The sheriff lowers his gun, then looks at the burnt barn on the edge of his town — burned by the king's dragons last month.
-DIALOGUE 25–29s: Sheriff (firm): "The king burned my brother's farm. Pine Ridge rides with you."
-Final frame: townspeople stepping forward with rifles and horses.
-SFX: landing boom, screams, pistol cock, diner door bell, excited shouting, horses.
-MUSIC: tense Western standoff, a comedic beat, then a proud heroic swell.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Inside the waterfall cave, a few months later. Lily is visibly pregnant (around 5 months), wearing a big oversized brown flannel-style wrap.
+0–3s: A loud CRASH: Bruno proudly drags in a whole small pine tree.
+DIALOGUE 1–3s: NARRATOR (deep trailer voice): "Months passed..."
+3–12s: Bruno tries to build a baby cradle with his giant hands; sticks keep snapping.
+DIALOGUE 5–8s: Bruno (deep, determined): "Bruno build bed for baby. Strong bed."
+DIALOGUE 9–13s: Lily (laughing, holding her belly): "Gentle, Bruno! It's for a baby, not a bear!"
+12–22s: Finally Bruno shows a lopsided but sweet wooden cradle lined with moss and flowers. He tests it by sitting in it himself — it collapses completely.
+DIALOGUE 17–19s: Bruno (deadpan): "...Bruno build another one."
+22–30s: Lily sits beside him, takes his hand and smiles softly.
+DIALOGUE 21–27s: Lily (soft): "If it's a boy, I want him to be strong and kind... like his father."
+DIALOGUE 27–30s: Bruno (deep, emotional): "And beautiful... like his mother."
+Final frame: both looking at the broken cradle, laughing.
+SFX: tree dragging crash, sticks snapping, wood creaking, cradle collapsing, laughter, waterfall in the background.
+MUSIC: playful country-folk guitar, softening into the love theme.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 155 - "Not Yet, Mama": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 155 - "Baby Name Fight": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

@@ -1,13 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
+V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 
 FROST: Son of the Wild
-PART 184 - "Caught"
-Punch: WOW + EMOTION
-Status:-assets
+PART 184 - "Tiny Giant Trouble"
+Punch: BABY COMEDY
+Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -21,38 +21,36 @@ Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
-
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V12_Tommy_Adult.png -> Variant Tommy_Adult; K02_RedDragon.png -> Creature RedDragon.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+CHARACTER LOCK: Keep Lily, baby Frost, Martha, and the cabin exactly identical to attached references.
+LILY LOOK LOCK: Lily looks young and beautiful as a new mother, not older.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-CAST NOTE: the Great Red Dragon = three times bigger than any other dragon, dark lava-red scales, horns like a crown, enormous wings.
-The sky above the battlefield at sunset.
-0–3s: Frost falls fast, eyes closed, toward the rocks.
-DIALOGUE 0–2s: Lily (screaming, running): "No, no, NO!"
-3–12s: A gigantic shadow dives below him. The Great Red Dragon, its eyes now warm gold, gently catches Frost on its back between its huge horns.
-DIALOGUE 6–9s: Tommy (shouting, amazed): "The big one CAUGHT him!"
-12–22s: The Great Red Dragon lands softly in front of Lily and lowers its giant head so Frost can slide down. Frost opens his eyes, weak, and holds up his hand: inside it, the pieces of the crystal have joined together into one small, pure BLUE crystal, glowing softly.
-DIALOGUE 16–20s: Frost (deep, weak, smiling): "Mom... I got Grandpa's crystal back."
-22–30s: Lily hugs him, crying and laughing. The Great Red Dragon gently nudges Frost with its nose, making a deep purring sound like a giant cat. Final frame: Frost hugging the dragon's nose, Lily laughing.
-DIALOGUE 27–29s: Frost (deep, laughing softly): "You're welcome, big guy."
-SFX: falling wind, a giant dive whoosh, a soft catch, wing beats, a gentle landing, a magical crystal hum, crying, a giant dragon purr.
-MUSIC: an emotional, beautiful, soaring theme.
-
+Scene: Lily's small cabin, morning, baby blankets, flour sack, sunlight through wooden window.
+0-5s: Baby Frost sneezes. The sneeze blasts flour from a bowl into the air like a white cloud.
+DIALOGUE 1-4s: Lily (startled laugh): "Oh! Frost, sweetheart!"
+5-12s: Martha enters and finds Lily, baby Frost, and the table covered in flour. Frost blinks innocently.
+DIALOGUE 6-10s: Martha (trying not to laugh): "Well, I asked for white flour, not a white thunderstorm."
+12-20s: Lily tries to scold Frost gently, but Frost smiles with tiny blue eyes and reaches for her finger.
+DIALOGUE 13-17s: Lily (fake stern): "No more giant sneezes in the kitchen."
+DIALOGUE 17-20s: Martha (soft): "Good luck teaching that to a baby built like a barrel."
+20-27s: Frost sneezes again, softer this time, blowing flour only onto Martha's apron. Everyone goes silent.
+27-30s: Martha looks down, then laughs. Lily laughs too. Final frame: baby Frost giggling in Lily's arms.
+DIALOGUE 27-30s: Martha: "All right. He is adorable. I surrender."
+SFX: baby sneeze boom, flour puff, soft baby giggle, Lily laugh, Martha apron flap.
+MUSIC: playful baby comedy music with warm family ending.
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 185 - "Finish It": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 185 - "MONSTER!": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
 SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
-
+TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 184 | The dragon that was trying to kill him... caught him 🐉🥹 #Bigfoot #Movie #Part184
+Part 184 | Baby Frost sneezed once and turned the whole cabin white. #Bigfoot #Movie #Part184
 
 DOLA STATUS
 [ ] Images uploaded
@@ -62,3 +60,4 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
+Inserted after old Part 58 before the village fear beat.

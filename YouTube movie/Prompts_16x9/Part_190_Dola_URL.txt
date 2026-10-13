@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V14_Grace_Older.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V14_Grace_Older/V14_Grace_Older.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 190 - "Everyone Together"
-Punch: FUN + WOW
+PART 190 - "First Day of School"
+Punch: FUN + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -25,26 +25,25 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V14_Grace_Older.png -> Variant Grace_Older; S02_MarthaHayes_FULL.png -> Martha Hayes; S03_HankMiller_FULL.png -> Hank Miller.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S05_TommyMiller_FULL.png -> Tommy Miller; S02_MarthaHayes_FULL.png -> Martha Hayes.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-CAST NOTE: Tommy = a young man (about 22), messy brown hair, light freckles, red baseball cap, plaid flannel shirt; Sarah = a young woman (about 19), long blonde side braid, denim jacket; Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
-A giant celebration on a big meadow between Millbrook and the forest: long picnic tables, string lights, American flags, a stage, people from Millbrook, Cedar Hollow, Pine Ridge and the freed kingdom, plus mammoths, bears, wolves and dragons.
-0–3s: Dragons breathe golden fire into the sky, making giant fireworks shapes. Everyone cheers.
-DIALOGUE 1–3s: Tommy (shouting): "BEST FOURTH OF JULY EVER!"
-DIALOGUE 3–5s: Sarah (laughing): "Tommy, it's October!"
-3–12s: Martha and Grace sit next to each other at the table and instantly become best friends, comparing pie recipes.
-DIALOGUE 6–10s: Martha (Southern voice): "Honey, you put cinnamon in your apple pie too?"
-DIALOGUE 10–14s: Grace (delighted): "Of course! Where have you been all my life?"
-12–22s: Hank and the Pine Ridge sheriff arm-wrestle; Frost watches and puts one finger on the table — both of them push with all their strength and can't move it. Old Scar's cubs steal a whole pie. The baby dragon sleeps in Martha's knitting basket.
-DIALOGUE 17–20s: Hank (straining, red-faced): "Son... we know... you're strong!"
-22–30s: Tommy nervously asks grown-up Sarah to dance; she smiles and takes his hand. Everyone cheers "Finally!" Final frame: the huge happy crowd, people and animals together under the lights.
-DIALOGUE 27–29s: Everyone (cheering): "FINALLY!"
-SFX: dragon fireworks, cheering crowd, clinking plates, laughter, arm-wrestling grunts, cub squeaks, a sleeping dragon snore.
-MUSIC: joyful American country celebration music with fiddle, banjo and brass.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Morning, a small red one-room American country schoolhouse with a bell, a wooden porch, kids with lunch boxes.
+0–3s: Kid Frost squeezes through the schoolhouse door sideways; the door frame cracks.
+DIALOGUE 1–4s: Kid Frost (cheerful young boy voice): "Sorry! Sorry! I'll pay for it!"
+3–12s: Martha is the teacher today, wearing glasses and holding chalk. Frost sits at a tiny desk; it collapses under him. The kids laugh.
+DIALOGUE 6–9s: Martha (warm Southern voice, smiling): "Floor's fine too, honey. Sit on the floor."
+12–22s: Martha writes letters on the chalkboard. Frost holds a tiny piece of chalk in his huge hand very carefully, tongue out, concentrating, and slowly writes on his little slate.
+DIALOGUE 15–18s: Tommy (whispering): "What are you writing?"
+DIALOGUE 18–20s: Kid Frost (proud whisper): "My first word."
+22–30s: At the end of school, Lily waits outside. Frost runs to her and shows the slate: it says "MOM" in big shaky letters. Lily's eyes fill with tears and she hugs him. Final frame: the slate with "MOM" between them.
+DIALOGUE 26–29s: Lily (emotional): "That's the best thing anyone has ever written."
+SFX: school bell, door frame crack, desk collapsing, kids laughing, chalk scratching, footsteps.
+MUSIC: playful school-day tune, turning into the soft Frost theme on piano.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 191 - "You and Me and the Wild": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 191 - "Home Run": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -53,7 +52,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 190 | Three towns, a free kingdom, bears and dragons... ALL at one party 🎉🐉🐻 #Bigfoot #Movie #Part190
+Part 190 | A Bigfoot's first day of school... his first word made mom cry 🥹✏️ #Bigfoot #Movie #Part190
 
 DOLA STATUS
 [ ] Images uploaded

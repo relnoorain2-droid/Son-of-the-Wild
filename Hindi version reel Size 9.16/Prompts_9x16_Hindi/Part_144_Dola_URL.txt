@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 144 - "I Protect"
+PART 144 - "You and Me and the Wild"
 Punch: WOW + EMOTION
 Status: ready - URL PACKAGE
 
@@ -24,24 +25,29 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; C05_Frost_FACE.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; L03_DeepForest.png -> Location DeepForest; L05_River.png -> Location River.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Underwater vision world, then Mirror Lake at night.
-0–3s: The red-eyed reflection reaches toward Frost.
-DIALOGUE 1–3s: Dark Reflection (cold): "Hate is power. Take it."
-3–12s: Frost hears his mother's voice echoing from above the water, and sees warm memories: baby Frost holding her finger; the "MOM" slate; Martha's sweater; the cradle Bruno built.
-DIALOGUE 4–8s: Lily (voice from above, echoing): "Strong hands... gentle heart, my love."
-DIALOGUE 8–12s: Frost (deep, calm, firm): "I won't destroy. I protect. That's what my father did."
-12–22s: Instead of fighting the dark reflection, Frost hugs it. The red eyes slowly turn blue. The dark self smiles softly and dissolves into thousands of blue lights.
-22–30s: Frost bursts out of Mirror Lake in a huge explosion of water and blue light, lands on the shore on one knee. A fourth glowing blue mark burns across his face like war paint, under his eyes. Lily runs to him. Final frame: Frost's face with the new glowing mark, eyes shining calm blue.
-DIALOGUE 27–30s: Old Joe (slow raspy voice, emotional): "Four. He's done it... the first since Orin."
-SFX: underwater hum, echoing voice, soft memory sounds, a gentle shimmer as the reflection dissolves, a massive water explosion, a heavy landing, a magical burning hum.
-MUSIC: dark tension melting into a beautiful, triumphant emotional choir.
+Golden morning in the Pacific Northwest forest, sunbeams through giant redwoods, wildflowers, a sparkling river.
+0–3s: Bruno lifts Lily high onto his shoulders; she spreads her arms as they walk out of the dark trees into a sunlit meadow full of flowers, butterflies flying up.
+DIALOGUE 1–3s: Lily (soft young Hindi-dubbed woman, laughing): "Bruno, look! It's beautiful!"
+3–26s: Music montage. Lily SINGS in a soft, sweet country-folk voice, clearly audible, lip-synced:
+  3–10s: "No castle walls, no golden crown, just a river song and the stars come down."
+  — Shots: running together through the meadow; Bruno carefully picking one tiny flower and putting it in her hair.
+  10–20s: "It's you and me and the wild, running free like a child..."
+  — Shots: splashing in the shallow river, Bruno shaking water off like a dog and soaking her; deer and a baby fawn watching them.
+  20–26s: "...no one can find us here, you and me and the wild."
+  — Shots: Bruno humming along in a very deep, off-key voice; Lily laughing mid-song.
+26–30s: Bruno grins proudly; Lily laughs and hugs his huge arm. Final frame: both laughing in the sunny meadow.
+DIALOGUE 26–28s: Bruno (deep happy gravelly voice): "Bruno sing better now?"
+DIALOGUE 28–30s: Lily (laughing): "No. But I love it."
+DIALOGUE 10-13s: Bruno (deep shy voice): "Lily laugh. Bruno like Lily laugh."
+SFX: birds singing, river flowing, water splash, Bruno's deep off-key humming, laughter.
+MUSIC: warm acoustic guitar, soft fiddle and light percussion under the song.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 145 - "Where Is His Grave?": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 145 - "Big Old Hands": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

@@ -1,0 +1,63 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+
+FROST: Son of the Wild
+PART 198 - "Thin Ice"
+Punch: ACTION + EMOTION
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+LANGUAGE: HINDI OUTPUT ONLY
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s Hindi Reels 9x16
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: vertical 9:16
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+HINDI OUTPUT LOCK:
+The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S05_TommyMiller_FULL.png -> Tommy Miller; S06_SarahMiller_FULL.png -> Sarah Miller; L05_River.png -> Location River.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+Winter, a frozen lake surrounded by snowy pines, kids sledding and ice-skating.
+0–3s: Frost pulls Tommy and Sarah on a big wooden sled at crazy speed across the snow; they scream with joy.
+DIALOGUE 1–3s: Tommy (laughing): "Faster, Frost! FASTER!"
+3–12s: Tommy slides off and skates out onto the frozen lake to show off. The ice cracks under him.
+DIALOGUE 6–8s: Sarah (scared): "Tommy, the ice!"
+DIALOGUE 8–10s: Tommy (panicked): "Frost! HELP!"
+12–22s: The ice breaks; Tommy falls into the freezing water. Frost runs onto the ice, which cracks under his weight. He lies down flat, spreading his weight, and crawls forward.
+DIALOGUE 15–18s: Kid Frost (calm but scared): "Don't panic! Grab my hand!"
+22–30s: Frost pulls Tommy out of the water with one arm and slides back to shore as the ice collapses behind them. He wraps the shivering Tommy in his warm white fur. Final frame: Tommy hugging Frost, teeth chattering.
+DIALOGUE 26–29s: Tommy (shivering, smiling): "You're... the warmest best friend... ever."
+SFX: sled on snow, laughter, ice cracking, splash into water, deep ice cracks, sliding, shivering.
+MUSIC: playful winter bells, then intense rescue strings, resolving warmly.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 199 - "The White Beast": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+HINDI REELS CAPTION AFTER DOWNLOAD
+HINDI CAPTION LOCK: Write the final post title/description/caption in Hindi, using Hindi emotion and hashtags. Do not output an English caption.
+भाग 198 | फ्रॉस्ट: जंगल का बेटा - कहानी अब और गहरी होती जा रही है। #बिगफुट #फिल्म #भाग198
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES

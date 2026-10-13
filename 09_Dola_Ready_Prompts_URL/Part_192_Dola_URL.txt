@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C06_ElderOrin_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C06_ElderOrin/C06_ElderOrin_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 192 - "Home"
-Punch: EMOTION
+PART 192 - "The Bear Whisperer"
+Punch: WOW + TWIST
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,26 +21,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V09_Bruno_Spirit.png -> Variant Bruno_Spirit; C06_ElderOrin_FULL.png -> Elder Orin.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; S06_SarahMiller_FULL.png -> Sarah Miller; S03_HankMiller_FULL.png -> Hank Miller.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Late night, a quiet hill above the celebration, a sky full of stars, the party lights glowing below.
-0–3s: Frost and Lily sit on the hill looking at the stars. Frost holds the small glowing blue crystal.
-DIALOGUE 1–4s: Frost (deep, soft): "Mom... do you think Dad would be proud?"
-3–12s: Lily leans on his huge arm, just like she leaned on Bruno's long ago.
-DIALOGUE 4–12s: Lily (soft, smiling): "Frost, you had every reason to hate. And you chose to protect. He'd be the proudest giant in the whole sky."
-12–22s: The stars begin to glow brighter. In the sky, made of starlight, Bruno appears, smiling down at them. Behind him, Elder Orin nods. Bruno raises his giant hand in a wave.
-DIALOGUE 15–20s: Bruno (spirit voice, very deep slow warm gravelly, echoing softly): "Bruno so proud. Be happy, my family. Forever."
-22–30s: Frost and Lily wave back to the sky, tears and smiles. The spirits slowly fade into the stars. The camera rises slowly over the hill, over the party, over the forest, over the mountains, into the stars.
-DIALOGUE 24–27s: Lily (whispering): "He's home, Bruno. We're all home."
-DIALOGUE 27–30s: NARRATOR (deep cinematic American trailer voice): "Strong hands... gentle heart. The End."
-Final frame: the sky full of stars, one star shaped like a giant handprint glowing softly.
-SFX: night wind, distant party music, crickets, a soft magical shimmer, Bruno's echoing voice, a final gentle chime.
-MUSIC: the love theme and the Frost theme together, building to a beautiful final orchestral chord, then fading to silence.
+Late afternoon in Cedar Hollow, near the general store.
+0–3s: A huge grizzly bear smashes through a fence into the village street. People scream and run.
+DIALOGUE 1–3s: Villager woman (screaming): "BEAR! Get inside!"
+3–12s: The bear roars at little Sarah, who is frozen in the middle of the street. Hank runs for his shotgun. Kid Frost steps in front of Sarah.
+DIALOGUE 7–9s: Hank (shouting): "Frost, get away from it!"
+12–22s: Frost doesn't fight. He looks into the bear's eyes. His own eyes glow softly blue for a moment. He speaks calmly; we hear a low, soft rumbling sound like an animal language, and the bear slowly stops roaring.
+DIALOGUE 14–19s: Kid Frost (calm young boy voice): "Hey, big guy. You're just hungry, huh? Nobody wants to hurt you."
+22–30s: The bear sniffs Frost's hand, lies down, and lets Sarah pet its nose. Frost gives the bear a basket of apples from the store. Everyone watches in total silence. Final frame: the grizzly walking calmly back into the forest with an apple in its mouth.
+DIALOGUE 25–29s: Old Joe (from the porch, slow raspy voice): "He speaks to the wild... just like the old legends."
+SFX: fence crash, screams, roar, running, a soft magical hum, low gentle rumbling, sniffing, apple crunch.
+MUSIC: tense drums, then a magical soft choir and gentle strings.
 
-FINAL EMOTIONAL CLOSURE LOCK:
-This is the final movie ending. Do not add a new cliffhanger. End with emotional closure, a lingering magical image, and a final feeling that the story is complete but unforgettable.
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 193 - "The Barn Fire": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -49,7 +46,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 192 | THE END 🥹💙 "Strong hands... gentle heart." Thank you for watching all 192 parts! #Bigfoot #Movie #Part192 #TheEnd
+Part 192 | A grizzly attacked the town... Frost just TALKED to it 🐻✨ #Bigfoot #Movie #Part192
 
 DOLA STATUS
 [ ] Images uploaded

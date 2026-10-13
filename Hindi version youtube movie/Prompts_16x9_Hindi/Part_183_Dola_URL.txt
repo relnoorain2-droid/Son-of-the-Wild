@@ -1,13 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
-K03_SmallDragons.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K03_SmallDragons/K03_SmallDragons.png
+L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 
 FROST: Son of the Wild
-PART 183 - "Free"
-Punch: WOW + EMOTION
-Status:-assets
+PART 183 - "Bath Time"
+Punch: FUN
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -28,25 +28,25 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K02_RedDragon.png -> Creature RedDragon; K03_SmallDragons.png -> Creature SmallDragons.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; S02_MarthaHayes_FULL.png -> Martha Hayes; L05_River.png -> Location River.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-CAST NOTE: King Magnus = an old cruel king, scar on his left cheek, long silver-grey hair, black iron armor, staff with a glowing red crystal; Sarah = a young woman (about 19), long blonde side braid, denim jacket.
-The sky above Thorne Castle at sunset.
-0–3s: The cracked crystal explodes in a gigantic blast of pure BLUE light that spreads across the whole sky like a wave.
-DIALOGUE 1–3s: King Magnus (screaming): "NOOOOO!"
-3–12s: The blue wave passes over every dragon in the sky. One by one, their red eyes change to warm gold. They stop attacking, shake their heads like waking from a nightmare, and look around in wonder.
-DIALOGUE 6–11s: NARRATOR (deep cinematic Hindi trailer voice): "For the first time in a hundred years... the dragons were free."
-12–22s: Dozens of dragons fly in joyful circles above the castle, roaring happily, breathing harmless golden fire into the sky like fireworks. On the ground, Lily, Hank, Martha, Sarah, Tommy, Rose and the whole army look up, crying and cheering.
-DIALOGUE 16–19s: Sarah (crying, laughing): "Look at them! They're dancing!"
-22–30s: In the middle of the light, Frost falls from the sky, exhausted, his glow fading. Final frame: Frost falling, eyes closed, toward the ground far below.
-DIALOGUE 26–29s: Lily (screaming): "FROST!"
-SFX: a gigantic crystal explosion, a blue energy wave, dragons' confused growls turning into happy roars, golden fire bursts, a cheering army, wind as Frost falls.
-MUSIC: a massive, joyful, triumphant orchestra and choir, then a sudden worried note.
+Spring montage by the river near the cabin, sunny, flowers blooming.
+0–3s: Lily tries to give baby Frost a bath in a wooden tub; he splashes so hard that Lily is completely soaked.
+DIALOGUE 1–3s: Lily (laughing, dripping): "Frost! Every single time!"
+3–12s: Frost crawls out of the tub, grabs a young pine tree and pulls it out of the ground, roots and all, then looks proud.
+DIALOGUE 6–10s: NARRATOR (deep cinematic trailer voice): "Frost was growing fast... and getting stronger every day."
+DIALOGUE 10–13s: Lily (hands on hips): "Put the tree back, young man."
+12–22s: Martha babysits; she reads a picture book to Frost on the porch. He falls asleep on her lap and starts snoring loudly like a bear, shaking the porch.
+DIALOGUE 16–19s: Martha (whispering, amused Southern voice): "Lord, he snores like my late husband."
+22–30s: Frost wakes up, sees a butterfly, and chases it, stumbling on his chubby legs, then falls into a pile of flowers. He sneezes; petals explode everywhere. Final frame: Frost covered in flower petals, giggling.
+DIALOGUE 27–29s: Lily (laughing): "Bless you, baby!"
+SFX: splashing, laughing, roots ripping, tree thump, page turning, loud snoring, wooden porch creaking, giggles, sneeze, petals.
+MUSIC: bright happy country-folk with banjo and whistling.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 184 - "Caught": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 184 - "Tiny Giant Trouble": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

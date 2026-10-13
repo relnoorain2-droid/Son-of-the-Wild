@@ -1,0 +1,65 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L08_Battlefield.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
+
+FROST: Son of the Wild
+PART 295 - "Lily vs Damian"
+Punch: ACTION + FUN
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+LANGUAGE: HINDI OUTPUT ONLY
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s Hindi Reels 9x16
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: vertical 9:16
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+HINDI OUTPUT LOCK:
+The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V10_Damian_Battle.png -> Variant Damian_Battle; S02_MarthaHayes_FULL.png -> Martha Hayes; L08_Battlefield.png -> Location Battlefield.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+The muddy battlefield in front of the castle, smoke and fire.
+0–3s: Prince Damian, covered in mud from head to toe, staggers out of the smoke holding his sword, furious. He sees Lily alone.
+DIALOGUE 1–3s: Prince Damian (smooth voice turned crazy): "YOU! You ruined EVERYTHING!"
+3–12s: He swings his sword; Lily ducks and rolls in the mud. She has no weapon.
+DIALOGUE 6–8s: Lily (shouting): "Somebody! A weapon!"
+DIALOGUE 8–11s: Martha (from far away, throwing her frying pan through the air): "LILY! CATCH!"
+12–22s: The frying pan spins through the air in slow motion. Lily catches it perfectly. She blocks Damian's sword — CLANG! — sparks fly. They fight: sword vs frying pan. Damian swings; Lily blocks again and again.
+DIALOGUE 17–20s: Prince Damian (furious): "A frying pan?! AGAIN?!"
+DIALOGUE 20–22s: Lily (fierce): "It worked the first time!"
+22–30s: Damian knocks the pan out of Lily's hands with a powerful strike. She falls back into the mud. He raises his sword above her. Final frame: the sword above Lily, her face brave, not afraid.
+DIALOGUE 27–29s: Prince Damian (cold): "Goodbye, wife."
+SFX: squelching mud, a crazy shout, sword swings, a roll in the mud, a frying pan spinning through the air, a metal CLANG, sparks, a pan flying away, a body falling in mud.
+MUSIC: intense duel music with a heroic sting for the catch.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 296 - "Not My Mother": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+HINDI REELS CAPTION AFTER DOWNLOAD
+HINDI CAPTION LOCK: Write the final post title/description/caption in Hindi, using Hindi emotion and hashtags. Do not output an English caption.
+भाग 295 | फ्रॉस्ट: जंगल का बेटा - कहानी अब और गहरी होती जा रही है। #बिगफुट #फिल्म #भाग295
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES

@@ -1,12 +1,15 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
+K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
 
 FROST: Son of the Wild
-PART 034 - "A Cradle for the Baby"
-Punch: FUN + EMOTION
-Status: ready - URL PACKAGE
+PART 034 - "The Hollow Tree"
+Punch: EXPANDED CUT - FORWARD STORY BEAT
+Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -18,48 +21,48 @@ This must be exactly one 30-second video. Do not generate a 15-second version. D
 Use active skill: Zakariya Seedance 2 5 30s YouTube 16x9
 Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
+Aspect ratio: widescreen 16:9
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; C04_Bruno_FULL.png -> Bruno; L04_BrunoCave.png -> Location BrunoCave.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
-
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Inside the waterfall cave, a few months later. Lily is visibly pregnant (around 5 months), wearing a big oversized brown flannel-style wrap.
-0–3s: A loud CRASH: Bruno proudly drags in a whole small pine tree.
-DIALOGUE 1–3s: NARRATOR (deep trailer voice): "Months passed..."
-3–12s: Bruno tries to build a baby cradle with his giant hands; sticks keep snapping.
-DIALOGUE 5–8s: Bruno (deep, determined): "Bruno build bed for baby. Strong bed."
-DIALOGUE 9–13s: Lily (laughing, holding her belly): "Gentle, Bruno! It's for a baby, not a bear!"
-12–22s: Finally Bruno shows a lopsided but sweet wooden cradle lined with moss and flowers. He tests it by sitting in it himself — it collapses completely.
-DIALOGUE 17–19s: Bruno (deadpan): "...Bruno build another one."
-22–30s: Lily sits beside him, takes his hand and smiles softly.
-DIALOGUE 21–27s: Lily (soft): "If it's a boy, I want him to be strong and kind... like his father."
-DIALOGUE 27–30s: Bruno (deep, emotional): "And beautiful... like his mother."
-Final frame: both looking at the broken cradle, laughing.
-SFX: tree dragging crash, sticks snapping, wood creaking, cradle collapsing, laughter, waterfall in the background.
-MUSIC: playful country-folk guitar, softening into the love theme.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: V02_Lily_Forest.png -> reference character/location; C04_Bruno_FULL.png -> reference character/location; L03_DeepForest.png -> reference character/location; L04_BrunoCave.png -> reference character/location; K08_GrizzlyBear.png -> reference character/location; K09_Wolves.png -> reference character/location.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
+Scene: Lily crawls into a hollow tree for shelter as rain begins.
+0-3s: Start with a strong immediate visual hook connected to the previous part.
+DIALOGUE 1-4s: NARRATOR (deep cinematic voice): "Lily escaped the castle, but the forest had its own teeth."
+3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
+DIALOGUE 5-8s: Lily (breathless, terrified): "Please... just let me live through this night."
+10-18s: Lily crawls into a hollow tree for shelter as rain begins.
+DIALOGUE 11-15s: Captain Vex (distant harsh shout): "Find her before sunrise!"
+18-24s: She finds old claw marks inside the bark.
+DIALOGUE 19-23s: Lily (whispering): "If I go back, I die. If I stay here... maybe I die too."
+24-30s: Build into the hook: A grizzly shadow passes the opening.
+SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
+MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.
+CAMERA: clear subject framing, expressive faces, one clean action beat, then a strong final hook.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 035 - "Baby Name Fight": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 035 - "Morning Without Home": A grizzly shadow passes the opening. Keep continuity and do not add random new characters.
 
 GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync. No line may be skipped. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic frame.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, rural American towns, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+TEXT RULE: On-screen text is allowed only for intentional short cinematic title/location/time cards when this PART asks for it. No subtitles for dialogue. No random text.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no gore, no blood spray, no nudity, no explicit wedding-night content, no restraints, no chains, no forced physical contact, no extra limbs, no face morphing, no character drift.
 
 YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 34 | Bruno built a cradle for the baby... then sat in it 😂🪵 #Bigfoot #Movie #Part34
+Part 34 | The Hollow Tree - the story moves deeper. #Bigfoot #Movie #Part34
 
 DOLA STATUS
-[ ] Images uploaded
+[ ] Images loaded by raw URLs
 [ ] Prompt pasted
 [ ] Video generated
 [ ] Downloaded
 [ ] Needs revision
 
 NOTES
+Expanded 312-part canon. This part must move the story forward and end with suspense unless it is the final part.

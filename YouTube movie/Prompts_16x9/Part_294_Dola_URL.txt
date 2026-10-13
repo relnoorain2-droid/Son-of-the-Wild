@@ -1,0 +1,66 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+K03_SmallDragons.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K03_SmallDragons/K03_SmallDragons.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
+
+FROST: Son of the Wild
+PART 294 - "Chains Aren't Enough"
+Punch: TWIST + ACTION
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+FORMAT: YOUTUBE 16:9
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s YouTube 16x9
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+YOUTUBE 16:9 FRAMING LOCK:
+Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V13_Sarah_Adult.png -> Variant Sarah_Adult; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S11_Rose_FULL.png -> Rose; K03_SmallDragons.png -> Creature SmallDragons.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+CAST NOTE: Tommy = a young man (about 22), messy brown hair, light freckles, red baseball cap, plaid flannel shirt; Hank = a sturdy farmer, grey-brown beard, worn cowboy hat, plaid shirt, overalls; Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye; the Great Red Dragon = three times bigger than any other dragon, dark lava-red scales, horns like a crown, enormous wings.
+The underground dragon pens beneath the castle, then the battlefield.
+0–3s: Sarah, Tommy and Rose smash the last iron chain with a hammer. Dozens of dragons are free of their chains.
+DIALOGUE 1–4s: Tommy (excited young man): "That's all of them! They're free!"
+3–12s: But the dragons' eyes are still glowing red. They don't fly away. They slowly turn toward the kids, growling, under the crystal's control.
+DIALOGUE 6–9s: Sarah (scared, backing up): "Tommy... why are they still red?"
+DIALOGUE 9–13s: Rose (old British voice, horrified): "The chains were never the real prison. It's the CRYSTAL!"
+12–22s: The dragons fly up out of the cave toward the battlefield under the king's command. On the battlefield, Lily, Hank and Old Scar hold the line as more dragons dive at them.
+DIALOGUE 16–20s: Hank (shouting): "Lily! More dragons! We can't hold them much longer!"
+22–30s: Lily looks up at the gigantic Great Red Dragon circling the castle, the king on its head, the red crystal glowing.
+DIALOGUE 25–29s: Lily (whispering, hoping): "Come on, Frost... the crystal. Get the crystal."
+Final frame: the red crystal glowing like a red star above the battlefield.
+SFX: hammer on chain, chain breaking, dragons growling, wings, battle noise, dragon dives, shouts.
+MUSIC: hope turning into danger, tense battle drums.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 295 - "Lily vs Damian": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
+Part 294 | They broke every chain... but the dragons' eyes stayed RED 😨🐉 #Bigfoot #Movie #Part294
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES

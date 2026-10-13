@@ -1,0 +1,68 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+
+FROST: Son of the Wild
+PART 201 - "Sit!"
+Punch: WOW + FUN
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+LANGUAGE: HINDI OUTPUT ONLY
+FORMAT: YOUTUBE 16:9
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s Hindi YouTube 16x9
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+YOUTUBE 16:9 FRAMING LOCK:
+Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
+
+HINDI OUTPUT LOCK:
+The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S03_HankMiller_FULL.png -> Hank Miller; K09_Wolves.png -> Creature Wolves; L07_Village.png -> Location Village.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+Early morning fog over Hank's sheep farm at the edge of Cedar Hollow, wooden fences, a red farmhouse.
+0–3s: A pack of grey timber wolves jumps the fence; the sheep scatter, bleating.
+DIALOGUE 1–4s: Hank (deep rural voice, running out with a pitchfork in his pajamas): "WOLVES! Get away from my sheep!"
+3–12s: The wolves turn and snarl at Hank. He freezes. Kid Frost jumps over the fence and lands between them.
+DIALOGUE 6–8s: Kid Frost (calm but serious young boy voice): "Hey! Leave them alone!"
+12–22s: Frost's eyes glow soft blue. He points at the ground and speaks; a low rumbling animal sound echoes. The wolves stop snarling, look at each other... and sit down like obedient dogs.
+DIALOGUE 14–16s: Kid Frost: "Sit!"
+DIALOGUE 17–19s: Kid Frost (surprised whisper): "Wait... that actually worked?"
+22–30s: The wolves roll over on command. One licks Hank's hand. Hank stares, speechless, still in his pajamas. Final frame: Hank holding his pitchfork while a wolf wags its tail at him.
+DIALOGUE 22–24s: Kid Frost (cheerful young boy voice, testing it): "Roll over!"
+DIALOGUE 26–29s: Hank (deadpan): "I need more coffee for this."
+SFX: sheep bleating, fence creaking, snarling, magical hum, low rumbling, wolves whining happily, tail thumping, licking.
+MUSIC: tense drums, then a magical chime, then comedic light music.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 202 - "The Cave Behind the Waterfall": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+HINDI YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
+HINDI CAPTION LOCK: Write the final post title/description/caption in Hindi, using Hindi emotion and hashtags. Do not output an English caption.
+भाग 201 | फ्रॉस्ट: जंगल का बेटा - कहानी अब और गहरी होती जा रही है। #बिगफुट #फिल्म #भाग201
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES

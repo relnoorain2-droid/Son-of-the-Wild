@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L08_Battlefield.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+C04_Bruno_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FACE.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 
 FROST: Son of the Wild
-PART 164 - "Grandma's Revenge"
-Punch: FUN + ACTION
+PART 164 - "His Name Is Frost"
+Punch: EMOTION + TWIST
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -27,25 +28,25 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: S02_MarthaHayes_FULL.png -> Martha Hayes; S03_HankMiller_FULL.png -> Hank Miller; S10_Villagers.png -> optional background group, skip unless you want crowd continuity; L08_Battlefield.png -> Location Battlefield.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C04_Bruno_FULL.png -> Bruno; C04_Bruno_FACE.png -> Bruno; V03_Lily_Pregnant.png -> Variant Lily_Pregnant; L05_River.png -> Location River.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-The battlefield in front of Thorne Castle, soldiers in black helmets fighting villagers.
-0–3s: A line of the king's soldiers marches forward with shields. In front of them stands a line of grandmothers with frying pans.
-DIALOGUE 1–3s: Soldier (laughing): "Grandmas? They sent GRANDMAS?"
-3–12s: Martha smiles sweetly.
-DIALOGUE 4–6s: Martha (warm Southern voice): "Frying Pan Brigade... SWING!"
-The grandmothers swing their cast-iron pans: BONK! BONK! BONK! Soldiers spin around cross-eyed and fall over like dominoes, comedy style, no injuries shown.
-12–22s: Hank and the Pine Ridge sheriff fight back-to-back with rifles (firing into the air to scare horses) and lassos, roping soldiers like cattle.
-DIALOGUE 15–18s: Sheriff (Southern voice): "Hank, how many you got?"
-DIALOGUE 18–20s: Hank (deep rural voice): "Lost count at twelve!"
-22–30s: A huge soldier with a giant axe stands over Martha. She looks up, then calmly hits his toe with the pan. He hops around screaming, holding his foot, and falls into a mud puddle. Final frame: Martha blowing on her frying pan like a cowboy.
-DIALOGUE 27–30s: Martha (proud): "Never underestimate a Southern grandma, honey."
-SFX: marching, laughter, multiple comedic metal BONKs, bodies flopping, lasso whoosh, rifle shots in the air, a toe bonk, screaming, a mud splash.
-MUSIC: fun Western action theme with comedic stings on each bonk.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+The bank of the wide fast river, sunset, smoke in the sky.
+0–3s: Bruno carries Lily to the edge of the rushing river, limping, soldiers' torches visible through the trees behind.
+DIALOGUE 1–4s: Lily (crying): "What are you doing? Bruno, no!"
+3–14s: Bruno sets her down and holds her face in his giant hands.
+DIALOGUE 4–10s: Bruno (deep, slow, gentle voice): "If baby is boy... call him Frost. Like the first snow. Quiet... but stronger than everything."
+DIALOGUE 10–14s: Lily (sobbing): "You'll name him yourself. You'll see him!"
+14–22s: Bruno smiles with tears in his eyes. He pulls the small blue wildflower Lily once braided into his fur, places it in her hand and gently closes her fingers around it. He kisses her forehead.
+DIALOGUE 15–21s: Bruno (deep whisper): "Keep this. Tell Frost... his papa was not afraid. Bruno love you. Forever."
+22–30s: Before she can react, Bruno gently pushes her backward into the river. The current pulls her away. She reaches out to him, screaming. Final frame: Bruno standing alone on the riverbank, turning to face the army as the torches surround him.
+DIALOGUE 26–29s: Lily (screaming from the water): "BRUUUNO!"
+SFX: rushing river, crying, footsteps, approaching soldiers, splash, scream echoing.
+MUSIC: heartbreaking love theme on piano and strings, rising to a full emotional orchestra.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 165 - "The Secret Tunnel": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 165 - "The Last Stand": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

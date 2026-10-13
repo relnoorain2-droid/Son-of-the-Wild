@@ -1,11 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
-S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 
 FROST: Son of the Wild
-PART 187 - "Not a King"
-Punch: EMOTION + FUN
+PART 187 - "The Teddy Bear"
+Punch: EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,24 +21,26 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; S11_Rose_FULL.png -> Rose; S09_Brides.png -> optional background group, skip unless you want crowd continuity; L02_KingCastle.png -> Location KingCastle.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V05_Frost_Baby.png -> Variant Frost_Baby; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S06_SarahMiller_FULL.png -> Sarah Miller; S03_HankMiller_FULL.png -> Hank Miller.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-The next morning, Thorne Castle courtyard full of sunlight. People tearing down the red banners. Freed mammoths and dragons resting outside the walls.
-0–3s: The kingdom's people pull down a giant red banner; it falls, and sunlight floods the courtyard for the first time in years.
-DIALOGUE 1–4s: NARRATOR (deep cinematic American trailer voice): "The kingdom of Thorne was finally free."
-3–12s: Rose and Emily (the former bride) walk up to Frost holding the king's old iron crown on a pillow. The whole crowd kneels.
-DIALOGUE 6–11s: Rose (old British voice, emotional): "The people have decided. You saved us. You should be our king."
-12–22s: Frost picks up the heavy crown, looks at it... and gently puts it on Rose's head instead. It's too big; it slides over her eyes. Everyone laughs.
-DIALOGUE 14–23s: Frost (deep, smiling): "I'm not a king. I'm just a guy from Cedar Hollow. You, the brides, the people who stood up — you should lead together."
-DIALOGUE 23–26s: Rose (pushing the crown up, laughing): "Well, I'll need a smaller crown."
-22–30s: The crowd cheers. A freed baby dragon lands on Frost's head and refuses to leave. Final frame: Frost with a baby dragon on his head, the crowd cheering in the sunlight.
-DIALOGUE 26–30s: Frost (deep, laughing): "Okay, okay, you can come home with me too."
-SFX: a banner tearing and falling, a cheering crowd, a crown on a pillow, kneeling, laughter, a tiny dragon chirp and flap.
-MUSIC: warm, triumphant, hopeful theme with a playful ending.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Dusk, in front of the cabin, torches.
+0–3s: Little Sarah slips out from behind Hank's legs and walks toward the baby.
+DIALOGUE 1–3s: Hank (panicked): "Sarah! Get back here!"
+3–14s: Baby Frost crawls slowly toward Sarah and holds out the teddy bear to her, very gently. Everyone holds their breath.
+DIALOGUE 7–9s: Sarah (small cute girl voice): "That's... my bear."
+DIALOGUE 9–12s: Frost makes a soft, sweet little coo and pushes the bear into her hands.
+14–22s: Sarah smiles and hugs the teddy bear, then hugs Frost. Frost hugs her back very carefully, as if he knows he's strong.
+DIALOGUE 16–19s: Sarah (giggling): "He's soft! Daddy, he's like a cloud!"
+22–30s: Villagers slowly lower their pitchforks. Some women wipe their eyes. Hank lowers his pitchfork completely.
+DIALOGUE 24–28s: Hank (deep voice, emotional, embarrassed): "Well... I'll be. He brought her bear back."
+Final frame: Lily crying with relief, Sarah and Frost hugging in the torchlight.
+SFX: soft footsteps, baby coo, giggling, pitchforks lowered, crackling torches, quiet sniffles.
+MUSIC: gentle piano, building into warm strings.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 188 - "Mama": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 188 - "The First Roar": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -46,7 +49,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 187 | They offered Frost the crown... he put it on the old maid's head 👑😂 #Bigfoot #Movie #Part187
+Part 187 | They came to hurt him... he gave a little girl her teddy back 🧸🥺 #Bigfoot #Movie #Part187
 
 DOLA STATUS
 [ ] Images uploaded

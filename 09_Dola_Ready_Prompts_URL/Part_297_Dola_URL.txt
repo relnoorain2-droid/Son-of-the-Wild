@@ -1,0 +1,60 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
+
+FROST: Son of the Wild
+PART 297 - "The Brides"
+Punch: TWIST + EMOTION
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: vertical 9:16
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V10_Damian_Battle.png -> Variant Damian_Battle; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V08_Frost_Powered.png -> Variant Frost_Powered; S11_Rose_FULL.png -> Rose.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+The battlefield below the castle, smoke clearing.
+0–3s: Frost sets Damian down. Damian tries to run — and stops. A line of women blocks his way: grown women in simple dresses and farm clothes, holding pitchforks and torches.
+DIALOGUE 1–3s: Prince Damian (confused): "Who... who are you?"
+3–12s: Rose steps forward beside the women.
+DIALOGUE 4–12s: Rose (old British voice, proud): "Some of your brides survived the forest, Your Highness. The kingdom's villages hid them for years. They marched here today too."
+12–22s: One woman steps forward and looks Damian right in the eyes.
+DIALOGUE 14–19s: Former Bride (strong adult American woman's voice): "My name is Emily. You threw me to the wolves. I'm still here."
+DIALOGUE 19–21s: Prince Damian (falling to his knees, crying): "I'm sorry... I'm sorry..."
+22–30s: The women put Damian in the same iron chains the king used for the dragons and lead him away to the castle — to the old bedroom with the names on the wall. Lily watches, tears in her eyes. Final frame: the women walking away with Damian in chains, the sun breaking through the smoke behind them.
+DIALOGUE 27–30s: Lily (soft): "Now he'll read their names every single day."
+SFX: footsteps stopping, torches, wind, chains clicking, Damian sobbing, marching away.
+MUSIC: a powerful, emotional theme of justice with strings and choir.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 298 - "Lightning vs Fire": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+FACEBOOK CAPTION AFTER DOWNLOAD
+Part 297 | The brides he threw to the wolves... came back for him 👰‍♀️⛓️ #Bigfoot #Movie #Part297
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES

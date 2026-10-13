@@ -1,0 +1,62 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
+
+FROST: Son of the Wild
+PART 208 - "Strong Hands, Gentle Heart"
+Punch: EMOTION + FUN
+Status:-assets
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+FORMAT: YOUTUBE 16:9
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s YouTube 16x9
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+YOUTUBE 16:9 FRAMING LOCK:
+Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; L05_River.png -> Location River.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Sunset by the river.
+0–3s: Lily sits down next to Teen Frost and hands him something small: a single chicken egg.
+DIALOGUE 1–3s: Lily (soft, warm): "Hold this. Don't break it."
+3–12s: Frost holds the egg in his giant hand. CRACK — it breaks instantly. Yolk drips. Lily hands him another. Crack. Another. Crack.
+DIALOGUE 7–10s: Teen Frost (frustrated, voice cracking): "See? I can't do anything right!"
+12–22s: Lily takes his huge hand in both of hers.
+DIALOGUE 13–25s: Lily (emotional): "Your father was the strongest creature in the forest. And he once caught a flower falling from a tree without hurting a single petal. He always said: strong hands... gentle heart."
+22–30s: Frost closes his eyes, breathes slowly, and holds a new egg very, very gently. He opens his eyes. The egg is perfect. Then a tiny crack appears on it — and a baby chick pops its head out. Frost gasps with joy. Final frame: the tiny chick sitting in Frost's giant palm, chirping.
+DIALOGUE 27–29s: Teen Frost (whispering, amazed): "Strong hands... gentle heart."
+SFX: river, eggs cracking, frustrated groan, deep breathing, tiny shell crack, chick chirping.
+MUSIC: soft emotional piano, then a sweet magical twinkle with the chick.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 209 - "Lightning": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
+Part 208 | He broke every egg... until he remembered his father's words 🐣🥹 #Bigfoot #Movie #Part208
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES

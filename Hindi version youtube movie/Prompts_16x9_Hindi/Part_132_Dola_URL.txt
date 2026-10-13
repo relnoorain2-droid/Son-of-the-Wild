@@ -1,12 +1,14 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
+K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 132 - "Something to Protect"
-Punch: WOW + EMOTION
-Status: ready - URL PACKAGE
+PART 132 - "Face to Face with a Grizzly"
+Punch: ACTION + CLIFFHANGER
+Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -27,23 +29,24 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V13_Sarah_Adult.png -> Variant Sarah_Adult; S10_Villagers.png -> optional background group, skip unless you want crowd continuity; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; K09_Wolves.png -> Creature Wolves; K08_GrizzlyBear.png -> Creature GrizzlyBear; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Sunset at the Bear Rock meadow. The whole village has come to watch.
-0–3s: Frost stands in front of the Bear Rock once more. Behind him, the entire village stands quietly holding lanterns.
-DIALOGUE 1–4s: Sarah (young woman now, calling out): "You can do it, Frost! We're all here!"
-3–12s: Frost closes his eyes. Quick memory flashes: baby Frost giving Sarah her teddy; the children in the cellar; Martha's sweater; his mother's face.
-DIALOGUE 6–10s: Frost (deep, quiet): "I'm not pushing for me. I'm pushing for them."
-12–22s: He places his hand inside the giant carved handprint. It fits perfectly now. He pushes. The ground shakes. With a deep grinding sound, the Bear Rock moves... an inch... a foot... then rolls slowly across the meadow.
-DIALOGUE 16–19s: Frost (roaring with everything): "FOR CEDAR HOLLOOOOW!"
-22–30s: The rock rolls off the cliff edge and crashes down the mountain. The village explodes in cheers. A glowing blue mark burns itself onto Frost's right forearm like a tattoo, shining. Frost stares at it in wonder. Final frame: the glowing blue mark on his arm, lanterns behind him.
-DIALOGUE 27–29s: Old Joe (smiling, slow raspy voice): "Trial one... complete."
-SFX: lanterns, wind, memory echoes, deep stone grinding, ground rumbling, a huge roar, the rock tumbling, massive crash below, cheering, a magical burning hum.
-MUSIC: emotional build-up to a huge triumphant orchestral and choir climax.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Night, giant misty redwood forest, cold moonlight.
+0–3s: Lily (now in the torn, muddy short version of her dress, barefoot) runs between giant trees, wolves howling close behind.
+DIALOGUE 1–3s: Lily (terrified, out of breath): "Please, please, please..."
+3–12s: Wolves chase her; she climbs over a fallen redwood trunk and slides down a muddy slope into a creek, splashing.
+DIALOGUE 7–11s: NARRATOR (deep cinematic trailer voice): "No bride had ever survived a single night in this forest."
+12–20s: She hides inside a hollow tree, hand over her mouth. The wolves run past... then suddenly stop, whimper and run away in fear.
+DIALOGUE 16–18s: Lily (whispering, confused): "Why did they run away?"
+20–30s: A deep growl behind her. She slowly turns. A huge grizzly bear rises on its hind legs right in front of the hollow tree, roaring in her face, saliva flying. Lily screams and falls back. Final frame: the bear's giant claw swinging down toward her in slow motion... cut to black.
+DIALOGUE 27–29s: Lily (screaming): "NO!"
+SFX: running, wolves howling, mud slide, water splash, heavy breathing, wolves whimpering, deep bear growl, massive roar, scream.
+MUSIC: chase drums, sudden silence at 12s with only heartbeat, then a huge horror hit with the roar.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 133 - "Trial 2: Old Scar": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 133 - "The Shadow Arrives": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

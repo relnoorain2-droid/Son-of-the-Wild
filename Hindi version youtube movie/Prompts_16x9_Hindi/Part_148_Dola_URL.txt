@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C06_ElderOrin_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C06_ElderOrin/C06_ElderOrin_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 148 - "Three Generations"
-Punch: WOW + EMOTION
+PART 148 - "The Rapids"
+Punch: ACTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -28,26 +28,24 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V09_Bruno_Spirit.png -> Variant Bruno_Spirit; C06_ElderOrin_FULL.png -> Elder Orin; V04_Lily_VillageMom.png -> Variant Lily_VillageMom.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; L05_River.png -> Location River.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night at Bruno's grave by the river, the spirits in the sky.
-0–3s: Elder Orin's spirit touches his staff to Bruno's head; a river of blue light flows from grandfather into father.
-DIALOGUE 1–3s: Elder Orin (ancient echoing voice): "From me... to my son."
-3–12s: Bruno's spirit reaches down from the sky and places his giant glowing hand on Frost's chest, over the crescent patch. The blue light pours from father into son.
-DIALOGUE 5–9s: Bruno (spirit voice, deep and warm): "From me... to MY son."
-12–22s: Frost rises into the air, glowing. Electric-blue tattoos spread across his arms, chest and face, connecting the four trial marks into one powerful pattern. His fur shines silver. His eyes blaze blue. Lightning dances around him.
-DIALOGUE 16–20s: Bruno (spirit, proud): "I am proud of you, Frost. Protect them. Always."
-22–30s: Frost lands softly, transformed into his powered form. Bruno's spirit looks down at Lily. She looks up, crying.
-DIALOGUE 24–28s: Bruno (spirit, gentle): "Lily... be happy. Bruno love you. Forever."
-DIALOGUE 28–30s: Lily (whispering, smiling through tears): "Forever."
-Final frame: the spirits fading into the stars; powered Frost and Lily holding hands at the grave.
-SFX: massive magical energy surge, electric crackling, wind, a deep heartbeat, a soft landing, the spirits' echoing voices fading.
-MUSIC: the biggest emotional climax so far: full orchestra and choir with Bruno's love theme.
+Daytime, a wide fast mountain river with white-water rapids and big rocks, a waterfall drop downstream.
+0–3s: Lily slips from a wet rock while picking berries and falls into the rushing river.
+DIALOGUE 1–3s: Lily (screaming): "BRUNO!"
+3–12s: She is swept away by the rapids, crashing between rocks, gasping. Bruno, upstream, drops a basket of fish and sprints along the riverbank, smashing through bushes.
+DIALOGUE 6–8s: Bruno (deep roaring voice, panicked): "LILY! Hold on!"
+12–22s: Ahead, the river drops off a tall waterfall. Lily grabs a thin branch at the very edge; it starts to crack. Bruno pulls up a whole fallen tree trunk and throws it across the river like a bridge.
+DIALOGUE 15–17s: Lily (crying): "I can't hold it!"
+22–30s: The branch snaps; Lily falls — Bruno leaps onto the log and catches her wrist at the last second, hanging over the waterfall edge. He pulls her up into his arms. Final frame: both soaked and breathing hard on the riverbank, Lily clinging to him.
+DIALOGUE 26–29s: Bruno (deep, shaking voice): "Never scare Bruno like that again."
+SFX: slip, splash, roaring rapids, gasping, crashing through bushes, tree trunk ripping from the ground, heavy log impact, branch crack, waterfall roar.
+MUSIC: fast intense action strings and drums, resolving to emotional strings.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 149 - "Lightning on Command": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 149 - "The Storm": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

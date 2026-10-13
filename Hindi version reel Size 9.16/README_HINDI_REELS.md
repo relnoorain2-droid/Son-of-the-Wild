@@ -6,7 +6,7 @@ Use this folder for Hindi vertical Reels/TikTok/Facebook videos.
 
 ## Folder Contents
 
-- `Prompts_9x16_Hindi/` - all 192 Dola-ready prompts for Hindi 9:16 output.
+- `Prompts_9x16_Hindi/` - all 312 Dola-ready prompts for Hindi 9:16 output.
 - `Skill/SKILL.md` - Hindi Reels skill file to upload in Dola.
 - `Production_Docs/` - Hindi output rules.
 

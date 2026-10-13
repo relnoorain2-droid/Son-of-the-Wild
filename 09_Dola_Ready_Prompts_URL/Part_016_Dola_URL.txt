@@ -1,18 +1,22 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
-C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
-V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
+S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S09_Brides/S09_Brides_FULL.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 
 FROST: Son of the Wild
-PART 016 - "The Cave Behind the Waterfall"
-Punch: EMOTION
-Status: ready - URL PACKAGE
+PART 016 - "The Forest Took Her"
+Punch: EXPANDED CUT - FORWARD STORY BEAT
+Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
 
 PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
 EXACT 30-SECOND OUTPUT LOCK:
 This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
 Use active skill: Zakariya Seedance 2 5 30s
@@ -21,42 +25,45 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; L04_BrunoCave.png -> Location BrunoCave.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+VERTICAL 9:16 FRAMING LOCK:
+Compose every shot for a vertical 9:16 reels frame. Keep faces, bodies, action, and title cards centered with safe top and bottom margins. Avoid tiny distant subjects and avoid cutting off heads or full-body action.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-A cozy cave hidden behind a waterfall, moss, wildflowers, a crackling campfire, moonlight shining through the falling water.
-0–3s: Bruno walks through the curtain of water carrying a soaked, shivering Lily, and the hidden cave is revealed, glowing warm orange.
-DIALOGUE 1–3s: Lily (soft amazed whisper): "Wow... you live here?"
-3–14s: Bruno gently sets her down by the fire, crushes green leaves in his huge palm and carefully presses them on her cut foot. She winces, then smiles.
-DIALOGUE 5–8s: Bruno (deep slow warm voice): "Forest medicine. Stop the pain."
-DIALOGUE 9–15s: Lily (soft, emotional): "Nobody has ever been this kind to me. Not even the prince I married this morning."
-14–22s: Bruno wraps a big soft bearskin blanket around her shoulders. They sit by the fire; she looks at his huge hand next to her small one.
-DIALOGUE 16–19s: Lily: "Why did you save me, Bruno?"
-DIALOGUE 19–23s: Bruno (looking at the fire): "Forest is cruel. Bruno... does not have to be."
-22–30s: Bruno stands up and looks out through the waterfall.
-DIALOGUE 24–28s: Bruno (gentle but firm): "Tomorrow, Bruno take you home. Back to your people."
-Final frame: Lily's smile disappears; fear fills her eyes.
-SFX: waterfall roar muffling as they enter, fire crackle, leaves crushing, small wince, wind.
-MUSIC: warm gentle acoustic guitar and soft strings, ending on a worried note.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: L02_KingCastle.png -> reference character/location; C02_KingMagnus_FULL.png -> reference character/location; C03_PrinceDamian_FULL.png -> reference character/location; S08_KingdomGuards_FULL.png -> reference character/location; S09_Brides_FULL.png -> reference character/location; S11_Rose_FULL.png -> reference character/location; L03_DeepForest.png -> reference character/location.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
+Scene: At sunrise the gate is empty except for a fallen flower and carriage tracks.
+0-3s: Start with a strong immediate visual hook connected to the previous part.
+DIALOGUE 1-4s: NARRATOR (deep cinematic American trailer voice): "In Thorne Kingdom, every smile hid a royal secret."
+3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
+DIALOGUE 5-8s: Prince Damian (smooth cold voice): "Do not be afraid. The crown only chooses what belongs to it."
+10-18s: At sunrise the gate is empty except for a fallen flower and carriage tracks.
+DIALOGUE 11-15s: First Bride (frightened young American woman): "Why is everyone looking at me like goodbye?"
+18-24s: Vex reports that the tradition is complete.
+DIALOGUE 19-23s: King Magnus (deep rough commanding voice): "The tradition continues before sunrise."
+24-30s: Build into the hook: King Magnus orders the kingdom bells to ring.
+SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
+MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.
+CAMERA: clear subject framing, expressive faces, one clean action beat, then a strong final hook.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 017 - "I Can't Go Back": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 017 - "The Kingdom Lies": King Magnus orders the kingdom bells to ring. Keep continuity and do not add random new characters.
 
 GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync. No line may be skipped. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16 cinematic frame.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, rural American towns, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+TEXT RULE: On-screen text is allowed only for intentional short cinematic title/location/time cards when this PART asks for it. No subtitles for dialogue. No random text.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no gore, no blood spray, no nudity, no explicit wedding-night content, no restraints, no chains, no forced physical contact, no extra limbs, no face morphing, no character drift.
 
-FACEBOOK CAPTION AFTER DOWNLOAD
-Part 16 | He saved her, healed her... then said "Tomorrow I take you home" 💔 #Bigfoot #Movie #Part16
+FACEBOOK/REELS CAPTION AFTER DOWNLOAD
+Part 16 | The Forest Took Her - the story moves deeper. #Bigfoot #Movie #Part16
 
 DOLA STATUS
-[ ] Images uploaded
+[ ] Images loaded by raw URLs
 [ ] Prompt pasted
 [ ] Video generated
 [ ] Downloaded
 [ ] Needs revision
 
 NOTES
+Expanded 312-part canon. This part must move the story forward and end with suspense unless it is the final part.

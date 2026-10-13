@@ -1,0 +1,62 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
+
+FROST: Son of the Wild
+PART 300 - "On the Dragon's Back"
+Punch: ACTION
+Status:-assets
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+LANGUAGE: HINDI OUTPUT ONLY
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s Hindi Reels 9x16
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: vertical 9:16
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+HINDI OUTPUT LOCK:
+The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; K02_RedDragon.png -> Creature RedDragon.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+CAST NOTE: the Great Red Dragon = three times bigger than any other dragon, dark lava-red scales, horns like a crown, enormous wings.
+On top of the flying Great Red Dragon's back, high above the clouds, strong wind, sunset.
+0–3s: Frost climbs up the dragon's wing onto its back, the wind blasting his fur.
+DIALOGUE 1–4s: Frost (deep, shouting over the wind): "Your crystal, Magnus. GIVE IT BACK!"
+3–12s: King Magnus walks down the dragon's back toward him, holding the staff with both hands; the red crystal glows on top.
+DIALOGUE 5–13s: King Magnus (deep, slow, mocking): "This? Your grandfather was weak. He used it to help animals. I used it to rule them. That's the difference between us."
+12–22s: They fight on the dragon's back: the king swings the staff like a war hammer; each hit blasts red lightning. Frost blocks with his glowing arms; sparks fly everywhere. The king is old but powerful with the crystal; he knocks Frost to his knees.
+DIALOGUE 17–20s: King Magnus (shouting): "Kneel! Like your father knelt!"
+22–30s: The king blasts Frost with a huge red bolt. Frost slides backwards to the very edge of the dragon's back, his feet over the empty sky. Final frame: Frost at the edge, the king raising the staff for the final strike.
+DIALOGUE 27–29s: King Magnus (cold): "Say hello to Bruno."
+SFX: howling wind, wing beats, footsteps on scales, staff swings, red lightning blasts, blocks, a heavy knee impact, sliding claws.
+MUSIC: intense duel music with dark brass and drums.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 301 - "Be Still": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+HINDI REELS CAPTION AFTER DOWNLOAD
+HINDI CAPTION LOCK: Write the final post title/description/caption in Hindi, using Hindi emotion and hashtags. Do not output an English caption.
+भाग 300 | फ्रॉस्ट: जंगल का बेटा - कहानी अब और गहरी होती जा रही है। #बिगफुट #फिल्म #भाग300
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES

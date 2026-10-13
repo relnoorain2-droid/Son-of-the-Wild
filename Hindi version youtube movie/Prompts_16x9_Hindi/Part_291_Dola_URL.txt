@@ -1,0 +1,66 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
+
+FROST: Son of the Wild
+PART 291 - "The Great Red Dragon"
+Punch: WOW + TWIST
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+LANGUAGE: HINDI OUTPUT ONLY
+FORMAT: YOUTUBE 16:9
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s Hindi YouTube 16x9
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+YOUTUBE 16:9 FRAMING LOCK:
+Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
+
+HINDI OUTPUT LOCK:
+The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; S11_Rose_FULL.png -> Rose; K02_RedDragon.png -> Creature RedDragon; L02_KingCastle.png -> Location KingCastle.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+Thorne Castle's highest tower, dark storm clouds gathering, battlefield below.
+0–3s: King Magnus watches his army falling apart. His face twists with rage.
+DIALOGUE 1–3s: King Magnus (deep, furious): "Useless! All of you, USELESS!"
+3–12s: He holds the staff with both hands and slams the red crystal into the stone floor of the tower. The whole castle shakes. A giant crack opens in the castle courtyard; red light pours out of it.
+DIALOGUE 6–11s: King Magnus (shouting a dark spell, echoing): "RISE, Great One! Rise and burn them ALL!"
+12–22s: From under the castle, a gigantic red dragon rises: three times bigger than any dragon before, scales like dark lava, horns like a crown, wings that cover the sun, eyes blazing red. The ground cracks, towers fall.
+DIALOGUE 17–22s: Rose (from the tunnel entrance, horrified): "The Great Red... he's been chained under the castle for a hundred years!"
+22–30s: The Great Red Dragon roars so loud that every fighter on the battlefield, human and animal, freezes and covers their ears. King Magnus climbs onto its head. Final frame: the king standing on the gigantic dragon's head, the sun blocked by its wings.
+DIALOGUE 27–29s: King Magnus (laughing madly): "NOW it ends!"
+SFX: an enraged shout, crystal slam, a castle-shaking quake, a ground crack, a deep red magical roar, collapsing towers, giant wing beats, a world-shaking dragon roar.
+MUSIC: terrifying epic choir and orchestra, the biggest dark theme in the movie.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 292 - "Burn Them All": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+HINDI YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
+HINDI CAPTION LOCK: Write the final post title/description/caption in Hindi, using Hindi emotion and hashtags. Do not output an English caption.
+भाग 291 | फ्रॉस्ट: जंगल का बेटा - कहानी अब और गहरी होती जा रही है। #बिगफुट #फिल्म #भाग291
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES

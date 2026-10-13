@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L01_LilyHouse.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L01_LilyHouse/L01_LilyHouse.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V14_Grace_Older.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V14_Grace_Older/V14_Grace_Older.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 
 FROST: Son of the Wild
-PART 188 - "Mama"
-Punch: EMOTION (BIGGEST)
-Status:-assets
+PART 188 - "The First Roar"
+Punch: ACTION + WOW + TWIST
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,26 +21,27 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V14_Grace_Older.png -> Variant Grace_Older; L01_LilyHouse.png -> Location LilyHouse.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V05_Frost_Baby.png -> Variant Frost_Baby; S06_SarahMiller_FULL.png -> Sarah Miller; S03_HankMiller_FULL.png -> Hank Miller; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Evening, Millbrook, Oregon: Lily's old small wooden house with peeling white paint and the rusty mailbox. Golden sunset light.
-0–4s: Lily walks slowly up the old dusty path. Through the kitchen window she sees the small blue wildflower she secretly left in the mailbox, now standing in a little glass of water on the table.
-DIALOGUE 1–4s: Lily (whispering, shaking): "She found it... okay. You can do this."
-4–12s: She knocks. Footsteps. The door opens slowly. Grace — her mother, now older, with white hair in a bun, a wooden cane and the same faded apron — stands there and freezes.
-DIALOGUE 7–9s: Grace (old, trembling, caring voice): "...Lily?"
-DIALOGUE 9–12s: Lily (crying): "Hi, Mama. I'm home."
-12–22s: Grace drops her cane and holds Lily's face with both shaking hands, touching her cheeks and her hair as if she can't believe it.
-DIALOGUE 13–17s: Grace (sobbing): "Every single night I set a plate for you. Every night."
-DIALOGUE 17–21s: Grace (crying and smiling): "And look at you... you haven't changed at all."
-22–30s: Mother and daughter hug in the doorway, both crying, holding each other tightly. Final frame: through the kitchen window behind them, two plates on the table and the little blue flower in its glass.
-DIALOGUE 25–29s: Lily (crying into her shoulder): "I know, Mama. I saw the plate."
-SFX: footsteps on the dusty path, a soft knock, a door creak, a cane falling, sobbing, birds at sunset.
-MUSIC: the most emotional piano and string theme of the movie.
+CAST NOTE: Tommy = a cheerful boy (10–14), messy brown hair, freckles, red cap.
+Dusk at the forest edge near the cabin, torches.
+0–3s: From a tree branch above, a mountain lion leaps down toward little Sarah.
+DIALOGUE 1–3s: Hank (screaming): "SARAH!"
+3–12s: Slow motion: before anyone can move, baby Frost jumps in front of Sarah and lets out a ROAR — not a squeak this time, but a deep powerful roar. For one second his blue eyes glow and tiny blue sparks crackle in his fur.
+12–20s: The mountain lion freezes mid-air, lands, and runs away in terror into the forest. Everyone stares, stunned. Frost sits down, sneezes, and looks proud.
+DIALOGUE 14–17s: Tommy (shocked young boy): "Whoa... he SAVED her!"
+DIALOGUE 17–19s: Sarah (hugging him): "My hero!"
+20–30s: The crowd erupts in cheers. Hank kneels down and gently pats Frost's head.
+DIALOGUE 22–25s: Hank (deep friendly voice, smiling): "Welcome to Cedar Hollow, little fella."
+In the back, Old Joe leans on his stick, staring at the fading blue sparks.
+DIALOGUE 27–30s: Old Joe (slow raspy wise voice, whispering): "Blue fire... the blood of Orin is awake."
+Final frame: close-up of Old Joe's serious eyes.
+SFX: mountain lion screech, slow-motion whoosh, powerful roar, electric crackle, big cat running away, cheers, sneeze.
+MUSIC: epic heroic swell, then a happy cheer moment, ending on a mysterious magical tone.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 189 - "Meet Your Grandson": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 189 - "Cannonball!": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -48,7 +50,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 188 | After all these years... "Hi, Mama. I'm home." 😭😭😭 #Bigfoot #Movie #Part188
+Part 188 | Baby Frost's first REAL roar ⚡🦁 The whole village saw it! #Bigfoot #Movie #Part188
 
 DOLA STATUS
 [ ] Images uploaded

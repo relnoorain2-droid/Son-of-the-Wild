@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V14_Grace_Older.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V14_Grace_Older/V14_Grace_Older.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
 FROST: Son of the Wild
-PART 191 - "You and Me and the Wild"
-Punch: EMOTION + WOW
-Status:-assets
+PART 191 - "Home Run"
+Punch: FUN + WOW
+Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -27,29 +28,25 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V14_Grace_Older.png -> Variant Grace_Older; S10_Villagers.png -> optional background group, skip unless you want crowd continuity.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; S05_TommyMiller_FULL.png -> Tommy Miller; S03_HankMiller_FULL.png -> Hank Miller; L07_Village.png -> Location Village.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night at the celebration, string lights, a big bonfire, the stars above, a fiddle player on the stage.
-0–3s: Lily steps onto the stage. The crowd goes quiet. She looks at Frost.
-DIALOGUE 0–3s: Lily (soft, emotional): "I wrote this song... for Frost's father."
-3–27s: Lily SINGS, lip-synced, soft country-folk; then the whole crowd joins in; Frost hums deep and a little off-key, exactly like his father did:
-  3–10s: Lily sings: "No castle walls, no golden crown, just a river song and the stars come down."
-  — Shots: Grace holding Martha's hand; Rose with her too-big crown; the brides smiling.
-  10–20s: Everyone sings: "It's you and me and the wild, running free like a child..."
-  — Shots: Frost dancing his clumsy stomp, kids and bear cubs dancing around him; dragons swaying their heads to the music.
-  20–27s: Everyone sings: "...no one can find us here, you and me and the wild."
-  — Shots: Frost lifting Lily onto his shoulder, exactly like Bruno did in the meadow years ago.
-27–30s: Lily, on Frost's shoulder, looks up at the stars, tears in her eyes, smiling.
-DIALOGUE 27–30s: Lily (whispering): "He sings as badly as you did, Bruno."
-DIALOGUE 8-11s: Frost (deep emotional voice): "Mama... can I sing it too?"
-DIALOGUE 16-20s: Villagers (warm crowd voices, singing): "You and me and the wild!"
-SFX: bonfire, crowd singing, Frost's deep off-key humming, stomping, laughter.
-MUSIC: the full version of Song 1 with fiddle, guitar and a big warm crowd choir.
+Sunny afternoon, a dusty small-town baseball field in Cedar Hollow, wooden bleachers full of villagers, an American flag on a pole.
+0–3s: Kid Frost holds a wooden baseball bat that looks like a toothpick in his huge hands.
+DIALOGUE 1–3s: Hank (as umpire, deep rural voice): "Batter up!"
+3–12s: Tommy pitches. Frost swings — CRACK! The ball flies straight up into the sky and disappears into the clouds. Everyone looks up, waiting.
+DIALOGUE 7–10s: Tommy (shocked young boy): "Where... where did it go?"
+DIALOGUE 10–12s: Kid Frost (nervous): "Um... space?"
+12–22s: Quick comedic cut: the crowd still looking up, eating popcorn. Martha falls asleep. A dog lies down. The sun moves across the sky.
+DIALOGUE 17–20s: NARRATOR (deep trailer voice, deadpan): "Two hours later..."
+22–30s: The ball finally falls from the sky and lands right in Frost's hand. The crowd goes wild.
+DIALOGUE 25–30s: Hank (laughing): "I don't know if that's a home run or a moon landing!"
+Final frame: villagers lifting Frost (with a lot of effort) and cheering.
+SFX: bat crack, whistle of the ball flying away, crickets, popcorn crunching, snoring, falling whistle, catch thump, cheering crowd.
+MUSIC: classic American ballpark organ tune, then triumphant brass.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 192 - "Home": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 192 - "The Bear Whisperer": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

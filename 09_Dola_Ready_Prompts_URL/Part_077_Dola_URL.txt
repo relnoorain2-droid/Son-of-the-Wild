@@ -1,18 +1,22 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
 S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
 
 FROST: Son of the Wild
-PART 077 - "Thanksgiving"
-Punch: EMOTION + FUN
-Status: ready - URL PACKAGE
+PART 077 - "Grace In A Dream"
+Punch: EXPANDED CUT - FORWARD STORY BEAT
+Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
 
 PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
 EXACT 30-SECOND OUTPUT LOCK:
 This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
 Use active skill: Zakariya Seedance 2 5 30s
@@ -21,41 +25,45 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V06_Frost_Kid.png -> Variant Frost_Kid; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S03_HankMiller_FULL.png -> Hank Miller; S02_MarthaHayes_FULL.png -> Martha Hayes.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+VERTICAL 9:16 FRAMING LOCK:
+Compose every shot for a vertical 9:16 reels frame. Keep faces, bodies, action, and title cards centered with safe top and bottom margins. Avoid tiny distant subjects and avoid cutting off heads or full-body action.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-CAST NOTE: Tommy = a cheerful boy (10–14), messy brown hair, freckles, red cap.
-Autumn evening, a long outdoor Thanksgiving table in Cedar Hollow under string lights, orange leaves, a big roast turkey, pies, pumpkins.
-0–3s: Kid Frost carries the entire long wooden table, fully set with food, over his head into place.
-DIALOGUE 1–3s: Martha (warm Southern voice): "Careful with my pies, sweetie!"
-3–12s: Everyone sits. Frost sits on the ground and he's still the tallest at the table. He grabs a turkey leg that is bigger than Tommy's head.
-DIALOGUE 6–9s: Tommy (excited): "Frost gets the WHOLE turkey?"
-DIALOGUE 9–13s: Kid Frost (grinning): "Just the legs. And the wings. And the middle."
-12–22s: Hank stands up and raises his glass of apple cider.
-DIALOGUE 13–23s: Hank (deep rural voice, emotional): "Two years ago, we came to Lily's door with torches. Today... I'm thankful we were wrong. To Frost — the best neighbor this town ever had."
-22–30s: The whole village cheers "To Frost!" Frost gets shy and covers his face with his huge hands. Lily wipes a tear. Final frame: the whole town around the table, warm lights, laughter.
-DIALOGUE 26–29s: Lily (soft, to herself): "Look, Bruno. He has a family."
-SFX: table thump, plates clinking, cheering, glasses toasting, laughter, autumn wind.
-MUSIC: warm, emotional Americana with acoustic guitar and soft strings.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: V03_Lily_Pregnant.png -> reference character/location; V04_Lily_VillageMom.png -> reference character/location; L06_AbandonedCabin.png -> reference character/location; L07_Village.png -> reference character/location; S02_MarthaHayes_FULL.png -> reference character/location; S03_HankMiller_FULL.png -> reference character/location; S04_OldJoeWhitaker_FULL.png -> reference character/location.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
+Scene: Lily dreams of her mother Grace telling her to keep going.
+0-3s: Start with a strong immediate visual hook connected to the previous part.
+DIALOGUE 1-4s: NARRATOR (sad cinematic voice): "Far from Bruno, Lily had to survive for the child he saved."
+3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
+DIALOGUE 5-8s: Lily (weak but determined): "I am still here, little one. We are still here."
+10-18s: Lily dreams of her mother Grace telling her to keep going.
+DIALOGUE 11-15s: Martha (warm older woman): "You look like you walked out of a nightmare, honey."
+18-24s: She wakes crying but stronger.
+DIALOGUE 19-23s: Lily (guarded whisper): "My husband is gone. Please... that is all I can say."
+24-30s: Build into the hook: Thunder rolls as labor pains begin.
+SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
+MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.
+CAMERA: clear subject framing, expressive faces, one clean action beat, then a strong final hook.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 078 - "Thin Ice": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 078 - "No One Must Know": Thunder rolls as labor pains begin. Keep continuity and do not add random new characters.
 
 GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync. No line may be skipped. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16 cinematic frame.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, rural American towns, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+TEXT RULE: On-screen text is allowed only for intentional short cinematic title/location/time cards when this PART asks for it. No subtitles for dialogue. No random text.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no gore, no blood spray, no nudity, no explicit wedding-night content, no restraints, no chains, no forced physical contact, no extra limbs, no face morphing, no character drift.
 
-FACEBOOK CAPTION AFTER DOWNLOAD
-Part 77 | "Two years ago we came with torches... today I'm thankful we were wrong." 🦃🥹 #Bigfoot #Movie #Part77
+FACEBOOK/REELS CAPTION AFTER DOWNLOAD
+Part 77 | Grace In A Dream - the story moves deeper. #Bigfoot #Movie #Part77
 
 DOLA STATUS
-[ ] Images uploaded
+[ ] Images loaded by raw URLs
 [ ] Prompt pasted
 [ ] Video generated
 [ ] Downloaded
 [ ] Needs revision
 
 NOTES
+Expanded 312-part canon. This part must move the story forward and end with suspense unless it is the final part.

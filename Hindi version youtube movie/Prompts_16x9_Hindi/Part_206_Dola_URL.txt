@@ -1,0 +1,68 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
+
+FROST: Son of the Wild
+PART 206 - "Doorway Problem"
+Punch: TEEN COMEDY
+Status: ready - EXTENDED CANON URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+LANGUAGE: HINDI OUTPUT ONLY
+FORMAT: YOUTUBE 16:9
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s Hindi YouTube 16x9
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+YOUTUBE 16:9 FRAMING LOCK:
+Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
+
+HINDI OUTPUT LOCK:
+The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
+CHARACTER LOCK: Keep teen Frost, Lily, Tommy, and Cedar Hollow exactly identical to attached references.
+LILY LOOK LOCK: Lily remains young-looking and beautiful, not older.
+
+Scene: Cedar Hollow schoolhouse porch, sunny afternoon, wooden doorway, kids watching from a safe distance.
+0-5s: Teen Frost tries to enter the schoolhouse sideways. His shoulders get stuck in the doorway.
+DIALOGUE 1-4s: Tommy (teen voice, laughing): "Frost, the door did not shrink. You grew again."
+5-12s: Frost tries to smile, embarrassed. Lily arrives carrying books and gives him a look.
+DIALOGUE 6-9s: Lily (firm mother voice): "Please tell me you did not break another building."
+DIALOGUE 9-12s: Frost (awkward): "Technically... building holding me."
+12-20s: Kids laugh. Frost looks hurt and angry for a moment, then takes a breath.
+DIALOGUE 13-17s: Lily (soft warning): "Gentle heart, remember?"
+DIALOGUE 17-20s: Frost (calming): "Gentle heart."
+20-27s: Frost carefully removes the door frame without breaking it, steps inside, then holds it back in place.
+27-30s: Everyone claps. Tommy pins a handmade sign beside the door reading only rough marks, not readable. Final frame: Frost ducking proudly.
+DIALOGUE 27-30s: Tommy: "New rule: Frost uses the barn door."
+SFX: wood creak, kids laughing, careful lifting, applause.
+MUSIC: playful teen comedy with warm community tone.
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 207 - "I Break Everything": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested, and every visible word must be Hindi Devanagari only.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+HINDI YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
+HINDI CAPTION LOCK: Write the final post title/description/caption in Hindi, using Hindi emotion and hashtags. Do not output an English caption.
+भाग 206 | फ्रॉस्ट: जंगल का बेटा - कहानी अब और गहरी होती जा रही है। #बिगफुट #फिल्म #भाग206
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+Inserted after old Part 78 for teenage comedy and anger control.

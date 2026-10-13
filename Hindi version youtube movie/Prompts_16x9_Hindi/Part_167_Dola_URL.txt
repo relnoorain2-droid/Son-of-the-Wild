@@ -1,12 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 
 FROST: Son of the Wild
-PART 167 - "Red Lightning"
-Punch: ACTION + CLIFFHANGER
+PART 167 - "Alive"
+Punch: FUN + EMOTION
 Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
@@ -28,25 +27,25 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K01_DarkBigfoot.png -> Creature DarkBigfoot.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; L05_River.png -> Location River; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-The battlefield, Thorne Castle's highest tower above.
-0–3s: On the highest tower, King Magnus raises his staff. The red crystal glows brighter than ever.
-DIALOGUE 1–3s: King Magnus (deep, menacing): "Enough games, boy."
-3–12s: A huge bolt of RED lightning shoots from the tower and hits Frost in the chest. He is thrown back across the battlefield and crashes into the ground, leaving a long trench.
-DIALOGUE 6–8s: Lily (screaming from the battlefield): "FROST!"
-12–22s: Frost tries to stand. His blue tattoos flicker on and off. The red magic crawls over his fur like chains. Dark Bigfoots that ran away come back and pile on top of him, holding him down.
-DIALOGUE 16–20s: Frost (deep, weak, straining): "My power... it's fighting me..."
-22–30s: King Magnus laughs from the tower, his voice echoing over the whole battlefield.
-DIALOGUE 24–29s: King Magnus (booming): "Your grandfather's crystal... killing his own grandson! How poetic!"
-Final frame: Frost buried under dark Bigfoots, only his flickering blue hand visible.
-SFX: crystal charging hum, a huge red lightning crack, a body thrown, a crash and dirt explosion, flickering electricity, heavy bodies piling on, the king's echoing laugh.
-MUSIC: dark, desperate orchestra, choir hitting a low note.
+Early morning, a calm river bank covered in mist, pine forest, soft golden light.
+0–3s: Close-up of Lily (pregnant, around 6 months, blonde, blue eyes) lying unconscious on the pebbles. A big moose lowers its head and licks her face. Her eyes snap open.
+DIALOGUE 1–3s: Lily (soft young Hindi-dubbed woman, startled): "Ahh! What—?!"
+3–10s: The moose snorts at her, unimpressed, and slowly walks away. Lily sits up, confused, wet and shivering, then laughs weakly.
+DIALOGUE 5–8s: Lily (breathless laugh): "Okay... okay, I'm alive. Thank you, Mr. Moose."
+10–22s: She remembers. Her smile disappears. She looks back at the river and the distant smoke on the horizon.
+DIALOGUE 12–16s: Lily (whispering, breaking down): "Bruno... you said we'd go together."
+DIALOGUE 17–21s: She puts both hands on her belly, crying: "It's just you and me now, little one."
+22–30s: She feels a kick, gasps, and smiles through her tears. Final frame: Lily standing up slowly on the riverbank, looking downstream where a thin line of chimney smoke rises over the trees.
+DIALOGUE 25–28s: Lily (soft, determined): "Then we keep going. For your papa."
+SFX: calm river, birds, moose snort and heavy footsteps, crying, a soft heartbeat, wind.
+MUSIC: soft sad piano, turning hopeful at the end.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 168 - "Get Up, Frost": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 168 - "The Empty Cabin": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

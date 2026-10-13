@@ -1,13 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
+V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 150 - "He Can Fly?!"
-Punch: WOW + FUN
-Status: ready - URL PACKAGE
+PART 150 - "Do Not Scare Me Like That"
+Punch: ANGER + MAKEUP
+Status: ready - EXTENDED CANON URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -20,33 +19,34 @@ Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+CHARACTER LOCK: Keep Lily and Bruno exactly identical to the attached references.
+LILY LOOK LOCK: Lily always looks 22-24 years old, young, beautiful, blue eyes, honey-blonde hair.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V13_Sarah_Adult.png -> Variant Sarah_Adult; S02_MarthaHayes_FULL.png -> Martha Hayes; L07_Village.png -> Location Village.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
-
-Daytime above the redwood forest, then Cedar Hollow main street.
-0–3s: Powered Frost crouches on a cliff and jumps. Instead of falling, he flies forward through the air in a giant leap, blue energy trailing behind him like a comet.
-DIALOGUE 1–3s: Frost (deep, laughing with joy): "WHOOOAAA!"
-3–12s: He soars over the treetops, over a waterfall, past a flock of geese (one goose stares at him in shock), over the river.
-DIALOGUE 7–10s: Frost (deep, amazed): "Dad, are you seeing this?!"
-12–22s: In Cedar Hollow, Martha is hanging laundry. A shadow passes over her. She looks up, squints, and adjusts her glasses.
-DIALOGUE 16–20s: Martha (warm Southern voice): "Is that an eagle? A hot-air balloon? ...Is that FROST?"
-22–30s: Frost lands in the middle of Main Street with a huge BOOM; a ring of dust and wind blows all of Martha's laundry away. Grown-up Sarah runs up laughing. Final frame: a pair of Hank's underwear landing on Frost's head.
-DIALOGUE 26–29s: Martha (hands on hips): "Young man, you are picking up every sock."
-SFX: a jump whoosh, rushing wind, joyful shout, geese honking, laundry flapping, a huge landing boom, dust whoosh, laughter.
-MUSIC: soaring, joyful adventure theme, ending with a comedic sting.
-
+Scene: Night after a violent storm, Bruno's cave entrance, wet rocks, dripping trees, thunder fading.
+0-5s: Lily wakes and sees Bruno missing. She runs to the cave entrance, frightened.
+DIALOGUE 1-4s: Lily (calling, scared): "Bruno? Bruno!"
+5-12s: Bruno returns carrying a huge fallen log over his shoulder, soaked but calm. He used it to block floodwater from entering the cave.
+DIALOGUE 6-10s: Bruno (gentle): "Water coming. Bruno stop it."
+12-20s: Lily slaps his huge arm with both hands, more scared than angry. Bruno looks confused and guilty.
+DIALOGUE 12-17s: Lily (angry, crying): "Do not disappear in a storm! I thought I lost you!"
+DIALOGUE 17-20s: Bruno (soft): "Bruno sorry. Bruno forget Lily worries."
+20-27s: Lily turns away, upset. Bruno sits in the rain outside the cave like he has punished himself. Lily sighs and comes back with a blanket.
+DIALOGUE 22-26s: Lily (softening): "Come inside, you giant fool."
+27-30s: Bruno bows his head; Lily wraps the tiny blanket around one massive shoulder. Final frame: both laughing through tears.
+DIALOGUE 27-30s: Bruno (warm): "Lily angry means Lily care."
+SFX: dripping cave, distant thunder, heavy log drop, rain, soft crying, relieved laughter.
+MUSIC: tense strings easing into tender piano.
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 151 - "Unbreakable": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 151 - "Under the Stars": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
 SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
-
+TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 150 | Is it an eagle? A balloon? No... it's FROST 😂🦸 #Bigfoot #Movie #Part150
+Part 150 | Lily got angry because Bruno disappeared in the storm... then forgave him. #Bigfoot #Movie #Part150
 
 DOLA STATUS
 [ ] Images uploaded
@@ -56,3 +56,4 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
+Inserted after old Part 27 to add emotional anger and reconciliation.

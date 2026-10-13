@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
-K10_MountainLion.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K10_MountainLion/K10_MountainLion.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
+V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 136 - "King of the Wild"
-Punch: WOW
+PART 136 - "The Cave Behind the Waterfall"
+Punch: EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -24,24 +24,27 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; K09_Wolves.png -> Creature Wolves; K10_MountainLion.png -> Creature MountainLion.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; L04_BrunoCave.png -> Location BrunoCave.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
-The Deep Wild, sunrise, golden light through the giant trees.
-0–3s: Old Scar slowly walks up to Frost, lowers his giant head, and touches his forehead to Frost's chest.
-DIALOGUE 1–3s: Frost (deep whisper, amazed): "...Thank you."
-3–14s: All around them, the animals of the Deep Wild step out of the fog: wolves, mountain lions, elk with huge antlers, bison, a bald eagle landing on a branch. One by one, they all bow their heads to Frost.
-DIALOGUE 7–11s: NARRATOR (deep cinematic Hindi trailer voice): "The wild does not follow the strongest... it follows the kindest."
-14–22s: A burning blue light runs down Frost's LEFT forearm and forms a second glowing mark, matching the first. He holds both arms up, staring.
-DIALOGUE 17–19s: Frost (deep, emotional): "Two."
-22–30s: Frost walks out of the Deep Wild. Old Scar walks beside him like a giant dog, the three cubs riding on his back, and the animals follow. Old Joe is waiting at the edge of the forest; his jaw drops. Final frame: Frost leading a parade of wild animals out of the forest.
-DIALOGUE 26–29s: Old Joe (slow raspy voice, smiling): "Trial two... complete. Show-off."
-SFX: soft bear breathing, animal footsteps, wolves, an eagle screech, a magical burning hum, heavy paws, cubs squeaking.
-MUSIC: majestic, emotional orchestra with choir.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+A cozy cave hidden behind a waterfall, moss, wildflowers, a crackling campfire, moonlight shining through the falling water.
+0–3s: Bruno walks through the curtain of water carrying a soaked, shivering Lily, and the hidden cave is revealed, glowing warm orange.
+DIALOGUE 1–3s: Lily (soft amazed whisper): "Wow... you live here?"
+3–14s: Bruno gently sets her down by the fire, crushes green leaves in his huge palm and carefully presses them on her cut foot. She winces, then smiles.
+DIALOGUE 5–8s: Bruno (deep slow warm voice): "Forest medicine. Stop the pain."
+DIALOGUE 9–15s: Lily (soft, emotional): "Nobody has ever been this kind to me. Not even the prince I married this morning."
+14–22s: Bruno wraps a big soft bearskin blanket around her shoulders. They sit by the fire; she looks at his huge hand next to her small one.
+DIALOGUE 16–19s: Lily: "Why did you save me, Bruno?"
+DIALOGUE 19–23s: Bruno (looking at the fire): "Forest is cruel. Bruno... does not have to be."
+22–30s: Bruno stands up and looks out through the waterfall.
+DIALOGUE 24–28s: Bruno (gentle but firm): "Tomorrow, Bruno take you home. Back to your people."
+Final frame: Lily's smile disappears; fear fills her eyes.
+SFX: waterfall roar muffling as they enter, fire crackle, leaves crushing, small wince, wind.
+MUSIC: warm gentle acoustic guitar and soft strings, ending on a worried note.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 137 - "Trial 3: Thunder Peak": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 137 - "I Can't Go Back": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

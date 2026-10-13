@@ -1,72 +1,72 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S09_Brides/S09_Brides_FULL.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 
 FROST: Son of the Wild
-PART 006 - "The Monthly Bride"
-Punch: TWIST
-Status: ready - CANON SAFE DOLA VERSION
+PART 006 - "A Perfect Husband"
+Punch: EXPANDED CUT - FORWARD STORY BEAT
+Status: ready - EXPANDED CANON PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
 
 PROMPT TO PASTE IN DOLA
 LANGUAGE: HINDI OUTPUT ONLY
+HINDI OUTPUT LOCK:
+The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, title card, place card, and visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Keep proper names such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain as names.
 FORMAT: YOUTUBE 16:9
 EXACT 30-SECOND OUTPUT LOCK:
 This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
 Use active skill: Zakariya Seedance 2 5 30s Hindi YouTube 16x9
 Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
+Aspect ratio: widescreen 16:9
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-HINDI OUTPUT LOCK:
-The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: C01_Lily_FULL.png -> Lily Carter; C02_KingMagnus_FULL.png -> King Magnus; C03_PrinceDamian_FULL.png -> Prince Damian; S09_Brides_FULL.png -> background adult candidates only; S11_Rose_FULL.png -> Rose.
-LILY LOOK LOCK: Lily is a 22-year-old poor Hindi-dubbed woman, young, innocent, beautiful, soft fair face, big blue eyes, honey-blonde hair.
-
-Scene: A giant candle-lit Western dark-fantasy throne hall hidden in a Pacific Northwest forest, red banners, stone pillars, warm torchlight, royal guards in the background. Grace is not in the castle; Lily stands alone.
-0-3s: King Magnus taps his staff on the stone floor. The hall falls silent.
-DIALOGUE 1-3s: King Magnus (deep rough commanding Hindi voice): "The monthly royal tradition begins."
-3-10s: Lily, poor and nervous in a simple light-blue dress, stands with several nervous adult candidates. Prince Damian enters in a black velvet royal coat, smiling like he already knows the ending.
-DIALOGUE 5-9s: NARRATOR (deep cinematic Hindi trailer voice): "Every month, the prince chose one bride... and the kingdom never asked where the last one went."
-10-18s: Prince Damian walks past the candidates, bored, then stops when Lily bravely lifts her eyes instead of looking down.
-DIALOGUE 12-15s: Prince Damian (smooth arrogant voice): "You. What is your name?"
-DIALOGUE 15-17s: Lily (soft but brave): "Lily Carter."
-18-24s: Damian turns to the king with a cold smirk and gestures toward Lily, without touching her.
-DIALOGUE 19-22s: Prince Damian: "Father... I choose Lily."
-24-30s: King Magnus smiles mysteriously. Behind a stone column, Rose watches Lily with fear, as if she knows the forest secret. Final frame: Rose's worried eyes looking at Lily.
-DIALOGUE 25-29s: Rose (old nervous whisper): "Poor child... she does not know about the forest."
-SFX: staff tap echo, torch crackle, quiet crowd murmur, soft footsteps on stone.
-MUSIC: dark tense cello, low drums, mysterious sting at Rose's final whisper.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: L02_KingCastle.png -> reference character/location; C02_KingMagnus_FULL.png -> reference character/location; C03_PrinceDamian_FULL.png -> reference character/location; S08_KingdomGuards_FULL.png -> reference character/location; S09_Brides_FULL.png -> reference character/location; S11_Rose_FULL.png -> reference character/location; L03_DeepForest.png -> reference character/location.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
+Scene: After the wedding, Damian brings the bride to a rich dining hall and serves her with soft manners.
+0-3s: Start with a strong immediate visual hook connected to the previous part.
+DIALOGUE 1-4s: NARRATOR (deep cinematic American trailer voice): "In Thorne Kingdom, every smile hid a royal secret."
+3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
+DIALOGUE 5-8s: Prince Damian (smooth cold voice): "Do not be afraid. The crown only chooses what belongs to it."
+10-18s: After the wedding, Damian brings the bride to a rich dining hall and serves her with soft manners.
+DIALOGUE 11-15s: First Bride (frightened young American woman): "Why is everyone looking at me like goodbye?"
+18-24s: When she looks away, his smile disappears for one cold second.
+DIALOGUE 19-23s: King Magnus (deep rough commanding voice): "The tradition continues before sunrise."
+24-30s: Build into the hook: A maid drops a cup in fear.
+SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
+MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.
+CAMERA: clear subject framing, expressive faces, one clean action beat, then a strong final hook.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 007 - "The Warning": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 007 - "The Royal Toast": A maid drops a cup in fear. Keep continuity and do not add random new characters.
 
 GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani. No line may be skipped. Dialogue must stay louder than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin and hair, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
-SETTING: Fully American / Western. Pacific Northwest USA forest kingdom, Western dark-fantasy castle, American people and clothing. No Asian elements.
-TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested, and every visible word must be Hindi Devanagari only.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood, no explicit harm, no restraints, no chains, no forced physical contact, no nudity.
+AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync. No line may be skipped. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic frame.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, rural American towns, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+TEXT RULE: On-screen text is allowed only for intentional short cinematic title/location/time cards when this PART asks for it. No subtitles for dialogue. No random text.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no gore, no blood spray, no nudity, no explicit wedding-night content, no restraints, no chains, no forced physical contact, no extra limbs, no face morphing, no character drift.
 
 HINDI YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-HINDI CAPTION LOCK: Write the final post title/description/caption in Hindi, using Hindi emotion and hashtags. Do not output an English caption.
-भाग 6 | फ्रॉस्ट: जंगल का बेटा - कहानी अब और गहरी होती जा रही है। #बिगफुट #फिल्म #भाग6
+भाग 6 | कहानी आगे बढ़ती है: A Perfect Husband #बिगफुट #फिल्म #भाग6
 
 DOLA STATUS
-[ ] Images uploaded
+[ ] Images loaded by raw URLs
 [ ] Prompt pasted
 [ ] Video generated
 [ ] Downloaded
 [ ] Needs revision
 
 NOTES
-Corrected continuity: Grace is not present in the throne hall.
+Expanded 312-part canon. This part must move the story forward and end with suspense unless it is the final part.

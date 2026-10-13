@@ -1,11 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+C04_Bruno_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FACE.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
+V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 137 - "Trial 3: Thunder Peak"
-Punch: WOW + EMOTION
+PART 137 - "I Can't Go Back"
+Punch: EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,25 +22,27 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; C04_Bruno_FACE.png -> Bruno; L04_BrunoCave.png -> Location BrunoCave.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Afternoon at the foot of Thunder Peak: a black, jagged mountain whose top is always covered by a giant spinning storm cloud with constant lightning.
-0–3s: Wide shot: Thunder Peak, lightning striking its summit again and again. Frost, Lily and Old Joe stand small at its base.
-DIALOGUE 1–6s: Old Joe (slow raspy voice): "Thunder Peak. Climb to the top. Touch the lightning... and survive it."
-3–12s: Lily grabs Frost's hand. She is scared.
-DIALOGUE 6–11s: Lily (soft, shaking): "Frost, please. You've already done two. You don't have to do this one."
-DIALOGUE 11–14s: Frost (deep, gentle): "Yes I do, Mom. For Dad."
-12–22s: Lily takes the small framed flower from her coat and tucks it into the fur on Frost's chest, near the crescent patch.
-DIALOGUE 15–19s: Lily (crying): "Then take your father with you."
-22–30s: Frost hugs her, turns, and starts climbing. Lightning flashes. Lily watches him get smaller and smaller on the black rock. Final frame: tiny Frost on the giant mountain, lightning striking above him.
-DIALOGUE 26–29s: Lily (whispering, praying): "Bruno... watch over our boy."
-SFX: constant thunder, wind howling, lightning cracks, rocks, crying, climbing.
-MUSIC: epic, ominous, mountain-sized orchestral theme.
+Night inside the waterfall cave, campfire light.
+0–3s: Lily grabs Bruno's huge finger with both hands, tears falling.
+DIALOGUE 0–3s: Lily (soft young American woman, crying): "No, Bruno, please! I can't go back!"
+3–14s: Close-up on Lily, desperate and emotional.
+DIALOGUE 4–12s: Lily: "If I go home, the king's soldiers will find me. If they find me, they'll kill me... and maybe my mother too."
+DIALOGUE 12–17s: Lily: "I ran away from my own wedding. There is no home for me anymore."
+14–22s: Bruno looks at her for a long moment. His eyes become wet. He slowly kneels down.
+DIALOGUE 17–19s: Bruno (deep slow voice, soft): "King... hurt you?"
+DIALOGUE 19–22s: Lily (nodding, whispering): "He throws girls like me to the beasts."
+22–30s: Bruno gently wipes a tear from her cheek with one huge fingertip.
+DIALOGUE 23–27s: Bruno (deep warm gravelly voice, a promise): "Then stay. Here, nobody hurts you. Bruno promise."
+Final frame: Lily hugs his giant arm; Bruno looks out at the dark forest, protective.
+SFX: crying, fire crackling, waterfall in the background, soft breathing.
+MUSIC: emotional piano and cello theme, rising softly at the promise.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 138 - "The Climb": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 138 - "Bigfoot Breakfast": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -47,7 +51,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 137 | Trial 3: climb Thunder Peak and touch the lightning ⚡⛰️ #Bigfoot #Movie #Part137
+Part 137 | "Stay. Here, nobody hurts you. Bruno promise." 🥺❤️ #Bigfoot #Movie #Part137
 
 DOLA STATUS
 [ ] Images uploaded

@@ -1,12 +1,10 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
-K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 
 FROST: Son of the Wild
-PART 168 - "Get Up, Frost"
-Punch: EMOTION + ACTION
+PART 168 - "The Empty Cabin"
+Punch: ACTION + FUN
 Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,25 +19,24 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; K09_Wolves.png -> Creature Wolves; K08_GrizzlyBear.png -> Creature GrizzlyBear.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; L06_AbandonedCabin.png -> Location AbandonedCabin.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
-The battlefield, smoke and fire, Frost buried under dark Bigfoots.
-0–3s: Lily runs through the battle, dodging soldiers, straight toward the pile of dark Bigfoots.
-DIALOGUE 1–3s: Lily (screaming): "GET OFF MY SON!"
-3–12s: Old Scar crashes into the pile from one side, wolves from the other; they pull dark Bigfoots away one by one. Lily climbs onto the pile and finds Frost's face.
-DIALOGUE 7–10s: Frost (weak, deep whisper): "Mom... I can't. He's too strong. I'm sorry."
-12–22s: Lily holds his face with both hands, fire behind her, completely calm.
-DIALOGUE 13–23s: Lily (strong, emotional): "Listen to me. Your father didn't win because he was strong. He won because he never stopped standing up. Strong hands... gentle heart. NOW GET UP!"
-22–30s: Frost's eyes snap open, bright blue. The red chains of magic crack. He roars and stands up, throwing the last dark Bigfoots off him in every direction. His tattoos blaze brighter than ever. Final frame: Frost standing tall, Lily beside him, Old Scar and the wolves around them.
-DIALOGUE 27–29s: Frost (deep, powerful): "Thanks, Mom."
-SFX: running, battle noise, bear roar, wolves snarling, heavy bodies pulled, a soft voice, magic cracking, a massive roar, bodies flying, electricity surging.
-MUSIC: desperate battle music, a moment of silence, then a huge heroic rising theme.
+Daytime, an old abandoned log cabin by the river, broken window, overgrown grass, Pacific Northwest pines.
+0–3s: Lily pushes the creaky door open; a cloud of dust falls on her and she coughs.
+DIALOGUE 1–3s: Lily (coughing): "Hello? Anyone home?"
+3–12s: Inside: an old wood stove, a broken chair, cobwebs, a dusty quilt on a bed. She smiles a little.
+DIALOGUE 6–10s: Lily (soft): "It's not a castle... but it's better than a cave."
+12–22s: A rattlesnake rises from under the bed, rattling loudly. Lily freezes, then slowly grabs an old broom.
+DIALOGUE 15–18s: Lily (whispering, scared but brave): "Easy... I'm not here to fight."
+22–30s: The snake strikes; she blocks with the broom, sweeps it into an old bucket, slams a pan on top and kicks the bucket out of the door. She falls back onto the bed, breathing hard, then laughs. Final frame: Lily lying on the dusty bed with her hand on her belly, smiling.
+DIALOGUE 26–29s: Lily (laughing, breathless): "Your papa would be proud of that one."
+SFX: door creak, dust falling, coughing, rattlesnake rattle, hiss, broom swoosh, bucket clang, pan slam, kick, laughing.
+MUSIC: quiet mysterious strings, a tense hit with the snake, then playful fiddle.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 169 - "Free the Dragons": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 169 - "Like Bruno Taught Me": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -48,7 +45,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 168 | He couldn't get up... until his mom came 🥹💪 "NOW GET UP!" #Bigfoot #Movie #Part168
+Part 168 | A new home... with one angry roommate 🐍😬 #Bigfoot #Movie #Part168
 
 DOLA STATUS
 [ ] Images uploaded

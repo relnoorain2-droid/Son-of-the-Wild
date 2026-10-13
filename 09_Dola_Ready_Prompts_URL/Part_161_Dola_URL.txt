@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+K03_SmallDragons.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K03_SmallDragons/K03_SmallDragons.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
 
 FROST: Son of the Wild
-PART 161 - "The March"
-Punch: WOW
+PART 161 - "Fire from the Sky"
+Punch: ACTION + TWIST
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,25 +21,25 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S11_Rose_FULL.png -> Rose; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C04_Bruno_FULL.png -> Bruno; V03_Lily_Pregnant.png -> Variant Lily_Pregnant; V10_Damian_Battle.png -> Variant Damian_Battle; K03_SmallDragons.png -> Creature SmallDragons.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
 LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Epic march montage through the Pacific Northwest: redwood forests, river crossings, mountain passes, from sunrise to sunset.
-0–3s: Aerial drone shot: a huge army moving through the giant redwood forest, Frost glowing at the front, Lily beside him on a big elk.
-DIALOGUE 1–3s: NARRATOR (deep cinematic American trailer voice): "They marched for three days."
-3–12s: Bison pull wagons across a river; bears carry supply crates; eagles fly scouting above. Kids from the villages wave goodbye from a hill.
-DIALOGUE 6–9s: Old Joe (riding in a wagon, to Rose): "Never thought I'd live to see this."
-DIALOGUE 9–11s: Rose (old British voice, smiling): "Neither did I, love."
-12–22s: Night: they pass small, poor villages of the king's kingdom. Frightened people peek from windows... then one by one, they light lanterns and put them in their windows: a secret sign of support.
-DIALOGUE 15–19s: Lily (amazed, emotional): "Frost, look. They're lighting lanterns for us."
-22–30s: Some of the kingdom's villagers step out and join the march with farm tools. The army grows bigger. Final frame: a long line of lanterns stretching behind the army into the dark.
-DIALOGUE 26–29s: Frost (deep, moved): "The people are rising."
-SFX: marching thousands, animal footsteps, wagon wheels, river splashing, eagle cries, lanterns lighting, quiet voices joining.
-MUSIC: a heroic marching theme with drums and a slow-building choir.
+The waterfall cave entrance and valley, smoke, fire.
+0–3s: Three smaller dragons dive from the sky and breathe fire at the waterfall; steam explodes, revealing the cave.
+DIALOGUE 1–3s: Lily (screaming): "Bruno!"
+3–14s: Bruno runs and jumps in front of the cave, shielding the entrance with his body as dragon fire hits his back. He grabs one dragon by the tail and swings it into another.
+DIALOGUE 7–9s: Bruno (deep, in pain, roaring): "Not... her!"
+14–22s: While Bruno fights the dragons, Prince Damian sneaks around the rocks into the cave and grabs pregnant Lily by the arm.
+DIALOGUE 16–19s: Prince Damian (cold smile): "Hello again, wife. Did you miss me?"
+DIALOGUE 19–21s: Lily (struggling): "Let go of me!"
+22–30s: Damian drags Lily out of the cave toward his horse. He sees her belly and stops, shocked, then disgusted. Final frame: Damian's sword rising toward Lily.
+DIALOGUE 25–29s: Prince Damian (furious whisper): "You carry the BEAST'S child?"
+SFX: dragon dives, fire roar, steam explosion, Bruno roars, wing flaps, tail grab, dragon crash, footsteps on rock, struggle, sword drawn.
+MUSIC: chaotic action drums, then a sharp tense string hit.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 162 - "MAGNUS!": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 162 - "Hands Off My Family": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -48,7 +48,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 161 | As they marched, the king's own people lit lanterns for them 🏮⚔️ #Bigfoot #Movie #Part161
+Part 161 | While Bruno fought the dragons, the prince grabbed Lily 😡 #Bigfoot #Movie #Part161
 
 DOLA STATUS
 [ ] Images uploaded

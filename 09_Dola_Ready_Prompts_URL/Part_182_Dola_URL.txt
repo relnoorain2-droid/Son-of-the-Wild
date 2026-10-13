@@ -1,11 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C06_ElderOrin_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C06_ElderOrin/C06_ElderOrin_FULL.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 
 FROST: Son of the Wild
-PART 182 - "Take Back What Is Ours"
-Punch: WOW + CLIFFHANGER
+PART 182 - "A Baby Is a Baby"
+Punch: EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -20,25 +20,26 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; C06_ElderOrin_FULL.png -> Elder Orin.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; S02_MarthaHayes_FULL.png -> Martha Hayes.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-CAST NOTE: the Great Red Dragon = three times bigger than any other dragon, dark lava-red scales, horns like a crown, enormous wings.
-On the flying dragon's back above the castle, the sun setting, storm clouds swirling.
-0–3s: Frost grabs the top of the king's staff with one hand. King Magnus holds the bottom with both hands. Tug of war.
-DIALOGUE 1–3s: King Magnus (desperate, straining): "Let GO, beast!"
-3–12s: The crystal between them pulses red-blue-red-blue. Cracks of light spread across it. The Great Red Dragon below them roars in confusion, its eyes flickering.
-DIALOGUE 6–9s: Frost (straining, deep): "It... belongs... to my family!"
-12–22s: The crystal starts burning Frost's hand with red light. He grits his teeth. He's losing grip.
-DIALOGUE 15–18s: Frost (whispering, desperate): "Grandfather... help me."
-22–30s: In the storm clouds above them, the giant face of Elder Orin appears, glowing blue, eyes open.
-DIALOGUE 24–28s: Elder Orin (ancient, very deep, echoing across the sky): "Take back what is ours, child."
-The crystal turns completely blue for one second — and a deep crack runs right through it. Final frame: close-up of the crystal splitting, blinding light about to explode.
-SFX: wind, a struggle, a pulsing crystal hum, cracking crystal, a confused dragon roar, a burning hiss, Orin's thunderous echoing voice, a deep crack.
-MUSIC: a huge building choir and orchestra, cutting to silence on the crack.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Inside the cabin, soft morning light, soup spilled on the floor.
+0–3s: Lily kneels in front of Martha, holding baby Frost tightly, tears in her eyes.
+DIALOGUE 1–4s: Lily (soft, begging): "Please, Martha. Please don't tell anyone."
+3–14s: Martha slowly sits down on a chair, staring at the baby.
+DIALOGUE 5–8s: Martha (shaky Southern voice): "Honey... who was his father?"
+DIALOGUE 8–14s: Lily (emotional): "The kindest, bravest soul I ever met. He gave his life so we could live."
+14–22s: Baby Frost reaches out his tiny furry hand toward Martha's glasses. Martha hesitates, then lets him hold her finger. He smiles. Her face softens completely.
+DIALOGUE 17–21s: Martha (whispering, melting): "Oh my... look at those blue eyes. He has your eyes."
+22–30s: Martha takes the baby in her arms and rocks him gently.
+DIALOGUE 23–30s: Martha (warm, firm): "A baby's a baby, Lily. And this one's got a grandma now. Your secret's safe with me."
+Final frame: Lily hugging Martha, Frost between them grabbing Martha's glasses.
+SFX: soft crying, chair creak, baby coos, gentle rocking.
+MUSIC: warm emotional piano and strings.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 183 - "Free": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 183 - "Bath Time": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -47,7 +48,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 182 | Grandfather Orin appeared in the sky... and the crystal CRACKED 🔮⚡ #Bigfoot #Movie #Part182
+Part 182 | "A baby's a baby. And this one's got a grandma now." 🥹❤️ #Bigfoot #Movie #Part182
 
 DOLA STATUS
 [ ] Images uploaded

@@ -1,0 +1,67 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
+
+FROST: Son of the Wild
+PART 216 - "Cedar Hollow Home"
+Punch: EMOTION + WOW
+Status:-assets
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+LANGUAGE: HINDI OUTPUT ONLY
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s Hindi Reels 9x16
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: vertical 9:16
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+HINDI OUTPUT LOCK:
+The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S10_Villagers.png -> optional background group, skip unless you want crowd continuity; L07_Village.png -> Location Village.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Golden evening montage in Cedar Hollow, autumn leaves, string lights, a fiddle player on a porch.
+0–3s: A villager plays a fiddle on a porch; people start clapping along. Lily stands up and smiles.
+DIALOGUE 1–3s: Lily (soft young Hindi-dubbed woman, cheerful): "Alright, everybody, sing with me!"
+3–27s: The whole village SINGS together, clearly audible, lip-synced, upbeat country-folk, Lily leading:
+  3–10s: Lily sings: "Porch lights on and the kettle's warm, we stand together through every storm."
+  — Shots: Frost carrying three kids on his shoulders; Hank rebuilding the water tower with Frost holding it.
+  10–20s: Everyone sings: "Oh Cedar Hollow, you're my home, never gonna walk this road alone..."
+  — Shots: the whole village waving from porches; Frost lifting Martha's car out of the mud; the wolves sleeping near the sheep.
+  20–27s: Everyone sings: "...big or small, we're family, here in Cedar Hollow... home."
+  — Shots: Frost in the middle of the town square, everyone hugging him at once.
+27–30s: Everyone squeezes into one giant group hug around Frost; he laughs and hugs them back very gently. Final frame: the whole town in one big hug.
+DIALOGUE 27–30s: Frost (deep teenage voice, laughing): "Group hug! Careful, careful!"
+DIALOGUE 8-11s: Hank (deep friendly rural voice): "Cedar Hollow, make some noise for our boy!"
+DIALOGUE 15-18s: Villagers (warm crowd voices): "Frost! Frost! Frost!"
+SFX: clapping, stomping boots, laughter, crickets.
+MUSIC: upbeat American country-folk with fiddle, acoustic guitar, banjo and foot-stomp percussion under the song.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 217 - "Dance Floor Apology": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+HINDI REELS CAPTION AFTER DOWNLOAD
+HINDI CAPTION LOCK: Write the final post title/description/caption in Hindi, using Hindi emotion and hashtags. Do not output an English caption.
+भाग 216 | फ्रॉस्ट: जंगल का बेटा - कहानी अब और गहरी होती जा रही है। #बिगफुट #फिल्म #भाग216
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES

@@ -1,0 +1,62 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
+
+FROST: Son of the Wild
+PART 209 - "Lightning"
+Punch: WOW + TWIST
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+FORMAT: YOUTUBE 16:9
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s YouTube 16x9
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+YOUTUBE 16:9 FRAMING LOCK:
+Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker; L03_DeepForest.png -> Location DeepForest.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+Night, a violent thunderstorm on a hill above Cedar Hollow, dark clouds, rain.
+0–3s: A lightning bolt strikes a tree right next to Teen Frost; the tree explodes into sparks.
+DIALOGUE 1–3s: Teen Frost (scared, voice cracking): "Whoa!"
+3–12s: Blue electric sparks jump from the burning tree onto Frost's hands. Instead of hurting him, they crawl across his fingers. His eyes glow electric blue.
+DIALOGUE 6–9s: Teen Frost (panicked): "What's happening to me? Stop! STOP!"
+12–22s: He shakes his hands; a blue bolt shoots out of his palm and blasts a rock into pieces. He falls back in the mud, shocked, staring at his glowing hands.
+DIALOGUE 16–19s: Teen Frost (breathing hard): "Did I... do that?"
+22–30s: Lightning flashes. In the bright light, Old Joe stands at the edge of the hill under a big umbrella, leaning on his walking stick, watching calmly.
+DIALOGUE 25–29s: Old Joe (slow raspy wise voice): "Yes, son. You did. And that's only the beginning."
+Final frame: blue sparks fading in Frost's hands, Old Joe's face lit by lightning.
+SFX: thunder, heavy rain, lightning crack, tree explosion, electric crackling, blast, rock shattering, mud splash.
+MUSIC: dramatic storm orchestra, a powerful magical choir hit when the bolt fires.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 210 - "Not Yet": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
+Part 209 | Lightning hit the tree... and the power jumped into Frost's hands ⚡😱 #Bigfoot #Movie #Part209
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES

@@ -1,12 +1,12 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+K04_TRex.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K04_TRex/K04_TRex.png
+L08_Battlefield.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
+V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
 FROST: Son of the Wild
-PART 160 - "For Everyone He Hurt"
-Punch: WOW + EMOTION
+PART 160 - "Bigfoot vs T-Rex"
+Punch: WOW + ACTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -21,26 +21,23 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; S02_MarthaHayes_FULL.png -> Martha Hayes; K09_Wolves.png -> Creature Wolves.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C04_Bruno_FULL.png -> Bruno; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; K04_TRex.png -> Creature TRex; L08_Battlefield.png -> Location Battlefield.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Dawn, a huge meadow. The whole army gathered: villagers from Cedar Hollow, Pine Ridge and Millbrook with rifles, pitchforks and frying pans; riders on elk and bison; bears, wolves, mountain lions; eagles on every tree. Frost stands on a big rock in front of them, glowing.
-0–3s: Frost raises his hand; everyone goes silent.
-DIALOGUE 1–3s: Frost (deep, powerful voice, echoing): "Look around you!"
-3–20s: Slow camera moves across the faces of the army as he speaks.
-DIALOGUE 4–10s: Frost: "Farmers. Grandmothers. Wolves. Bears. Nobody thought we'd stand together. The king never thought so either."
-DIALOGUE 10–18s: Frost: "We don't march for revenge. We march for every bride he threw to the forest. For every town he burned."
-DIALOGUE 18–23s: Frost (emotional): "For my father, Bruno... who fought an army alone so I could live."
-20–30s: Frost raises his fist; lightning shoots into the sky.
-DIALOGUE 23–27s: Frost (roaring): "TODAY, NOBODY FIGHTS ALONE!"
-The entire army roars back; wolves howl, bears roar, eagles scream, people cheer. Final frame: wide shot of the huge army cheering under the sunrise.
-DIALOGUE 27–29s: Martha (shouting, raising her frying pan): "Let's GO, sugar!"
-SFX: wind, total silence, echoing speech, a lightning crack, a massive roar of people and animals, howls, eagle screams.
-MUSIC: a big, emotional, epic war-speech theme with full orchestra and choir.
+The valley near the waterfall cliff, dust and smoke, sunlight.
+0–3s: The T-rex snaps its huge jaws at Bruno; he rolls aside just in time, the teeth biting into the ground.
+DIALOGUE 1–3s: Bruno (deep grunt): "Too slow!"
+3–14s: Bruno jumps onto the T-rex's back and grabs its war harness like reins. The T-rex bucks and spins, smashing trees. Soldiers scatter.
+DIALOGUE 7–10s: King Magnus (from the dragon, booming): "Shake him off!"
+14–22s: Bruno pulls the harness hard and steers the T-rex toward the edge of the waterfall cliff.
+DIALOGUE 17–19s: Bruno (deep, straining): "Bruno... ride... dinosaur!"
+22–30s: At the very edge, Bruno jumps off; the T-rex skids, can't stop, and falls over the cliff into the river far below with a giant splash. Bruno lands on one knee, exhausted. Final frame: the king's face, angry, his red crystal glowing.
+DIALOGUE 27–29s: King Magnus (cold and quiet): "Enough. Dragons."
+SFX: giant jaw snap, ground crunch, T-rex roars, trees breaking, harness straining, skidding claws, falling roar, huge splash, heavy breathing.
+MUSIC: epic adventure orchestra with a triumphant hit, then a dark sting on the king's line.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 161 - "The March": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 161 - "Fire from the Sky": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
@@ -49,7 +46,7 @@ SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-f
 NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 160 | "TODAY, NOBODY FIGHTS ALONE!" 🔥⚡ Frost's speech gave everyone chills #Bigfoot #Movie #Part160
+Part 160 | He rode a T-rex off a cliff 🦖😱 But the king isn't done... #Bigfoot #Movie #Part160
 
 DOLA STATUS
 [ ] Images uploaded

@@ -1,11 +1,11 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
 
 FROST: Son of the Wild
-PART 178 - "Lightning vs Fire"
-Punch: WOW + ACTION
+PART 178 - "Stay With Me"
+Punch: EMOTION + CLIFFHANGER
 Status:-assets
 
 REFERENCE IMAGES FOR THIS PART
@@ -23,24 +23,24 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; K02_RedDragon.png -> Creature RedDragon.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V03_Lily_Pregnant.png -> Variant Lily_Pregnant; V09_Bruno_Spirit.png -> Variant Bruno_Spirit; L06_AbandonedCabin.png -> Location AbandonedCabin.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-CAST NOTE: the Great Red Dragon = three times bigger than any other dragon, dark lava-red scales, horns like a crown, enormous wings.
-The sky above Thorne Castle, dark storm clouds and fire, the battlefield far below.
-0–3s: Frost launches into the sky like a blue rocket toward the gigantic Great Red Dragon.
-DIALOGUE 1–4s: Frost (deep, roaring): "MAGNUS! IT'S JUST YOU AND ME NOW!"
-3–12s: The Great Red Dragon breathes a massive river of fire at him. Frost fires a giant bolt of blue lightning back. Fire and lightning meet in the middle of the sky in a huge explosion of red and blue light.
-DIALOGUE 7–10s: King Magnus (on the dragon's head, laughing): "Your father screamed like that too!"
-12–22s: Frost flies through the explosion, dodging the dragon's snapping jaws, and blasts lightning into its wing. The dragon spins and roars in rage.
-DIALOGUE 16–20s: Frost (shouting): "My father never screamed! He saved everyone he loved!"
-22–30s: The dragon recovers and swings around; Frost and the dragon circle each other above the clouds, the sun setting behind them. Final frame: a giant red dragon vs a glowing blue giant, face to face in the sky.
-DIALOGUE 27–29s: King Magnus (cold): "Then you'll die like him."
-SFX: a rocket launch boom, wind, a massive fire breath, a lightning crack, a huge explosion in the sky, jaws snapping, a wing blast, a dragon roar, wind howling.
-MUSIC: epic sky-battle orchestra with huge drums and a heroic choir.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Snowy night inside the candle-lit cabin. Fully tasteful: show only Lily's face, hands, the quilt and candles.
+0–3s: Close-up of Lily's face, sweating, gripping the quilt in pain, candles flickering.
+DIALOGUE 1–4s: Lily (soft young Hindi-dubbed woman, in pain): "I can do this... I can do this..."
+3–12s: Close-ups: her hand squeezing the bedpost, snow hitting the window, the fire in the stove.
+DIALOGUE 6–10s: Lily (crying, exhausted): "I'm so scared, Bruno. I can't do this alone."
+12–22s: The candle flames bend as if a warm wind came in. A soft glowing outline of Bruno appears beside the bed, translucent and peaceful, holding her hand (her hand glows softly).
+DIALOGUE 14–19s: Bruno (spirit voice, very deep warm gravelly, echoing softly): "Lily never alone. Bruno is here. Be strong... like the river."
+22–30s: Lily takes a deep breath, gathers all her strength and screams. The screen fades to white. Silence. Then a tiny, strange baby cry — half human, half a small animal-like howl. Final frame: Lily's exhausted face turning toward the sound, eyes wide.
+DIALOGUE 27–29s: Lily (whispering, amazed): "...My baby."
+SFX: heavy breathing, wind and snow, crackling fire, candle flicker, a soft magical hum, a strong scream, silence, a small unusual baby cry.
+MUSIC: tense heartbeat drums, then a soft choir and the love theme when Bruno appears.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 179 - "The Eagles": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 179 - "Hello, Frost": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.

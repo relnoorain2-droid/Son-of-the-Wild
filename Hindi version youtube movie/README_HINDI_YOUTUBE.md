@@ -6,7 +6,7 @@ Use this folder for Hindi YouTube movie videos in widescreen 16:9.
 
 ## Folder Contents
 
-- `Prompts_16x9_Hindi/` - all 192 Dola-ready prompts for Hindi YouTube 16:9 output.
+- `Prompts_16x9_Hindi/` - all 312 Dola-ready prompts for Hindi YouTube 16:9 output.
 - `Skill/SKILL.md` - Hindi YouTube skill file to upload in Dola.
 - `Production_Docs/` - Hindi YouTube output rules.
 

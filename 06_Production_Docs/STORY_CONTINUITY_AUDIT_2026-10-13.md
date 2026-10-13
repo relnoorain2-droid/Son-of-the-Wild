@@ -2,7 +2,7 @@
 
 Project: FROST: Son of the Wild
 Prompt folder audited: 09_Dola_Ready_Prompts_URL
-Total Dola prompt parts: 180
+Total Dola prompt parts: superseded by the expanded 312-part package
 
 ## Canon Order Locked
 

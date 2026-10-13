@@ -1,6 +1,6 @@
 # Extended Cut Insertions - 2026-10-13
 
-The Dola URL prompt package was expanded from 180 parts to 190 parts.
+Historical note: the Dola URL prompt package was previously expanded from 180 parts to 190 parts. This has now been superseded by the 312-part expanded package.
 
 Inserted emotional/comedy beats:
 

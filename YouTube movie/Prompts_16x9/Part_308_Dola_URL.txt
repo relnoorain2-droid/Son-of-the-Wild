@@ -1,0 +1,64 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L01_LilyHouse.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L01_LilyHouse/L01_LilyHouse.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V14_Grace_Older.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V14_Grace_Older/V14_Grace_Older.png
+
+FROST: Son of the Wild
+PART 308 - "Mama"
+Punch: EMOTION (BIGGEST)
+Status:-assets
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+FORMAT: YOUTUBE 16:9
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s YouTube 16x9
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+YOUTUBE 16:9 FRAMING LOCK:
+Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V14_Grace_Older.png -> Variant Grace_Older; L01_LilyHouse.png -> Location LilyHouse.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Evening, Millbrook, Oregon: Lily's old small wooden house with peeling white paint and the rusty mailbox. Golden sunset light.
+0–4s: Lily walks slowly up the old dusty path. Through the kitchen window she sees the small blue wildflower she secretly left in the mailbox, now standing in a little glass of water on the table.
+DIALOGUE 1–4s: Lily (whispering, shaking): "She found it... okay. You can do this."
+4–12s: She knocks. Footsteps. The door opens slowly. Grace — her mother, now older, with white hair in a bun, a wooden cane and the same faded apron — stands there and freezes.
+DIALOGUE 7–9s: Grace (old, trembling, caring voice): "...Lily?"
+DIALOGUE 9–12s: Lily (crying): "Hi, Mama. I'm home."
+12–22s: Grace drops her cane and holds Lily's face with both shaking hands, touching her cheeks and her hair as if she can't believe it.
+DIALOGUE 13–17s: Grace (sobbing): "Every single night I set a plate for you. Every night."
+DIALOGUE 17–21s: Grace (crying and smiling): "And look at you... you haven't changed at all."
+22–30s: Mother and daughter hug in the doorway, both crying, holding each other tightly. Final frame: through the kitchen window behind them, two plates on the table and the little blue flower in its glass.
+DIALOGUE 25–29s: Lily (crying into her shoulder): "I know, Mama. I saw the plate."
+SFX: footsteps on the dusty path, a soft knock, a door creak, a cane falling, sobbing, birds at sunset.
+MUSIC: the most emotional piano and string theme of the movie.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 309 - "Meet Your Grandson": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
+Part 308 | After all these years... "Hi, Mama. I'm home." 😭😭😭 #Bigfoot #Movie #Part308
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES

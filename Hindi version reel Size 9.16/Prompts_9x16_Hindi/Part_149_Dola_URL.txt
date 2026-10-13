@@ -1,12 +1,13 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
 L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
+L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
+V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
 FROST: Son of the Wild
-PART 149 - "Lightning on Command"
-Punch: WOW + FUN
+PART 149 - "The Storm"
+Punch: WOW + EMOTION
 Status: ready - URL PACKAGE
 
 REFERENCE IMAGES FOR THIS PART
@@ -24,24 +25,26 @@ Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs lis
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V12_Tommy_Adult.png -> Variant Tommy_Adult; S03_HankMiller_FULL.png -> Hank Miller; L03_DeepForest.png -> Location DeepForest.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; C04_Bruno_FULL.png -> Bruno; L04_BrunoCave.png -> Location BrunoCave; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 
-Bright morning on a hill above Cedar Hollow, a clear blue sky, mountains in the distance.
-0–3s: Powered Frost stands on the hill. Tommy and Hank stand behind him, holding coffee.
-DIALOGUE 1–4s: Tommy (young man, excited): "Okay, okay. Show us. Do the lightning thing."
-3–12s: Frost raises one hand to the perfectly clear sky. A single cloud forms out of nothing above him in seconds.
-DIALOGUE 6–9s: Frost (deep powerful voice, calm): "Be still... and come."
-12–22s: A massive blue lightning bolt shoots down from the new cloud into his hand. He points at an empty, distant rocky hilltop and releases it: the bolt flies across the valley and the top of the hill explodes in a giant blue flash.
-22–30s: Silence. Hank's coffee mug slowly tips over in his frozen hand, the coffee pouring onto his boots. Tommy's jaw is on the floor.
-DIALOGUE 25–29s: Tommy (whispering): "Can you do that... at the next Fourth of July?"
-DIALOGUE 29–30s: Frost (smiling): "Maybe."
-Final frame: Hank still frozen, coffee dripping.
-SFX: wind, clouds forming with a deep rumble, a huge thunder crack, an electric surge, a distant massive explosion, coffee pouring.
-MUSIC: powerful epic hit, then comedic silence.
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Night, a violent thunderstorm over the redwood forest, lightning flashing.
+0–3s: A huge lightning bolt hits a giant redwood next to the cave; the tree starts falling toward the entrance where Lily stands.
+DIALOGUE 1–3s: Lily (screaming): "Bruno!"
+3–12s: Bruno jumps in front of her and catches the burning falling tree on his back, roaring with effort, then pushes it aside into the river with a massive splash.
+DIALOGUE 7–9s: Bruno (deep, straining): "Get inside!"
+12–22s: Inside the cave, Lily, shaking, wraps a blanket around Bruno and cleans a small burn mark on his shoulder with a wet cloth.
+DIALOGUE 14–17s: Lily (soft, emotional): "You keep risking your life for me. Why?"
+DIALOGUE 17–21s: Bruno (deep warm voice, looking down): "Because Lily is... Bruno's whole world."
+22–30s: Lightning flashes outside; in the light, they look into each other's eyes. Lily gently places her hand on his huge cheek.
+DIALOGUE 24–27s: Lily (whispering): "And you're mine, Bruno."
+Final frame: her small hand on his face, rain pouring behind them.
+SFX: thunder cracks, lightning, tree splitting and burning, heavy rain, roar, giant splash, fire crackle.
+MUSIC: dramatic stormy orchestra, then a soft romantic piano theme.
 
 SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 150 - "He Can Fly?!": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 150 - "Do Not Scare Me Like That": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
