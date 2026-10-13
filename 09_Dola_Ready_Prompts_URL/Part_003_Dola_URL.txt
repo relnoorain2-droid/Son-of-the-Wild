@@ -1,13 +1,14 @@
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
 K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
+K06_WarMammoth.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K06_WarMammoth/K06_WarMammoth.png
 L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 S01_GraceCarter_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S01_GraceCarter/S01_GraceCarter_FULL.png
 
 FROST: Son of the Wild
 PART 003 - "Into the Kingdom"
 Punch: WOW
-Status: ready - URL PACKAGE
+Status: ready - CANON LINEAR VERSION
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -21,30 +22,33 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Lily Carter; S01_GraceCarter_FULL.png -> Grace Carter; K02_RedDragon.png -> Creature RedDragon; L02_KingCastle.png -> Location KingCastle.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: C01_Lily_FULL.png -> Lily Carter; S01_GraceCarter_FULL.png -> Grace Carter; K02_RedDragon.png -> Western red dragon; K06_WarMammoth.png -> armored war mammoths; L02_KingCastle.png -> Thorne Castle.
+LILY LOOK LOCK: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-0–3s: Grace hugs Lily tightly on the dusty road in front of their small house, both crying, guards waiting behind with black horses and a black royal carriage.
-DIALOGUE 1–5s: Grace (soft tired caring older woman, crying): "They say no girl ever comes back from that forest..."
-DIALOGUE 5–10s: Lily (soft warm young woman, brave smile, wiping her mother's tears): "Then I'll be the first one, Mama. Maybe this is our chance."
-8–16s: The black carriage drives away. Lily looks out of the small window at her mother getting smaller. Then the road enters a giant dark redwood forest, sunlight disappearing, fog rolling in.
-16–24s: The carriage comes out of the trees: a massive dark stone castle rises in the middle of the forest, red banners on its towers, woolly mammoths in red armor standing at the gates, chained dark Bigfoots pulling a giant gate open.
-24–30s: A huge red Western dragon swoops low over the carriage and roars fire into the sky. Lily screams and presses back against the seat. Final frame: the dragon landing on the highest tower, the castle gate closing behind the carriage.
-DIALOGUE 25–28s: NARRATOR (deep cinematic American trailer voice): "Welcome... to the kingdom of King Magnus Thorne."
-DIALOGUE 12-15s: Lily (soft nervous whisper): "Mama... what kind of kingdom needs dragons at the gate?"
-SFX: crying, carriage wheels and horse hooves, forest wind, mammoth trumpet call, heavy chains, giant gate creak, dragon wing beats, dragon roar and fire whoosh, gate slamming shut.
-MUSIC: emotional strings for the goodbye, then an epic dark fantasy orchestra and choir when the castle is revealed.
-CAMERA: drone shot rising over the forest to reveal the castle, low-angle shot of the dragon.
+Scene: Rural Oregon road leading from Lily's house into the deep Pacific Northwest forest and then to Thorne Castle.
+0-4s: Grace hugs Lily tightly beside the black royal carriage. Guards wait behind them, silent.
+DIALOGUE 1-4s: Grace (crying): "They say no girl ever comes back from that forest..."
+4-8s: Lily wipes Grace's tears and forces a brave smile.
+DIALOGUE 4-8s: Lily (soft but brave): "Then I will be the first one, Mama."
+8-15s: The carriage rolls away. Lily watches Grace get smaller through the carriage window as the road enters giant redwoods and fog.
+DIALOGUE 11-14s: Lily (nervous whisper): "What kind of kingdom hides this deep in the woods?"
+15-20s: The forest opens to reveal a massive dark stone castle with red banners, armored mammoths at the gate, and dark Bigfoot guards standing watch, no chains.
+TEXT 16-18s: Brief location title card at bottom: "THORNE CASTLE".
+20-30s: A huge red Western dragon swoops over the carriage and roars fire into the sky. Lily screams and presses back against the seat. Final frame: the dragon landing on the highest tower as the gate closes behind Lily.
+DIALOGUE 23-28s: NARRATOR (deep cinematic American trailer voice): "Welcome... to the kingdom of King Magnus Thorne."
+SFX: crying, carriage wheels, horse hooves, forest wind, mammoth trumpet call, giant gate creak, dragon wing beats, dragon roar, fire whoosh, gate slamming shut.
+MUSIC: emotional strings for the goodbye, then epic dark fantasy orchestra when the castle appears.
+CAMERA: close goodbye, carriage window POV, drone reveal over the forest, low-angle dragon shot.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
 SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity, no chained people or creatures.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 3 | A castle hidden in the forest... with dragons and mammoths 🐉 #Bigfoot #Movie #Part3
+Part 3 | Lily leaves home and sees Thorne Castle for the first time. #Bigfoot #Movie #Part3
 
 DOLA STATUS
 [ ] Images uploaded
@@ -54,6 +58,4 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-
-
+Corrected gate scene: dark Bigfoots are guards, not captives.

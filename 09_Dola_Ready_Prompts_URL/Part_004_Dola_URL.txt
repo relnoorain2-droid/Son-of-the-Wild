@@ -2,6 +2,8 @@ REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
 C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S09_Brides/S09_Brides_FULL.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
 
 FROST: Son of the Wild
 PART 004 - "The Monthly Bride"
@@ -20,30 +22,40 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: Lily image -> Lily Carter; King Magnus image -> King Magnus; Prince Damian image -> Prince Damian.
+CHARACTER LOCK: Keep every character's face, body, hair, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: C01_Lily_FULL.png -> Lily Carter; C02_KingMagnus_FULL.png -> King Magnus; C03_PrinceDamian_FULL.png -> Prince Damian; S09_Brides_FULL.png -> background adult candidates only; S11_Rose_FULL.png -> Rose.
 LILY LOOK LOCK: Lily is a 22-year-old poor American woman, young, innocent, beautiful, soft fair face, big blue eyes, honey-blonde hair.
 
-Scene: A giant candle-lit Western dark-fantasy throne hall hidden in a Pacific Northwest forest, red banners, stone pillars, warm torchlight, royal guards standing calmly in the background.
+Scene: A giant candle-lit Western dark-fantasy throne hall hidden in a Pacific Northwest forest, red banners, stone pillars, warm torchlight, royal guards in the background. Grace is not in the castle; Lily stands alone.
 0-3s: King Magnus taps his staff on the stone floor. The hall falls silent.
 DIALOGUE 1-3s: King Magnus (deep rough commanding American voice): "The monthly royal tradition begins."
-3-10s: Lily, poor and nervous in a simple light-blue dress, stands beside her mother Grace in the crowd. Prince Damian enters in a black velvet royal coat, smiling like he already knows the ending.
-DIALOGUE 5-8s: NARRATOR (deep cinematic American trailer voice): "Every month, the prince chose one bride... and the kingdom never asked where the last one went."
-10-18s: Prince Damian walks past several adult candidates, then stops when he sees Lily. Lily lifts her eyes bravely.
+3-10s: Lily, poor and nervous in a simple light-blue dress, stands with several nervous adult candidates. Prince Damian enters in a black velvet royal coat, smiling like he already knows the ending.
+DIALOGUE 5-9s: NARRATOR (deep cinematic American trailer voice): "Every month, the prince chose one bride... and the kingdom never asked where the last one went."
+10-18s: Prince Damian walks past the candidates, bored, then stops when Lily bravely lifts her eyes instead of looking down.
 DIALOGUE 12-15s: Prince Damian (smooth arrogant voice): "You. What is your name?"
 DIALOGUE 15-17s: Lily (soft but brave): "Lily Carter."
 18-24s: Damian turns to the king with a cold smirk and gestures toward Lily, without touching her.
 DIALOGUE 19-22s: Prince Damian: "Father... I choose Lily."
-24-30s: King Magnus smiles mysteriously. Behind a stone column, an older maid named Rose watches Lily with fear, as if she knows a terrible secret. Final frame: Rose's worried eyes looking at Lily.
+24-30s: King Magnus smiles mysteriously. Behind a stone column, Rose watches Lily with fear, as if she knows the forest secret. Final frame: Rose's worried eyes looking at Lily.
 DIALOGUE 25-29s: Rose (old nervous whisper): "Poor child... she does not know about the forest."
 SFX: staff tap echo, torch crackle, quiet crowd murmur, soft footsteps on stone.
-MUSIC: dark tense cello, low drums, mysterious sting at the final whisper.
+MUSIC: dark tense cello, low drums, mysterious sting at Rose's final whisper.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English. No line may be skipped. Dialogue must stay louder than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin and hair, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
 SETTING: Fully American / Western. Pacific Northwest USA forest kingdom, Western dark-fantasy castle, American people and clothing. No Asian elements.
-NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no gore, no blood, no explicit harm, no restraints, no chains, no forced physical contact, no nudity.
+TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood, no explicit harm, no restraints, no chains, no forced physical contact, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
 Part 4 | Every month the prince chooses a bride... but Rose knows the forest secret. #Bigfoot #Movie #Part4
 
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
+Corrected continuity: Grace is not present in the throne hall.

@@ -7,7 +7,7 @@ S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/So
 FROST: Son of the Wild
 PART 002 - "The Royal Visit"
 Punch: TWIST
-Status: ready - URL PACKAGE
+Status: ready - CANON LINEAR VERSION
 
 REFERENCE IMAGES FOR THIS PART
 Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
@@ -21,31 +21,34 @@ Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
 Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C01_Lily_FULL.png -> Lily Carter; S01_GraceCarter_FULL.png -> Grace Carter; S07_CaptainVex_FULL.png -> Captain Vex; L01_LilyHouse.png -> Location LilyHouse.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+CHARACTER LOCK: Keep every character's face, body, hair, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: C01_Lily_FULL.png -> Lily Carter; S01_GraceCarter_FULL.png -> Grace Carter; S07_CaptainVex_FULL.png -> Captain Vex; L01_LilyHouse.png -> Lily's poor home.
+LILY LOOK LOCK: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Daytime, a poor small wooden house in rural Oregon, peeling white paint, rusty mailbox, old pickup truck.
-0–3s: A red "EVICTION NOTICE" paper is slammed onto the front door by a gloved hand (paper only, no readable words needed). Lily opens the door and gasps.
-DIALOGUE 2–4s: NARRATOR (deep cinematic American trailer voice): "Three days earlier."
-3–12s: Inside the tiny kitchen, Lily and her mother Grace (50, greying blonde bun, faded apron) sit at an almost empty table with one piece of bread. Grace pushes the bread toward Lily.
-DIALOGUE 5–8s: Grace (soft tired caring older American woman): "You eat, sweetheart. I'm not hungry."
-DIALOGUE 9–12s: Lily (soft warm young American woman, smiling sadly): "Mama, you said that yesterday too."
-12–20s: The ground shakes. Cups rattle. Through the window, black armored war horses and royal guards in black helmets and dark-red tunics ride into the dusty street. Neighbors hide.
-20–30s: Captain Vex (brutal soldier, shaved head, scar, wolf-fur cape, axe) kicks the door open, walks in, stares at Lily, and points his axe at her. Grace pulls Lily behind her. Final frame: close-up of Lily's frightened blue eyes.
-DIALOGUE 22–26s: Captain Vex (harsh loud threatening male voice): "By order of King Magnus... the prince needs a bride."
-DIALOGUE 26–29s: Captain Vex: "You. Pack nothing. You're coming with us."
-SFX: paper slap, door creak, wind, cups rattling, horses galloping, armor clanking, door smashed open.
-MUSIC: soft sad piano for the kitchen scene, turning into dark heavy drums when the horses arrive.
+Scene: Continue directly after Part 1, outside and inside Lily's poor wooden house on the edge of a small Oregon town. Cold daylight, dusty road, frightened neighbors watching from windows.
+0-4s: Captain Vex stands in Lily's doorway holding the royal seal order. Lily protects Grace behind her.
+DIALOGUE 0-4s: Captain Vex (harsh official American voice): "By order of King Magnus Thorne, Lily Carter is summoned to the castle."
+4-9s: Grace steps forward, shaking, trying to block the doorway. Lily holds her mother's arm.
+DIALOGUE 4-7s: Grace (crying): "Please. She is my only child."
+DIALOGUE 7-9s: Lily (soft, scared): "Mama, stay behind me."
+9-16s: Vex reads the decree without emotion while guards wait by a black royal carriage.
+DIALOGUE 9-15s: Captain Vex: "Prince Damian will choose a bride before sunset. The king has chosen your house for inspection."
+16-22s: Neighbors whisper from the street, afraid of the monthly bride tradition.
+DIALOGUE 16-20s: Village Woman (frightened whisper): "Every month one girl goes to that castle... and nobody sees her again."
+22-30s: Vex gestures toward the carriage. Lily squeezes Grace's hands, trying to be brave, then steps toward the door. Final frame: Grace on the porch watching Lily walk toward the black carriage.
+DIALOGUE 22-26s: Lily (tearful but brave): "I will come back to you. I promise."
+DIALOGUE 26-29s: Captain Vex (cold): "Move."
+SFX: royal paper rustle, door creak, wind, neighbors whispering, horse snorts, armor clanking, carriage door opening.
+MUSIC: sad piano under Lily and Grace, turning into low drums as the carriage waits.
 
 GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
 SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
-Part 2 | Poor, hungry... and chosen by a king's men. Lily's life changes forever 👑 #Bigfoot #Movie #Part2
+Part 2 | The king's men came to Lily's poor house... and her mother could not stop them. #Bigfoot #Movie #Part2
 
 DOLA STATUS
 [ ] Images uploaded
@@ -55,5 +58,4 @@ DOLA STATUS
 [ ] Needs revision
 
 NOTES
-
-
+Corrected linear opening. No flashback. This continues directly after Part 1.

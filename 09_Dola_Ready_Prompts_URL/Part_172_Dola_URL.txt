@@ -42,7 +42,7 @@ GLOBAL RULES:
 AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
 STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
 SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no on-screen text, no subtitles, no captions, no watermark, no logo, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
 
 FACEBOOK CAPTION AFTER DOWNLOAD
 Part 172 | The dragon that was trying to kill him... caught him 🐉🥹 #Bigfoot #Movie #Part172
