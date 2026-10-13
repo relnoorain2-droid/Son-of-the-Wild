@@ -1,0 +1,50 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
+
+FROST: Son of the Wild
+PART 009 - "The Truth"
+Punch: TWIST + EMOTION
+Status: canon-safe opening version
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+FORMAT: YOUTUBE 16:9
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s YouTube 16x9
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+YOUTUBE 16:9 FRAMING LOCK:
+Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
+
+CHARACTER LOCK: Keep Lily, Rose, and animal references identical to attached images. Lily is 22, innocent, beautiful, blue eyes, honey-blonde hair.
+
+Scene: Lily's castle bedroom at night, candles almost burned out, storm wind outside.
+0-3s: Lily steps close to Rose, desperate but gentle.
+DIALOGUE 0-3s: Lily (soft but urgent): "Rose, tell me the truth. Please."
+3-8s: Rose closes the door and whispers, crying quietly.
+DIALOGUE 3-10s: Rose (old nervous maid, whispering): "Every month a new bride. After the ceremony, guards escort her to the forbidden forest gate."
+8-18s: Flashback in cold blue moonlight: a young bride is escorted through a huge iron gate into a dark forest. The gate closes behind her. Glowing animal eyes appear far between the trees. Cut away before any harm is shown.
+DIALOGUE 11-17s: Rose (voice-over): "After that, the kingdom says the forest took her."
+18-25s: Back to Lily. She steps back, shaking, then becomes determined.
+DIALOGUE 19-23s: Lily (whispering): "Then I leave before he takes me there."
+25-30s: Footsteps and laughter approach in the hallway. Lily grabs a silver tray from the table, ready to improvise. Final frame: the door handle turning.
+DIALOGUE 25-29s: Rose (terrified whisper): "He's coming!"
+SFX: door lock click, forest wind, distant wolf howl, footsteps, door handle turning.
+MUSIC: dark emotional strings, rising suspense drums.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 010 - "The Escape": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all dialogue clearly with lip-sync. STYLE: Hyper-realistic cinematic 3D animation, widescreen 16:9 cinematic movie frame. SETTING: Fully American / Western, no Asian elements. NEGATIVE: no subtitles, no watermark, no gore, no blood, no graphic harm, no nudity.
+
+YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
+Part 9 | Rose reveals the forest secret. Lily has one chance to run. #Bigfoot #Movie #Part9

@@ -1,0 +1,63 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+K06_WarMammoth.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K06_WarMammoth/K06_WarMammoth.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
+
+FROST: Son of the Wild
+PART 163 - "Mammoths vs Bison"
+Punch: WOW + ACTION
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+FORMAT: YOUTUBE 16:9
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s YouTube 16x9
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+YOUTUBE 16:9 FRAMING LOCK:
+Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V10_Damian_Battle.png -> Variant Damian_Battle; V08_Frost_Powered.png -> Variant Frost_Powered; S03_HankMiller_FULL.png -> Hank Miller; K06_WarMammoth.png -> Creature WarMammoth.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+CAST NOTE: Old Scar = a gigantic ancient silver-grey grizzly bear, twice normal size, long white scar over one eye.
+Morning, the wide valley in front of Thorne Castle, fog and dust, two armies facing each other.
+0–3s: The castle gate crashes open. Prince Damian rides out on the lead war mammoth, sword raised; fifty armored mammoths thunder behind him.
+DIALOGUE 1–3s: Prince Damian (smooth arrogant voice, screaming): "CRUSH THEM!"
+3–12s: Frost raises his glowing hand and roars a deep animal call. From the hills, hundreds of American bison charge down, led by grizzly bears, Old Scar in front.
+DIALOGUE 6–9s: Frost (deep, thunderous): "WILD ONES... NOW!"
+12–22s: Slow-motion wide shot: the two stampedes crash together in the middle of the valley; dust explodes into the air; mammoths and bison push horn against tusk; bears knock soldiers off mammoths.
+DIALOGUE 16–19s: Hank (riding an elk, shouting): "YEE-HAW! Now THAT'S a rodeo!"
+22–30s: Old Scar stands up on his hind legs and roars at a mammoth twice his size; the mammoth backs away. Damian, struggling to control his mammoth, looks at the battle in shock. Final frame: dust and chaos, bison everywhere.
+DIALOGUE 27–30s: Prince Damian (shocked): "Since when do BEARS fight in wars?!"
+SFX: gate crashing, mammoth trumpets, a deep animal call, a huge bison stampede, a massive collision, roaring bears, hooves, dust, shouts.
+MUSIC: epic battle orchestra with heavy war drums and choir.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 164 - "Grandma's Revenge": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
+Part 163 | 50 war mammoths vs a stampede of American bison 🦬🦣💥 #Bigfoot #Movie #Part163
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES

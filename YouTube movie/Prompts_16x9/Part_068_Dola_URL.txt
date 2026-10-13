@@ -1,0 +1,66 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
+
+FROST: Son of the Wild
+PART 068 - "The First Roar"
+Punch: ACTION + WOW + TWIST
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+FORMAT: YOUTUBE 16:9
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s YouTube 16x9
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+YOUTUBE 16:9 FRAMING LOCK:
+Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V05_Frost_Baby.png -> Variant Frost_Baby; S06_SarahMiller_FULL.png -> Sarah Miller; S03_HankMiller_FULL.png -> Hank Miller; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+CAST NOTE: Tommy = a cheerful boy (10–14), messy brown hair, freckles, red cap.
+Dusk at the forest edge near the cabin, torches.
+0–3s: From a tree branch above, a mountain lion leaps down toward little Sarah.
+DIALOGUE 1–3s: Hank (screaming): "SARAH!"
+3–12s: Slow motion: before anyone can move, baby Frost jumps in front of Sarah and lets out a ROAR — not a squeak this time, but a deep powerful roar. For one second his blue eyes glow and tiny blue sparks crackle in his fur.
+12–20s: The mountain lion freezes mid-air, lands, and runs away in terror into the forest. Everyone stares, stunned. Frost sits down, sneezes, and looks proud.
+DIALOGUE 14–17s: Tommy (shocked young boy): "Whoa... he SAVED her!"
+DIALOGUE 17–19s: Sarah (hugging him): "My hero!"
+20–30s: The crowd erupts in cheers. Hank kneels down and gently pats Frost's head.
+DIALOGUE 22–25s: Hank (deep friendly voice, smiling): "Welcome to Cedar Hollow, little fella."
+In the back, Old Joe leans on his stick, staring at the fading blue sparks.
+DIALOGUE 27–30s: Old Joe (slow raspy wise voice, whispering): "Blue fire... the blood of Orin is awake."
+Final frame: close-up of Old Joe's serious eyes.
+SFX: mountain lion screech, slow-motion whoosh, powerful roar, electric crackle, big cat running away, cheers, sneeze.
+MUSIC: epic heroic swell, then a happy cheer moment, ending on a mysterious magical tone.
+
+SUSPENSE HOOK LOCK:
+The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 069 - "Cannonball!": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
+Part 68 | Baby Frost's first REAL roar ⚡🦁 The whole village saw it! #Bigfoot #Movie #Part68
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES

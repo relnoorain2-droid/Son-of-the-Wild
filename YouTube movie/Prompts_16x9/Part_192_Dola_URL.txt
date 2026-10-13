@@ -1,0 +1,65 @@
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C06_ElderOrin_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C06_ElderOrin/C06_ElderOrin_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
+
+FROST: Son of the Wild
+PART 192 - "Home"
+Punch: EMOTION
+Status: ready - URL PACKAGE
+
+REFERENCE IMAGES FOR THIS PART
+Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
+
+PROMPT TO PASTE IN DOLA
+FORMAT: YOUTUBE 16:9
+EXACT 30-SECOND OUTPUT LOCK:
+This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
+Use active skill: Zakariya Seedance 2 5 30s YouTube 16x9
+Model: Seedance 2.5
+Duration: exactly 30 seconds (not 15 seconds)
+Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+
+YOUTUBE 16:9 FRAMING LOCK:
+Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
+
+CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V09_Bruno_Spirit.png -> Variant Bruno_Spirit; C06_ElderOrin_FULL.png -> Elder Orin.
+LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+
+LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
+Late night, a quiet hill above the celebration, a sky full of stars, the party lights glowing below.
+0–3s: Frost and Lily sit on the hill looking at the stars. Frost holds the small glowing blue crystal.
+DIALOGUE 1–4s: Frost (deep, soft): "Mom... do you think Dad would be proud?"
+3–12s: Lily leans on his huge arm, just like she leaned on Bruno's long ago.
+DIALOGUE 4–12s: Lily (soft, smiling): "Frost, you had every reason to hate. And you chose to protect. He'd be the proudest giant in the whole sky."
+12–22s: The stars begin to glow brighter. In the sky, made of starlight, Bruno appears, smiling down at them. Behind him, Elder Orin nods. Bruno raises his giant hand in a wave.
+DIALOGUE 15–20s: Bruno (spirit voice, very deep slow warm gravelly, echoing softly): "Bruno so proud. Be happy, my family. Forever."
+22–30s: Frost and Lily wave back to the sky, tears and smiles. The spirits slowly fade into the stars. The camera rises slowly over the hill, over the party, over the forest, over the mountains, into the stars.
+DIALOGUE 24–27s: Lily (whispering): "He's home, Bruno. We're all home."
+DIALOGUE 27–30s: NARRATOR (deep cinematic American trailer voice): "Strong hands... gentle heart. The End."
+Final frame: the sky full of stars, one star shaped like a giant handprint glowing softly.
+SFX: night wind, distant party music, crickets, a soft magical shimmer, Bruno's echoing voice, a final gentle chime.
+MUSIC: the love theme and the Frost theme together, building to a beautiful final orchestral chord, then fading to silence.
+
+FINAL EMOTIONAL CLOSURE LOCK:
+This is the final movie ending. Do not add a new cliffhanger. End with emotional closure, a lingering magical image, and a final feeling that the story is complete but unforgettable.
+
+GLOBAL RULES:
+AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
+STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
+SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
+NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+
+YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
+Part 192 | THE END 🥹💙 "Strong hands... gentle heart." Thank you for watching all 192 parts! #Bigfoot #Movie #Part192 #TheEnd
+
+DOLA STATUS
+[ ] Images uploaded
+[ ] Prompt pasted
+[ ] Video generated
+[ ] Downloaded
+[ ] Needs revision
+
+NOTES
