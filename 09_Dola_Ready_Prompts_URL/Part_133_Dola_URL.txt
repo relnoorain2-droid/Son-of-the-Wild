@@ -18,7 +18,7 @@ Use active skill: Zakariya Seedance 2 5 30s
 Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
-Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
 CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C05_Frost_FULL.png -> Frost; C05_Frost_FACE.png -> Frost; L03_DeepForest.png -> Location DeepForest.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.

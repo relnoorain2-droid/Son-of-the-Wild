@@ -20,7 +20,7 @@ Use active skill: Zakariya Seedance 2 5 30s
 Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
-Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
 CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: C01_Lily_FULL.png -> Lily Carter; S01_GraceCarter_FULL.png -> Grace Carter; K02_RedDragon.png -> Western red dragon; K06_WarMammoth.png -> armored war mammoths; L02_KingCastle.png -> Thorne Castle.
 LILY LOOK LOCK: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older.

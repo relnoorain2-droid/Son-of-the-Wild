@@ -20,7 +20,7 @@ Use active skill: Zakariya Seedance 2 5 30s
 Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: vertical 9:16
-Mode: image-to-video using the direct GitHub raw image URLs listed above. Do not require local uploads.
+Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
 
 CHARACTER LOCK: Keep every character's face, body, hair, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: C01_Lily_FULL.png -> Lily Carter; S01_GraceCarter_FULL.png -> Grace Carter; S07_CaptainVex_FULL.png -> Captain Vex; L01_LilyHouse.png -> Lily's poor home; C02_KingMagnus_FULL.png -> King Magnus in story insert/vision only.
 LILY LOOK LOCK: Lily is a 22-year-old poor American woman, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair.

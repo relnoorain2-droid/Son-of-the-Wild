@@ -8,7 +8,7 @@ description: "Seedance 2.5 video generation, hard-locked to one single 30-second
 ## Hard Lock (non-negotiable, overrides everything below)
 
 - **Duration is locked at 30 seconds.** Always pass `duration: 30`.
-- **Never deliver a 15-second result.** If the generated file is shorter than 29 seconds, it is not complete. Regenerate once with the same references and an even stronger exact-duration instruction before delivering.
+- **Never deliver a 15-second result.** If the generated file is shorter than 29 seconds, it is not complete. Do not repeat the same capped route. Switch to the Seedance 2.5 30s composer route, or use text_to_video with the raw GitHub image URLs kept inside the prompt as references.
 - **One single continuous segment.** One tool call = one complete 30-second video.
 - **Model is locked to Seedance 2.5.** Always pass `model_version: "seedance_2.5"`.
 - **Ratio is locked to 9:16** (vertical reels) unless the user explicitly asks for another ratio. If a PART block contains `FORMAT: YOUTUBE 16:9`, it is the YouTube version: use ratio 16:9 and write "widescreen 16:9" instead of "vertical 9:16" in the GLOBAL RULES.
@@ -18,7 +18,7 @@ description: "Seedance 2.5 video generation, hard-locked to one single 30-second
 
 - Never split into two 15-second clips or any multi-part sequence inside one request.
 - Never propose, offer or mention a two-segment / multi-clip / shorter-compressed delivery.
-- Never present a "platform limitation", "tool cap", fallback, Plan B or workaround.
+- Never claim Seedance 2.5 cannot do 30 seconds just because one route returned 15 seconds. If image_to_video returns 15 seconds, treat that as the wrong route and switch route.
 - Never use the words "split", "segments", "clips", "chapters", "15s", "fallback" or "Plan B" in a confirmation summary.
 - Note: "PART 01, PART 02 ..." are separate movie episodes the user posts one by one. Each PART is its own complete 30-second video and its own request. This is not splitting.
 
@@ -36,7 +36,7 @@ description: "Seedance 2.5 video generation, hard-locked to one single 30-second
 - **Model:** Seedance 2.5 (`seedance_2.5`)
 - **Duration:** 30 seconds, single continuous segment
 - **Ratio:** 9:16 default (also supports 21:9, 16:9, 4:3, 1:1, 3:4)
-- **Input modes:** `text_to_video`, `image_to_video`
+- **Input modes:** prefer the visible/composer "Seedance 2.5 30s" route or `text_to_video` with raw GitHub image URLs inside the prompt. Use `image_to_video` only after it is verified to return 29-31 seconds in the current account/session.
 - **Audio:** native — dialogue (lip-synced), sound effects, music
 
 ---
@@ -49,14 +49,14 @@ Triggered when the user pastes a block that starts with `PART xx` (from the file
 
 1. **Read the PART block.** It already contains the full 30-second prompt, dialogue, SFX, music and the list of reference images. It is pre-approved by the user.
 2. **Inspect every attached image with `Read`.** Match each file name to the character named in the prompt (C01 = Lily, C02 = King Magnus, C03 = Prince Damian, C04 = Bruno, C05 = Frost, C06 = Elder Orin, V = variant look, S = supporting, K = creature, L = location).
-3. **Use public image URLs first.** If the PART prompt contains a section named `DIRECT IMAGE URLS FOR DOLA`, `REFERENCE IMAGE URLS`, or direct `https://raw.githubusercontent.com/.../*.png` / `.jpg` / `.webp` links, use those URLs directly in `image_reference_url_list`. Do not ask the user to upload those same images again.
+3. **Use public image URLs first.** If the PART prompt contains a section named `DIRECT IMAGE URLS FOR DOLA`, `REFERENCE IMAGE URLS`, or direct `https://raw.githubusercontent.com/.../*.png` / `.jpg` / `.webp` links, keep those URLs inside the full prompt as character-reference URLs. Do not ask the user to upload those same images again. Use `image_reference_url_list` only if the selected route is already verified to produce 29-31 seconds.
 4. **Upload only when URLs are missing.** If the PART prompt lists only local files or attached files, inspect every attached image with `Read`, upload with `FileBatchUpload`, and use only the returned URLs in `image_reference_url_list`. Never pass local Windows paths like `C:\...` to the video tool.
-5. **Generate immediately** with `image_to_video` (or `text_to_video` only if no image references exist). Do not ask for confirmation again — a pasted PART block counts as "go". Only ask if a required character reference is missing; then say exactly which character/image is missing in one line.
+5. **Generate immediately using the 30-second Seedance route.** Prefer the visible/composer route named "Seedance 2.5 30s" when available. If a callable backend must be chosen, use `text_to_video` with all raw GitHub image URLs kept inside the prompt as character-reference URLs. Use `image_to_video` only if this exact route is already verified to return a real 29-31 second video in the current account/session; if it returns about 15 seconds once, do not use that route again for this movie.
 6. **Pass the prompt exactly as written.** Do not shorten, summarize or remove any DIALOGUE, SFX or MUSIC line. Prepend the CHARACTER LOCK and append the GLOBAL RULES below.
    - If the video tool rejects or cuts the prompt because it is too long, shorten ONLY the visual description lines. Every DIALOGUE, SFX and MUSIC line stays word-for-word.
    - DIALOGUE time windows are a guide: every line must be spoken, in the given order, clearly, at a natural speed. Never drop a line to save time.
    - The "LOOK LOCK" line inside a PART is part of the prompt. Keep it.
-7. **Verify duration before final delivery.** The output must be 29-31 seconds. If the first render is about 15 seconds, do not call it complete; regenerate using the same images and prepend: `EXACT 30 SECOND OUTPUT REQUIRED. Do not make a 15-second version. Use the full 0-30s timeline.`
+7. **Verify duration before final delivery.** The output must be 29-31 seconds. If the first render is about 15 seconds, do not call it complete and do not retry the same backend path. Switch to the Seedance 2.5 30s composer/text route and prepend: `EXACT 30 SECOND OUTPUT REQUIRED. Use Seedance 2.5 30s route. Do not use any route that returns 15 seconds. Use the full 0-30s timeline.`
 8. Deliver the video via `NotifyHuman` with a renderable video asset, plus the Facebook caption from the PART block.
 
 ### CHARACTER LOCK (prepend to every movie prompt)
@@ -119,15 +119,16 @@ Design one 30-second arc: Opening 0–5 s, Development 5–20 s, Resolution 20�
 Present: Duration 30 s, Model Seedance 2.5, Ratio, Style, Scene/characters, Lighting, Content, Dialogue/SFX/Music, Negative constraints. No fallback or split language. Wait for "go / yes / generate".
 
 ### 3. Generation
-Call `text_to_video` or `image_to_video` with `model_version: "seedance_2.5"`, `duration: 30`, `ratio`, full `prompt`, and `image_reference_url_list` (URLs from `FileBatchUpload` only). Deliver via `NotifyHuman`.
+Use the visible/composer route named "Seedance 2.5 30s" when available. If a callable backend must be chosen, prefer `text_to_video` with `model_version: "seedance_2.5"`, `duration: 30`, `ratio`, and the full prompt containing all raw GitHub image URLs as character-reference URLs. Use `image_to_video` only if that exact route is already verified to return 29-31 seconds in the current account/session. Deliver via `NotifyHuman`.
 
 ---
 
-## Image-to-Video
+## Image Reference Handling
 
 1. Inspect every local image with `Read` first.
 2. Upload with `FileBatchUpload` to get public URLs.
-3. Use only those URLs in `image_reference_url_list`.
+3. Prefer keeping public URLs inside the full text prompt for the 30-second Seedance route.
+4. Use `image_reference_url_list` only if that route is already verified to produce 29-31 second videos in the current session. If it returns about 15 seconds, stop using that route for this movie and switch to the composer/text route.
 4. State in the prompt which characteristics must be preserved (face, fur, outfit, style).
 
 ### Public GitHub URL Mode
@@ -151,13 +152,19 @@ Rules:
 ## Tool Call Pattern (the only pattern)
 
 ```
-image_to_video(
+Preferred 30s route:
+Use the visible/composer generation route named "Seedance 2.5 30s" with duration 30 and ratio 9:16.
+
+If using a callable backend, prefer:
+
+text_to_video(
   model_version: "seedance_2.5",
   duration: 30,
   ratio: "9:16",
-  prompt: "EXACT 30 SECOND OUTPUT REQUIRED. Do not generate 15 seconds. Use the full 0-30s timeline. " + "<CHARACTER LOCK> + <PART prompt exactly as written> + <GLOBAL RULES>",
-  image_reference_url_list: ["<url-from-FileBatchUpload>", ...]
+  prompt: "EXACT 30 SECOND OUTPUT REQUIRED. Use Seedance 2.5 30s route. Do not use any route that returns 15 seconds. Use the full 0-30s timeline. Treat these raw GitHub URLs as character references: <REFERENCE IMAGE URLS>. " + "<CHARACTER LOCK> + <PART prompt exactly as written> + <GLOBAL RULES>"
 )
+
+Only use image_to_video if that route is verified to produce 29-31 seconds on the current account/session.
 ```
 
 ```
