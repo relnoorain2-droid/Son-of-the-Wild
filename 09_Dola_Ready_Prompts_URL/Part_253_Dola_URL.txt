@@ -1,58 +1,39 @@
 PART 253 - "Father!"
 
-REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-C06_ElderOrin_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C06_ElderOrin/C06_ElderOrin_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
+REFERENCE IMAGE URLS:
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C06_ElderOrin/C06_ElderOrin_FULL.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
 
-PROMPT TO PASTE IN DOLA
-FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO:
+One complete 30-second English cinematic video, vertical 9:16. Photorealistic faces, natural skin, detailed fur, fabric, water and light. This is an independent prompt: establish the written opening exactly and use the references without relying on prior renders. Only characters called for by each shot appear; listing an image does not add its character to every scene.
 
-SELF-CONTAINED PART RULE:
-Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
-
-REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
-
-STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
-
-CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
-
-LILY FACE LOCK:
-Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
-
-FROST AGE LOCK: Frost appears only as adult Frost in this part. Use C05_Frost_FULL.png as the age and face guide.
-FROST GROWTH CANON: Frost grows unusually fast because of his mixed wild Bigfoot genes and royal human blood. Do not show the wrong age stage in this part.
-FROST CREATURE LOCK: Frost is not a dog, wolf, puppy, bear, normal child, or normal man. Keep the hybrid Bigfoot identity readable in the face, hands, body, and movement.
-
-SCENE:
-Frost kneels on one knee at the stone circle, both hands on the stones, head raised to the full moon.
+IDENTITY AND POWER:
+Frost is an adult white Bigfoot with blue eyes, upright humanoid limbs and broad hands and feet; never a dog, bear, human in a suit or cartoon. Use C05 for face and anatomy. He has only the restrained trial marks already earned: two before Part 246, three after its completion, four after Part 250. No full V08 pattern, flight, immunity or mastered lightning before Part 254.
+Lily remains the same young adult mother matching V04, not pregnant or elderly. Tommy and Sarah remain reference-aged children across this batch and stay with guarded rear helpers during the battle; adult volunteers handle tunnel infiltration and fighting. Martha, Hank, Joe and Rose each keep their reference faces. Grace appears only in Part 265 at her old home.
+Bruno is dead; V09 is a distinct translucent spirit, never a resurrected body. Orin is his separate elder father matching C06. Energy flows Orin into Bruno, then Bruno into Frost. Part 254 completes the gift prepared earlier, not a different source of power. Spirits fade after the written scene and do not become living army members.
+Old Scar matches K08; its scar is a subtle healed detail, not a new creature design. Animal mouths remain natural; communication is through feeling, not human lip-synced words.
 
 SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 253. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-3s: Frost kneels on one knee at the stone circle, both hands on the stones, head raised to the full moon.
-3-12s: Silence. Then wind rises. The glowing flowers lift into the air and spin around him. The clouds part in a perfect circle around the moon.
-12-22s: In the sky, made of moonlight and stars, the giant glowing spirit of Bruno appears, smiling down at his son.
-22-30s: Behind Bruno, even bigger, appears Elder Orin: ancient, with a long white beard, glowing blue tattoos, holding a staff with a shining BLUE crystal. Lily and Old Joe step back in awe. Final frame: father and grandfather in the sky, the son kneeling below.
-24-30s: End on this clear suspense image: father and grandfather in the sky, the son kneeling below. Hold the final emotion for the last second; do not resolve it.
+0-5s: Lily kneels beside the memorial while Frost places both palms on a stone.
+5-11s: He calls to Bruno, seeking guidance after the trials.
+11-17s: Bruno's translucent spirit appears above the memorial, matching V09.
+17-24s: Bruno calls his father; Orin appears above him as a distinct elder spirit.
+24-30s: End with grandfather above father, Frost below and Lily beside the stones.
 
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The truth is closer than anyone admits. This is the hour of Father."
-DIALOGUE 2 (8-12s): Lily (young emotional American woman): "My heart is afraid, but I will not let fear choose for me. Not after Father. The silence proves it."
-DIALOGUE 3 (18-22s): Frost (young hybrid Bigfoot-human voice): "I can feel my blood changing faster than my years. Not after Father. The forest already knows."
+SPOKEN AUDIO:
+Frost: "Father, I have tried to learn what you protected."
+Speak only these words once in English, at a natural pause matching the action. Clear distinct voices, accurate lip sync, complete lines without rushing. Do not add repeated catchphrases, spoken titles or combat commentary.
 
-DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+CAMERA, ACTION AND SOUND:
+Wide and medium-wide shots establish geography before movement or contact. Medium shots keep reference faces recognizable without extreme close-ups. Keep heads, hands, feet and key props inside vertical safe margins. Preserve screen direction, physical distances, current injuries, clothes and carried objects across cuts. Sounds follow the scene: water near water, footsteps on matching surfaces, restrained impacts in combat, wind outdoors, horns or animal calls only when written. Music supports mood beneath dialogue and effects. Practice scenes show safe cleared areas; battle scenes keep families behind cover.
 
-SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
-
-MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+CONTINUITY AND COUNTS:
+Time passes only where the plan states. Before the final battle do not show the king defeated. In the castle stable sequence there are three outer small dragons and three inner small dragons, six total once released. The mammoth charge uses one lead plus two additional mammoths, three total. Part 279 has exactly six dark Bigfoots and one T-rex. The great red dragon is a single consistent K02 creature with Magnus in a secured neck saddle, never another duplicate. Chains and the red crystal are separate controls: physical release does not instantly break all magic. Frost's brief setback in Part 285 is followed by recovery in Part 288, without a second awakening from rubble. The names room is discovered once in Part 287; later scenes handle its evidence. End on the final written image without a recap or unrelated copied cliffhanger.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Frost must not look like a white dog, puppy, wolf, normal boy, or normal man.
+No subtitles, captions, logos, watermarks, random text, cartoon/anime or plastic faces, face swaps, extra limbs, duplicate children, dog-looking Bigfoot, gore, nudity, premature powers or unrequested speech. No baby Frost or sudden human aging. Keep spirit visions clearly separate from real geography.
