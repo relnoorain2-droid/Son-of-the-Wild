@@ -1,59 +1,24 @@
 PART 032 - "No Way Back"
 
-REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
-C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
-L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
-K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
-K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
+REFERENCE IMAGE URLS:
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 
-PROMPT TO PASTE IN DOLA
-FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
-
-SELF-CONTAINED PART RULE:
-Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
-
-REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
-
-STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
-
-CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
-
-LILY FACE LOCK:
-Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
-
-BRUNO CREATURE LOCK:
-Bruno is a huge black/dark-furred Bigfoot with a gentle but powerful face. He is not a gorilla costume, not a bear, not a dog, not a cartoon monster, and not a normal human. Keep his scale and fur consistent.
-
-
-SCENE:
-Lily hides under roots while riders pass nearby with torches.
+Create exactly one 30-second English video, vertical 9:16, photorealistic cinematic animation. This prompt is self-contained. Match every listed character's face, hair, anatomy, clothing and fur to its reference. Only show the characters explicitly described below. Lily remains age 22-24 with the wedding-reference face and honey-blonde hair. Her original wedding dress is damp, with a muddy hem and small branch tear. Preserve these details; do not substitute forest clothing. From Part 033's shoe loss onward, keep one shoe missing. Bruno appears only in Part 040 and is a massive upright black-furred Bigfoot, never a human, dog, bear or cartoon.
 
 SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 032. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-5s: Open immediately on the clearest visual action for this part: Lily hides under roots while riders pass nearby with torches.
-5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
-14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
-24-30s: End on this clear suspense image: A paw print appears beside her hand. Hold the final emotion for the last second; do not resolve it.
+0-5s: Lily crouches beside a root shelter before dawn, one hand on wet bark.
+5-11s: She slides under the roots as torchlight approaches behind her.
+11-17s: Two guards pass on the path above; show their boots and matching armor, without seeing Lily.
+17-24s: Lily holds still until their light recedes. Her mouth remains closed.
+24-30s: She places her hand on damp ground and notices an old wolf paw print beside it. End on her hand and print.
 
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "Every shadow is carrying a warning. This is the hour of No Way Back."
-DIALOGUE 2 (8-12s): Lily (young emotional American woman): "I know what I saw, and I am not going back blind. Not after No Way Back. The forest already knows."
-DIALOGUE 3 (18-22s): Bruno (very deep gentle Bigfoot voice): "Bruno remembers the smell of fear here. Not after No Way Back. I know it in my bones."
+AUDIO:
+No dialogue. Muted hooves, guard footsteps, torch crackle and restrained breathing. Speak only the explicitly written line, in English with accurate lip sync. If no dialogue is specified, keep mouths free of speaking movements. No invented narration, repeated catchphrases or spoken part titles. Natural ambience and quiet orchestral tension, mixed beneath any speech.
 
-DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
-
-SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
-
-MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+CAMERA AND CONTINUITY:
+Use medium shots for faces and wide shots for action geography. Keep heads, hands and bodies within vertical safe margins. Preserve screen direction, established positions, lighting and costume damage between cuts. Time changes occur only where explicitly described. No extreme face close-ups, random location changes or duplicated characters.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Bruno must not look like a normal gorilla, bear, dog, or human.
+No subtitles, captions, logos, watermarks, cartoon style, plastic faces, face swaps, age changes, extra limbs, changing animal counts, unexplained costume changes, gore or unnecessary speech.
