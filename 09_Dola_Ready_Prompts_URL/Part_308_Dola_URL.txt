@@ -1,54 +1,33 @@
 PART 308 - "Mama"
 
-REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L01_LilyHouse.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L01_LilyHouse/L01_LilyHouse.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V14_Grace_Older.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V14_Grace_Older/V14_Grace_Older.png
+REFERENCE IMAGE URLS:
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S01_GraceCarter/S01_GraceCarter_FULL.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L01_LilyHouse/L01_LilyHouse.png
 
-PROMPT TO PASTE IN DOLA
-FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO:
+One complete 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, cloth, stone and natural light. Self-contained generation: reproduce the opening state and only the characters required by the shots. References lock identities, not a requirement to crowd every shot with all listed people.
 
-SELF-CONTAINED PART RULE:
-Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
-
-REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
-
-STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
-
-CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
-
-LILY FACE LOCK:
-Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
-
-
-SCENE:
-Lily walks slowly up the old dusty path. Through the kitchen window she sees the small blue wildflower she secretly left in the mailbox, now standing in a little glass of water on the table.
+IDENTITY AND STORY LOCKS:
+Present Frost uses V08: adult white Bigfoot, exact blue eyes, reference facial structure, upright humanoid hands and feet, consistent glowing patterns. No dog muzzle, tail, bear body, human face or new transformation costume. Part 300 intensifies the power he already received through Orin and Bruno after the trials; it does not create a new power source. Lily remains V04, a young adult mother, not pregnant in the present. Grace uses S01 for the reunion. Martha and Rose are different women and never swap faces. Tommy and Sarah remain their child references and stay away from combat.
+Bruno is dead. His living C04 body appears only in Part 300's explicitly internal past memory; pregnant Lily uses V03 there, baby Frost uses V05 only in the subsequent memory. His V09 spirit appears only where written, distinct from Orin's C06 elder spirit. No resurrection. Magnus and Damian retain the same referenced faces throughout, with current dust and damage, not sudden old age. The great red dragon is exactly one K02 dragon; Magnus sits in its secured neck saddle until the crystal breaks. It becomes free, not a different creature, afterward.
 
 SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 308. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-4s: Lily walks slowly up the old dusty path. Through the kitchen window she sees the small blue wildflower she secretly left in the mailbox, now standing in a little glass of water on the table.
-4-12s: She knocks. Footsteps. The door opens slowly. Grace — her mother, now older, with white hair in a bun, a wooden cane and the same faded apron — stands there and freezes.
-12-22s: Grace drops her cane and holds Lily's face with both shaking hands, touching her cheeks and her hair as if she can't believe it.
-22-30s: Mother and daughter hug in the doorway, both crying, holding each other tightly. Final frame: through the kitchen window behind them, two plates on the table and the little blue flower in its glass.
-24-30s: End on this clear suspense image: through the kitchen window behind them, two plates on the table and the little blue flower in its glass. Hold the final emotion for the last second; do not resolve it.
+0-5s: Days after the kingdom is secured, Lily walks to her mother's old house.
+5-11s: The blue flower from the mailbox now stands in a glass inside the window.
+11-17s: She knocks and Grace opens the door, matching her familiar reference.
+17-24s: They recognize each other and embrace, letting the reunion breathe.
+24-30s: End on their joined hands beside the open doorway.
 
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "This moment changes the road ahead. This is the hour of Mama."
-DIALOGUE 2 (8-12s): Lily (young emotional American woman): "I know what I saw, and I am not going back blind. Not after Mama. I know it in my bones."
-DIALOGUE 3 (18-22s): Grace (worried loving mother): "I should have hidden you before they learned your name. Not after Mama. No one else can carry it."
+SPOKEN AUDIO:
+Lily: "Mama. I am home." Grace: "My Lily."
+Speak only these words once in English at the corresponding natural pause, with accurate lip sync and clear distinct voices. Allow complete lines without rushing. No repeated catchphrases, spoken titles or unrequested speeches.
 
-DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+CAMERA AND SOUND:
+Establish geography before fast movement or contact. Use wide views for flight and crowds, medium views for recognizable faces; no extreme distorted portraits. Keep heads, hands, action and important props inside vertical safe margins. Preserve physical distances, screen direction, clothes, dust, wounds and carried objects across cuts. Sound comes from the written scene: wind and wingbeats in flight, restrained impacts during combat, bells after victory, quiet village ambience during reunion. Music supports speech and effects and becomes warm and restrained for the ending. Danger scenes need no filler dialogue.
 
-SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
-
-MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+CONTINUITY:
+The missing brides' families and palace workers carry the recovered evidence; do not resurrect dead brides. Damian is disarmed and taken into custody in Part 293. Magnus loses crystal control in Part 299, loses his army afterward, refuses mercy in Part 305 and does not return alive. Frost arrests his fall in Part 300; Part 303 is a separate brief roof-footing failure and voluntary dragon assistance, not a reset to the earlier long fall. The names-room evidence has already been recovered. Time passes only where specified, with daylight and weather changing coherently. Cedar Hollow is in Oregon. Peace scenes resolve the story; Part 312 closes it completely.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+No subtitles, captions, logos, watermarks, random text, cartoons, anime, plastic faces, identity swaps, extra limbs, duplicate characters, human-looking or dog-looking Bigfoot, gore, nudity, children fighting or unrequested speech. No new unexplained crystal prop, new villain or unfinished final cliffhanger.

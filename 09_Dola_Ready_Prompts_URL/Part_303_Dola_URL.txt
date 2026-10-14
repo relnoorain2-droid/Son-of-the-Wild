@@ -1,58 +1,36 @@
 PART 303 - "Caught"
 
-REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
+REFERENCE IMAGE URLS:
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
 
-PROMPT TO PASTE IN DOLA
-FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO:
+One complete 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, cloth, stone and natural light. Self-contained generation: reproduce the opening state and only the characters required by the shots. References lock identities, not a requirement to crowd every shot with all listed people.
 
-SELF-CONTAINED PART RULE:
-Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
-
-REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
-
-STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
-
-CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
-
-LILY FACE LOCK:
-Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
-
-FROST AGE LOCK: Frost appears only as powered Frost in this part. Use V08_Frost_Powered.png as the age and face guide.
-FROST GROWTH CANON: Frost grows unusually fast because of his mixed wild Bigfoot genes and royal human blood. Do not show the wrong age stage in this part.
-FROST CREATURE LOCK: Frost is not a dog, wolf, puppy, bear, normal child, or normal man. Keep the hybrid Bigfoot identity readable in the face, hands, body, and movement.
-
-SCENE:
-Frost falls fast, eyes closed, toward the rocks.
+IDENTITY AND STORY LOCKS:
+Present Frost uses V08: adult white Bigfoot, exact blue eyes, reference facial structure, upright humanoid hands and feet, consistent glowing patterns. No dog muzzle, tail, bear body, human face or new transformation costume. Part 300 intensifies the power he already received through Orin and Bruno after the trials; it does not create a new power source. Lily remains V04, a young adult mother, not pregnant in the present. Grace uses S01 for the reunion. Martha and Rose are different women and never swap faces. Tommy and Sarah remain their child references and stay away from combat.
+Bruno is dead. His living C04 body appears only in Part 300's explicitly internal past memory; pregnant Lily uses V03 there, baby Frost uses V05 only in the subsequent memory. His V09 spirit appears only where written, distinct from Orin's C06 elder spirit. No resurrection. Magnus and Damian retain the same referenced faces throughout, with current dust and damage, not sudden old age. The great red dragon is exactly one K02 dragon; Magnus sits in its secured neck saddle until the crystal breaks. It becomes free, not a different creature, afterward.
 
 SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 303. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-3s: Frost falls fast, eyes closed, toward the rocks.
-3-12s: A gigantic shadow dives below him. The Great Red Dragon, its eyes now warm gold, gently catches Frost on its back between its huge horns.
-12-22s: The Great Red Dragon lands softly in front of Lily and lowers its giant head so Frost can slide down. Frost opens his eyes, weak, and holds up his hand: inside it, the pieces of the crystal have joined together into one small, pure BLUE crystal, glowing softly.
-22-30s: Lily hugs him, crying and laughing. The Great Red Dragon gently nudges Frost with its nose, making a deep purring sound like a giant cat. Final frame: Frost hugging the dragon's nose, Lily laughing.
-24-30s: End on this clear suspense image: Frost hugging the dragon's nose, Lily laughing. Hold the final emotion for the last second; do not resolve it.
+0-5s: Frost blocks Magnus's attempted weapon grab on the damaged roof walkway.
+5-11s: A loose stone section collapses beneath Frost's outer foot.
+11-17s: He steps into the air under control; the freed great dragon passes below and offers its broad back.
+17-24s: Frost lands briefly on the harness and is carried to the courtyard where Lily waits.
+24-30s: He thanks the dragon with a gentle touch before it leaves space for people.
 
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "One quiet choice can break a kingdom. This is the hour of Caught."
-DIALOGUE 2 (6-9s): Lily (young emotional American woman): "Tell me the truth before someone else pays for it! Not after Caught! That is what scares me!"
-After 9s, no extra spoken dialogue. Use breathing, footsteps, impact sounds, music, and reaction shots so the action does not become noisy.
+SPOKEN AUDIO:
+Frost: "Thank you for choosing to help."
+Speak only these words once in English at the corresponding natural pause, with accurate lip sync and clear distinct voices. Allow complete lines without rushing. No repeated catchphrases, spoken titles or unrequested speeches.
 
-DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+CAMERA AND SOUND:
+Establish geography before fast movement or contact. Use wide views for flight and crowds, medium views for recognizable faces; no extreme distorted portraits. Keep heads, hands, action and important props inside vertical safe margins. Preserve physical distances, screen direction, clothes, dust, wounds and carried objects across cuts. Sound comes from the written scene: wind and wingbeats in flight, restrained impacts during combat, bells after victory, quiet village ambience during reunion. Music supports speech and effects and becomes warm and restrained for the ending. Danger scenes need no filler dialogue.
 
-SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
-
-MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+CONTINUITY:
+The missing brides' families and palace workers carry the recovered evidence; do not resurrect dead brides. Damian is disarmed and taken into custody in Part 293. Magnus loses crystal control in Part 299, loses his army afterward, refuses mercy in Part 305 and does not return alive. Frost arrests his fall in Part 300; Part 303 is a separate brief roof-footing failure and voluntary dragon assistance, not a reset to the earlier long fall. The names-room evidence has already been recovered. Time passes only where specified, with daylight and weather changing coherently. Cedar Hollow is in Oregon. Peace scenes resolve the story; Part 312 closes it completely.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Frost must not look like a white dog, puppy, wolf, normal boy, or normal man. No unnecessary talking during the action.
+No subtitles, captions, logos, watermarks, random text, cartoons, anime, plastic faces, identity swaps, extra limbs, duplicate characters, human-looking or dog-looking Bigfoot, gore, nudity, children fighting or unrequested speech. No new unexplained crystal prop, new villain or unfinished final cliffhanger.
