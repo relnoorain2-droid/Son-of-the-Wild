@@ -1,59 +1,35 @@
 PART 146 - "The Barn Fire Buckets"
 
-REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
-S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+REFERENCE IMAGE URLS:
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
 
-PROMPT TO PASTE IN DOLA
-FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO:
+One complete 30-second English cinematic video, vertical 9:16. Photorealistic skin, hair, fur, clothes, natural lighting and locations. This is a standalone prompt: reproduce the opening state and named actions without memory of another render. Only characters required by the shot plan appear. Background villagers may fill a crowd, but never replace the named reference faces.
 
-SELF-CONTAINED PART RULE:
-Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
-
-REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
-
-STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
-
-CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
-
-LILY FACE LOCK:
-Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
-
-FROST AGE LOCK: Frost appears only as child Frost in this part. Use V06_Frost_Kid.png as the age and face guide.
-FROST GROWTH CANON: Frost grows unusually fast because of his mixed wild Bigfoot genes and royal human blood. Do not show the wrong age stage in this part.
-FROST CREATURE LOCK: Frost is not a dog, wolf, puppy, bear, normal child, or normal man. Keep the hybrid Bigfoot identity readable in the face, hands, body, and movement.
-
-SCENE:
-Flames rise from a barn and villagers panic.
+IDENTITY, AGE AND ANATOMY:
+Frost is kid stage in this part, matching the corresponding listed reference. Exactly one Frost appears. Snow-white fur, blue eyes, Bigfoot face with no canine muzzle, no tail, upright humanoid limbs, broad hands and feet. Never a white dog, bear, human in fur, toy, cartoon or miniature adult. Preserve face and proportions throughout the part; changes happen only at explicitly stated time passages. Do not change age during this clip.
+Frost grows faster because of Bruno's inherited Bigfoot genes and forest ancestry. Human children Tommy and Sarah age normally across the elapsed seasons; use their child references throughout this batch, without changing them to seventeen-year-old or adult faces. Lily matches V04 as the same young adult mother, never pregnant again or suddenly elderly. Martha, Hank and Joe each retain their own reference identity. Grace and Rose do not appear. Bruno is dead; only his old home, carving and Lily's memories remain, not a physical living Bruno.
+Frost has no powered tattoos, flight, magical armor or confirmed invulnerability yet. Part 174's brief light is an unexplained hint, not the ancestral transformation. His strength is exceptional, but rescues still show grounded effort and careful contact.
 
 SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 146. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-5s: Open immediately on the clearest visual action for this part: Flames rise from a barn and villagers panic.
-5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
-14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
-24-30s: End on this clear suspense image: The roof begins to fall. Hold the final emotion for the last second; do not resolve it.
+0-5s: The children leave the schoolhouse after the wolves retreat.
+5-11s: An alarm draws Frost and Lily to smoke rising from a barn.
+11-17s: Hank directs villagers to a bucket line while Frost carries a larger water barrel.
+17-24s: He pours water onto accessible flames, never onto people or livestock.
+24-30s: A weakened roof beam begins to drop while Hank stands near the barn door.
 
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "Nothing about this night is finished. This is the hour of The Barn Fire Buckets."
-DIALOGUE 2 (6-9s): Lily (young emotional American woman): "If this is a warning, I need to understand it now! Not after The Barn Fire Buckets! The crown will hear it!"
-After 9s, no extra spoken dialogue. Use breathing, footsteps, impact sounds, music, and reaction shots so the action does not become noisy.
+SPOKEN AUDIO:
+No dialogue, narration or song lyrics.
+Use breath, effort, reactions and natural effects rather than extra speech or random speaking mouth movements.
 
-DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+CAMERA, ACTION AND SOUND:
+Establish positions with a wide or medium-wide view before any rescue, game or contact. Keep screen direction and geography consistent, and keep faces, heads, hands and feet readable inside vertical safe margins. Use medium portraits instead of extreme distorted close-ups. Keep children at the explicitly safe locations; do not duplicate Sarah or Tommy between cuts. Objects change position only through visible handling. Use footsteps, water, restrained exertion, knocks, fire, animal calls or music only when the written scene motivates them. Quiet orchestral support stays beneath dialogue and key effects. Do not add speech to danger or fighting scenes.
 
-SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
-
-MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+CONTINUITY:
+Time passes only where stated; preserve current age, wetness, clothes, props and setting across cuts. Cedar Hollow is in Oregon. The village's trust grows from witnessed kindness; occasional fear does not restart the entire introduction. End on the final written action without copying an earlier part's cliffhanger. No unexplained return to the castle or battlefield. No scene of Frost learning Magnus killed Bruno: that truth comes after the later destruction of Cedar Hollow.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Frost must not look like a white dog, puppy, wolf, normal boy, or normal man. No unnecessary talking during the action.
+No subtitles, captions, logos, watermarks, random text, anime/cartoon or plastic faces, face swaps, extra limbs, duplicated characters, gore, nudity, unexpected pregnancy, dog-like Bigfoot or premature supernatural powers. Babies remain securely supported and covered; animal encounters do not become pet comedy unless specifically described.
