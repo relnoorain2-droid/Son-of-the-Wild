@@ -1,3 +1,5 @@
+PART 004 - "Wedding Bells In A Silent City"
+
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
@@ -7,65 +9,48 @@ S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
 L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 
-FROST: Son of the Wild
-PART 004 - "Wedding Bells In A Silent City"
-Punch: EXPANDED CUT - FORWARD STORY BEAT
-Status: ready - EXPANDED CANON PACKAGE
-
-REFERENCE IMAGES FOR THIS PART
-Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
-REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L02_KingCastle.png, C02_KingMagnus_FULL.png, C03_PrinceDamian_FULL.png, S08_KingdomGuards_FULL.png, S09_Brides_FULL.png, S11_Rose_FULL.png, L03_DeepForest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
-
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
-EXACT 30-SECOND OUTPUT LOCK:
-This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
-Use active skill: Zakariya Seedance 2 5 30s
-Model: Seedance 2.5
-Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: vertical 9:16
-Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
 
-VERTICAL 9:16 FRAMING LOCK:
-Compose every shot for a vertical 9:16 reels frame. Keep faces, bodies, action, and title cards centered with safe top and bottom margins. Avoid tiny distant subjects and avoid cutting off heads or full-body action.
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Do not rely on memory of any earlier generated video. Everything needed for this part is written here: image URLs, character locks, setting, shot timing, dialogue, and ending frame.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: L02_KingCastle.png -> reference character/location; C02_KingMagnus_FULL.png -> reference character/location; C03_PrinceDamian_FULL.png -> reference character/location; S08_KingdomGuards_FULL.png -> reference character/location; S09_Brides_FULL.png -> reference character/location; S11_Rose_FULL.png -> reference character/location; L03_DeepForest.png -> reference character/location.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
-Scene: The royal wedding begins with flowers, music, priests, guards, and citizens forced to clap.
-0-3s: Start with a strong immediate visual hook connected to the previous part.
-OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 003's final image: Build into the hook: The bride sees King Magnus watching without mercy. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now Wedding Bells In A Silent City moves the story forward."
-3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Rose (old nervous castle maid):  tonight."Remember Wedding Bells In A Silent City, child. It is your warning."
-10-18s: The royal wedding begins with flowers, music, priests, guards, and citizens forced to clap.
-DIALOGUE 11-15s: Prince Damian (smooth cold prince voice): "Smile through Wedding Bells In A Silent City; the court is watching."
-18-24s: The bride notices nobody in the crowd looks happy.
-DIALOGUE 19-23s: King Magnus (deep rough commanding king): "Let the kingdom remember Wedding Bells In A Silent City."
-24-30s: Build into the hook: Two maids whisper behind the curtain.
-SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
-MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.
-CAMERA: clear subject framing, expressive faces, one clean action beat, then a strong final hook.
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not change Lily/Bruno/Frost/King/Damian/Rose faces. If a character is not listed in the reference URLs, keep them background-only or do not show them.
 
-SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 005 - "The Crown Smiles": Two maids whisper behind the curtain. Keep continuity and do not add random new characters.
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic human skin, realistic hair, realistic cloth, natural eyes, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
 
-GLOBAL RULES:
-AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync. No line may be skipped. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16 cinematic frame.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, rural American towns, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-TEXT RULE: On-screen text is allowed only for intentional short cinematic title/location/time cards when this PART asks for it. No subtitles for dialogue. No random text.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no gore, no blood spray, no nudity, no explicit wedding-night content, no restraints, no chains, no forced physical contact, no extra limbs, no face morphing, no character drift.
+CAMERA LOCK:
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
 
-FACEBOOK/REELS CAPTION AFTER DOWNLOAD
-Part 4 | Wedding Bells In A Silent City - the story moves deeper. #Bigfoot #Movie #Part4
+ROSE PLACEMENT LOCK:
+Rose is an old castle maid/helper. She stays hidden at the side, behind a pillar, doorway, curtain, or corridor shadow unless this part explicitly says she gives a warning. She must not randomly enter the bedroom, center of wedding stage, or every shot.
 
-DOLA STATUS
-[ ] Images loaded by raw URLs
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
+DIALOGUE RULE:
+Use only the written dialogue lines below. Do not add extra speeches. If the scene is tense, let silence, music, eyes, and body language carry the emotion. No repeated dialogue from other parts.
 
-NOTES
-Expanded 312-part canon. This part must move the story forward and end with suspense unless it is the final part.
+SCENE:
+A formal royal wedding is staged inside the castle. It looks beautiful, but everyone is afraid.
+
+SHOT PLAN:
+0-4s: Interior castle hall, vertical 9:16. Candlelight, long aisle, red banners. Continue with the chosen young woman now in a simple white royal gown.
+4-10s: Wide aisle shot: Damian waits at the altar with a charming false smile. Keep him matching C03_PrinceDamian_FULL exactly.
+10-16s: The bride walks slowly. Her expression is scared, not romantic. Guests look down instead of smiling.
+16-23s: King Magnus watches from a raised seat in a medium-wide shot, hands on throne arms. No extreme face close-ups.
+23-30s: Final image: wedding bells ring, but the hall stays silent. The bride looks toward Rose hiding by a side doorway.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (somber cinematic voice): "The bells rang for a wedding, but the city did not celebrate."
+DIALOGUE 2: PRINCE DAMIAN (soft false kindness): "Stand beside me, and the court will see peace."
+DIALOGUE 3: ROSE (whisper from the side): "Do not trust a silent wedding."
+
+SFX:
+Natural castle ambience, cloth movement, footsteps, distant horn when written, tense cinematic hits only at transitions. Dialogue must be clear and louder than music.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score, slow tension, emotional but not melodramatic.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters.
