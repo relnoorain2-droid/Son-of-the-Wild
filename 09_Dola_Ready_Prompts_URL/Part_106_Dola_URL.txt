@@ -1,57 +1,34 @@
 PART 106 - "The Broken Cabin"
 
-REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+REFERENCE IMAGE URLS:
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 
-PROMPT TO PASTE IN DOLA
-FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO:
+Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
-SELF-CONTAINED PART RULE:
-Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+CHARACTER LOCKS:
+Lily remains approximately six months pregnant after reaching Cedar Hollow. Use V03; show fatigue and wet clothes where required without changing her face.
+Frost has not yet been visually revealed. No baby appears before Part 127; the first offscreen newborn cry belongs only at Part 126's end.
+Bruno is dead after Part 103. Do not show him alive, resurrected, or physically visiting Lily in later scenes. Memories are conveyed through Lily's behavior and his carved token unless the shot plan explicitly requests a dream.
 
-REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
-
-STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
-
-CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
-
-LILY FACE LOCK:
-Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
-
-
-SCENE:
-Lily reaches the cabin and finds holes in the roof, broken boards, and no food.
 
 SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 106. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-5s: Open immediately on the clearest visual action for this part: Lily reaches the cabin and finds holes in the roof, broken boards, and no food.
-5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
-14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
-24-30s: End on this clear suspense image: Something scratches at the door. Hold the final emotion for the last second; do not resolve it.
+0-5s: Lily approaches the cabin from the foggy riverbank.
+5-11s: She opens its broken door and checks the empty room.
+11-17s: Rain leaks through roof gaps; she finds no food and only an old quilt.
+17-24s: She settles on a dry bench, keeping the exit visible.
+24-30s: A loose branch scrapes the door outside, startling her.
 
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The truth is closer than anyone admits. This is the hour of The Broken Cabin."
-DIALOGUE 2 (8-12s): Lily (young emotional American woman): "If this is a warning, I need to understand it now. Not after The Broken Cabin. The silence proves it."
-DIALOGUE 3 (18-22s): Martha (warm older village woman): "This house protects whoever reaches its door. Not after The Broken Cabin. The forest already knows."
+SPOKEN AUDIO:
+No spoken dialogue or narration in this part.
+Use breath, expressions, movement and the written sound events instead of adding speech. No speaking mouth movements.
 
-DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+SOUND:
+Motivate effects from visible action: water and current during river scenes, grounded footsteps and restrained impacts during battle, fire and rain only where present, natural village or cabin ambience elsewhere. Animal calls, knocks and magical flashes occur only when written. Restrained orchestral music stays under words and important sounds. No filler speeches during combat, labor or rescue.
 
-SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
-
-MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+CAMERA AND CONTINUITY:
+Establish geography before action or contact. Use wide shots for movement and medium shots for readable reference faces. No extreme face close-ups or distorted portraits. Keep faces, hands and key action inside vertical safe margins. Preserve screen direction, injuries, clothing, carried objects, pregnancy stage and character counts across cuts. Time passes only where stated. Cedar Hollow is in Oregon. No repeated arrival at the riverbank, second first meeting with Martha, repeated birth or repeated revelation to the same person. End on the final written image, without recap or promotional cards.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+No subtitles, captions, logos, watermarks, cartoon/anime style, plastic faces, identity swaps, extra limbs, human-looking or dog-looking Bigfoot, gore, nudity, graphic childbirth or unrequested dialogue. Keep babies supported, faces uncovered and bodies clothed or wrapped. No threatening contact with a child.

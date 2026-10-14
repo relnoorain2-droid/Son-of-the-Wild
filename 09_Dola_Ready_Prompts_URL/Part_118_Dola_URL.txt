@@ -1,55 +1,36 @@
 PART 118 - "Hank and Martha"
 
-REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+REFERENCE IMAGE URLS:
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 
-PROMPT TO PASTE IN DOLA
-FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO:
+Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
-SELF-CONTAINED PART RULE:
-Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
-
-REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
-
-STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
-
-CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
-
-LILY FACE LOCK:
-Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
-
-
-SCENE:
-Hank Miller (50, cowboy hat, beard, plaid shirt) steps in holding a lantern high, an old shotgun pointed down at the floor — then sees Lily's pregnant belly and immediately steps back.
+CHARACTER LOCKS:
+Use V03 for Lily, progressing from seven months in Parts 112-121 to eight months in Part 122. Part 123 follows at that same stage. Changes happen only across the explicit weeks in the plan.
+Frost has not yet been visually revealed. No baby appears before Part 127; the first offscreen newborn cry belongs only at Part 126's end.
+Bruno is dead after Part 103. Do not show him alive, resurrected, or physically visiting Lily in later scenes. Memories are conveyed through Lily's behavior and his carved token unless the shot plan explicitly requests a dream.
+Martha is the village helper, not Lily's mother Grace and not Rose. Hank and Old Joe retain their own referenced faces. Grace appears only in Part 113's clearly identified dream. If children appear, exactly Tommy and Sarah are the named village children; they are distinct from baby Frost. Do not add another child to Lily's household.
 
 SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 118. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-3s: Hank Miller (50, cowboy hat, beard, plaid shirt) steps in holding a lantern high, an old shotgun pointed down at the floor — then sees Lily's pregnant belly and immediately steps back.
-3-12s: Lily slowly lowers her burning stick, still shaking.
-12-22s: Martha Hayes (68, round glasses, white curly hair, cardigan) pushes past Hank holding an umbrella and a basket of food.
-22-30s: Martha wraps a warm blanket around Lily and hands her fresh bread. Lily bites it and starts crying from relief. Final frame: Martha hugging Lily, Hank awkwardly holding the lantern.
-24-30s: End on this clear suspense image: Martha hugging Lily, Hank awkwardly holding the lantern. Hold the final emotion for the last second; do not resolve it.
+0-5s: Lily looks through the narrow door gap at the familiar lantern.
+5-11s: Hank identifies himself, keeping any carried weapon lowered outside; Martha stands beside him.
+11-17s: Lily opens the door and lets them bring in blankets and repaired roof fittings.
+17-24s: Martha checks that she is warm and fed, without repeating their first introduction.
+24-30s: Lily accepts Martha's gentle embrace while Hank awkwardly holds the lantern.
 
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "Nothing about this night is finished. This is the hour of Hank and Martha."
-DIALOGUE 2 (8-12s): Lily (young emotional American woman): "If this is a warning, I need to understand it now. Not after Hank and Martha. The crown will hear it."
-DIALOGUE 3 (18-22s): Martha (warm older village woman): "This house protects whoever reaches its door. Not after Hank and Martha. That is what scares me."
+SPOKEN AUDIO:
+Hank: "It is us. We brought the last roof patch." Martha: "You do not have to manage every storm alone."
+Speak these lines once in English, at the natural pause corresponding to the action. Allow the complete lines to fit without rushing. Accurate lip sync and distinct character voices; deep gentle Bruno, natural young adult Lily, calm Martha, controlled Magnus. Do not repeat earlier catchphrases or speak the part title.
 
-DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+SOUND:
+Motivate effects from visible action: water and current during river scenes, grounded footsteps and restrained impacts during battle, fire and rain only where present, natural village or cabin ambience elsewhere. Animal calls, knocks and magical flashes occur only when written. Restrained orchestral music stays under words and important sounds. No filler speeches during combat, labor or rescue.
 
-SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
-
-MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+CAMERA AND CONTINUITY:
+Establish geography before action or contact. Use wide shots for movement and medium shots for readable reference faces. No extreme face close-ups or distorted portraits. Keep faces, hands and key action inside vertical safe margins. Preserve screen direction, injuries, clothing, carried objects, pregnancy stage and character counts across cuts. Time passes only where stated. Cedar Hollow is in Oregon. No repeated arrival at the riverbank, second first meeting with Martha, repeated birth or repeated revelation to the same person. End on the final written image, without recap or promotional cards.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+No subtitles, captions, logos, watermarks, cartoon/anime style, plastic faces, identity swaps, extra limbs, human-looking or dog-looking Bigfoot, gore, nudity, graphic childbirth or unrequested dialogue. Keep babies supported, faces uncovered and bodies clothed or wrapped. No threatening contact with a child.

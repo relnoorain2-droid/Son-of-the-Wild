@@ -1,58 +1,41 @@
 PART 092 - "Fire from the Sky"
 
-REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-K03_SmallDragons.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K03_SmallDragons/K03_SmallDragons.png
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
-V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
+REFERENCE IMAGE URLS:
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K03_SmallDragons/K03_SmallDragons.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
 
-PROMPT TO PASTE IN DOLA
-FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO:
+Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
-SELF-CONTAINED PART RULE:
-Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+CHARACTER LOCKS:
+Lily is approximately six months pregnant, matching V03. Preserve her forest clothing, pregnancy and wetness through battle and river shots.
+Frost has not yet been visually revealed. No baby appears before Part 127; the first offscreen newborn cry belongs only at Part 126's end.
+Bruno matches C04: huge upright black-furred Bigfoot, consistent face and anatomy, never human, dog, bear or gorilla costume. Battle exhaustion and wounds are non-graphic; keep them consistent. Magnus, Damian and Vex retain their distinct faces. The main force has five dark Bigfoots, one T-rex and one large red Western dragon; Part 092 adds exactly three smaller dragons. No extra creatures or unexplained replacements.
 
-REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
-
-STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
-
-CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
-
-LILY FACE LOCK:
-Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
-
-BRUNO CREATURE LOCK:
-Bruno is a huge black/dark-furred Bigfoot with a gentle but powerful face. He is not a gorilla costume, not a bear, not a dog, not a cartoon monster, and not a normal human. Keep his scale and fur consistent.
-
-
-SCENE:
-Three smaller dragons dive from the sky and breathe fire at the waterfall; steam explodes, revealing the cave.
 
 SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 092. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-3s: Three smaller dragons dive from the sky and breathe fire at the waterfall; steam explodes, revealing the cave.
-3-14s: Bruno runs and jumps in front of the cave, shielding the entrance with his body as dragon fire hits his back. He grabs one dragon by the tail and swings it into another.
-14-22s: While Bruno fights the dragons, Prince Damian sneaks around the rocks into the cave and grabs pregnant Lily by the arm.
-22-30s: Damian drags Lily out of the cave toward his horse. He sees her belly and stops, shocked, then disgusted. Final frame: Damian's sword rising toward Lily.
-24-30s: End on this clear suspense image: Damian's sword rising toward Lily. Hold the final emotion for the last second; do not resolve it.
+0-5s: Magnus signals from the ridge as Bruno holds the approach.
+5-11s: Exactly three smaller dragons dive toward the waterfall.
+11-17s: Fire hits wet stone; steam briefly thins the water curtain.
+17-24s: Inside, Lily leaves the threatened alcove by a side ledge.
+24-30s: Damian intercepts her on the ledge and raises his sword; end before contact.
 
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The truth is closer than anyone admits. This is the hour of Fire from the Sky."
-DIALOGUE 2 (6-9s): Lily (young emotional American woman): "I know what I saw, and I am not going back blind! Not after Fire from the Sky! The silence proves it!"
-After 9s, no extra spoken dialogue. Use breathing, footsteps, impact sounds, music, and reaction shots so the action does not become noisy.
+SPOKEN AUDIO:
+No spoken dialogue or narration in this part.
+Use breath, expressions, movement and the written sound events instead of adding speech. No speaking mouth movements.
 
-DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+SOUND:
+Motivate effects from visible action: water and current during river scenes, grounded footsteps and restrained impacts during battle, fire and rain only where present, natural village or cabin ambience elsewhere. Animal calls, knocks and magical flashes occur only when written. Restrained orchestral music stays under words and important sounds. No filler speeches during combat, labor or rescue.
 
-SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
-
-MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+CAMERA AND CONTINUITY:
+Establish geography before action or contact. Use wide shots for movement and medium shots for readable reference faces. No extreme face close-ups or distorted portraits. Keep faces, hands and key action inside vertical safe margins. Preserve screen direction, injuries, clothing, carried objects, pregnancy stage and character counts across cuts. Time passes only where stated. Cedar Hollow is in Oregon. No repeated arrival at the riverbank, second first meeting with Martha, repeated birth or repeated revelation to the same person. End on the final written image, without recap or promotional cards.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Bruno must not look like a normal gorilla, bear, dog, or human. No unnecessary talking during the action.
+No subtitles, captions, logos, watermarks, cartoon/anime style, plastic faces, identity swaps, extra limbs, human-looking or dog-looking Bigfoot, gore, nudity, graphic childbirth or unrequested dialogue. Keep babies supported, faces uncovered and bodies clothed or wrapped. No threatening contact with a child.
