@@ -1,59 +1,35 @@
 PART 225 - "I'm Not Strong Enough"
 
-REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C05_Frost_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
-C05_Frost_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FACE.png
-L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+REFERENCE IMAGE URLS:
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 
-PROMPT TO PASTE IN DOLA
-FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO:
+One complete 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, fur, cloth, water and natural locations. Independent prompt: recreate the written opening state without assuming memory of earlier generation. Only show characters required by each shot; references are identity guides, not instructions to add every character to every frame.
 
-SELF-CONTAINED PART RULE:
-Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
-
-REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
-
-STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
-
-CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
-
-LILY FACE LOCK:
-Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
-
-FROST AGE LOCK: Frost appears only as adult Frost in this part. Use C05_Frost_FULL.png as the age and face guide.
-FROST GROWTH CANON: Frost grows unusually fast because of his mixed wild Bigfoot genes and royal human blood. Do not show the wrong age stage in this part.
-FROST CREATURE LOCK: Frost is not a dog, wolf, puppy, bear, normal child, or normal man. Keep the hybrid Bigfoot identity readable in the face, hands, body, and movement.
-
-SCENE:
-Frost tries to make lightning in his palm. Only a tiny weak spark appears, then dies.
+CHARACTER LOCKS:
+Frost, if present, matches adult C05: snow-white fur, blue eyes, upright Bigfoot anatomy, broad humanoid hands and feet, no dog muzzle, tail, bear body or human face. Keep his size stable. Lily matches V04 as his young adult mother; she is not pregnant in present-time scenes. Tommy and Sarah remain their referenced children, aging normally rather than at Frost's accelerated rate. Martha, Hank, Joe, Magnus, Damian and Vex keep their distinct identities. Rose appears only in Part 203's past memory.
+Bruno appears physically only in explicitly identified past memories. His spirit in Parts 230-233 uses V09 and is translucent, separate from Frost; no resurrection. Orin is a distinct older ancestral spirit matching C06, not another Bruno. The power source is Orin, passing into Bruno's spirit and then into Frost. Full powered V08 form, flight, invulnerability and mastered lightning do not appear in this batch. Before Part 233 only weak uncertain hints occur; afterward show dormant potential and trial-specific marks without a complete transformation.
+Past Lily uses the wedding or pregnancy reference listed for that memory; never swap the present mother's face or clothes mid-shot. Injuries after the first battle remain non-graphic and heal only across the stated recovery days.
 
 SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 225. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-3s: Frost tries to make lightning in his palm. Only a tiny weak spark appears, then dies.
-3-12s: He turns his face to the wall.
-12-22s: Lily holds his hand silently, not knowing what to say. The door opens; Old Joe walks in, shaking rain off his umbrella. He puts the small carved Bigfoot-with-a-staff on the table.
-22-30s: Frost and Lily look at him.
-24-30s: End on this clear suspense image: Frost and Lily look at him. Hold the final emotion for the last second; do not resolve it.
+0-5s: Frost rests in the attached shelter after the rescue.
+5-11s: He studies his palm, trying to recover the earlier weak light.
+11-17s: A tiny flicker appears and fades; no powered markings remain.
+17-24s: He admits feeling helpless despite his size.
+24-30s: Joe sits beside Lily and offers to explain what he knows of Bruno's family.
 
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The truth is closer than anyone admits. This is the hour of Im Not Strong Enough."
-DIALOGUE 2 (8-12s): Lily (young emotional American woman): "My heart is afraid, but I will not let fear choose for me. Not after Im Not Strong Enough. The silence proves it."
-DIALOGUE 3 (18-22s): Frost (young hybrid Bigfoot-human voice): "I can feel my blood changing faster than my years. Not after Im Not Strong Enough. The forest already knows."
+SPOKEN AUDIO:
+Frost: "I could not protect everyone." Joe: "You need more than anger, and more than muscle."
+Deliver only these words once, in English, at the corresponding natural pause. Accurate lip sync and distinct referenced voices. Allow complete lines within the timeline without rushing. No repeated catchphrases, spoken titles or added commentary.
 
-DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+CAMERA AND SOUND:
+Wide or medium-wide views establish geography before movement or contact; medium shots preserve recognizable faces without extreme close-ups. Keep all key heads, hands, bodies and props within vertical safe margins. Preserve screen direction and physically coherent distances. Effects follow the action: river current at water, restrained impacts in combat, hoofbeats on the road, fire where present, knocks or animal calls only as written. Orchestral music stays under speech and important effects. Quiet grief scenes do not have constant explosions or extra speeches.
 
-SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
-
-MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+CONTINUITY:
+Time passes only where stated. Keep existing wounds, wetness, clothes, objects and counts across cuts. The return patrol has six dark Bigfoots and three smaller dragons, plus one large red dragon; show only those called for by a shot. Lily learns nothing new about her own past, and Frost learns the cause of Bruno's death only after Cedar Hollow's destruction. Do not replay an entire battle in recovery scenes or restart earlier introductions. Trial 1 concerns controlled strength; Trial 2 begins with understanding the injured bear. End on the written final image without copying an unrelated previous cliffhanger.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Frost must not look like a white dog, puppy, wolf, normal boy, or normal man.
+No subtitles, captions, logos, watermarks, random text, cartoons, plastic faces, face swaps, extra limbs, duplicated children, dog-like Bigfoot, gore, explicit intimacy or unrequested speech. No premature full ancestral transformation. Spirit visions are clearly separated from real events and do not injure real villagers.
