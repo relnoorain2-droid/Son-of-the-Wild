@@ -9,6 +9,11 @@ S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/So
 S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 S10_Villagers_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S10_Villagers/S10_Villagers_FULL.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
 VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
@@ -68,10 +73,14 @@ C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-t
 S01_GraceCarter_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S01_GraceCarter/S01_GraceCarter_FULL.png
 C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
 S10_Villagers_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S10_Villagers/S10_Villagers_FULL.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
@@ -137,7 +146,11 @@ C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/So
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
 S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
-S10_Villagers_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S10_Villagers/S10_Villagers_FULL.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
@@ -197,9 +210,13 @@ L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-
 C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
 S01_GraceCarter_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S01_GraceCarter/S01_GraceCarter_FULL.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
@@ -262,8 +279,11 @@ L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-
 C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
 V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
-S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S09_Brides/S09_Brides_FULL.png
-S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
@@ -323,7 +343,11 @@ L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-
 V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
-S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
@@ -388,6 +412,11 @@ S01_GraceCarter_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/S
 S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 S10_Villagers_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S10_Villagers/S10_Villagers_FULL.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
 VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
@@ -448,7 +477,11 @@ REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
-S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
@@ -508,7 +541,11 @@ L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-
 V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
-S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
@@ -570,6 +607,11 @@ S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-t
 S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16

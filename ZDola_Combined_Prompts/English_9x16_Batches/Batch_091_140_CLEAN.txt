@@ -3,11 +3,15 @@ PART 091 - "Bigfoot vs T-Rex"
 REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
-https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K04_TRex/K04_TRex.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -47,11 +51,15 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
-https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K03_SmallDragons/K03_SmallDragons.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -92,10 +100,14 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
-https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K03_SmallDragons/K03_SmallDragons.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -133,11 +145,14 @@ PART 094 - "Run, Lily"
 REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
-https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -179,6 +194,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -218,6 +238,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -255,6 +280,11 @@ REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -298,6 +328,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -335,11 +370,14 @@ REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
-https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
-https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -377,11 +415,15 @@ PART 100 - "The River Choice"
 REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -423,6 +465,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -463,6 +510,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -498,13 +550,17 @@ PART 103 - "The Last Stand"
 
 REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -543,6 +599,11 @@ REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -583,6 +644,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -619,6 +685,11 @@ PART 106 - "The Broken Cabin"
 REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -657,6 +728,11 @@ REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -694,6 +770,11 @@ REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -735,6 +816,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -773,9 +859,13 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
-https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -821,6 +911,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S10_Villagers/S10_Villagers_FULL.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -860,6 +955,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -898,6 +998,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S01_GraceCarter/S01_GraceCarter_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -934,6 +1039,11 @@ PART 114 - "Alive"
 REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -972,6 +1082,11 @@ REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -1009,6 +1124,11 @@ REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -1045,6 +1165,11 @@ PART 117 - "Someone's at the Door"
 REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -1084,6 +1209,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -1126,6 +1256,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -1167,6 +1302,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -1204,6 +1344,11 @@ REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -1243,6 +1388,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -1288,6 +1438,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -1324,6 +1479,11 @@ PART 124 - "No One Must Know"
 REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -1362,6 +1522,11 @@ REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -1398,6 +1563,11 @@ PART 126 - "Stay With Me"
 REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -1437,6 +1607,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -1474,6 +1649,11 @@ REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -1515,6 +1695,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S10_Villagers/S10_Villagers_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -1552,6 +1737,11 @@ REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -1592,6 +1782,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -1630,6 +1825,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -1670,6 +1870,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -1707,6 +1912,11 @@ REFERENCE IMAGE URLS:
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -1750,6 +1960,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -1789,6 +2004,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -1831,6 +2051,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -1872,6 +2097,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
@@ -1917,6 +2147,11 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
 
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.
 
@@ -1955,11 +2190,15 @@ https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Charact
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S10_Villagers/S10_Villagers_FULL.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
 https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
 
 VIDEO:
 Exactly one 30-second English cinematic video, vertical 9:16. Photorealistic faces, skin, hair, fur, clothing and locations. This part is independent: reproduce its written opening and references without assuming any previous render. A listed reference establishes identity; only show that character in shots that request them.

@@ -6,7 +6,7 @@ Use this repo for Dola AI generation.
 
 1. For the English 9:16 restart, use `ZDola_Combined_Prompts/English_9x16_ALL_312_CLEAN.txt` or the individual rewritten batch files.
 2. Paste one part at a time into Dola. Each part is separated only by `-------`.
-3. The prompt already includes direct GitHub raw image URLs, so Dola should not need local image uploads.
+3. Dola must first download and inspect every listed image, then attach/import it into the generator's actual reference-image inputs. URLs in text alone do not prove image conditioning. Stop if the route cannot load references; do not silently generate text-only substitutes.
 4. Use Seedance 2.5, 30 seconds, vertical 9:16.
 5. All 312 English 9:16 prompts have individual scene rewrites. The final combined file is assembled from those part files; generated videos still require visual review.
 
