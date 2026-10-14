@@ -1,3 +1,5 @@
+PART 099 - "Family In Danger"
+
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
@@ -7,65 +9,52 @@ K04_TRex.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wi
 K06_WarMammoth.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K06_WarMammoth/K06_WarMammoth.png
 L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 
-FROST: Son of the Wild
-PART 099 - "Family In Danger"
-Punch: EXPANDED CUT - FORWARD STORY BEAT
-Status: ready - EXPANDED CANON PACKAGE
-
-REFERENCE IMAGES FOR THIS PART
-Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
-REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: V03_Lily_Pregnant.png, C04_Bruno_FULL.png, C02_KingMagnus_FULL.png, K02_RedDragon.png, K04_TRex.png, K06_WarMammoth.png, L03_DeepForest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
-
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
-EXACT 30-SECOND OUTPUT LOCK:
-This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
-Use active skill: Zakariya Seedance 2 5 30s
-Model: Seedance 2.5
-Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: vertical 9:16
-Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
 
-VERTICAL 9:16 FRAMING LOCK:
-Compose every shot for a vertical 9:16 reels frame. Keep faces, bodies, action, and title cards centered with safe top and bottom margins. Avoid tiny distant subjects and avoid cutting off heads or full-body action.
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: V03_Lily_Pregnant.png -> reference character/location; C04_Bruno_FULL.png -> reference character/location; C02_KingMagnus_FULL.png -> reference character/location; K02_RedDragon.png -> reference character/location; K04_TRex.png -> reference character/location; K06_WarMammoth.png -> reference character/location; L03_DeepForest.png -> reference character/location.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
-Scene: Bruno stands between Lily and the king's army.
-0-3s: Start with a strong immediate visual hook connected to the previous part.
-OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 098's final image: Build into the hook: Bruno crashes through the trees. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now Family In Danger moves the story forward."
-3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Bruno (very deep gentle Bigfoot voice):  this time."Family In Danger means Bruno must stay gentle and close."
-10-18s: Bruno stands between Lily and the king's army.
-DIALOGUE 11-15s: Lily (young emotional American woman): "I have to survive Family In Danger without losing myself."
-18-24s: Lily begs him not to fight alone.
-DIALOGUE 19-23s: King Magnus (deep rough commanding king): "Let the kingdom remember Family In Danger."
-24-30s: Build into the hook: Bruno says, 'Run. Save our child.'
-SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
-MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.
-CAMERA: clear subject framing, expressive faces, one clean action beat, then a strong final hook.
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
-SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 100 - "The River Choice": Bruno says, 'Run. Save our child.' Keep continuity and do not add random new characters.
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
 
-GLOBAL RULES:
-AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync. No line may be skipped. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16 cinematic frame.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, rural American towns, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-TEXT RULE: On-screen text is allowed only for intentional short cinematic title/location/time cards when this PART asks for it. No subtitles for dialogue. No random text.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no gore, no blood spray, no nudity, no explicit wedding-night content, no restraints, no chains, no forced physical contact, no extra limbs, no face morphing, no character drift.
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
 
-FACEBOOK/REELS CAPTION AFTER DOWNLOAD
-Part 99 | Family In Danger - the story moves deeper. #Bigfoot #Movie #Part99
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
 
-DOLA STATUS
-[ ] Images loaded by raw URLs
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
+BRUNO CREATURE LOCK:
+Bruno is a huge black/dark-furred Bigfoot with a gentle but powerful face. He is not a gorilla costume, not a bear, not a dog, not a cartoon monster, and not a normal human. Keep his scale and fur consistent.
 
-NOTES
-Expanded 312-part canon. This part must move the story forward and end with suspense unless it is the final part.
+
+SCENE:
+Bruno stands between Lily and the king's army.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 099. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-5s: Open immediately on the clearest visual action for this part: Bruno stands between Lily and the king's army.
+5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
+14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
+24-30s: End on this clear suspense image: Bruno says, 'Run. Save our child.' Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The truth is closer than anyone admits. This is the hour of Family In Danger."
+DIALOGUE 2 (8-12s): Lily (young emotional American woman): "Tell me the truth before someone else pays for it. Not after Family In Danger. The silence proves it."
+DIALOGUE 3 (18-22s): Bruno (very deep gentle Bigfoot voice): "Bruno will not let the dark take her. Not after Family In Danger. The forest already knows."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Bruno must not look like a normal gorilla, bear, dog, or human.

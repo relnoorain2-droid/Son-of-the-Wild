@@ -1,0 +1,577 @@
+PART 111 - "The Tax Wagon"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
+
+
+SCENE:
+King Magnus's men pass through Cedar Hollow collecting harsh taxes.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 111. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-5s: Open immediately on the clearest visual action for this part: King Magnus's men pass through Cedar Hollow collecting harsh taxes.
+5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
+14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
+24-30s: End on this clear suspense image: Vex looks toward the cabin. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "Nothing about this night is finished. This is the hour of The Tax Wagon."
+DIALOGUE 2 (8-12s): Lily (young emotional American woman): "Tell me the truth before someone else pays for it. Not after The Tax Wagon. The crown will hear it."
+DIALOGUE 3 (18-22s): Martha (warm older village woman): "I know fear when it walks in wearing boots. Not after The Tax Wagon. That is what scares me."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+
+-------
+
+PART 112 - "Months Of Winter"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
+
+
+SCENE:
+Snow falls as Lily's pregnancy grows. Villagers leave food but still ask questions.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 112. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-5s: Open immediately on the clearest visual action for this part: Snow falls as Lily's pregnancy grows. Villagers leave food but still ask questions.
+5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
+14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
+24-30s: End on this clear suspense image: A sudden pain makes her grip the table. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "This moment changes the road ahead. This is the hour of Months Of Winter."
+DIALOGUE 2 (6-9s): Lily (young emotional American woman): "I know what I saw, and I am not going back blind! Not after Months Of Winter! I know it in my bones!"
+After 9s, no extra spoken dialogue. Use breathing, footsteps, impact sounds, music, and reaction shots so the action does not become noisy.
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. No unnecessary talking during the action.
+
+-------
+
+PART 113 - "Grace In A Dream"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
+
+
+SCENE:
+Lily dreams of her mother Grace telling her to keep going.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 113. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-5s: Open immediately on the clearest visual action for this part: Lily dreams of her mother Grace telling her to keep going.
+5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
+14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
+24-30s: End on this clear suspense image: Thunder rolls as labor pains begin. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The truth is closer than anyone admits. This is the hour of Grace In A Dream."
+DIALOGUE 2 (8-12s): Lily (young emotional American woman): "My heart is afraid, but I will not let fear choose for me. Not after Grace In A Dream. The silence proves it."
+DIALOGUE 3 (18-22s): Martha (warm older village woman): "Easy now, honey. Panic makes people cruel. Not after Grace In A Dream. The forest already knows."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+
+-------
+
+PART 114 - "Alive"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
+
+
+SCENE:
+Close-up of Lily (pregnant, around 6 months, blonde, blue eyes) lying unconscious on the pebbles. A big moose lowers its head and licks her face. Her eyes snap open.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 114. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: Close-up of Lily (pregnant, around 6 months, blonde, blue eyes) lying unconscious on the pebbles. A big moose lowers its head and licks her face. Her eyes snap open.
+3-10s: The moose snorts at her, unimpressed, and slowly walks away. Lily sits up, confused, wet and shivering, then laughs weakly.
+10-22s: She remembers. Her smile disappears. She looks back at the river and the distant smoke on the horizon.
+22-30s: She feels a kick, gasps, and smiles through her tears. Final frame: Lily standing up slowly on the riverbank, looking downstream where a thin line of chimney smoke rises over the trees.
+24-30s: End on this clear suspense image: Lily standing up slowly on the riverbank, looking downstream where a thin line of chimney smoke rises over the trees. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "One quiet choice can break a kingdom. This is the hour of Alive."
+DIALOGUE 2 (8-12s): Lily (young emotional American woman): "If this is a warning, I need to understand it now. Not after Alive. That is what scares me."
+DIALOGUE 3 (18-22s): NARRATOR (deep cinematic voice): "The kingdom cannot hide this secret forever. Not after Alive. This time I will not look away."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+
+-------
+
+PART 115 - "The Empty Cabin"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
+
+
+SCENE:
+Lily pushes the creaky door open; a cloud of dust falls on her and she coughs.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 115. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: Lily pushes the creaky door open; a cloud of dust falls on her and she coughs.
+3-12s: Inside: an old wood stove, a broken chair, cobwebs, a dusty quilt on a bed. She smiles a little.
+12-22s: A rattlesnake rises from under the bed, rattling loudly. Lily freezes, then slowly grabs an old broom.
+22-30s: The snake strikes; she blocks with the broom, sweeps it into an old bucket, slams a pan on top and kicks the bucket out of the door. She falls back onto the bed, breathing hard, then laughs. Final frame: Lily lying on the dusty bed with her hand on her belly, smiling.
+24-30s: End on this clear suspense image: Lily lying on the dusty bed with her hand on her belly, smiling. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The danger is not behind them anymore. This is the hour of The Empty Cabin."
+DIALOGUE 2 (6-9s): Lily (young emotional American woman): "Tell me the truth before someone else pays for it! Not after The Empty Cabin! No one else can carry it!"
+After 9s, no extra spoken dialogue. Use breathing, footsteps, impact sounds, music, and reaction shots so the action does not become noisy.
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. No unnecessary talking during the action.
+
+-------
+
+PART 116 - "Like Bruno Taught Me"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
+
+
+SCENE:
+Lily tries to grab a salmon with her bare hands, slips and falls on her bottom with a splash.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 116. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: Lily tries to grab a salmon with her bare hands, slips and falls on her bottom with a splash.
+3-12s: She tries again and again; the fish slip through her hands. A fish slaps her face. She laughs and almost cries.
+12-22s: She closes her eyes. Soft memory flashback in warm golden light: Bruno standing in the river behind her, gently guiding her hands. A faint glowing outline of Bruno appears beside her.
+22-30s: Lily stays very still, hands in the water... and suddenly catches a big salmon. She holds it up, shocked and happy. Final frame: Lily laughing and crying, looking up at the sky.
+24-30s: End on this clear suspense image: Lily laughing and crying, looking up at the sky. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "Every shadow is carrying a warning. This is the hour of Like Bruno Taught Me."
+DIALOGUE 2 (6-9s): Lily (young emotional American woman): "I know what I saw, and I am not going back blind! Not after Like Bruno Taught Me! The forest already knows!"
+After 9s, no extra spoken dialogue. Use breathing, footsteps, impact sounds, music, and reaction shots so the action does not become noisy.
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. No unnecessary talking during the action.
+
+-------
+
+PART 117 - "Someone's at the Door"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
+
+
+SCENE:
+Lightning flashes; rain leaks through the roof into a bucket. Lily sits wrapped in the old quilt, talking to her belly.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 117. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: Lightning flashes; rain leaks through the roof into a bucket. Lily sits wrapped in the old quilt, talking to her belly.
+3-14s: She hums the first line of Song 1 softly, voice shaking.
+14-22s: Outside, heavy footsteps on the porch. A lantern light shines through the broken window. Lily freezes and grabs a burning stick from the stove.
+22-30s: The door handle turns. A man's shadow with a shotgun appears in the doorway, lit by lightning. Final frame: Lily holding the burning stick up, the shadow stepping in.
+24-30s: End on this clear suspense image: Lily holding the burning stick up, the shadow stepping in. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The forest is listening before it answers. This is the hour of Someones at the Door."
+DIALOGUE 2 (8-12s): Lily (young emotional American woman): "My heart is afraid, but I will not let fear choose for me. Not after Someones at the Door. This time I will not look away."
+DIALOGUE 3 (18-22s): NARRATOR (deep cinematic voice): "The next step opens a darker door. Not after Someones at the Door. The silence proves it."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+
+-------
+
+PART 118 - "Hank and Martha"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
+
+
+SCENE:
+Hank Miller (50, cowboy hat, beard, plaid shirt) steps in holding a lantern high, an old shotgun pointed down at the floor — then sees Lily's pregnant belly and immediately steps back.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 118. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: Hank Miller (50, cowboy hat, beard, plaid shirt) steps in holding a lantern high, an old shotgun pointed down at the floor — then sees Lily's pregnant belly and immediately steps back.
+3-12s: Lily slowly lowers her burning stick, still shaking.
+12-22s: Martha Hayes (68, round glasses, white curly hair, cardigan) pushes past Hank holding an umbrella and a basket of food.
+22-30s: Martha wraps a warm blanket around Lily and hands her fresh bread. Lily bites it and starts crying from relief. Final frame: Martha hugging Lily, Hank awkwardly holding the lantern.
+24-30s: End on this clear suspense image: Martha hugging Lily, Hank awkwardly holding the lantern. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "Nothing about this night is finished. This is the hour of Hank and Martha."
+DIALOGUE 2 (8-12s): Lily (young emotional American woman): "If this is a warning, I need to understand it now. Not after Hank and Martha. The crown will hear it."
+DIALOGUE 3 (18-22s): Martha (warm older village woman): "This house protects whoever reaches its door. Not after Hank and Martha. That is what scares me."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+
+-------
+
+PART 119 - "Welcome to Cedar Hollow"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
+
+
+SCENE:
+Lily walks into the village with Martha; villagers stop and stare. A dog runs up and sniffs her. Brief location title card at bottom for 2 seconds: "CEDAR HOLLOW, WASHINGTON".
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 119. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: Lily walks into the village with Martha; villagers stop and stare. A dog runs up and sniffs her. Brief location title card at bottom for 2 seconds: "CEDAR HOLLOW, WASHINGTON".
+3-14s: Villagers gather around kindly. A woman gives her a jar of jam; a man tips his hat.
+14-22s: The villagers go quiet, sympathetic. Martha squeezes her hand.
+22-30s: Tommy (10, red cap, freckles) runs up, out of breath, holding a frog.
+24-30s: End on this clear suspense image: Tommy (10, red cap, freckles) runs up, out of breath, holding a frog. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "This moment changes the road ahead. This is the hour of Welcome to Cedar Hollow."
+DIALOGUE 2 (8-12s): Lily (young emotional American woman): "Tell me the truth before someone else pays for it. Not after Welcome to Cedar Hollow. I know it in my bones."
+DIALOGUE 3 (18-22s): Martha (warm older village woman): "I know fear when it walks in wearing boots. Not after Welcome to Cedar Hollow. No one else can carry it."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+
+-------
+
+PART 120 - "Martha's House Rules"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
+
+
+SCENE:
+Martha's cozy kitchen in Cedar Hollow, morning sunlight, flour on the table, pie crust, old kettle, village street through window.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 120. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-4s: Martha sits Lily down and places a giant plate of pancakes in front of her. Lily looks shocked by the kindness.
+4-11s: Hank enters with muddy boots. Martha points at the floor. Hank freezes like a guilty schoolboy.
+11-19s: Lily laughs for the first time in the village, then suddenly becomes emotional.
+19-26s: Martha squeezes Lily's hand and slides more pancakes over.
+24-30s: End on this clear suspense image: warm kitchen family moment. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The truth is closer than anyone admits. This is the hour of Marthas House Rules."
+DIALOGUE 2 (8-12s): Lily (young emotional American woman): "I know what I saw, and I am not going back blind. Not after Marthas House Rules. The silence proves it."
+DIALOGUE 3 (18-22s): Martha (warm older village woman): "Give me one breath to think before the world breaks in. Not after Marthas House Rules. The forest already knows."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.

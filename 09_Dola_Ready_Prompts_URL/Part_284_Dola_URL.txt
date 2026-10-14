@@ -1,60 +1,55 @@
+PART 284 - "The Great Red Dragon"
+
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 K02_RedDragon.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K02_RedDragon/K02_RedDragon.png
 L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
 V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
 
-FROST: Son of the Wild
-PART 284 - "The Great Red Dragon"
-Punch: WOW + TWIST
-Status: ready - URL PACKAGE
-
-REFERENCE IMAGES FOR THIS PART
-Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
-REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: K02_RedDragon.png, L02_KingCastle.png, S11_Rose_FULL.png, V11_KingMagnus_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
-
 PROMPT TO PASTE IN DOLA
-EXACT 30-SECOND OUTPUT LOCK:
-This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
-Use active skill: Zakariya Seedance 2 5 30s
-Model: Seedance 2.5
-Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: vertical 9:16
-Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; S11_Rose_FULL.png -> Rose; K02_RedDragon.png -> Creature RedDragon; L02_KingCastle.png -> Location KingCastle.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
-Thorne Castle's highest tower, dark storm clouds gathering, battlefield below.
-0–3s: King Magnus watches his army falling apart. His face twists with rage.
-OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 283's final image: The lead mammoth turns, lifts Damian off its back with its trunk, and drops him headfirst into a big pile of mud. All fifty mammoths trumpet together and walk to stand behind Frost's army. Final frame: Damian sitting in the mud, the mammoths behind Frost. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The Great Red Dragon moves the story forward."
-3–12s: He holds the staff with both hands and slams the red crystal into the stone floor of the tower. The whole castle shakes. A giant crack opens in the castle courtyard; red light pours out of it.
-DIALOGUE 6–11s: Rose (old nervous castle maid): "Remember The Great Red Dragon, child. It is your warning."
-12–22s: From under the castle, a gigantic red dragon rises: three times bigger than any dragon before, scales like dark lava, horns like a crown, wings that cover the sun, eyes blazing red. The ground cracks, towers fall.
-DIALOGUE 17–22s: King Magnus (deep rough commanding king): "No one defies me after The Great Red Dragon."
-22–30s: The Great Red Dragon roars so loud that every fighter on the battlefield, human and animal, freezes and covers their ears. King Magnus climbs onto its head. Final frame: the king standing on the gigantic dragon's head, the sun blocked by its wings.
-DIALOGUE 27–29s: King Magnus (deep rough commanding king): "Let the kingdom remember The Great Red Dragon."
-SFX: an enraged shout, crystal slam, a castle-shaking quake, a ground crack, a deep red magical roar, collapsing towers, giant wing beats, a world-shaking dragon roar.
-MUSIC: terrifying epic choir and orchestra, the biggest dark theme in the movie.
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
-SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 285 - "Burn Them All": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
 
-GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
 
-FACEBOOK CAPTION AFTER DOWNLOAD
-Part 284 | The king woke the GREAT RED DRAGON... 3x bigger than any dragon 😱🐉 #Bigfoot #Movie #Part284
+ROSE PLACEMENT LOCK:
+Rose is an old castle maid/helper. Unless this exact part says she steps forward to warn someone, keep her hidden at the side: behind a pillar, doorway, curtain, window, or corridor shadow. She must not randomly enter bedrooms, wedding centers, action scenes, or every shot.
 
-DOLA STATUS
-[ ] Images uploaded
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
 
-NOTES
+SCENE:
+King Magnus watches his army falling apart. His face twists with rage.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 284. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: King Magnus watches his army falling apart. His face twists with rage.
+3-12s: He holds the staff with both hands and slams the red crystal into the stone floor of the tower. The whole castle shakes. A giant crack opens in the castle courtyard; red light pours out of it.
+12-22s: From under the castle, a gigantic red dragon rises: three times bigger than any dragon before, scales like dark lava, horns like a crown, wings that cover the sun, eyes blazing red. The ground cracks, towers fall.
+22-30s: The Great Red Dragon roars so loud that every fighter on the battlefield, human and animal, freezes and covers their ears. King Magnus climbs onto its head. Final frame: the king standing on the gigantic dragon's head, the sun blocked by its wings.
+24-30s: End on this clear suspense image: the king standing on the gigantic dragon's head, the sun blocked by its wings. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "Every shadow is carrying a warning. This is the hour of The Great Red Dragon."
+DIALOGUE 2 (6-9s): King Magnus (deep controlled king voice): "The crown does not ask twice. Not after The Great Red Dragon. The forest already knows."
+After 9s, no extra spoken dialogue. Use breathing, footsteps, impact sounds, music, and reaction shots so the action does not become noisy.
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. No unnecessary talking during the action.

@@ -1,61 +1,57 @@
+PART 069 - "The Honey Apology"
+
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
 L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
-FROST: Son of the Wild
-PART 069 - "The Honey Apology"
-Punch: COMEDY
-Status: ready - EXTENDED CANON URL PACKAGE
-
-REFERENCE IMAGES FOR THIS PART
-Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
-REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C04_Bruno_FULL.png, L03_DeepForest.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
-
 PROMPT TO PASTE IN DOLA
-EXACT 30-SECOND OUTPUT LOCK:
-This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
-Use active skill: Zakariya Seedance 2 5 30s
-Model: Seedance 2.5
-Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: vertical 9:16
-Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
-CHARACTER LOCK: Keep Lily and Bruno exactly identical to the attached references for the full 30 seconds.
-LILY LOOK LOCK: Lily always looks 22-24 years old, young, innocent, sweet and beautiful.
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
 
-Scene: Bright forest clearing near a huge old cedar tree, flowers, buzzing bees, sunlight through pine branches.
-OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 068's final image: Lily smiling with tears in her eyes, firelight on both faces. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
+
+BRUNO CREATURE LOCK:
+Bruno is a huge black/dark-furred Bigfoot with a gentle but powerful face. He is not a gorilla costume, not a bear, not a dog, not a cartoon monster, and not a normal human. Keep his scale and fur consistent.
+
+
+SCENE:
+Bright forest clearing near a huge old cedar tree, flowers, buzzing bees, sunlight through pine branches.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 069. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
 0-4s: Lily tries to braid small flowers into Bruno's fur. Bruno stands perfectly still, looking proud and ridiculous.
-DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now The Honey Apology moves the story forward."
 4-10s: Bruno notices a beehive and quietly reaches for honey to impress her. Lily turns and gasps.
-DIALOGUE 5-8s: Lily (young emotional American woman): "This is The Honey Apology, and my heart knows the danger is real."
-DIALOGUE 8-10s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through The Honey Apology."
 10-18s: Bees swarm around Bruno's face. He runs in circles, trying not to step on flowers. Lily laughs so hard she has to sit down.
-DIALOGUE 12-16s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in The Honey Apology, but Bruno stays calm."
 18-25s: Bruno trips into a bush. Honey drips down his nose. Lily wipes it gently with a leaf.
-DIALOGUE 19-23s: Bruno (very deep gentle Bigfoot voice): "The Honey Apology means Bruno must stay gentle and close."
-25-30s: Bruno gives Lily a tiny honeycomb piece he saved safely. She smiles and forgives him. Final frame: Bruno with flowers in his fur and honey on his nose.
-DIALOGUE 25-29s: Lily (young emotional American woman): "I have to survive The Honey Apology without losing myself."
-SFX: bees buzzing, heavy Bigfoot footsteps, flowers rustling, Lily laughter, soft honey drip.
-MUSIC: playful woodland comedy music turning warm at the end.
-SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 070 - "Dancing Lesson": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+24-30s: End on this clear suspense image: Bruno with flowers in his fur and honey on his nose. Hold the final emotion for the last second; do not resolve it.
 
-GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
-FACEBOOK CAPTION AFTER DOWNLOAD
-Part 69 | Bruno tried to steal honey for Lily... and lost to tiny flying guards. #Bigfoot #Movie #Part69
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "Nothing about this night is finished. This is the hour of The Honey Apology."
+DIALOGUE 2 (8-12s): Lily (young emotional American woman): "My heart is afraid, but I will not let fear choose for me. Not after The Honey Apology. The crown will hear it."
+DIALOGUE 3 (18-22s): Bruno (very deep gentle Bigfoot voice): "Bruno stays close. Lily is not alone. Not after The Honey Apology. That is what scares me."
 
-DOLA STATUS
-[ ] Images uploaded
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
 
-NOTES
-Inserted after old Part 24 for a light romantic comedy beat.
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Bruno must not look like a normal gorilla, bear, dog, or human.

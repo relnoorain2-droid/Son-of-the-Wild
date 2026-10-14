@@ -1,63 +1,58 @@
+PART 133 - "Bath Time"
+
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
 S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
 
-FROST: Son of the Wild
-PART 133 - "Bath Time"
-Punch: FUN
-Status: ready - URL PACKAGE
-
-REFERENCE IMAGES FOR THIS PART
-Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
-REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L05_River.png, S02_MarthaHayes_FULL.png, V04_Lily_VillageMom.png, V05_Frost_Baby.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
-
 PROMPT TO PASTE IN DOLA
-EXACT 30-SECOND OUTPUT LOCK:
-This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
-Use active skill: Zakariya Seedance 2 5 30s
-Model: Seedance 2.5
-Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: vertical 9:16
-Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V05_Frost_Baby.png -> Variant Frost_Baby; S02_MarthaHayes_FULL.png -> Martha Hayes; L05_River.png -> Location River.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
-FROST AGE LOCK: Frost is a newborn/baby here. Use only V05_Frost_Baby.png for Frost; do not show kid, teen, adult, or powered Frost in this part.
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Spring montage by the river near the cabin, sunny, flowers blooming.
-0–3s: Lily tries to give baby Frost a bath in a wooden tub; he splashes so hard that Lily is completely soaked.
-OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 132's final image: Martha takes the baby in her arms and rocks him gently. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Bath Time moves the story forward."
-3–12s: Frost crawls out of the tub, grabs a young pine tree and pulls it out of the ground, roots and all, then looks proud.
-DIALOGUE 6–10s: Lily (young emotional American woman): "This is Bath Time, and my heart knows the danger is real."
-DIALOGUE 10–13s: Frost (deep young heroic voice): "I will not let Bath Time break the people I love."
-12–22s: Martha babysits; she reads a picture book to Frost on the porch. He falls asleep on her lap and starts snoring loudly like a bear, shaking the porch.
-DIALOGUE 16–19s: Martha (warm Southern voice): "Breathe first; Bath Time can wait one second."
-22–30s: Frost wakes up, sees a butterfly, and chases it, stumbling on his chubby legs, then falls into a pile of flowers. He sneezes; petals explode everywhere. Final frame: Frost covered in flower petals, giggling.
-DIALOGUE 27–29s: Martha (warm Southern voice): "Bath Time needs steady hands, honey."
-SFX: splashing, laughing, roots ripping, tree thump, page turning, loud snoring, wooden porch creaking, giggles, sneeze, petals.
-MUSIC: bright happy country-folk with banjo and whistling.
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
-SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 134 - "Tiny Giant Trouble": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
 
-GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
 
-FACEBOOK CAPTION AFTER DOWNLOAD
-Part 133 | Bath time with a baby Bigfoot 😂🛁 #Bigfoot #Movie #Part133
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
 
-DOLA STATUS
-[ ] Images uploaded
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
+FROST AGE LOCK: Frost appears only as newborn baby Frost in this part. Use V05_Frost_Baby.png as the age and face guide.
+FROST GROWTH CANON: Frost grows unusually fast because of his mixed wild Bigfoot genes and royal human blood. Do not show the wrong age stage in this part.
+FROST CREATURE LOCK: Frost is not a dog, wolf, puppy, bear, normal child, or normal man. Keep the hybrid Bigfoot identity readable in the face, hands, body, and movement.
 
-NOTES
+SCENE:
+Lily tries to give baby Frost a bath in a wooden tub; he splashes so hard that Lily is completely soaked.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 133. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: Lily tries to give baby Frost a bath in a wooden tub; he splashes so hard that Lily is completely soaked.
+3-12s: Frost crawls out of the tub, grabs a young pine tree and pulls it out of the ground, roots and all, then looks proud.
+12-22s: Martha babysits; she reads a picture book to Frost on the porch. He falls asleep on her lap and starts snoring loudly like a bear, shaking the porch.
+22-30s: Frost wakes up, sees a butterfly, and chases it, stumbling on his chubby legs, then falls into a pile of flowers. He sneezes; petals explode everywhere. Final frame: Frost covered in flower petals, giggling.
+24-30s: End on this clear suspense image: Frost covered in flower petals, giggling. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "This moment changes the road ahead. This is the hour of Bath Time."
+DIALOGUE 2 (8-12s): Lily (young emotional American woman): "My heart is afraid, but I will not let fear choose for me. Not after Bath Time. I know it in my bones."
+DIALOGUE 3 (18-22s): Frost (young hybrid Bigfoot-human voice): "I can feel my blood changing faster than my years. Not after Bath Time. No one else can carry it."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Frost must not look like a white dog, puppy, wolf, normal boy, or normal man.

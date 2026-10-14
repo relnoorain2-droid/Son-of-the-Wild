@@ -1,0 +1,591 @@
+PART 151 - "Home Run"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+FROST AGE LOCK: Frost appears only as child Frost in this part. Use V06_Frost_Kid.png as the age and face guide.
+FROST GROWTH CANON: Frost grows unusually fast because of his mixed wild Bigfoot genes and royal human blood. Do not show the wrong age stage in this part.
+FROST CREATURE LOCK: Frost is not a dog, wolf, puppy, bear, normal child, or normal man. Keep the hybrid Bigfoot identity readable in the face, hands, body, and movement.
+
+SCENE:
+Kid Frost holds a wooden baseball bat that looks like a toothpick in his huge hands.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 151. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: Kid Frost holds a wooden baseball bat that looks like a toothpick in his huge hands.
+3-12s: Tommy pitches. Frost swings — CRACK! The ball flies straight up into the sky and disappears into the clouds. Everyone looks up, waiting.
+12-22s: Quick comedic cut: the crowd still looking up, eating popcorn. Martha falls asleep. A dog lies down. The sun moves across the sky.
+22-30s: The ball finally falls from the sky and lands right in Frost's hand. The crowd goes wild.
+24-30s: End on this clear suspense image: The ball finally falls from the sky and lands right in Frost's hand. The crowd goes wild. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "Every shadow is carrying a warning. This is the hour of Home Run."
+DIALOGUE 2 (8-12s): Frost (young hybrid Bigfoot-human voice): "My strength is growing, and I have to control it. Not after Home Run. The forest already knows."
+DIALOGUE 3 (18-22s): Tommy (brave village boy): "If Frost is family, then I am not leaving him. Not after Home Run. I know it in my bones."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Frost must not look like a white dog, puppy, wolf, normal boy, or normal man.
+
+-------
+
+PART 152 - "The Bear Whisperer"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+FROST AGE LOCK: Frost appears only as child Frost in this part. Use V06_Frost_Kid.png as the age and face guide.
+FROST GROWTH CANON: Frost grows unusually fast because of his mixed wild Bigfoot genes and royal human blood. Do not show the wrong age stage in this part.
+FROST CREATURE LOCK: Frost is not a dog, wolf, puppy, bear, normal child, or normal man. Keep the hybrid Bigfoot identity readable in the face, hands, body, and movement.
+
+SCENE:
+A huge grizzly bear smashes through a fence into the village street. People scream and run.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 152. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: A huge grizzly bear smashes through a fence into the village street. People scream and run.
+3-12s: The bear roars at little Sarah, who is frozen in the middle of the street. Hank runs for his shotgun. Kid Frost steps in front of Sarah.
+12-22s: Frost doesn't fight. He looks into the bear's eyes. His own eyes glow softly blue for a moment. He speaks calmly; we hear a low, soft rumbling sound like an animal language, and the bear slowly stops roaring.
+22-30s: The bear sniffs Frost's hand, lies down, and lets Sarah pet its nose. Frost gives the bear a basket of apples from the store. Everyone watches in total silence. Final frame: the grizzly walking calmly back into the forest with an apple in its mouth.
+24-30s: End on this clear suspense image: the grizzly walking calmly back into the forest with an apple in its mouth. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The forest is listening before it answers. This is the hour of The Bear Whisperer."
+DIALOGUE 2 (8-12s): Frost (young hybrid Bigfoot-human voice): "I can feel my blood changing faster than my years. Not after The Bear Whisperer. This time I will not look away."
+DIALOGUE 3 (18-22s): Sarah (alert village girl): "This is bigger than our village now. Not after The Bear Whisperer. The silence proves it."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Frost must not look like a white dog, puppy, wolf, normal boy, or normal man.
+
+-------
+
+PART 153 - "The Barn Fire"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
+
+FROST AGE LOCK: Frost appears only as child Frost in this part. Use V06_Frost_Kid.png as the age and face guide.
+FROST GROWTH CANON: Frost grows unusually fast because of his mixed wild Bigfoot genes and royal human blood. Do not show the wrong age stage in this part.
+FROST CREATURE LOCK: Frost is not a dog, wolf, puppy, bear, normal child, or normal man. Keep the hybrid Bigfoot identity readable in the face, hands, body, and movement.
+
+SCENE:
+The barn roof bursts into flames; horses scream inside.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 153. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: The barn roof bursts into flames; horses scream inside.
+3-12s: Villagers throw buckets of water but the fire is too big. Kid Frost runs past everyone straight into the burning barn.
+12-22s: Inside the barn: flames everywhere, smoke. Frost lifts a burning beam off a stall, grabs two frightened horses by their ropes, and shields them with his body from falling fire.
+22-30s: The barn doors explode open. Frost runs out carrying a young foal in his arms, with two horses running behind him. The barn collapses behind them. His white fur is black with soot. He coughs and smiles. Final frame: Hank hugging the foal, then hugging Frost.
+24-30s: End on this clear suspense image: Hank hugging the foal, then hugging Frost. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "Nothing about this night is finished. This is the hour of The Barn Fire."
+DIALOGUE 2 (6-9s): Lily (young emotional American woman): "My heart is afraid, but I will not let fear choose for me! Not after The Barn Fire! The crown will hear it!"
+After 9s, no extra spoken dialogue. Use breathing, footsteps, impact sounds, music, and reaction shots so the action does not become noisy.
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Frost must not look like a white dog, puppy, wolf, normal boy, or normal man. No unnecessary talking during the action.
+
+-------
+
+PART 154 - "Where Is My Dad?"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+V09_Bruno_Spirit.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V09_Bruno_Spirit/V09_Bruno_Spirit.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
+
+FROST AGE LOCK: Frost appears only as child Frost in this part. Use V06_Frost_Kid.png as the age and face guide.
+FROST GROWTH CANON: Frost grows unusually fast because of his mixed wild Bigfoot genes and royal human blood. Do not show the wrong age stage in this part.
+FROST CREATURE LOCK: Frost is not a dog, wolf, puppy, bear, normal child, or normal man. Keep the hybrid Bigfoot identity readable in the face, hands, body, and movement.
+
+SCENE:
+Kid Frost sits on the porch steps, still a little sooty, looking at his reflection in a water bucket.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 154. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: Kid Frost sits on the porch steps, still a little sooty, looking at his reflection in a water bucket.
+3-12s: Lily sits beside him and puts her arm around him.
+12-22s: Lily takes out a small dried flower pressed inside an old book.
+22-30s: Lily smiles and points at the black crescent patch on Frost's chest.
+24-30s: End on this clear suspense image: Lily smiles and points at the black crescent patch on Frost's chest. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "This moment changes the road ahead. This is the hour of Where Is My Dad."
+DIALOGUE 2 (8-12s): Lily (young emotional American woman): "If this is a warning, I need to understand it now. Not after Where Is My Dad. I know it in my bones."
+DIALOGUE 3 (18-22s): Frost (young hybrid Bigfoot-human voice): "I am not a monster. I am what both worlds made. Not after Where Is My Dad. No one else can carry it."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Frost must not look like a white dog, puppy, wolf, normal boy, or normal man.
+
+-------
+
+PART 155 - "Frost Says Sorry"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
+
+FROST AGE LOCK: Frost appears only as child Frost in this part. Use V06_Frost_Kid.png as the age and face guide.
+FROST GROWTH CANON: Frost grows unusually fast because of his mixed wild Bigfoot genes and royal human blood. Do not show the wrong age stage in this part.
+FROST CREATURE LOCK: Frost is not a dog, wolf, puppy, bear, normal child, or normal man. Keep the hybrid Bigfoot identity readable in the face, hands, body, and movement.
+
+SCENE:
+Afternoon behind Lily's cabin, split-rail fence, tall grass, village barns in the distance.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 155. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-5s: Frost sits angry beside a broken fence post after asking about his father. Lily stands nearby, worried.
+5-12s: Lily kneels beside him. Frost turns away, hurt.
+12-20s: Frost kicks a loose fence rail too hard and breaks it. He instantly regrets it.
+20-27s: Frost carefully lifts the rail and repairs the fence with gentle hands, ashamed.
+24-30s: End on this clear suspense image: Frost leaning his head down so Lily can kiss his forehead. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The truth is closer than anyone admits. This is the hour of Frost Says Sorry."
+DIALOGUE 2 (8-12s): Lily (young emotional American woman): "Tell me the truth before someone else pays for it. Not after Frost Says Sorry. The silence proves it."
+DIALOGUE 3 (18-22s): Frost (young hybrid Bigfoot-human voice): "If they come for my family, they will see who I am. Not after Frost Says Sorry. The forest already knows."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Frost must not look like a white dog, puppy, wolf, normal boy, or normal man.
+
+-------
+
+PART 156 - "Bandits in Town"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+FROST AGE LOCK: Frost appears only as child Frost in this part. Use V06_Frost_Kid.png as the age and face guide.
+FROST GROWTH CANON: Frost grows unusually fast because of his mixed wild Bigfoot genes and royal human blood. Do not show the wrong age stage in this part.
+FROST CREATURE LOCK: Frost is not a dog, wolf, puppy, bear, normal child, or normal man. Keep the hybrid Bigfoot identity readable in the face, hands, body, and movement.
+
+SCENE:
+Three scruffy bandits in dusty cowboy hats and bandanas kick open the general store door.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 156. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: Three scruffy bandits in dusty cowboy hats and bandanas kick open the general store door.
+3-12s: Martha stands behind the counter, calm, arms crossed.
+12-22s: A huge shadow covers the bandits. They slowly turn around. Kid Frost stands in the doorway eating an ice cream cone.
+22-30s: The bandits scream, drop the money bag, and run so fast that one loses his pants and runs off in his heart-patterned underwear. Frost catches the money bag and gives it back to Martha. Final frame: Frost licking his ice cream, confused.
+24-30s: End on this clear suspense image: Frost licking his ice cream, confused. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "One quiet choice can break a kingdom. This is the hour of Bandits in Town."
+DIALOGUE 2 (8-12s): Frost (young hybrid Bigfoot-human voice): "I can feel my blood changing faster than my years. Not after Bandits in Town. That is what scares me."
+DIALOGUE 3 (18-22s): Martha (warm older village woman): "Give me one breath to think before the world breaks in. Not after Bandits in Town. This time I will not look away."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Frost must not look like a white dog, puppy, wolf, normal boy, or normal man.
+
+-------
+
+PART 157 - "Thanksgiving"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
+
+FROST AGE LOCK: Frost appears only as child Frost in this part. Use V06_Frost_Kid.png as the age and face guide.
+FROST GROWTH CANON: Frost grows unusually fast because of his mixed wild Bigfoot genes and royal human blood. Do not show the wrong age stage in this part.
+FROST CREATURE LOCK: Frost is not a dog, wolf, puppy, bear, normal child, or normal man. Keep the hybrid Bigfoot identity readable in the face, hands, body, and movement.
+
+SCENE:
+Kid Frost carries the entire long wooden table, fully set with food, over his head into place.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 157. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: Kid Frost carries the entire long wooden table, fully set with food, over his head into place.
+3-12s: Everyone sits. Frost sits on the ground and he's still the tallest at the table. He grabs a turkey leg that is bigger than Tommy's head.
+12-22s: Hank stands up and raises his glass of apple cider.
+22-30s: The whole village cheers "To Frost!" Frost gets shy and covers his face with his huge hands. Lily wipes a tear. Final frame: the whole town around the table, warm lights, laughter.
+24-30s: End on this clear suspense image: the whole town around the table, warm lights, laughter. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The danger is not behind them anymore. This is the hour of Thanksgiving."
+DIALOGUE 2 (8-12s): Lily (young emotional American woman): "My heart is afraid, but I will not let fear choose for me. Not after Thanksgiving. No one else can carry it."
+DIALOGUE 3 (18-22s): Frost (young hybrid Bigfoot-human voice): "I can feel my blood changing faster than my years. Not after Thanksgiving. The crown will hear it."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Frost must not look like a white dog, puppy, wolf, normal boy, or normal man.
+
+-------
+
+PART 158 - "Thin Ice"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+FROST AGE LOCK: Frost appears only as child Frost in this part. Use V06_Frost_Kid.png as the age and face guide.
+FROST GROWTH CANON: Frost grows unusually fast because of his mixed wild Bigfoot genes and royal human blood. Do not show the wrong age stage in this part.
+FROST CREATURE LOCK: Frost is not a dog, wolf, puppy, bear, normal child, or normal man. Keep the hybrid Bigfoot identity readable in the face, hands, body, and movement.
+
+SCENE:
+Frost pulls Tommy and Sarah on a big wooden sled at crazy speed across the snow; they scream with joy.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 158. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: Frost pulls Tommy and Sarah on a big wooden sled at crazy speed across the snow; they scream with joy.
+3-12s: Tommy slides off and skates out onto the frozen lake to show off. The ice cracks under him.
+12-22s: The ice breaks; Tommy falls into the freezing water. Frost runs onto the ice, which cracks under his weight. He lies down flat, spreading his weight, and crawls forward.
+22-30s: Frost pulls Tommy out of the water with one arm and slides back to shore as the ice collapses behind them. He wraps the shivering Tommy in his warm white fur. Final frame: Tommy hugging Frost, teeth chattering.
+24-30s: End on this clear suspense image: Tommy hugging Frost, teeth chattering. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "Every shadow is carrying a warning. This is the hour of Thin Ice."
+DIALOGUE 2 (8-12s): Frost (young hybrid Bigfoot-human voice): "If they come for my family, they will see who I am. Not after Thin Ice. The forest already knows."
+DIALOGUE 3 (18-22s): Tommy (brave village boy): "Tell me where to stand, and I will stand there. Not after Thin Ice. I know it in my bones."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Frost must not look like a white dog, puppy, wolf, normal boy, or normal man.
+
+-------
+
+PART 159 - "The White Beast"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+FROST AGE LOCK: Frost appears only as child Frost in this part. Use V06_Frost_Kid.png as the age and face guide.
+FROST GROWTH CANON: Frost grows unusually fast because of his mixed wild Bigfoot genes and royal human blood. Do not show the wrong age stage in this part.
+FROST CREATURE LOCK: Frost is not a dog, wolf, puppy, bear, normal child, or normal man. Keep the hybrid Bigfoot identity readable in the face, hands, body, and movement.
+
+SCENE:
+A scruffy fur hunter hiding in the snowy trees at the edge of Cedar Hollow watches Kid Frost playing with the kids, through a brass spyglass.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 159. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: A scruffy fur hunter hiding in the snowy trees at the edge of Cedar Hollow watches Kid Frost playing with the kids, through a brass spyglass.
+3-12s: Night. The hunter kneels in front of Captain Vex at a campfire in the forest.
+12-22s: Thorne Castle throne hall. King Magnus, a little older and greyer, listens. Prince Damian, older too, with a scar on his forehead from the silver tray, stands up angrily.
+22-30s: King Magnus stands and looks out of the window at his dragons.
+24-30s: End on this clear suspense image: King Magnus stands and looks out of the window at his dragons. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The forest is listening before it answers. This is the hour of The White Beast."
+DIALOGUE 2 (6-9s): Frost (young hybrid Bigfoot-human voice): "My strength is growing, and I have to control it! Not after The White Beast! This time I will not look away!"
+After 9s, no extra spoken dialogue. Use breathing, footsteps, impact sounds, music, and reaction shots so the action does not become noisy.
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Frost must not look like a white dog, puppy, wolf, normal boy, or normal man. No unnecessary talking during the action.
+
+-------
+
+PART 160 - "Martha's Firewood"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
+V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
+L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
+S05_TommyMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S05_TommyMiller/S05_TommyMiller_FULL.png
+S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
+
+FROST AGE LOCK: Frost appears only as child Frost in this part. Use V06_Frost_Kid.png as the age and face guide.
+FROST GROWTH CANON: Frost grows unusually fast because of his mixed wild Bigfoot genes and royal human blood. Do not show the wrong age stage in this part.
+FROST CREATURE LOCK: Frost is not a dog, wolf, puppy, bear, normal child, or normal man. Keep the hybrid Bigfoot identity readable in the face, hands, body, and movement.
+
+SCENE:
+Frost carries firewood to Martha's porch every morning.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 160. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-5s: Open immediately on the clearest visual action for this part: Frost carries firewood to Martha's porch every morning.
+5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
+14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
+24-30s: End on this clear suspense image: Old Joe warns Lily that the king may hear of him. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "Nothing about this night is finished. This is the hour of Marthas Firewood."
+DIALOGUE 2 (6-9s): Lily (young emotional American woman): "I know what I saw, and I am not going back blind! Not after Marthas Firewood! The crown will hear it!"
+After 9s, no extra spoken dialogue. Use breathing, footsteps, impact sounds, music, and reaction shots so the action does not become noisy.
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Frost must not look like a white dog, puppy, wolf, normal boy, or normal man. No unnecessary talking during the action.

@@ -4,11 +4,11 @@ Use this repo for Dola AI generation.
 
 ## Fast Workflow
 
-1. For the current restart, use the clean English 9:16 batch files in `ZDola_Combined_Prompts/English_9x16_Batches/`.
+1. For the current English 9:16 restart, use `ZDola_Combined_Prompts/English_9x16_ALL_312_CLEAN.txt`.
 2. Paste one part at a time into Dola. Each part is separated only by `-------`.
 3. The prompt already includes direct GitHub raw image URLs, so Dola should not need local image uploads.
 4. Use Seedance 2.5, 30 seconds, vertical 9:16.
-5. Do not use older all-312 combined files for new generation until all batches are rewritten cleanly.
+5. You can also use the 10-part batch files in `ZDola_Combined_Prompts/English_9x16_Batches/` if Dola is easier to run in smaller batches.
 
 ## Important Rules
 
@@ -24,6 +24,7 @@ Use this repo for Dola AI generation.
 
 - `Skill/SKILL.md` - Dola skill instructions.
 - `09_Dola_Ready_Prompts_URL/` - prompts ready with public image URLs.
+- `ZDola_Combined_Prompts/English_9x16_ALL_312_CLEAN.txt` - clean all-parts English 9:16 combined file.
 - `ZDola_Combined_Prompts/English_9x16_Batches/` - clean restart batch files for English 9:16 reels.
 - `Characters_Dola_1024/` - production image references.
 - `Story_Plan_DETAILED_ENGLISH_CANON.txt` - final English story canon.

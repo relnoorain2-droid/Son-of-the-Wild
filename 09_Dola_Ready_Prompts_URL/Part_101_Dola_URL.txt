@@ -1,62 +1,58 @@
+PART 101 - "His Name Is Frost"
+
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C04_Bruno_FACE.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FACE.png
 C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
 L05_River.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L05_River/L05_River.png
 V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
 
-FROST: Son of the Wild
-PART 101 - "His Name Is Frost"
-Punch: EMOTION + TWIST
-Status: ready - URL PACKAGE
-
-REFERENCE IMAGES FOR THIS PART
-Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
-REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C04_Bruno_FACE.png, C04_Bruno_FULL.png, L05_River.png, V03_Lily_Pregnant.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
-
 PROMPT TO PASTE IN DOLA
-EXACT 30-SECOND OUTPUT LOCK:
-This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
-Use active skill: Zakariya Seedance 2 5 30s
-Model: Seedance 2.5
-Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: vertical 9:16
-Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C04_Bruno_FULL.png -> Bruno; C04_Bruno_FACE.png -> Bruno; V03_Lily_Pregnant.png -> Variant Lily_Pregnant; L05_River.png -> Location River.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-The bank of the wide fast river, sunset, smoke in the sky.
-0–3s: Bruno carries Lily to the edge of the rushing river, limping, soldiers' torches visible through the trees behind.
-OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 100's final image: Build into the hook: A dragon lands behind Bruno. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now His Name Is Frost moves the story forward."
-3–14s: Bruno sets her down and holds her face in his giant hands.
-DIALOGUE 4–10s: Lily (young emotional American woman): "This is His Name Is Frost, and my heart knows the danger is real."
-DIALOGUE 10–14s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through His Name Is Frost."
-14–22s: Bruno smiles with tears in his eyes. He pulls the small blue wildflower Lily once braided into his fur, places it in her hand and gently closes her fingers around it. He kisses her forehead.
-DIALOGUE 15–21s: Bruno (very deep gentle Bigfoot voice): "Bruno hears fear in His Name Is Frost, but Bruno stays calm."
-22–30s: Before she can react, Bruno gently pushes her backward into the river. The current pulls her away. She reaches out to him, screaming. Final frame: Bruno standing alone on the riverbank, turning to face the army as the torches surround him.
-DIALOGUE 26–29s: Bruno (very deep gentle Bigfoot voice): "His Name Is Frost means Bruno must stay gentle and close."
-SFX: rushing river, crying, footsteps, approaching soldiers, splash, scream echoing.
-MUSIC: heartbreaking love theme on piano and strings, rising to a full emotional orchestra.
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
-SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 102 - "The Current Takes Her": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
 
-GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
 
-FACEBOOK CAPTION AFTER DOWNLOAD
-Part 101 | "Call him Frost... quiet, but stronger than everything." 😭❄️ #Bigfoot #Movie #Part101
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
 
-DOLA STATUS
-[ ] Images uploaded
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
+BRUNO CREATURE LOCK:
+Bruno is a huge black/dark-furred Bigfoot with a gentle but powerful face. He is not a gorilla costume, not a bear, not a dog, not a cartoon monster, and not a normal human. Keep his scale and fur consistent.
 
-NOTES
+
+SCENE:
+Bruno carries Lily to the edge of the rushing river, limping, soldiers' torches visible through the trees behind.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 101. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: Bruno carries Lily to the edge of the rushing river, limping, soldiers' torches visible through the trees behind.
+3-14s: Bruno sets her down and holds her face in his giant hands.
+14-22s: Bruno smiles with tears in his eyes. He pulls the small blue wildflower Lily once braided into his fur, places it in her hand and gently closes her fingers around it. He kisses her forehead.
+22-30s: Before she can react, Bruno gently pushes her backward into the river. The current pulls her away. She reaches out to him, screaming. Final frame: Bruno standing alone on the riverbank, turning to face the army as the torches surround him.
+24-30s: End on this clear suspense image: Bruno standing alone on the riverbank, turning to face the army as the torches surround him. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The danger is not behind them anymore. This is the hour of His Name Is Frost."
+DIALOGUE 2 (8-12s): Lily (young emotional American woman): "My heart is afraid, but I will not let fear choose for me. Not after His Name Is Frost. No one else can carry it."
+DIALOGUE 3 (18-22s): Bruno (very deep gentle Bigfoot voice): "Bruno stays close. Lily is not alone. Not after His Name Is Frost. The crown will hear it."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Bruno must not look like a normal gorilla, bear, dog, or human.

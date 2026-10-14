@@ -1,3 +1,5 @@
+PART 059 - "Bigfoot vs Bigfoot"
+
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
 C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
@@ -5,60 +7,53 @@ K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of
 S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
 
-FROST: Son of the Wild
-PART 059 - "Bigfoot vs Bigfoot"
-Punch: ACTION + WOW
-Status: ready - URL PACKAGE
-
-REFERENCE IMAGES FOR THIS PART
-Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
-REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C01_Lily_FULL.png, C04_Bruno_FULL.png, K01_DarkBigfoot.png, S07_CaptainVex_FULL.png, V02_Lily_Forest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
-
 PROMPT TO PASTE IN DOLA
-EXACT 30-SECOND OUTPUT LOCK:
-This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
-Use active skill: Zakariya Seedance 2 5 30s
-Model: Seedance 2.5
-Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: vertical 9:16
-Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: C04_Bruno_FULL.png -> Bruno; C01_Lily_FULL.png -> Variant Lily_Forest; preferred: V02_Lily_Forest.png; S07_CaptainVex_FULL.png -> Captain Vex; K01_DarkBigfoot.png -> Creature DarkBigfoot.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Evening, the waterfall pool, orange sunset turning to dusk.
-0–3s: Bruno bursts out through the waterfall, tackling the dark Bigfoot into the pool; a giant wave of water explodes.
-OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 058's final image: The dark Bigfoot pushes its face through the waterfall. Its red eyes meet Bruno's amber eyes, inches apart. It snarls, showing its fangs. Bruno slowly stands up to full height. Final frame: both giants face to face, the waterfall between them. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Bigfoot vs Bigfoot moves the story forward."
-3–14s: Epic fight in knee-deep water: the dark Bigfoot swings its iron shackles; Bruno blocks with his forearm, punches back. They crash into rocks. Guards step back in fear.
-DIALOGUE 6–8s: Lily (young emotional American woman): "This is Bigfoot vs Bigfoot, and my heart knows the danger is real."
-DIALOGUE 10–12s: Bruno (very deep gentle Bigfoot voice): "Bruno will protect Lily through Bigfoot vs Bigfoot."
-14–22s: Bruno ducks a punch, lifts the dark Bigfoot over his head in slow motion and throws it across the pool into the trees. It lands with a crash and runs away whimpering.
-22–30s: Bruno turns to the soldiers and lets out a huge roar. The guards drop their torches and run. Captain Vex backs away slowly, pointing at Bruno.
-DIALOGUE 23–28s: Captain Vex (harsh soldier voice): "The king wants Bigfoot vs Bigfoot before dawn."
-Final frame: Lily runs out and hugs Bruno's leg as he breathes hard in the dusk, steam rising from his fur.
-DIALOGUE 28–30s: Dark Bigfoot (deep savage Bigfoot voice): "Bigfoot vs Bigfoot ends under the dark pack."
-SFX: water explosion, punches and heavy thuds, chains swinging, rock crash, roars, tree crash, whimpering, torches dropping in water, soldiers running.
-MUSIC: epic heavy action score with drums and brass, ending with a soft warm resolve.
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
-SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 060 - "The Hidden Meadow": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
 
-GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
 
-FACEBOOK CAPTION AFTER DOWNLOAD
-Part 59 | Bigfoot vs the king's Bigfoot 🔥 Who won? Watch till the end! #Bigfoot #Movie #Part59
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
 
-DOLA STATUS
-[ ] Images uploaded
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
+BRUNO CREATURE LOCK:
+Bruno is a huge black/dark-furred Bigfoot with a gentle but powerful face. He is not a gorilla costume, not a bear, not a dog, not a cartoon monster, and not a normal human. Keep his scale and fur consistent.
 
-NOTES
+
+SCENE:
+Bruno bursts out through the waterfall, tackling the dark Bigfoot into the pool; a giant wave of water explodes.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 059. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: Bruno bursts out through the waterfall, tackling the dark Bigfoot into the pool; a giant wave of water explodes.
+3-14s: Epic fight in knee-deep water: the dark Bigfoot swings its iron shackles; Bruno blocks with his forearm, punches back. They crash into rocks. Guards step back in fear.
+14-22s: Bruno ducks a punch, lifts the dark Bigfoot over his head in slow motion and throws it across the pool into the trees. It lands with a crash and runs away whimpering.
+22-30s: Bruno turns to the soldiers and lets out a huge roar. The guards drop their torches and run. Captain Vex backs away slowly, pointing at Bruno.
+24-30s: End on this clear suspense image: Bruno turns to the soldiers and lets out a huge roar. The guards drop their torches and run. Captain Vex backs away slowly, pointing at Bruno. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The danger is not behind them anymore. This is the hour of Bigfoot vs Bigfoot."
+DIALOGUE 2 (8-12s): Lily (young emotional American woman): "Tell me the truth before someone else pays for it. Not after Bigfoot vs Bigfoot. No one else can carry it."
+DIALOGUE 3 (18-22s): Bruno (very deep gentle Bigfoot voice): "Bruno will not let the dark take her. Not after Bigfoot vs Bigfoot. The crown will hear it."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Bruno must not look like a normal gorilla, bear, dog, or human.

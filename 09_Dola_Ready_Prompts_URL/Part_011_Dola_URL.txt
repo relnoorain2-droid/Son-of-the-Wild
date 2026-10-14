@@ -1,3 +1,5 @@
+PART 011 - "Before Sunrise"
+
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
@@ -7,65 +9,49 @@ S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
 L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
 
-FROST: Son of the Wild
-PART 011 - "Before Sunrise"
-Punch: EXPANDED CUT - FORWARD STORY BEAT
-Status: ready - EXPANDED CANON PACKAGE
-
-REFERENCE IMAGES FOR THIS PART
-Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
-REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L02_KingCastle.png, C02_KingMagnus_FULL.png, C03_PrinceDamian_FULL.png, S08_KingdomGuards_FULL.png, S09_Brides_FULL.png, S11_Rose_FULL.png, L03_DeepForest.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
-
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
-EXACT 30-SECOND OUTPUT LOCK:
-This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
-Use active skill: Zakariya Seedance 2 5 30s
-Model: Seedance 2.5
-Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: vertical 9:16
-Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
 
-VERTICAL 9:16 FRAMING LOCK:
-Compose every shot for a vertical 9:16 reels frame. Keep faces, bodies, action, and title cards centered with safe top and bottom margins. Avoid tiny distant subjects and avoid cutting off heads or full-body action.
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: L02_KingCastle.png -> reference character/location; C02_KingMagnus_FULL.png -> reference character/location; C03_PrinceDamian_FULL.png -> reference character/location; S08_KingdomGuards_FULL.png -> reference character/location; S09_Brides_FULL.png -> reference character/location; S11_Rose_FULL.png -> reference character/location; L03_DeepForest.png -> reference character/location.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
-Scene: Damian wakes before dawn in dark riding clothes and hides his wedding ring in a drawer.
-0-3s: Start with a strong immediate visual hook connected to the previous part.
-OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 010's final image: Build into the hook: She sees muddy bootprints leading to the stable. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now Before Sunrise moves the story forward."
-3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Prince Damian (smooth cold prince voice):  with everyone watching."Before Sunrise will look like kindness if you obey."
-10-18s: Damian wakes before dawn in dark riding clothes and hides his wedding ring in a drawer.
-DIALOGUE 11-15s: Rose (old nervous castle maid): "I have seen what comes after Before Sunrise."
-18-24s: The bride asks why they are leaving so early.
-DIALOGUE 19-23s: King Magnus (deep rough commanding king): "Let the kingdom remember Before Sunrise."
-24-30s: Build into the hook: Damian says, 'Come. I want to show you my favorite place.'
-SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
-MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.
-CAMERA: clear subject framing, expressive faces, one clean action beat, then a strong final hook.
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
-SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 012 - "The Black Carriage": Damian says, 'Come. I want to show you my favorite place.' Keep continuity and do not add random new characters.
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
 
-GLOBAL RULES:
-AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync. No line may be skipped. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16 cinematic frame.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, rural American towns, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-TEXT RULE: On-screen text is allowed only for intentional short cinematic title/location/time cards when this PART asks for it. No subtitles for dialogue. No random text.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no gore, no blood spray, no nudity, no explicit wedding-night content, no restraints, no chains, no forced physical contact, no extra limbs, no face morphing, no character drift.
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
 
-FACEBOOK/REELS CAPTION AFTER DOWNLOAD
-Part 11 | Before Sunrise - the story moves deeper. #Bigfoot #Movie #Part11
+ROSE PLACEMENT LOCK:
+Rose is an old castle maid/helper. Unless this exact part says she steps forward to warn someone, keep her hidden at the side: behind a pillar, doorway, curtain, window, or corridor shadow. She must not randomly enter bedrooms, wedding centers, action scenes, or every shot.
 
-DOLA STATUS
-[ ] Images loaded by raw URLs
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
 
-NOTES
-Expanded 312-part canon. This part must move the story forward and end with suspense unless it is the final part.
+SCENE:
+Damian wakes before dawn in dark riding clothes and hides his wedding ring in a drawer.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 011. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-5s: Open immediately on the clearest visual action for this part: Damian wakes before dawn in dark riding clothes and hides his wedding ring in a drawer.
+5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
+14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
+24-30s: End on this clear suspense image: Damian says, 'Come. I want to show you my favorite place.' Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "Every shadow is carrying a warning. This is the hour of Before Sunrise."
+DIALOGUE 2 (8-12s): King Magnus (deep controlled king voice): "No secret survives inside my walls. Not after Before Sunrise. The forest already knows."
+DIALOGUE 3 (18-22s): Prince Damian (smooth cold prince voice): "You are safer when you stop asking questions. Not after Before Sunrise. I know it in my bones."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.

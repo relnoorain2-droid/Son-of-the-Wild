@@ -1,64 +1,52 @@
+PART 056 - "The Hunt Begins"
+
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
 K01_DarkBigfoot.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K01_DarkBigfoot/K01_DarkBigfoot.png
 S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 
-FROST: Son of the Wild
-PART 056 - "The Hunt Begins"
-Punch: TWIST
-Status: ready - CANON SAFE DOLA VERSION
-
-REFERENCE IMAGES FOR THIS PART
-Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
-REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C02_KingMagnus_FULL.png, C03_PrinceDamian_FULL.png, K01_DarkBigfoot.png, S07_CaptainVex_FULL.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
-
 PROMPT TO PASTE IN DOLA
-EXACT 30-SECOND OUTPUT LOCK:
-This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
-Use active skill: Zakariya Seedance 2 5 30s
-Model: Seedance 2.5
-Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: vertical 9:16
-Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: C03_PrinceDamian_FULL.png -> Prince Damian; C02_KingMagnus_FULL.png -> King Magnus; S07_CaptainVex_FULL.png -> Captain Vex; K01_DarkBigfoot.png -> dark Bigfoot tracker.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older.
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
-Morning, the dark castle throne hall and the forest gate outside the castle.
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+
+SCENE:
+Prince Damian storms in with a bandage wrapped around his head, furious, kicking over a chair.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 056. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
 0-3s: Prince Damian storms in with a bandage wrapped around his head, furious, kicking over a chair.
-OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 055's final image: Build into the hook: A torch flickers across the river. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now The Hunt Begins moves the story forward."
 3-12s: King Magnus on his throne almost smiles, then his face turns cold.
-DIALOGUE 4-6s: Prince Damian (smooth cold prince voice): "The Hunt Begins will look like kindness if you obey."
-DIALOGUE 6-12s: King Magnus (deep rough commanding king): "No one defies me after The Hunt Begins."
 12-22s: At the forest gate, Captain Vex and soldiers with torches find Lily's torn white veil caught on a bush, and next to it a giant bare footprint, much bigger than a man's. Vex kneels and measures it with his whole arm.
-DIALOGUE 16-19s: Captain Vex (harsh soldier voice): "The king wants The Hunt Begins before dawn."
 22-30s: From the fog, an armored dark Bigfoot tracker steps forward with glowing red eyes. It sniffs the veil, growls, and points toward the waterfall.
-DIALOGUE 25-29s: Dark Bigfoot (deep savage Bigfoot voice): "The Hunt Begins ends under the dark pack."
-Final frame: the dark Bigfoot's red eyes glowing in the fog.
-SFX: chair crash, echoing footsteps, armor, torch fire, deep sniffing, growl, whistle, forest wind.
-MUSIC: dark villain theme with low brass and war drums.
+24-30s: End on this clear suspense image: From the fog, an armored dark Bigfoot tracker steps forward with glowing red eyes. It sniffs the veil, growls, and points toward the waterfall. Hold the final emotion for the last second; do not resolve it.
 
-SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 057 - "The Vine Swing": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "This moment changes the road ahead. This is the hour of The Hunt Begins."
+DIALOGUE 2 (6-9s): King Magnus (deep controlled king voice): "The crown does not ask twice. Not after The Hunt Begins. I know it in my bones."
+After 9s, no extra spoken dialogue. Use breathing, footsteps, impact sounds, music, and reaction shots so the action does not become noisy.
 
-GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity, no chains, no restraints.
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
 
-FACEBOOK CAPTION AFTER DOWNLOAD
-Part 56 | The king's men found Lily's veil... and a giant footprint. #Bigfoot #Movie #Part56
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
 
-DOLA STATUS
-[ ] Images uploaded
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
 
-NOTES
-Safer version: no captive dark Bigfoot imagery, no death threat language.
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. No unnecessary talking during the action.

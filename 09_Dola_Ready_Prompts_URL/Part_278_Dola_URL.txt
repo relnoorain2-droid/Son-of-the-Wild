@@ -1,62 +1,55 @@
+PART 278 - "The Secret Tunnel"
+
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
 V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
 V13_Sarah_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V13_Sarah_Adult/V13_Sarah_Adult.png
 
-FROST: Son of the Wild
-PART 278 - "The Secret Tunnel"
-Punch: TWIST
-Status: ready - URL PACKAGE
-
-REFERENCE IMAGES FOR THIS PART
-Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
-REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S04_OldJoeWhitaker_FULL.png, S11_Rose_FULL.png, V12_Tommy_Adult.png, V13_Sarah_Adult.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
-
 PROMPT TO PASTE IN DOLA
-EXACT 30-SECOND OUTPUT LOCK:
-This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
-Use active skill: Zakariya Seedance 2 5 30s
-Model: Seedance 2.5
-Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: vertical 9:16
-Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V12_Tommy_Adult.png -> Variant Tommy_Adult; V13_Sarah_Adult.png -> Variant Sarah_Adult; S11_Rose_FULL.png -> Rose; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
-Inside a dark, narrow stone tunnel under Thorne Castle, torchlight, dripping water, rats.
-0–3s: Rose pushes open a hidden stone door behind a waterfall at the back of the castle. Tommy, Sarah and Old Joe follow with torches.
-OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 277's final image: A huge soldier with a giant axe stands over Martha. She looks up, then calmly hits his toe with the pan. He hops around screaming, holding his foot, and falls into a mud puddle. Final frame: Martha blowing on her frying pan like a cowboy. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–5s: NARRATOR (cinematic story voice): "Now The Secret Tunnel moves the story forward."
-3–12s: They creep through the tunnel. A rat runs over Tommy's boot; he almost screams; Sarah covers his mouth.
-DIALOGUE 6–9s: Rose (old nervous castle maid): "Remember The Secret Tunnel, child. It is your warning."
-DIALOGUE 9–11s: Old Joe (old wise American man): "The Secret Tunnel means the forest is answering."
-12–22s: The tunnel opens into a huge underground cave: the dragon pens. Dozens of small and medium dragons lie in heavy iron chains, their eyes glowing red, crying softly.
-DIALOGUE 16–20s: Old Joe (old wise American man): "Listen close before The Secret Tunnel chooses you."
-22–30s: A small young green dragon looks at Sarah. For a moment its red eyes flicker to their natural gold color. It whimpers. Sarah slowly reaches out.
-DIALOGUE 25–28s: Old Joe (old wise American man): "I have heard old stories about The Secret Tunnel."
-Final frame: Sarah's hand almost touching the young dragon's nose; a shadow with an axe appearing behind them.
-SFX: stone door grinding, torches, dripping water, rat squeaks, muffled scream, chains rattling, dragons whimpering, a heavy footstep.
-MUSIC: quiet suspense, turning sad and gentle at the dragons, ending on a tense sting.
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
-SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 279 - "The T-Rex Returns": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
 
-GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
 
-FACEBOOK CAPTION AFTER DOWNLOAD
-Part 278 | The secret tunnel led to the dragon prison... the dragons were CRYING 😢🐉 #Bigfoot #Movie #Part278
+ROSE PLACEMENT LOCK:
+Rose is an old castle maid/helper. Unless this exact part says she steps forward to warn someone, keep her hidden at the side: behind a pillar, doorway, curtain, window, or corridor shadow. She must not randomly enter bedrooms, wedding centers, action scenes, or every shot.
 
-DOLA STATUS
-[ ] Images uploaded
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
 
-NOTES
+SCENE:
+Rose pushes open a hidden stone door behind a waterfall at the back of the castle. Tommy, Sarah and Old Joe follow with torches.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 278. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: Rose pushes open a hidden stone door behind a waterfall at the back of the castle. Tommy, Sarah and Old Joe follow with torches.
+3-12s: They creep through the tunnel. A rat runs over Tommy's boot; he almost screams; Sarah covers his mouth.
+12-22s: The tunnel opens into a huge underground cave: the dragon pens. Dozens of small and medium dragons lie in heavy iron chains, their eyes glowing red, crying softly.
+22-30s: A small young green dragon looks at Sarah. For a moment its red eyes flicker to their natural gold color. It whimpers. Sarah slowly reaches out.
+24-30s: End on this clear suspense image: A small young green dragon looks at Sarah. For a moment its red eyes flicker to their natural gold color. It whimpers. Sarah slowly reaches out. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The forest is listening before it answers. This is the hour of The Secret Tunnel."
+DIALOGUE 2 (8-12s): Rose (old nervous castle maid, whispering from the side): "Do not trust a kind smile in this castle. Not after The Secret Tunnel. This time I will not look away."
+DIALOGUE 3 (18-22s): Tommy (brave village boy): "Tell me where to stand, and I will stand there. Not after The Secret Tunnel. The silence proves it."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.

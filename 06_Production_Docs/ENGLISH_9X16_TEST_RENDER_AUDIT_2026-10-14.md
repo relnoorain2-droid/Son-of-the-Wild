@@ -29,7 +29,10 @@ Scope: 78 random test renders, not a sequential export. Missing part numbers are
 - Lock style to hyper-realistic cinematic 3D. Explicitly reject cartoon, anime, toy, plastic, dog-like, wolf-like, white-dog Frost, human-looking Bigfoot, melted face, face swap, and character drift.
 - Frost age must be restated every time he appears: baby, child, teen, young adult, or powered form. His fast growth is because of his mixed wild/royal genes.
 
-## Current Clean Batch
+## Current Clean Batches
 
-- `ZDola_Combined_Prompts/English_9x16_Batches/Batch_001_010_CLEAN.txt`
-- Source files rewritten: `09_Dola_Ready_Prompts_URL/Part_001_Dola_URL.txt` through `Part_010_Dola_URL.txt`
+- Clean English 9:16 batch files now live in `ZDola_Combined_Prompts/English_9x16_Batches/`.
+- Final clean all-parts file: `ZDola_Combined_Prompts/English_9x16_ALL_312_CLEAN.txt`.
+- Batches cover Parts 001-312.
+- Old all-312 combined files were removed to avoid using mixed old prompt text.
+- Source files rewritten: `09_Dola_Ready_Prompts_URL/Part_001_Dola_URL.txt` through `Part_312_Dola_URL.txt`.

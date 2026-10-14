@@ -1,61 +1,54 @@
+PART 176 - "The County Fair"
+
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
 S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
 V07_Frost_Teen.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V07_Frost_Teen/V07_Frost_Teen.png
 
-FROST: Son of the Wild
-PART 176 - "The County Fair"
-Punch: FUN + WOW
-Status: ready - URL PACKAGE
-
-REFERENCE IMAGES FOR THIS PART
-Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
-REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L07_Village.png, S03_HankMiller_FULL.png, V07_Frost_Teen.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
-
 PROMPT TO PASTE IN DOLA
-EXACT 30-SECOND OUTPUT LOCK:
-This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
-Use active skill: Zakariya Seedance 2 5 30s
-Model: Seedance 2.5
-Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: vertical 9:16
-Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V07_Frost_Teen.png -> Variant Frost_Teen; S03_HankMiller_FULL.png -> Hank Miller; S10_Villagers_FULL.png -> optional background group, skip unless you want crowd continuity; L07_Village.png -> Location Village.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
-FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07_Frost_Teen.png for present-day Frost; do not show baby, kid, adult, or powered Frost here.
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
-Sunny day at a small-town American county fair: a Ferris wheel, cotton candy, hay bales, a big "lumberjack games" stage with wooden logs.
-0–3s: Three huge bearded lumberjacks in plaid shirts each throw a big log; the crowd cheers.
-OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 175's final image: Outside on the dark hills above Cedar Hollow, three riders on black war horses watch the village lights through a spyglass. One of them is Captain Vex, older now, smiling. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now The County Fair moves the story forward."
-3–12s: Teen Frost steps up nervously. The lumberjacks laugh at him.
-DIALOGUE 5–8s: Frost (deep young heroic voice): "The County Fair is where I stand for my family."
-DIALOGUE 8–11s: Hank (rough kind villager voice): "We fix what The County Fair broke before dark."
-12–22s: Frost picks up not one log but the entire stack of logs, all at once. The crowd goes silent. He spins and throws. The logs fly over the Ferris wheel and land in a lake far away with a distant splash.
-DIALOGUE 18–21s: Hank (rough kind villager voice): "Hold steady until The County Fair passes."
-22–30s: The crowd explodes in cheers. The lumberjacks' jaws drop. One of them faints. Frost receives a giant blue-ribbon trophy and grins shyly. Final frame: Frost holding the tiny trophy in his huge hand.
-DIALOGUE 26–29s: Hank (rough kind villager voice): "The County Fair needs work, not talk."
-SFX: fair music, crowd cheering, logs thudding, mocking laughter, a massive throw whoosh, distant splash, fainting thump.
-MUSIC: upbeat country fair fiddle and banjo, a triumphant brass hit for the throw.
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
-SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 177 - "Driving Lesson": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
 
-GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
 
-FACEBOOK CAPTION AFTER DOWNLOAD
-Part 176 | They told him "this is a man's game"... he threw the logs into the next county 😂🪵 #Bigfoot #Movie #Part176
+FROST AGE LOCK: Frost appears only as teen Frost in this part. Use V07_Frost_Teen.png as the age and face guide.
+FROST GROWTH CANON: Frost grows unusually fast because of his mixed wild Bigfoot genes and royal human blood. Do not show the wrong age stage in this part.
+FROST CREATURE LOCK: Frost is not a dog, wolf, puppy, bear, normal child, or normal man. Keep the hybrid Bigfoot identity readable in the face, hands, body, and movement.
 
-DOLA STATUS
-[ ] Images uploaded
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
+SCENE:
+Three huge bearded lumberjacks in plaid shirts each throw a big log; the crowd cheers.
 
-NOTES
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 176. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: Three huge bearded lumberjacks in plaid shirts each throw a big log; the crowd cheers.
+3-12s: Teen Frost steps up nervously. The lumberjacks laugh at him.
+12-22s: Frost picks up not one log but the entire stack of logs, all at once. The crowd goes silent. He spins and throws. The logs fly over the Ferris wheel and land in a lake far away with a distant splash.
+22-30s: The crowd explodes in cheers. The lumberjacks' jaws drop. One of them faints. Frost receives a giant blue-ribbon trophy and grins shyly. Final frame: Frost holding the tiny trophy in his huge hand.
+24-30s: End on this clear suspense image: Frost holding the tiny trophy in his huge hand. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The truth is closer than anyone admits. This is the hour of The County Fair."
+DIALOGUE 2 (8-12s): Frost (young hybrid Bigfoot-human voice): "I can feel my blood changing faster than my years. Not after The County Fair. The silence proves it."
+DIALOGUE 3 (18-22s): NARRATOR (deep cinematic voice): "Before dawn, the story turns again. Not after The County Fair. The forest already knows."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Frost must not look like a white dog, puppy, wolf, normal boy, or normal man.

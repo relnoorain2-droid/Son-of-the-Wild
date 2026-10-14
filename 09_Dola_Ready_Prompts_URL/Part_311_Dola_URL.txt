@@ -1,66 +1,57 @@
+PART 311 - "You and Me and the Wild"
+
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
 V14_Grace_Older.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V14_Grace_Older/V14_Grace_Older.png
 
-FROST: Son of the Wild
-PART 311 - "You and Me and the Wild"
-Punch: EMOTION + WOW
-Status:-assets
-
-REFERENCE IMAGES FOR THIS PART
-Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
-REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: V04_Lily_VillageMom.png, V08_Frost_Powered.png, V14_Grace_Older.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
-
 PROMPT TO PASTE IN DOLA
-EXACT 30-SECOND OUTPUT LOCK:
-This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
-Use active skill: Zakariya Seedance 2 5 30s
-Model: Seedance 2.5
-Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: vertical 9:16
-Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V04_Lily_VillageMom.png -> Variant Lily_VillageMom; V14_Grace_Older.png -> Variant Grace_Older; S10_Villagers_FULL.png -> optional background group, skip unless you want crowd continuity.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
-FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powered.png for present-day Frost; do not revert to baby, kid, teen, or unpowered adult Frost unless a memory is explicitly shown.
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Night at the celebration, string lights, a big bonfire, the stars above, a fiddle player on the stage.
-0–3s: Lily steps onto the stage. The crowd goes quiet. She looks at Frost.
-OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 310's final image: Tommy nervously asks grown-up Sarah to dance; she smiles and takes his hand. Everyone cheers "Finally!" Final frame: the huge happy crowd, people and animals together under the lights. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 0–3s: NARRATOR (cinematic story voice): "Now You and Me and the Wild closes the journey."
-3–27s: Lily SINGS, lip-synced, soft country-folk; then the whole crowd joins in; Frost hums deep and a little off-key, exactly like his father did:
-  3–10s: Lily sings: "No castle walls, no golden crown, just a river song and the stars come down."
-  — Shots: Grace holding Martha's hand; Rose with her too-big crown; the brides smiling.
-  10–20s: Everyone sings: "It's you and me and the wild, running free like a child..."
-  — Shots: Frost dancing his clumsy stomp, kids and bear cubs dancing around him; dragons swaying their heads to the music.
-  20–27s: Everyone sings: "...no one can find us here, you and me and the wild."
-  — Shots: Frost lifting Lily onto his shoulder, exactly like Bruno did in the meadow years ago.
-27–30s: Lily, on Frost's shoulder, looks up at the stars, tears in her eyes, smiling.
-DIALOGUE 27–30s: Lily (young emotional American woman): "This is You and Me and the Wild, and my heart finally knows peace is real."
-DIALOGUE 8-11s: Frost (deep young heroic voice):  this time."I will not let You and Me and the Wild break the people I love."
-DIALOGUE 16-20s: Frost (deep young heroic voice): "Father, guide me through You and Me and the Wild."
-SFX: bonfire, crowd singing, Frost's deep off-key humming, stomping, laughter.
-MUSIC: the full version of Song 1 with fiddle, guitar and a big warm crowd choir.
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
-SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 312 - "Home": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
 
-GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
 
-FACEBOOK CAPTION AFTER DOWNLOAD
-Part 311 | The whole crowd sang "You and Me and the Wild" 🎶😭 #Bigfoot #Movie #Part311
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
 
-DOLA STATUS
-[ ] Images uploaded
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
+FROST AGE LOCK: Frost appears only as powered Frost in this part. Use V08_Frost_Powered.png as the age and face guide.
+FROST GROWTH CANON: Frost grows unusually fast because of his mixed wild Bigfoot genes and royal human blood. Do not show the wrong age stage in this part.
+FROST CREATURE LOCK: Frost is not a dog, wolf, puppy, bear, normal child, or normal man. Keep the hybrid Bigfoot identity readable in the face, hands, body, and movement.
 
-NOTES
+SCENE:
+Lily steps onto the stage. The crowd goes quiet. She looks at Frost.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 311. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: Lily steps onto the stage. The crowd goes quiet. She looks at Frost.
+3-27s: Lily SINGS, lip-synced, soft country-folk; then the whole crowd joins in; Frost hums deep and a little off-key, exactly like his father did:
+3-10s: Lily sings: "No castle walls, no golden crown, just a river song and the stars come down".
+10-20s: Everyone sings: "It's you and me and the wild, running free like a child..".
+24-30s: End on this clear suspense image: Lily, on Frost's shoulder, looks up at the stars, tears in her eyes, smiling. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The danger is not behind them anymore. This is the hour of You and Me and the Wild."
+DIALOGUE 2 (8-12s): Lily (young emotional American woman): "Tell me the truth before someone else pays for it. Not after You and Me and the Wild. No one else can carry it."
+DIALOGUE 3 (18-22s): Frost (young hybrid Bigfoot-human voice): "If they come for my family, they will see who I am. Not after You and Me and the Wild. The crown will hear it."
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Frost must not look like a white dog, puppy, wolf, normal boy, or normal man.

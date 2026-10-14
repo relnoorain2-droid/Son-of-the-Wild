@@ -1,61 +1,51 @@
+PART 277 - "Grandma's Revenge"
+
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L08_Battlefield.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L08_Battlefield/L08_Battlefield.png
 S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
 S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
 
-FROST: Son of the Wild
-PART 277 - "Grandma's Revenge"
-Punch: FUN + ACTION
-Status: ready - URL PACKAGE
-
-REFERENCE IMAGES FOR THIS PART
-Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
-REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L08_Battlefield.png, S02_MarthaHayes_FULL.png, S03_HankMiller_FULL.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
-
 PROMPT TO PASTE IN DOLA
-EXACT 30-SECOND OUTPUT LOCK:
-This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
-Use active skill: Zakariya Seedance 2 5 30s
-Model: Seedance 2.5
-Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: vertical 9:16
-Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: S02_MarthaHayes_FULL.png -> Martha Hayes; S03_HankMiller_FULL.png -> Hank Miller; S10_Villagers_FULL.png -> optional background group, skip unless you want crowd continuity; L08_Battlefield.png -> Location Battlefield.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
-The battlefield in front of Thorne Castle, soldiers in black helmets fighting villagers.
-0–3s: A line of the king's soldiers marches forward with shields. In front of them stands a line of grandmothers with frying pans.
-OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 276's final image: Old Scar stands up on his hind legs and roars at a mammoth twice his size; the mammoth backs away. Damian, struggling to control his mammoth, looks at the battle in shock. Final frame: dust and chaos, bison everywhere. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now Grandma's Revenge moves the story forward."
-3–12s: Martha smiles sweetly.
-DIALOGUE 4–6s: Martha (warm Southern voice): "Grandma's Revenge needs steady hands, honey."
-The grandmothers swing their cast-iron pans: BONK! BONK! BONK! Soldiers spin around cross-eyed and fall over like dominoes, comedy style, no injuries shown.
-12–22s: Hank and the Pine Ridge sheriff fight back-to-back with rifles (firing into the air to scare horses) and lassos, roping soldiers like cattle.
-DIALOGUE 15–18s: Hank (rough kind villager voice): "We fix what Grandma's Revenge broke before dark."
-DIALOGUE 18–20s: Hank (rough kind villager voice): "Hold steady until Grandma's Revenge passes."
-22–30s: A huge soldier with a giant axe stands over Martha. She looks up, then calmly hits his toe with the pan. He hops around screaming, holding his foot, and falls into a mud puddle. Final frame: Martha blowing on her frying pan like a cowboy.
-DIALOGUE 27–30s: Hank (rough kind villager voice): "Grandma's Revenge needs work, not talk."
-SFX: marching, laughter, multiple comedic metal BONKs, bodies flopping, lasso whoosh, rifle shots in the air, a toe bonk, screaming, a mud splash.
-MUSIC: fun Western action theme with comedic stings on each bonk.
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
-SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 278 - "The Secret Tunnel": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
 
-GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
 
-FACEBOOK CAPTION AFTER DOWNLOAD
-Part 277 | "They sent GRANDMAS?" ...and then the frying pans came out 🍳😂 #Bigfoot #Movie #Part277
 
-DOLA STATUS
-[ ] Images uploaded
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
+SCENE:
+A line of the king's soldiers marches forward with shields. In front of them stands a line of grandmothers with frying pans.
 
-NOTES
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 277. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
+0-3s: A line of the king's soldiers marches forward with shields. In front of them stands a line of grandmothers with frying pans.
+3-12s: Martha smiles sweetly.
+12-22s: Hank and the Pine Ridge sheriff fight back-to-back with rifles (firing into the air to scare horses) and lassos, roping soldiers like cattle.
+22-30s: A huge soldier with a giant axe stands over Martha. She looks up, then calmly hits his toe with the pan. He hops around screaming, holding his foot, and falls into a mud puddle. Final frame: Martha blowing on her frying pan like a cowboy.
+24-30s: End on this clear suspense image: Martha blowing on her frying pan like a cowboy. Hold the final emotion for the last second; do not resolve it.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "Every shadow is carrying a warning. This is the hour of Grandmas Revenge."
+DIALOGUE 2 (6-9s): Martha (warm older village woman): "This house protects whoever reaches its door. Not after Grandmas Revenge. The forest already knows."
+After 9s, no extra spoken dialogue. Use breathing, footsteps, impact sounds, music, and reaction shots so the action does not become noisy.
+
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. No unnecessary talking during the action.

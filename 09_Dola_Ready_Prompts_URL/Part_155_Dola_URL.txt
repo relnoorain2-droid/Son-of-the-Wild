@@ -1,62 +1,57 @@
+PART 155 - "Frost Says Sorry"
+
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
 V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
 V06_Frost_Kid.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V06_Frost_Kid/V06_Frost_Kid.png
 
-FROST: Son of the Wild
-PART 155 - "Frost Says Sorry"
-Punch: ANGER + MOTHER-SON
-Status: ready - EXTENDED CANON URL PACKAGE
-
-REFERENCE IMAGES FOR THIS PART
-Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
-REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: L07_Village.png, V04_Lily_VillageMom.png, V06_Frost_Kid.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
-
 PROMPT TO PASTE IN DOLA
-EXACT 30-SECOND OUTPUT LOCK:
-This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
-Use active skill: Zakariya Seedance 2 5 30s
-Model: Seedance 2.5
-Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: vertical 9:16
-Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
-CHARACTER LOCK: Keep Lily, kid Frost, and Cedar Hollow exactly identical to attached references. Reference mapping: V06_Frost_Kid.png -> reference character/location.
-LILY LOOK LOCK: Lily remains young-looking and beautiful, blue eyes, honey-blonde hair, gentle mother.
-FROST AGE LOCK: Frost has grown fast because Bruno's Bigfoot genes and ancient forest magic run in his blood. Use only V06_Frost_Kid.png for present-day Frost; do not show baby, teen, adult, or powered Frost here.
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
 
-Scene: Afternoon behind Lily's cabin, split-rail fence, tall grass, village barns in the distance.
-OPENING CONTINUITY LOCK: The first 0-3 seconds must directly continue Part 154's final image: Lily smiles and points at the black crescent patch on Frost's chest. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+
+LILY FACE LOCK:
+Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
+
+FROST AGE LOCK: Frost appears only as child Frost in this part. Use V06_Frost_Kid.png as the age and face guide.
+FROST GROWTH CANON: Frost grows unusually fast because of his mixed wild Bigfoot genes and royal human blood. Do not show the wrong age stage in this part.
+FROST CREATURE LOCK: Frost is not a dog, wolf, puppy, bear, normal child, or normal man. Keep the hybrid Bigfoot identity readable in the face, hands, body, and movement.
+
+SCENE:
+Afternoon behind Lily's cabin, split-rail fence, tall grass, village barns in the distance.
+
+SHOT PLAN:
+0-4s: Start on a strong visual hook for Part 155. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
 0-5s: Frost sits angry beside a broken fence post after asking about his father. Lily stands nearby, worried.
-DIALOGUE 1-5s: NARRATOR (cinematic story voice): "Now Frost Says Sorry moves the story forward."
 5-12s: Lily kneels beside him. Frost turns away, hurt.
-DIALOGUE 5-9s: Frost (deep young heroic voice): "Frost Says Sorry is where I stand for my family."
-DIALOGUE 9-12s: Lily (young emotional American woman): "I have to survive Frost Says Sorry without losing myself."
 12-20s: Frost kicks a loose fence rail too hard and breaks it. He instantly regrets it.
-DIALOGUE 14-17s: Lily (young emotional American woman): "After Frost Says Sorry, I cannot ignore the truth anymore."
 20-27s: Frost carefully lifts the rail and repairs the fence with gentle hands, ashamed.
-DIALOGUE 21-25s: Lily (young emotional American woman): "This is Frost Says Sorry, and my heart knows the danger is real."
-27-30s: Lily hugs his huge arm. Final frame: Frost leaning his head down so Lily can kiss his forehead.
-DIALOGUE 27-30s: Frost (deep young heroic voice): "I will not let Frost Says Sorry break the people I love."
-SFX: fence crack, birds, grass, wood being fixed, soft hug.
-MUSIC: emotional piano with gentle strings.
-SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 156 - "Bandits in Town": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+24-30s: End on this clear suspense image: Frost leaning his head down so Lily can kiss his forehead. Hold the final emotion for the last second; do not resolve it.
 
-GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, vertical 9:16.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-TEXT RULE: No subtitles or dialogue captions. Brief location/title cards are allowed only when explicitly requested.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
-FACEBOOK CAPTION AFTER DOWNLOAD
-Part 155 | Frost got angry about his father... then learned strength must stay gentle. #Bigfoot #Movie #Part155
+SPOKEN DIALOGUE:
+DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The truth is closer than anyone admits. This is the hour of Frost Says Sorry."
+DIALOGUE 2 (8-12s): Lily (young emotional American woman): "Tell me the truth before someone else pays for it. Not after Frost Says Sorry. The silence proves it."
+DIALOGUE 3 (18-22s): Frost (young hybrid Bigfoot-human voice): "If they come for my family, they will see who I am. Not after Frost Says Sorry. The forest already knows."
 
-DOLA STATUS
-[ ] Images uploaded
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
+DIALOGUE RULE:
+Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
 
-NOTES
-Inserted after old Part 68 for mother-son emotion and anger control.
+SFX:
+Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+
+MUSIC:
+Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. Frost must not look like a white dog, puppy, wolf, normal boy, or normal man.
