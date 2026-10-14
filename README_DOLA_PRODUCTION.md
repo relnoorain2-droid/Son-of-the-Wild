@@ -24,7 +24,7 @@ Use this repo for Dola AI generation.
 
 - `Skill/SKILL.md` - Dola skill instructions.
 - `09_Dola_Ready_Prompts_URL/` - prompts ready with public image URLs.
-- `ZDola_Combined_Prompts/English_9x16_MANUAL_001_020_CLEAN.txt` - current manually rewritten English 9:16 progress file.
+- `ZDola_Combined_Prompts/English_9x16_MANUAL_001_030_CLEAN.txt` - current manually rewritten English 9:16 progress file.
 - `ZDola_Combined_Prompts/English_9x16_Batches/` - manual clean restart batch files for English 9:16 reels.
 - `Characters_Dola_1024/` - production image references.
 - `Story_Plan_DETAILED_ENGLISH_CANON.txt` - final English story canon.

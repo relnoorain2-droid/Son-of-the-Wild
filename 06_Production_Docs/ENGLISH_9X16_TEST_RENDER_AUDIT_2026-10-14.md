@@ -32,7 +32,7 @@ Scope: 78 random test renders, not a sequential export. Missing part numbers are
 ## Current Clean Batches
 
 - Manual clean English 9:16 batch files now live in `ZDola_Combined_Prompts/English_9x16_Batches/`.
-- Current manual progress file: `ZDola_Combined_Prompts/English_9x16_MANUAL_001_020_CLEAN.txt`.
-- Manually rewritten batches currently cover Parts 001-020.
+- Current manual progress file: `ZDola_Combined_Prompts/English_9x16_MANUAL_001_030_CLEAN.txt`.
+- Manually rewritten batches currently cover Parts 001-030.
 - The prior controller-generated all-312 combined file was removed to avoid risk.
 - The final all-312 combined file should be recreated only after every batch has been manually rewritten.

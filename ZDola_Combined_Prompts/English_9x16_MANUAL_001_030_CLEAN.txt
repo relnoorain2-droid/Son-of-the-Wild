@@ -1193,3 +1193,627 @@ warm home strings under Lily and Grace, then a cold royal note when the name is 
 
 NEGATIVE:
 No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No wrong Lily face, no old Lily, no Grace face drift, no palace clothing inside Lily's poor home.
+
+-------
+
+PART 021 - "The Road To Lily"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+L01_LilyHouse.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L01_LilyHouse/L01_LilyHouse.png
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+S01_GraceCarter_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S01_GraceCarter/S01_GraceCarter_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
+S10_Villagers_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S10_Villagers/S10_Villagers_FULL.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
+
+LILY FACE LOCK:
+Lily must match the listed Lily reference exactly. In normal clothes use C01_Lily_FULL; in wedding scenes use V01_Lily_Wedding. Keep her young 22-24, soft fair face, big blue eyes, honey-blonde hair, innocent but brave expression. Do not make her older, cartoonish, different ethnicity, different hairstyle, or another woman.
+
+GRACE FACE LOCK:
+Grace Carter must match S01_GraceCarter_FULL exactly as Lily's worried loving mother. Do not turn her into Rose, Martha, or a random old woman.
+
+DIALOGUE RULE:
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+Captain Vex rides from the castle with guards while Lily carries water and helps Grace at home, unaware that royal hooves are coming for her.
+
+SHOT PLAN:
+0-4s: Continue from Part 020: Vex's black-gloved finger has just landed on Lily Carter's name. Cut to Vex closing the list and mounting his horse.
+4-10s: Wide vertical shot: Vex and guards ride out of Thorne Castle toward a poor Oregon road. Keep armor and faces matched to reference images.
+10-16s: At L01_LilyHouse, Lily carries a water bucket and helps Grace with simple chores. Their home feels warm, poor, and real.
+16-23s: Neighbors hear royal hooves and quietly close doors and curtains. Nobody smiles; everyone knows what the sound means.
+23-30s: Grace looks out the window, sees royal riders approaching, and drops a cup. Final frame: Lily turns toward the broken cup.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "The road to Lily began with a name on royal paper."
+DIALOGUE 2: GRACE (worried mother): "Lily... come inside now."
+DIALOGUE 3: CAPTAIN VEX (harsh soldier voice): "No mistakes. The crown wants her brought in daylight."
+
+SFX:
+horse hooves on wet road, leather tack, bucket water slosh, cup shatter, neighbors shutting doors.
+
+MUSIC:
+low pursuit rhythm mixed with soft home strings that turn cold.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No wrong Lily face, no random palace clothes in Lily's home, no cheerful villagers.
+
+-------
+
+PART 022 - "Chosen In Public"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+S01_GraceCarter_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S01_GraceCarter/S01_GraceCarter_FULL.png
+C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+S10_Villagers_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S10_Villagers/S10_Villagers_FULL.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
+
+LILY FACE LOCK:
+Lily must match the listed Lily reference exactly. In normal clothes use C01_Lily_FULL; in wedding scenes use V01_Lily_Wedding. Keep her young 22-24, soft fair face, big blue eyes, honey-blonde hair, innocent but brave expression. Do not make her older, cartoonish, different ethnicity, different hairstyle, or another woman.
+
+GRACE FACE LOCK:
+Grace Carter must match S01_GraceCarter_FULL exactly as Lily's worried loving mother. Do not turn her into Rose, Martha, or a random old woman.
+
+ROSE PLACEMENT LOCK:
+Rose is an old castle maid/helper. Keep her hidden at the side, behind a pillar, doorway, balcony stone, curtain, or corridor shadow unless this part explicitly says she helps Lily. She must not randomly enter the center of the royal stage, carriage, or every shot.
+
+DIALOGUE RULE:
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+Lily is brought before the kingdom square, surrounded by citizens who know the danger but are too afraid to speak.
+
+SHOT PLAN:
+0-4s: Start with Lily stepping into the castle square between guards. Grace is behind the guard line, trying to stay close.
+4-10s: Wide shot of the public square: citizens stand in frightened silence, not celebration. King Magnus watches from above in a medium-wide shot.
+10-16s: Damian sees Lily and his polite smile becomes personal. Lily keeps her chin up but her eyes show fear.
+16-23s: Grace reaches forward from behind guards; Rose is hidden near a side pillar, looking devastated, not entering center stage.
+23-30s: Damian steps toward Lily and says she is the one. Final frame: Lily's face holds fear and disbelief as the crowd stays silent.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "A public choice can still be a prison."
+DIALOGUE 2: LILY (trying to stay brave): "Why is everyone looking away?"
+DIALOGUE 3: PRINCE DAMIAN (smooth cold voice): "You are the one."
+
+SFX:
+crowd hush, armor steps, Grace breathing hard, distant flag cloth, one royal drum hit.
+
+MUSIC:
+ceremonial strings with dread underneath.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No happy wedding crowd, no Rose in the center, no extreme King close-up.
+
+-------
+
+PART 023 - "Grace Begs"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+S01_GraceCarter_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S01_GraceCarter/S01_GraceCarter_FULL.png
+C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
+S10_Villagers_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S10_Villagers/S10_Villagers_FULL.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
+
+LILY FACE LOCK:
+Lily must match the listed Lily reference exactly. In normal clothes use C01_Lily_FULL; in wedding scenes use V01_Lily_Wedding. Keep her young 22-24, soft fair face, big blue eyes, honey-blonde hair, innocent but brave expression. Do not make her older, cartoonish, different ethnicity, different hairstyle, or another woman.
+
+GRACE FACE LOCK:
+Grace Carter must match S01_GraceCarter_FULL exactly as Lily's worried loving mother. Do not turn her into Rose, Martha, or a random old woman.
+
+DIALOGUE RULE:
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+Grace pleads with Captain Vex and King Magnus to spare Lily while Lily tries not to break in front of the crowd.
+
+SHOT PLAN:
+0-4s: Continue from Damian naming Lily: Grace pushes against the guard line, reaching for her daughter.
+4-10s: Medium shot: Grace pleads with Captain Vex, but Vex keeps his arm firm across the path. He does not hurt her.
+10-16s: King Magnus watches from above, cold and still. Keep him in a controlled medium-wide royal shot.
+16-23s: Lily takes Grace's hand for one second through the guards and whispers courage, then the guards separate them.
+23-30s: Lily is led toward the castle stairs. Final frame: Grace is left behind, hand still raised in the air.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "Grace begged where no one was allowed to answer."
+DIALOGUE 2: GRACE (breaking voice): "Take anything from me, but not my daughter."
+DIALOGUE 3: LILY (low to Grace): "Mama, breathe. I will find a way back."
+
+SFX:
+crowd murmur, Grace's footsteps, armor shifting, Lily's dress dragging on stone.
+
+MUSIC:
+emotional strings, restrained and painful, no melodrama.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No violent dragging, no Grace face drift, no Lily changing face, no crowd cheering.
+
+-------
+
+PART 024 - "Into The Palace"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+S01_GraceCarter_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S01_GraceCarter/S01_GraceCarter_FULL.png
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
+
+LILY FACE LOCK:
+Lily must match the listed Lily reference exactly. In normal clothes use C01_Lily_FULL; in wedding scenes use V01_Lily_Wedding. Keep her young 22-24, soft fair face, big blue eyes, honey-blonde hair, innocent but brave expression. Do not make her older, cartoonish, different ethnicity, different hairstyle, or another woman.
+
+GRACE FACE LOCK:
+Grace Carter must match S01_GraceCarter_FULL exactly as Lily's worried loving mother. Do not turn her into Rose, Martha, or a random old woman.
+
+ROSE PLACEMENT LOCK:
+Rose is an old castle maid/helper. Keep her hidden at the side, behind a pillar, doorway, balcony stone, curtain, or corridor shadow unless this part explicitly says she helps Lily. She must not randomly enter the center of the royal stage, carriage, or every shot.
+
+DIALOGUE RULE:
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+Lily enters Thorne Castle and sees servants lower their eyes, afraid to look at another bride.
+
+SHOT PLAN:
+0-4s: Start on Lily being led up the castle stairs from Part 023. Grace remains outside below, blocked by guards.
+4-10s: Lily enters the huge stone palace. Servants stop working and lower their eyes as she passes.
+10-16s: Damian walks ahead as if everything is normal. Lily notices servant hands trembling around flowers and white cloth.
+16-23s: Rose sees Lily from a side doorway and almost cries; she stays hidden at the edge, not in the middle of the hall.
+23-30s: Rose whispers 'not again' as Lily turns toward her. Final frame: Lily realizes Rose knows something terrible.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "The palace did not welcome Lily. It recognized her."
+DIALOGUE 2: LILY (quiet, frightened): "Why will no one look at me?"
+DIALOGUE 3: ROSE (hidden whisper): "Not again."
+
+SFX:
+stone hall echo, soft servant footsteps, fabric rustle, distant bell, Rose's breath catching.
+
+MUSIC:
+thin haunted strings, slow pulse under Lily's footsteps.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No Rose walking into center hall, no Grace inside palace after being blocked, no random extra brides.
+
+-------
+
+PART 025 - "The Beautiful Trap"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S09_Brides/S09_Brides_FULL.png
+S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
+
+LILY FACE LOCK:
+Lily must match the listed Lily reference exactly. In normal clothes use C01_Lily_FULL; in wedding scenes use V01_Lily_Wedding. Keep her young 22-24, soft fair face, big blue eyes, honey-blonde hair, innocent but brave expression. Do not make her older, cartoonish, different ethnicity, different hairstyle, or another woman.
+
+ROSE PLACEMENT LOCK:
+Rose is an old castle maid/helper. Keep her hidden at the side, behind a pillar, doorway, balcony stone, curtain, or corridor shadow unless this part explicitly says she helps Lily. She must not randomly enter the center of the royal stage, carriage, or every shot.
+
+DIALOGUE RULE:
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+The palace dresses Lily for the wedding with flowers and white fabric while every maid looks scared.
+
+SHOT PLAN:
+0-4s: Start in a dressing chamber with white fabric and flowers on a table. Lily sits still, not joyful, while maids work carefully.
+4-10s: Use V01_Lily_Wedding for Lily's wedding look. Maids adjust the veil with shaking hands; Lily studies their faces.
+10-16s: Rose stands half-hidden near a wardrobe, watching but unable to speak openly. She does not take over the room.
+16-23s: Lily notices an old torn veil hidden under the table, stained only with dust and age, no blood.
+23-30s: A maid quickly snatches the old veil away. Final frame: Lily stares at the empty space where the veil was.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "They dressed the trap in flowers."
+DIALOGUE 2: LILY (soft but alert): "Why is everyone afraid of my wedding?"
+DIALOGUE 3: ROSE (barely moving her lips): "Because beauty hides the door."
+
+SFX:
+pins, fabric whisper, nervous breathing, flower stems breaking, small gasp.
+
+MUSIC:
+delicate wedding motif twisted into suspense.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No happy bridal makeover, no explicit content, no wrong Lily wedding face, no cartoon maids.
+
+-------
+
+PART 026 - "Damian's Gentle Voice"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
+
+LILY FACE LOCK:
+Lily must match the listed Lily reference exactly. In normal clothes use C01_Lily_FULL; in wedding scenes use V01_Lily_Wedding. Keep her young 22-24, soft fair face, big blue eyes, honey-blonde hair, innocent but brave expression. Do not make her older, cartoonish, different ethnicity, different hairstyle, or another woman.
+
+ROSE PLACEMENT LOCK:
+Rose is an old castle maid/helper. Keep her hidden at the side, behind a pillar, doorway, balcony stone, curtain, or corridor shadow unless this part explicitly says she helps Lily. She must not randomly enter the center of the royal stage, carriage, or every shot.
+
+DIALOGUE RULE:
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+Damian visits Lily before the wedding, speaking softly and promising she will be safe while Rose silently warns Lily from the doorway.
+
+SHOT PLAN:
+0-4s: Start with Lily in wedding clothes near a window, holding still as footsteps approach outside the room.
+4-10s: Damian enters with a gentle smile. Frame him in medium shot; do not make his face too close or romantic.
+10-16s: Damian speaks softly, offering false comfort. Lily wants to believe him but notices his eyes do not soften.
+16-23s: Rose appears in the doorway shadow behind Damian and silently shakes her head once, warning Lily.
+23-30s: Damian leaves with a final polite bow. Final frame: Lily sees Rose's warning eyes in the doorway.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "Damian knew kindness was easier to believe than a threat."
+DIALOGUE 2: PRINCE DAMIAN (gentle false voice): "Do as I say tonight, Lily, and you will be safe."
+DIALOGUE 3: LILY (uncertain): "Safe from what?"
+
+SFX:
+door latch, soft boots, distant wedding crowd, Lily's breath, fabric movement.
+
+MUSIC:
+soft deceptive piano over dark strings.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No romantic intimacy, no touching, no Rose entering fully, no extreme Damian close-up.
+
+-------
+
+PART 027 - "I Do"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+S01_GraceCarter_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S01_GraceCarter/S01_GraceCarter_FULL.png
+S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
+S10_Villagers_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S10_Villagers/S10_Villagers_FULL.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
+
+LILY FACE LOCK:
+Lily must match the listed Lily reference exactly. In normal clothes use C01_Lily_FULL; in wedding scenes use V01_Lily_Wedding. Keep her young 22-24, soft fair face, big blue eyes, honey-blonde hair, innocent but brave expression. Do not make her older, cartoonish, different ethnicity, different hairstyle, or another woman.
+
+GRACE FACE LOCK:
+Grace Carter must match S01_GraceCarter_FULL exactly as Lily's worried loving mother. Do not turn her into Rose, Martha, or a random old woman.
+
+ROSE PLACEMENT LOCK:
+Rose is an old castle maid/helper. Keep her hidden at the side, behind a pillar, doorway, balcony stone, curtain, or corridor shadow unless this part explicitly says she helps Lily. She must not randomly enter the center of the royal stage, carriage, or every shot.
+
+DIALOGUE RULE:
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+The wedding begins. Lily says the words with fear while Damian smiles for the crowd and King Magnus watches like a hunter.
+
+SHOT PLAN:
+0-4s: Start at the wedding altar in the castle hall. Lily stands in V01_Lily_Wedding, tense and pale, with Damian beside her.
+4-10s: Wide shot: citizens and servants watch silently. Grace is far back behind guards, not beside Lily.
+10-16s: Lily says the required words, voice small. Damian smiles for the crowd, polished and empty.
+16-23s: King Magnus watches from his royal seat in medium-wide shot. Rose moves at the side and slips a small key into Lily's folded shawl.
+23-30s: Lily feels the key hidden in the fabric. Final frame: Lily's hand closes over the key without anyone noticing.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "Lily gave the words, but not her trust."
+DIALOGUE 2: LILY (shaking voice): "I do."
+DIALOGUE 3: PRINCE DAMIAN (public smile): "Then the kingdom welcomes you."
+
+SFX:
+ceremony bell, crowd silence, cloth fold, tiny key drop, Grace muffled sob.
+
+MUSIC:
+dark wedding march, quiet key motif at the end.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No happy romance, no kiss close-up, no Rose in center stage, no extreme King close-up.
+
+-------
+
+PART 028 - "The Private Room"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
+
+LILY FACE LOCK:
+Lily must match the listed Lily reference exactly. In normal clothes use C01_Lily_FULL; in wedding scenes use V01_Lily_Wedding. Keep her young 22-24, soft fair face, big blue eyes, honey-blonde hair, innocent but brave expression. Do not make her older, cartoonish, different ethnicity, different hairstyle, or another woman.
+
+ROSE PLACEMENT LOCK:
+Rose is an old castle maid/helper. Keep her hidden at the side, behind a pillar, doorway, balcony stone, curtain, or corridor shadow unless this part explicitly says she helps Lily. She must not randomly enter the center of the royal stage, carriage, or every shot.
+
+DIALOGUE RULE:
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+Damian brings Lily to the private royal room and pretends affection with gentle words and false promises, while Lily notices scratches near the balcony lock.
+
+SHOT PLAN:
+0-4s: Start with Lily's hidden key in her shawl as Damian leads her toward a private royal room. Keep distance respectful.
+4-10s: The private room is beautiful but cold: candles, balcony doors, heavy curtains, no intimacy, no bed focus.
+10-16s: Damian speaks gently from across the room, pretending concern. Lily stays near the door, watchful.
+16-23s: Lily notices fresh scratches near the balcony lock and a damaged latch, like someone tried to escape before.
+23-30s: Damian tells her to sleep early for tomorrow's forest ride. Final frame: Lily looks from the scratched lock to the hidden key in her shawl.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "The private room was another stage."
+DIALOGUE 2: PRINCE DAMIAN (soft false voice): "Rest early. Tomorrow I will show you the forest."
+DIALOGUE 3: LILY (quiet, careful): "Why does the balcony lock have scratches?"
+
+SFX:
+door closing, candle flicker, metal latch touch, distant castle wind.
+
+MUSIC:
+quiet suspense, single piano notes, low strings under the lock reveal.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No bedroom intimacy, no touching, no explicit wedding night, no random Rose entering the room.
+
+-------
+
+PART 029 - "Rose Tells The Truth"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
+
+LILY FACE LOCK:
+Lily must match the listed Lily reference exactly. In normal clothes use C01_Lily_FULL; in wedding scenes use V01_Lily_Wedding. Keep her young 22-24, soft fair face, big blue eyes, honey-blonde hair, innocent but brave expression. Do not make her older, cartoonish, different ethnicity, different hairstyle, or another woman.
+
+ROSE PLACEMENT LOCK:
+Rose is an old castle maid/helper. Keep her hidden at the side, behind a pillar, doorway, balcony stone, curtain, or corridor shadow unless this part explicitly says she helps Lily. She must not randomly enter the center of the royal stage, carriage, or every shot.
+
+DIALOGUE RULE:
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+Rose slips to Lily's room after Damian leaves and finally whispers about the missing brides.
+
+SHOT PLAN:
+0-4s: Start with Damian's footsteps fading down the hallway outside Lily's private room. Lily stands by the scratched balcony lock.
+4-10s: Rose appears at the door only after checking both sides of the corridor. She enters quickly, frightened but determined.
+10-16s: Medium two-shot: Rose keeps her voice low and tells Lily that brides do not return from the forest ride.
+16-23s: Lily's fear turns into decision. She pulls the hidden key from her shawl while Rose points toward the servants' passage.
+23-30s: Bootsteps stop outside the door. Final frame: Lily and Rose freeze in silence, eyes on the door handle.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "Rose had kept the secret too long."
+DIALOGUE 2: ROSE (urgent whisper): "No bride comes back from the morning ride."
+DIALOGUE 3: LILY (steadying herself): "Then I leave before morning."
+
+SFX:
+distant boots fading, door whisper, key in fabric, sudden bootsteps stopping.
+
+MUSIC:
+tight suspense strings, heartbeat pulse, silence at the door handle.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No Rose shouting, no guards bursting in yet, no Damian in the room, no wrong Lily wedding face.
+
+-------
+
+PART 030 - "Run Before Dawn"
+
+REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
+L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
+L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+
+PROMPT TO PASTE IN DOLA
+FORMAT: VERTICAL 9:16
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
+
+SELF-CONTAINED PART RULE:
+Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
+
+REFERENCE IMAGE STRICT LOCK:
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+
+STYLE LOCK:
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
+
+CAMERA LOCK:
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
+
+LILY FACE LOCK:
+Lily must match the listed Lily reference exactly. In normal clothes use C01_Lily_FULL; in wedding scenes use V01_Lily_Wedding. Keep her young 22-24, soft fair face, big blue eyes, honey-blonde hair, innocent but brave expression. Do not make her older, cartoonish, different ethnicity, different hairstyle, or another woman.
+
+ROSE PLACEMENT LOCK:
+Rose is an old castle maid/helper. Keep her hidden at the side, behind a pillar, doorway, balcony stone, curtain, or corridor shadow unless this part explicitly says she helps Lily. She must not randomly enter the center of the royal stage, carriage, or every shot.
+
+DIALOGUE RULE:
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+Lily escapes through servant halls, kitchen smoke, laundry sheets, and the castle garden before reaching the dark forest edge.
+
+SHOT PLAN:
+0-4s: Start with the door handle beginning to move. Rose pulls Lily into a side servant passage just before anyone enters.
+4-10s: Lily runs through narrow servant halls, holding her wedding dress up so she does not trip. Rose stays behind to mislead the guards.
+10-16s: Lily crosses a smoky kitchen and disappears through hanging laundry sheets. Keep movement clear in vertical frame.
+16-23s: Vex sees a curtain move and shouts for guards. Do not add extra speeches; let alarms and footsteps carry the chase.
+23-30s: Lily slips through the castle garden gate and reaches the dark forest edge before dawn. Final frame: she runs into the trees.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "Before dawn, Lily chose the danger she could see."
+DIALOGUE 2: ROSE (urgent whisper): "Do not stop until the trees hide you."
+DIALOGUE 3: CAPTAIN VEX (sharp command): "Search the garden!"
+
+SFX:
+door handle rattle, running footsteps, kitchen smoke hiss, laundry sheets snapping, alarm bell, forest wind.
+
+MUSIC:
+fast tense strings, low percussion, sudden drop as Lily enters the forest.
+
+NEGATIVE:
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No extra dialogue during chase, no cartoon running, no Lily face drift, no guards catching her in this part.

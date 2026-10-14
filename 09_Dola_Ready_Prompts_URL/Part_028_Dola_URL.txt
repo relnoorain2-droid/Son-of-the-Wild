@@ -1,60 +1,56 @@
 PART 028 - "The Private Room"
 
 REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
-V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
-S01_GraceCarter_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S01_GraceCarter/S01_GraceCarter_FULL.png
-C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
-S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
-S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
 L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+V01_Lily_Wedding.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
+C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
 
 SELF-CONTAINED PART RULE:
 Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
 REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
 STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
 
 CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
-
-ROSE PLACEMENT LOCK:
-Rose is an old castle maid/helper. Unless this exact part says she steps forward to warn someone, keep her hidden at the side: behind a pillar, doorway, curtain, window, or corridor shadow. She must not randomly enter bedrooms, wedding centers, action scenes, or every shot.
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
 
 LILY FACE LOCK:
-Keep Lily's identity consistent with the listed Lily reference image. Keep her young, innocent, soft-featured, fair-skinned, blue-eyed, honey-blonde, and emotionally readable. Do not age her unless the listed reference is an older variant. Do not change her into another woman.
+Lily must match the listed Lily reference exactly. In normal clothes use C01_Lily_FULL; in wedding scenes use V01_Lily_Wedding. Keep her young 22-24, soft fair face, big blue eyes, honey-blonde hair, innocent but brave expression. Do not make her older, cartoonish, different ethnicity, different hairstyle, or another woman.
 
-
-SCENE:
-Damian brings Lily to the private royal room and pretends affection with gentle words and false promises.
-
-SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 028. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-5s: Open immediately on the clearest visual action for this part: Damian brings Lily to the private royal room and pretends affection with gentle words and false promises.
-5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
-14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
-24-30s: End on this clear suspense image: Damian tells her to sleep early for tomorrow's forest ride. Hold the final emotion for the last second; do not resolve it.
-
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "This moment changes the road ahead. This is the hour of The Private Room."
-DIALOGUE 2 (8-12s): Lily (young emotional American woman): "I know what I saw, and I am not going back blind. Not after The Private Room. I know it in my bones."
-DIALOGUE 3 (18-22s): Prince Damian (smooth cold prince voice): "The court only believes what I allow it to see. Not after The Private Room. No one else can carry it."
+ROSE PLACEMENT LOCK:
+Rose is an old castle maid/helper. Keep her hidden at the side, behind a pillar, doorway, balcony stone, curtain, or corridor shadow unless this part explicitly says she helps Lily. She must not randomly enter the center of the royal stage, carriage, or every shot.
 
 DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+Damian brings Lily to the private royal room and pretends affection with gentle words and false promises, while Lily notices scratches near the balcony lock.
+
+SHOT PLAN:
+0-4s: Start with Lily's hidden key in her shawl as Damian leads her toward a private royal room. Keep distance respectful.
+4-10s: The private room is beautiful but cold: candles, balcony doors, heavy curtains, no intimacy, no bed focus.
+10-16s: Damian speaks gently from across the room, pretending concern. Lily stays near the door, watchful.
+16-23s: Lily notices fresh scratches near the balcony lock and a damaged latch, like someone tried to escape before.
+23-30s: Damian tells her to sleep early for tomorrow's forest ride. Final frame: Lily looks from the scratched lock to the hidden key in her shawl.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "The private room was another stage."
+DIALOGUE 2: PRINCE DAMIAN (soft false voice): "Rest early. Tomorrow I will show you the forest."
+DIALOGUE 3: LILY (quiet, careful): "Why does the balcony lock have scratches?"
 
 SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+door closing, candle flicker, metal latch touch, distant castle wind.
 
 MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+quiet suspense, single piano notes, low strings under the lock reveal.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No bedroom intimacy, no touching, no explicit wedding night, no random Rose entering the room.
