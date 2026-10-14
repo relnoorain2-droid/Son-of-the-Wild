@@ -31,8 +31,8 @@ Scope: 78 random test renders, not a sequential export. Missing part numbers are
 
 ## Current Clean Batches
 
-- Clean English 9:16 batch files now live in `ZDola_Combined_Prompts/English_9x16_Batches/`.
-- Final clean all-parts file: `ZDola_Combined_Prompts/English_9x16_ALL_312_CLEAN.txt`.
-- Batches cover Parts 001-312.
-- Old all-312 combined files were removed to avoid using mixed old prompt text.
-- Source files rewritten: `09_Dola_Ready_Prompts_URL/Part_001_Dola_URL.txt` through `Part_312_Dola_URL.txt`.
+- Manual clean English 9:16 batch files now live in `ZDola_Combined_Prompts/English_9x16_Batches/`.
+- Current manual progress file: `ZDola_Combined_Prompts/English_9x16_MANUAL_001_020_CLEAN.txt`.
+- Manually rewritten batches currently cover Parts 001-020.
+- The prior controller-generated all-312 combined file was removed to avoid risk.
+- The final all-312 combined file should be recreated only after every batch has been manually rewritten.

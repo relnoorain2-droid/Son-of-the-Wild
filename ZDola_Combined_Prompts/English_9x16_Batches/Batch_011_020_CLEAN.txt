@@ -4,6 +4,7 @@ REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S09_Brides/S09_Brides_FULL.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
@@ -11,50 +12,49 @@ L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
 
 SELF-CONTAINED PART RULE:
 Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
 REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
 STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
 
 CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
 
 ROSE PLACEMENT LOCK:
-Rose is an old castle maid/helper. Unless this exact part says she steps forward to warn someone, keep her hidden at the side: behind a pillar, doorway, curtain, window, or corridor shadow. She must not randomly enter bedrooms, wedding centers, action scenes, or every shot.
-
-
-SCENE:
-Damian wakes before dawn in dark riding clothes and hides his wedding ring in a drawer.
-
-SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 011. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-5s: Open immediately on the clearest visual action for this part: Damian wakes before dawn in dark riding clothes and hides his wedding ring in a drawer.
-5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
-14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
-24-30s: End on this clear suspense image: Damian says, 'Come. I want to show you my favorite place.' Hold the final emotion for the last second; do not resolve it.
-
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "Every shadow is carrying a warning. This is the hour of Before Sunrise."
-DIALOGUE 2 (8-12s): King Magnus (deep controlled king voice): "No secret survives inside my walls. Not after Before Sunrise. The forest already knows."
-DIALOGUE 3 (18-22s): Prince Damian (smooth cold prince voice): "You are safer when you stop asking questions. Not after Before Sunrise. I know it in my bones."
+Rose is an old castle maid/helper. She stays hidden at the side, behind a pillar, doorway, curtain, balcony stone, or corridor shadow unless this part explicitly says she gives a warning. She must not randomly enter the bedroom, center of the royal stage, carriage, forest gate, or every shot.
 
 DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+Inside the castle before dawn, Prince Damian quietly changes into dark riding clothes and hides his wedding ring in a drawer while the new bride notices muddy bootprints leading toward the stable.
+
+SHOT PLAN:
+0-3s: Begin in the same cold castle corridor mood from Part 010: muddy bootprints cross the stone floor toward the stable door. No time jump beyond late night turning into blue pre-dawn.
+3-8s: Medium shot, not close-up: Damian enters a dim chamber, removes his wedding ring, and locks it inside a small drawer. His face stays calm but false.
+8-14s: The bride stands near the doorway in wedding clothes, confused and frightened. Rose is only a half-hidden figure in the corridor shadow; she does not enter the room.
+14-22s: Damian puts on dark riding gloves and opens the stable passage. Guards wait outside with lanterns, avoiding the bride's eyes.
+22-30s: Damian turns with a soft smile that feels dangerous and gestures toward the door. Final frame: the bride sees the black carriage waiting beyond the arch.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "Before sunrise, the palace learned how to hide its sins."
+DIALOGUE 2: PRINCE DAMIAN (quiet cold voice): "Come with me. The court does not need to see everything."
+DIALOGUE 3: THE BRIDE (shaking whisper): "Why are we leaving before the bells?"
 
 SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+drawer click, leather gloves tightening, distant stable horses, low wind under the castle door, soft wedding fabric movement.
 
 MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+low strings, slow heartbeat drum, no romantic music.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No bedroom intimacy, no forced touch, no Rose entering the chamber, no extreme Damian close-up.
 
 -------
 
@@ -64,6 +64,7 @@ REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S09_Brides/S09_Brides_FULL.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
@@ -71,50 +72,49 @@ L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
 
 SELF-CONTAINED PART RULE:
 Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
 REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
 STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
 
 CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
 
 ROSE PLACEMENT LOCK:
-Rose is an old castle maid/helper. Unless this exact part says she steps forward to warn someone, keep her hidden at the side: behind a pillar, doorway, curtain, window, or corridor shadow. She must not randomly enter bedrooms, wedding centers, action scenes, or every shot.
-
-
-SCENE:
-The carriage rolls through the sleeping kingdom while Damian holds the bride's hand too tightly.
-
-SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 012. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-5s: Open immediately on the clearest visual action for this part: The carriage rolls through the sleeping kingdom while Damian holds the bride's hand too tightly.
-5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
-14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
-24-30s: End on this clear suspense image: A child whispers, 'Not another one.' Hold the final emotion for the last second; do not resolve it.
-
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The forest is listening before it answers. This is the hour of The Black Carriage."
-DIALOGUE 2 (8-12s): King Magnus (deep controlled king voice): "The crown does not ask twice. Not after The Black Carriage. This time I will not look away."
-DIALOGUE 3 (18-22s): Prince Damian (smooth cold prince voice): "The court only believes what I allow it to see. Not after The Black Carriage. The silence proves it."
+Rose is an old castle maid/helper. She stays hidden at the side, behind a pillar, doorway, curtain, balcony stone, or corridor shadow unless this part explicitly says she gives a warning. She must not randomly enter the bedroom, center of the royal stage, carriage, forest gate, or every shot.
 
 DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+A black carriage rolls through the sleeping kingdom while Damian sits beside the bride, holding power over the moment without showing violence.
+
+SHOT PLAN:
+0-4s: Start directly on the black carriage wheels rolling over wet cobblestone outside the castle. Lantern light reflects in puddles.
+4-9s: Inside the carriage, medium shot: Damian sits composed in dark clothes. The bride sits opposite him, hands folded tightly, scared but silent.
+9-15s: Through the window, common people peek from dark homes and pull children away from the glass. No crowd chaos, only quiet fear.
+15-22s: Rose watches from a hidden service doorway as the carriage passes; she stays outside the action, half-covered by shadow.
+22-30s: The carriage leaves the last houses behind. Final frame: a small child behind a curtain mouths, 'not another one,' while the carriage disappears toward fog.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "The black carriage never needed chains. The kingdom already knew what it meant."
+DIALOGUE 2: PRINCE DAMIAN (smooth cold voice): "Look outside. No one will stop what they are afraid to name."
+DIALOGUE 3: ROSE (hidden whisper from doorway): "Child... keep your eyes open."
 
 SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+carriage wheels, horse breath, rain on wood, muffled hoofbeats, distant doors closing.
 
 MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+quiet funeral-like strings, rising dread near the fog road.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No random villagers entering the carriage, no Rose inside the carriage, no comedy, no cartoon faces.
 
 -------
 
@@ -124,6 +124,7 @@ REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S09_Brides/S09_Brides_FULL.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
@@ -131,50 +132,49 @@ L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
 
 SELF-CONTAINED PART RULE:
 Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
 REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
 STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
 
 CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
 
 ROSE PLACEMENT LOCK:
-Rose is an old castle maid/helper. Unless this exact part says she steps forward to warn someone, keep her hidden at the side: behind a pillar, doorway, curtain, window, or corridor shadow. She must not randomly enter bedrooms, wedding centers, action scenes, or every shot.
-
-
-SCENE:
-The road narrows into dark Pacific Northwest forest, full of fog and claw marks on old trees.
-
-SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 013. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-5s: Open immediately on the clearest visual action for this part: The road narrows into dark Pacific Northwest forest, full of fog and claw marks on old trees.
-5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
-14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
-24-30s: End on this clear suspense image: The horses refuse to move forward. Hold the final emotion for the last second; do not resolve it.
-
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "Nothing about this night is finished. This is the hour of The Forbidden Road."
-DIALOGUE 2 (8-12s): King Magnus (deep controlled king voice): "Every house in this kingdom answers to me. Not after The Forbidden Road. The crown will hear it."
-DIALOGUE 3 (18-22s): Prince Damian (smooth cold prince voice): "Careful. In this palace, even silence has witnesses. Not after The Forbidden Road. That is what scares me."
+Rose is an old castle maid/helper. She stays hidden at the side, behind a pillar, doorway, curtain, balcony stone, or corridor shadow unless this part explicitly says she gives a warning. She must not randomly enter the bedroom, center of the royal stage, carriage, forest gate, or every shot.
 
 DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+The castle road narrows into dark Pacific Northwest forest, where fog curls around claw-marked trees and the horses begin to panic.
+
+SHOT PLAN:
+0-4s: Continue from the carriage leaving town: the wheels move from cobblestone to muddy forest road under tall black pines.
+4-9s: Wide vertical shot: the castle lights vanish behind the carriage. The road ahead is swallowed by fog and huge trees.
+9-15s: The bride sees claw marks carved deep into bark and torn white cloth caught on a branch. Keep her face consistent with the bride reference.
+15-22s: The horses slow, ears pinned back. Guards exchange fearful looks but do not step away yet.
+22-30s: The carriage stops by itself. Final frame: the horses refuse to move, steam rising from their noses into the fog.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "Past the last house, the road became a warning."
+DIALOGUE 2: THE BRIDE (small frightened voice): "Those marks... what made them?"
+DIALOGUE 3: PRINCE DAMIAN (flat voice): "In this kingdom, questions are more dangerous than beasts."
 
 SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+muddy wheels, horse snorts, branch scrape, distant low animal growl, wind through pines.
 
 MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+slow forest dread, low brass pulse, silence before the final horse refusal.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No monster reveal yet, no gore, no extra talking guards, no Asian forest or architecture.
 
 -------
 
@@ -184,6 +184,7 @@ REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S09_Brides/S09_Brides_FULL.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
@@ -191,50 +192,49 @@ L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
 
 SELF-CONTAINED PART RULE:
 Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
 REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
 STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
 
 CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
 
 ROSE PLACEMENT LOCK:
-Rose is an old castle maid/helper. Unless this exact part says she steps forward to warn someone, keep her hidden at the side: behind a pillar, doorway, curtain, window, or corridor shadow. She must not randomly enter bedrooms, wedding centers, action scenes, or every shot.
-
-
-SCENE:
-The carriage stops at the forbidden forest gate. Even the guards refuse to step past it.
-
-SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 014. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-5s: Open immediately on the clearest visual action for this part: The carriage stops at the forbidden forest gate. Even the guards refuse to step past it.
-5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
-14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
-24-30s: End on this clear suspense image: He tells the bride, 'Beyond this gate, no one asks questions.' Hold the final emotion for the last second; do not resolve it.
-
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "This moment changes the road ahead. This is the hour of The Forest Gate."
-DIALOGUE 2 (8-12s): King Magnus (deep controlled king voice): "Mercy is a story weak people tell at night. Not after The Forest Gate. I know it in my bones."
-DIALOGUE 3 (18-22s): Prince Damian (smooth cold prince voice): "Smile for them, and they will call it peace. Not after The Forest Gate. No one else can carry it."
+Rose is an old castle maid/helper. She stays hidden at the side, behind a pillar, doorway, curtain, balcony stone, or corridor shadow unless this part explicitly says she gives a warning. She must not randomly enter the bedroom, center of the royal stage, carriage, forest gate, or every shot.
 
 DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+The carriage reaches the forbidden forest gate. Even the guards refuse to pass beyond it, exposing that they fear the tradition too.
+
+SHOT PLAN:
+0-4s: Start on iron forest gates half-buried in moss, black pines towering behind them. The carriage lanterns shake in the wind.
+4-10s: Guards step down and stop at the threshold. One guard refuses eye contact with the bride. No one crosses the gate.
+10-16s: Damian opens the carriage door himself. Medium shot: his polite mask is fading, but do not push into an extreme close-up.
+16-23s: The bride looks from Damian to the guards and understands they all know what this place means.
+23-30s: Damian points into the fog beyond the gate. Final frame: the bride stands on one side of the gate, Damian and the carriage on the other.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "At the forest gate, even soldiers remembered fear."
+DIALOGUE 2: PRINCE DAMIAN (soft but cruel voice): "Beyond this gate, no one asks questions."
+DIALOGUE 3: THE BRIDE (barely audible): "You brought me here on purpose."
 
 SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+iron gate creak, scared horse breath, armor shifting, wind cutting through trees.
 
 MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+thin strings, low drum hit when the gate appears, rising tension.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No guards dragging anyone, no chains, no graphic violence, no Rose at the forest gate.
 
 -------
 
@@ -244,6 +244,7 @@ REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S09_Brides/S09_Brides_FULL.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
@@ -251,50 +252,49 @@ L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
 
 SELF-CONTAINED PART RULE:
 Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
 REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
 STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
 
 CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
 
 ROSE PLACEMENT LOCK:
-Rose is an old castle maid/helper. Unless this exact part says she steps forward to warn someone, keep her hidden at the side: behind a pillar, doorway, curtain, window, or corridor shadow. She must not randomly enter bedrooms, wedding centers, action scenes, or every shot.
-
-
-SCENE:
-Damian leaves the bride near the wild forest. No graphic harm, only fog, animal shadows, and distant growls.
-
-SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 015. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-5s: Open immediately on the clearest visual action for this part: Damian leaves the bride near the wild forest. No graphic harm, only fog, animal shadows, and distant growls.
-5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
-14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
-24-30s: End on this clear suspense image: The forest shadows move behind her. Hold the final emotion for the last second; do not resolve it.
-
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The truth is closer than anyone admits. This is the hour of The Mask Falls."
-DIALOGUE 2 (6-9s): King Magnus (deep controlled king voice): "No secret survives inside my walls. Not after The Mask Falls. The silence proves it."
-After 9s, no extra spoken dialogue. Use breathing, footsteps, impact sounds, music, and reaction shots so the action does not become noisy.
+Rose is an old castle maid/helper. She stays hidden at the side, behind a pillar, doorway, curtain, balcony stone, or corridor shadow unless this part explicitly says she gives a warning. She must not randomly enter the bedroom, center of the royal stage, carriage, forest gate, or every shot.
 
 DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+Damian leaves the bride near the wild forest. The horror is psychological: fog, animal shadows, and the realization that the wedding was a trap.
+
+SHOT PLAN:
+0-4s: Start with Damian's boots stepping backward from the bride as fog rolls between them at the forest gate.
+4-10s: Medium shot: Damian's polite smile disappears. He closes the carriage door without entering the forest.
+10-16s: The bride stands alone in her white dress at the edge of huge dark trees. Keep the camera respectful and non-exploitative.
+16-23s: Shadows move behind her in the fog. Only silhouettes and distant eyes, no clear creature reveal.
+23-30s: The carriage turns away, leaving her in the mist. Final frame: forest shadows move behind her as she turns toward the sound.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "The wedding was not a promise. It was a delivery."
+DIALOGUE 2: PRINCE DAMIAN (cold whisper): "Run if you want. The forest decides the rest."
+DIALOGUE 3: THE BRIDE (terrified whisper): "Please... do not leave me here."
 
 SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+carriage door shut, horse harness, fog wind, distant growl, fabric trembling.
 
 MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+dark strings, one deep hit as the carriage leaves, no melodrama.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species. No unnecessary talking during the action.
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No attack shown, no blood, no grabbing, no explicit harm, no cartoon monster.
 
 -------
 
@@ -304,6 +304,7 @@ REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S09_Brides/S09_Brides_FULL.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
@@ -311,50 +312,49 @@ L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
 
 SELF-CONTAINED PART RULE:
 Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
 REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
 STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
 
 CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
 
 ROSE PLACEMENT LOCK:
-Rose is an old castle maid/helper. Unless this exact part says she steps forward to warn someone, keep her hidden at the side: behind a pillar, doorway, curtain, window, or corridor shadow. She must not randomly enter bedrooms, wedding centers, action scenes, or every shot.
-
-
-SCENE:
-At sunrise the gate is empty except for a fallen flower and carriage tracks.
-
-SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 016. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-5s: Open immediately on the clearest visual action for this part: At sunrise the gate is empty except for a fallen flower and carriage tracks.
-5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
-14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
-24-30s: End on this clear suspense image: King Magnus orders the kingdom bells to ring. Hold the final emotion for the last second; do not resolve it.
-
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "One quiet choice can break a kingdom. This is the hour of The Forest Took Her."
-DIALOGUE 2 (8-12s): King Magnus (deep controlled king voice): "The crown does not ask twice. Not after The Forest Took Her. That is what scares me."
-DIALOGUE 3 (18-22s): Prince Damian (smooth cold prince voice): "The court only believes what I allow it to see. Not after The Forest Took Her. This time I will not look away."
+Rose is an old castle maid/helper. She stays hidden at the side, behind a pillar, doorway, curtain, balcony stone, or corridor shadow unless this part explicitly says she gives a warning. She must not randomly enter the bedroom, center of the royal stage, carriage, forest gate, or every shot.
 
 DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+At sunrise the forest gate is empty except for a fallen flower, carriage tracks, and proof that the bride is gone.
+
+SHOT PLAN:
+0-4s: Open on pale sunrise over the forest gate. The mist is thinner, the road is empty, and the carriage tracks are visible in mud.
+4-10s: Close detail shot: a crushed wedding flower lies beside deep footprints and scraped earth. No body, no gore.
+10-16s: Captain Vex kneels, studies the ground, and says nothing. Guards stand behind him with stiff faces.
+16-23s: Back at the castle square, bells begin ringing while citizens look down, pretending not to understand.
+23-30s: King Magnus stands on the balcony in medium-wide shot and gives a small order. Final frame: the kingdom bells swing above silent faces.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "By sunrise, the kingdom had already chosen its lie."
+DIALOGUE 2: CAPTAIN VEX (low controlled voice): "The gate is empty, Your Majesty."
+DIALOGUE 3: KING MAGNUS (commanding voice): "Ring the bells. Let the people hear only what I permit."
 
 SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+morning wind, distant bell metal, boots in mud, quiet crowd murmur.
 
 MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+cold ceremonial drums, restrained brass, grief underneath.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No corpse, no blood, no monster reveal, no extreme King close-up.
 
 -------
 
@@ -364,6 +364,7 @@ REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S09_Brides/S09_Brides_FULL.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
@@ -371,50 +372,49 @@ L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
 
 SELF-CONTAINED PART RULE:
 Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
 REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
 STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
 
 CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
 
 ROSE PLACEMENT LOCK:
-Rose is an old castle maid/helper. Unless this exact part says she steps forward to warn someone, keep her hidden at the side: behind a pillar, doorway, curtain, window, or corridor shadow. She must not randomly enter bedrooms, wedding centers, action scenes, or every shot.
-
-
-SCENE:
-King Magnus announces the bride was unworthy and ran away. Citizens listen with frozen faces.
-
-SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 017. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-5s: Open immediately on the clearest visual action for this part: King Magnus announces the bride was unworthy and ran away. Citizens listen with frozen faces.
-5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
-14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
-24-30s: End on this clear suspense image: Damian asks, 'When is the next selection?' Hold the final emotion for the last second; do not resolve it.
-
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The danger is not behind them anymore. This is the hour of The Kingdom Lies."
-DIALOGUE 2 (8-12s): King Magnus (deep controlled king voice): "Every house in this kingdom answers to me. Not after The Kingdom Lies. No one else can carry it."
-DIALOGUE 3 (18-22s): Prince Damian (smooth cold prince voice): "Careful. In this palace, even silence has witnesses. Not after The Kingdom Lies. The crown will hear it."
+Rose is an old castle maid/helper. She stays hidden at the side, behind a pillar, doorway, curtain, balcony stone, or corridor shadow unless this part explicitly says she gives a warning. She must not randomly enter the bedroom, center of the royal stage, carriage, forest gate, or every shot.
 
 DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+King Magnus announces that the bride was unworthy and ran away while citizens listen with frozen faces and Rose watches from the servants' balcony.
+
+SHOT PLAN:
+0-4s: Start in the castle square with bells still ringing from Part 016. Citizens gather but no one looks relieved.
+4-10s: Medium-wide balcony shot: King Magnus addresses the kingdom. Keep him imposing, not camera-filling.
+10-16s: Reaction shots: mothers pull daughters closer, men lower their eyes, guards stand like walls.
+16-23s: Rose watches from a servants' balcony, hidden behind stonework, horrified but silent. She does not come forward.
+23-30s: Damian stands behind Magnus with a bored, faint smile. Final frame: he turns and asks when the next selection begins.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "A kingdom can survive monsters. It cannot survive truth."
+DIALOGUE 2: KING MAGNUS (public royal voice): "She abandoned her vows and fled into the wild."
+DIALOGUE 3: PRINCE DAMIAN (quietly to Magnus): "When is the next selection?"
 
 SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+bells fading, crowd breath, cloth shifting, balcony wind.
 
 MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+cold royal brass, low moral dread, silence after Damian's question.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No cheering crowd, no Rose in center, no comedic expressions.
 
 -------
 
@@ -424,6 +424,7 @@ REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S09_Brides/S09_Brides_FULL.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
@@ -431,50 +432,49 @@ L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
 
 SELF-CONTAINED PART RULE:
 Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
 REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
 STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
 
 CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
 
 ROSE PLACEMENT LOCK:
-Rose is an old castle maid/helper. Unless this exact part says she steps forward to warn someone, keep her hidden at the side: behind a pillar, doorway, curtain, window, or corridor shadow. She must not randomly enter bedrooms, wedding centers, action scenes, or every shot.
-
-
-SCENE:
-A calendar page turns. The kingdom gathers again, more frightened than before.
-
-SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 018. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-5s: Open immediately on the clearest visual action for this part: A calendar page turns. The kingdom gathers again, more frightened than before.
-5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
-14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
-24-30s: End on this clear suspense image: Captain Vex opens the next list. Hold the final emotion for the last second; do not resolve it.
-
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "Every shadow is carrying a warning. This is the hour of One Month Later."
-DIALOGUE 2 (8-12s): King Magnus (deep controlled king voice): "Mercy is a story weak people tell at night. Not after One Month Later. The forest already knows."
-DIALOGUE 3 (18-22s): Prince Damian (smooth cold prince voice): "Smile for them, and they will call it peace. Not after One Month Later. I know it in my bones."
+Rose is an old castle maid/helper. She stays hidden at the side, behind a pillar, doorway, curtain, balcony stone, or corridor shadow unless this part explicitly says she gives a warning. She must not randomly enter the bedroom, center of the royal stage, carriage, forest gate, or every shot.
 
 DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+One month passes, and the kingdom gathers again for another royal selection, more frightened than before.
+
+SHOT PLAN:
+0-4s: Start with a simple time passage: a calendar page turns from the last selection to one month later, then cut to the same castle square.
+4-10s: Wide shot: the kingdom gathers again. Decorations are present, but the faces are tense and tired.
+10-16s: Damian sits at the royal table looking bored, turning a ring between his fingers as if this is routine.
+16-23s: Rose is hidden behind a side pillar, watching the young women with dread. She does not speak to the crowd.
+23-30s: Captain Vex steps forward with a new list. Final frame: the sealed list opens under the royal crest.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "One month later, fear returned wearing festival colors."
+DIALOGUE 2: PRINCE DAMIAN (bored voice): "Must we make the ceremony this long?"
+DIALOGUE 3: ROSE (hidden whisper): "Not again. Not another child."
 
 SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+paper page turn, distant horn, crowd whisper, wax seal crack.
 
 MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+slow repeating motif from Part 001, darker and more tired.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No happy festival tone, no Rose on stage, no random bedroom imagery.
 
 -------
 
@@ -484,6 +484,7 @@ REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S09_Brides/S09_Brides_FULL.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
@@ -491,50 +492,49 @@ L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
 
 SELF-CONTAINED PART RULE:
 Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
 REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
 STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
 
 CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
 
 ROSE PLACEMENT LOCK:
-Rose is an old castle maid/helper. Unless this exact part says she steps forward to warn someone, keep her hidden at the side: behind a pillar, doorway, curtain, window, or corridor shadow. She must not randomly enter bedrooms, wedding centers, action scenes, or every shot.
-
-
-SCENE:
-Vex reads names from poor houses because King Magnus says no one there can challenge the crown.
-
-SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 019. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-5s: Open immediately on the clearest visual action for this part: Vex reads names from poor houses because King Magnus says no one there can challenge the crown.
-5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
-14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
-24-30s: End on this clear suspense image: The list turns toward Lily Carter's town. Hold the final emotion for the last second; do not resolve it.
-
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The forest is listening before it answers. This is the hour of The Poor Names."
-DIALOGUE 2 (8-12s): King Magnus (deep controlled king voice): "No secret survives inside my walls. Not after The Poor Names. This time I will not look away."
-DIALOGUE 3 (18-22s): Prince Damian (smooth cold prince voice): "You are safer when you stop asking questions. Not after The Poor Names. The silence proves it."
+Rose is an old castle maid/helper. She stays hidden at the side, behind a pillar, doorway, curtain, balcony stone, or corridor shadow unless this part explicitly says she gives a warning. She must not randomly enter the bedroom, center of the royal stage, carriage, forest gate, or every shot.
 
 DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+Captain Vex reads names from poor houses because King Magnus believes no one there can challenge the crown.
+
+SHOT PLAN:
+0-4s: Start on the opened list in Vex's black-gloved hands. The names are written under poor districts and small houses.
+4-10s: Medium shot: Vex reads while guards scan the crowd. Families in plain clothes hold each other tightly.
+10-16s: King Magnus leans toward Damian in a controlled medium shot, explaining the choice without emotion.
+16-23s: Damian taps the parchment impatiently, searching for someone easy to erase from the kingdom's memory.
+23-30s: The list turns to a small Oregon town and then to the Carter family line. Final frame: Vex's finger moves toward Lily's name but does not land yet.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "The crown did not choose the powerful. It chose the unheard."
+DIALOGUE 2: KING MAGNUS (low command): "Poor houses cannot raise armies."
+DIALOGUE 3: CAPTAIN VEX (formal voice): "Next district... Cedar Hollow."
 
 SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+parchment rustle, crowd hush, leather glove on paper, distant bell.
 
 MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+low strings with a ticking pulse, rising as the Carter line appears.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No random rich palace party, no smiling villagers, no extreme King close-up.
 
 -------
 
@@ -544,54 +544,61 @@ REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S09_Brides/S09_Brides_FULL.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
 L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+C01_Lily_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png
+S01_GraceCarter_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S01_GraceCarter/S01_GraceCarter_FULL.png
+L01_LilyHouse.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L01_LilyHouse/L01_LilyHouse.png
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
 
 SELF-CONTAINED PART RULE:
 Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
 REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
 STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
 
 CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
 
-ROSE PLACEMENT LOCK:
-Rose is an old castle maid/helper. Unless this exact part says she steps forward to warn someone, keep her hidden at the side: behind a pillar, doorway, curtain, window, or corridor shadow. She must not randomly enter bedrooms, wedding centers, action scenes, or every shot.
+LILY FACE LOCK:
+Lily must match C01_Lily_FULL exactly: young 22-24, soft fair face, big blue eyes, honey-blonde hair, innocent emotional expression. Do not make her older, cartoonish, different ethnicity, different hairstyle, or another woman.
 
-
-SCENE:
-Cut between the castle list and Lily helping Grace at their poor Oregon home.
-
-SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 020. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-5s: Open immediately on the clearest visual action for this part: Cut between the castle list and Lily helping Grace at their poor Oregon home.
-5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
-14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
-24-30s: End on this clear suspense image: Vex's black-gloved finger lands on 'Lily Carter.' Hold the final emotion for the last second; do not resolve it.
-
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "Nothing about this night is finished. This is the hour of Lily Carter."
-DIALOGUE 2 (8-12s): King Magnus (deep controlled king voice): "The crown does not ask twice. Not after Lily Carter. The crown will hear it."
-DIALOGUE 3 (18-22s): Prince Damian (smooth cold prince voice): "The court only believes what I allow it to see. Not after Lily Carter. That is what scares me."
+GRACE FACE LOCK:
+Grace Carter must match S01_GraceCarter_FULL exactly as Lily's worried loving mother. Do not turn her into Rose, Martha, or a random old woman.
 
 DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+The royal list reaches Lily Carter while Lily is at her poor Oregon home helping her mother Grace, unaware that the kingdom has turned toward her.
+
+SHOT PLAN:
+0-4s: Start on a cross-cut: Vex's black-gloved finger hovers over the Carter family name, then cut to Lily's small home in warm morning light.
+4-10s: Inside L01_LilyHouse, Lily helps Grace fold cloth and prepare simple food. Lily must match C01_Lily_FULL exactly; Grace must match S01_GraceCarter_FULL.
+10-16s: Lily laughs softly with Grace, innocent and unaware. Their home feels poor but loving, with no palace luxury.
+16-23s: Cut back to the cold castle list. Magnus and Damian watch as Vex lowers his finger toward the final name.
+23-30s: Vex's black-gloved finger lands on 'Lily Carter.' Final frame: Lily looks up at home as if she felt something change.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "Far from the castle, Lily Carter still believed morning meant safety."
+DIALOGUE 2: GRACE (warm worried mother): "You work too hard, Lily. Sit with me a minute."
+DIALOGUE 3: LILY (gentle young voice): "After this, Mama. I promise."
+DIALOGUE 4: CAPTAIN VEX (formal voice): "Lily Carter."
 
 SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+soft home ambience, cloth folding, kettle simmer, hard cut to parchment and royal hall silence.
 
 MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+warm home strings under Lily and Grace, then a cold royal note when the name is chosen.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No wrong Lily face, no old Lily, no Grace face drift, no palace clothing inside Lily's poor home.

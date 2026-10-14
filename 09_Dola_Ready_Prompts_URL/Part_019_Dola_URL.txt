@@ -4,6 +4,7 @@ REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
 L02_KingCastle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
 C02_KingMagnus_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
 C03_PrinceDamian_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+S07_CaptainVex_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
 S08_KingdomGuards_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
 S09_Brides_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S09_Brides/S09_Brides_FULL.png
 S11_Rose_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
@@ -11,47 +12,46 @@ L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-
 
 PROMPT TO PASTE IN DOLA
 FORMAT: VERTICAL 9:16
-VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available.
+VIDEO LENGTH: exactly 30 seconds. Use Seedance 2.5 30s route if available. Do not create 15 seconds unless the tool forces a shorter fallback.
 
 SELF-CONTAINED PART RULE:
 Treat this as a standalone movie part. Dola does not remember any previous render. Everything needed for this part is written here: direct image URLs, character locks, setting, shot timing, dialogue, sound, and final frame.
 
 REFERENCE IMAGE STRICT LOCK:
-Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, fur, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
+Use only the direct GitHub raw image URLs listed above as visual references. Match the exact face, age, hair, outfit, body type, armor, and location design from those images. Do not invent new faces. Do not swap faces between characters. If a character is not listed in this part's URLs, keep them out of the shot or background-only.
 
 STYLE LOCK:
-Hyper-realistic cinematic 3D animation, realistic skin and pores, natural hair, believable cloth, detailed fur, real forest/castle light, dramatic movie lighting. No cartoon, no anime, no toy/plastic look, no comedy face, no melted face, no extra limbs, no face morphing, no character drift.
+Hyper-realistic cinematic 3D animation, realistic human skin and pores, natural eyes, believable hair and cloth, detailed castle stone, natural Pacific Northwest forest atmosphere. No cartoon, no anime, no plastic doll look, no toy face, no exaggerated comedy face, no melted face, no face swap, no extra limbs.
 
 CAMERA LOCK:
-Vertical 9:16 frame. Use wide shots and medium shots for geography and action, then controlled emotional close-ups only when needed. Keep all faces inside safe margins. Do not push King Magnus into an extreme face close-up.
+Vertical 9:16 frame. Use cinematic wide shots, medium shots, and emotional close-ups only when needed. Do not put King Magnus in an extreme face close-up. Keep faces inside safe margins. Keep subject stable and readable.
 
 ROSE PLACEMENT LOCK:
-Rose is an old castle maid/helper. Unless this exact part says she steps forward to warn someone, keep her hidden at the side: behind a pillar, doorway, curtain, window, or corridor shadow. She must not randomly enter bedrooms, wedding centers, action scenes, or every shot.
-
-
-SCENE:
-Vex reads names from poor houses because King Magnus says no one there can challenge the crown.
-
-SHOT PLAN:
-0-4s: Start on a strong visual hook for Part 019. Do not begin with a generic unrelated establishing shot. Show the exact location and characters needed for this part.
-0-5s: Open immediately on the clearest visual action for this part: Vex reads names from poor houses because King Magnus says no one there can challenge the crown.
-5-14s: Show the main characters in medium shot, holding their correct reference faces and outfits.
-14-23s: Build tension with reactions, movement, and environment details instead of extra talking.
-24-30s: End on this clear suspense image: The list turns toward Lily Carter's town. Hold the final emotion for the last second; do not resolve it.
-
-SPOKEN DIALOGUE:
-DIALOGUE 1 (0-4s): NARRATOR (deep cinematic voice): "The forest is listening before it answers. This is the hour of The Poor Names."
-DIALOGUE 2 (8-12s): King Magnus (deep controlled king voice): "No secret survives inside my walls. Not after The Poor Names. This time I will not look away."
-DIALOGUE 3 (18-22s): Prince Damian (smooth cold prince voice): "You are safer when you stop asking questions. Not after The Poor Names. The silence proves it."
+Rose is an old castle maid/helper. She stays hidden at the side, behind a pillar, doorway, curtain, balcony stone, or corridor shadow unless this part explicitly says she gives a warning. She must not randomly enter the bedroom, center of the royal stage, carriage, forest gate, or every shot.
 
 DIALOGUE RULE:
-Use only the written dialogue lines above, plus any song lyrics explicitly written in the shot plan. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. If action is happening, let silence, breath, footsteps, music, and reaction shots carry the scene.
+Use only the written dialogue lines below. Do not add extra speeches, repeated lines, subtitles, narration filler, or random mouth movement. In tense or action moments, let silence, breath, footsteps, music, and reaction shots carry the scene.
+
+SCENE:
+Captain Vex reads names from poor houses because King Magnus believes no one there can challenge the crown.
+
+SHOT PLAN:
+0-4s: Start on the opened list in Vex's black-gloved hands. The names are written under poor districts and small houses.
+4-10s: Medium shot: Vex reads while guards scan the crowd. Families in plain clothes hold each other tightly.
+10-16s: King Magnus leans toward Damian in a controlled medium shot, explaining the choice without emotion.
+16-23s: Damian taps the parchment impatiently, searching for someone easy to erase from the kingdom's memory.
+23-30s: The list turns to a small Oregon town and then to the Carter family line. Final frame: Vex's finger moves toward Lily's name but does not land yet.
+
+SPOKEN DIALOGUE:
+DIALOGUE 1: NARRATOR (deep cinematic voice): "The crown did not choose the powerful. It chose the unheard."
+DIALOGUE 2: KING MAGNUS (low command): "Poor houses cannot raise armies."
+DIALOGUE 3: CAPTAIN VEX (formal voice): "Next district... Cedar Hollow."
 
 SFX:
-Natural ambience for the location, cloth movement, footsteps, breath, wind, forest/castle/village room tone, and only the specific action sounds needed for the shot.
+parchment rustle, crowd hush, leather glove on paper, distant bell.
 
 MUSIC:
-Cinematic dark-fantasy orchestral score with emotional tension. Music stays under dialogue and rises only near the final hook.
+low strings with a ticking pulse, rising as the Carter line appears.
 
 NEGATIVE:
-No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no explicit bedroom content, no restraints unless this exact part requires them, no forced physical contact, no cartoon style, no anime style, no plastic toy look, no face morphing, no character drift, no wrong age, no wrong creature species.
+No subtitles, no dialogue captions, no watermark, no logo, no random text, no gore, no blood spray, no nudity, no inappropriate bedroom content, no grabbing, no restraints, no chains unless explicitly required later, no cartoon style, no anime style, no face morphing, no character drift, no random extra characters. No random rich palace party, no smiling villagers, no extreme King close-up.
