@@ -1,0 +1,2520 @@
+{
+  "source": "English_9x16_PENDING_251_CLEAN.txt",
+  "original_parts": 251,
+  "output_clips": 502,
+  "duration_per_clip": 15,
+  "dialogue_lines_preserved": 233,
+  "method": "Shot-boundary conversion with repeated identity rules and explicit A/B handoff; not a fresh manual rewrite.",
+  "parts": [
+    {
+      "part": "001",
+      "split_after_original_second": 14.0,
+      "a_shots": 3,
+      "b_shots": 3,
+      "a_dialogue_words": 16,
+      "b_dialogue_words": 7,
+      "dialogue_lines_preserved": 3,
+      "reference_count": 7
+    },
+    {
+      "part": "009",
+      "split_after_original_second": 16.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 19,
+      "b_dialogue_words": 8,
+      "dialogue_lines_preserved": 3,
+      "reference_count": 4
+    },
+    {
+      "part": "019",
+      "split_after_original_second": 16.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 20,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 3,
+      "reference_count": 5
+    },
+    {
+      "part": "023",
+      "split_after_original_second": 16.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 9,
+      "b_dialogue_words": 16,
+      "dialogue_lines_preserved": 3,
+      "reference_count": 7
+    },
+    {
+      "part": "028",
+      "split_after_original_second": 16.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 15,
+      "b_dialogue_words": 7,
+      "dialogue_lines_preserved": 3,
+      "reference_count": 3
+    },
+    {
+      "part": "044",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 12,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 3
+    },
+    {
+      "part": "047",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 14,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 3
+    },
+    {
+      "part": "060",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 9,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "062",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 12,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 4
+    },
+    {
+      "part": "063",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 13,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "066",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 9,
+      "b_dialogue_words": 4,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 3
+    },
+    {
+      "part": "067",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "068",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 10,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "071",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 3
+    },
+    {
+      "part": "072",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 4
+    },
+    {
+      "part": "076",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "077",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 12,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 3
+    },
+    {
+      "part": "078",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 3
+    },
+    {
+      "part": "079",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 11,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 3
+    },
+    {
+      "part": "080",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "081",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 12,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 3
+    },
+    {
+      "part": "082",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 9,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "083",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 13,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 3
+    },
+    {
+      "part": "084",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 7,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "085",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "086",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 7,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 9
+    },
+    {
+      "part": "087",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 7,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "088",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 9
+    },
+    {
+      "part": "089",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 7,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "090",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 8
+    },
+    {
+      "part": "091",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 6
+    },
+    {
+      "part": "092",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 8
+    },
+    {
+      "part": "093",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 4,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 8
+    },
+    {
+      "part": "095",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "096",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 4
+    },
+    {
+      "part": "097",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 3
+    },
+    {
+      "part": "098",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 7,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 7
+    },
+    {
+      "part": "099",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 4,
+      "b_dialogue_words": 6,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 6
+    },
+    {
+      "part": "100",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 5,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "101",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 5,
+      "b_dialogue_words": 10,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 5
+    },
+    {
+      "part": "102",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "103",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 7
+    },
+    {
+      "part": "104",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 6,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "105",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 4
+    },
+    {
+      "part": "106",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 2
+    },
+    {
+      "part": "107",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 2
+    },
+    {
+      "part": "108",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 4,
+      "b_dialogue_words": 11,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 3
+    },
+    {
+      "part": "109",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 6,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "110",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 6
+    },
+    {
+      "part": "111",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 5,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 9
+    },
+    {
+      "part": "112",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 6,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "113",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 8,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "114",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 4,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 2
+    },
+    {
+      "part": "115",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 2
+    },
+    {
+      "part": "116",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 2
+    },
+    {
+      "part": "117",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 3,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 2
+    },
+    {
+      "part": "118",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 18,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 4
+    },
+    {
+      "part": "119",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "120",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 9,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "121",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 10,
+      "b_dialogue_words": 5,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 3
+    },
+    {
+      "part": "122",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 4
+    },
+    {
+      "part": "123",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 9,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 9
+    },
+    {
+      "part": "124",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 9,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 2
+    },
+    {
+      "part": "125",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 9,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 2
+    },
+    {
+      "part": "126",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 5,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 2
+    },
+    {
+      "part": "127",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 4,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "128",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 10,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "129",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 2,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 5
+    },
+    {
+      "part": "130",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 6,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "131",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "132",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 17,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 4
+    },
+    {
+      "part": "133",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "134",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 6,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "135",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 10,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 7
+    },
+    {
+      "part": "136",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 15,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "137",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 4,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "138",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 2,
+      "b_dialogue_words": 7,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 7
+    },
+    {
+      "part": "139",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 7,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 9
+    },
+    {
+      "part": "140",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 10,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 8
+    },
+    {
+      "part": "141",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 6,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "142",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 12,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "143",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 6,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "144",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 7,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "145",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 4,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "146",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 4
+    },
+    {
+      "part": "147",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "148",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 7,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "149",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 5,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 7
+    },
+    {
+      "part": "150",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 3,
+      "b_dialogue_words": 4,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 5
+    },
+    {
+      "part": "151",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 4,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "152",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "153",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 6,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "154",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 13,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 3
+    },
+    {
+      "part": "155",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 12,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 4
+    },
+    {
+      "part": "156",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 4,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "157",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 8,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 7
+    },
+    {
+      "part": "158",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 6
+    },
+    {
+      "part": "159",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 5,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "160",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 11,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "161",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 6,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "162",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 7,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "163",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 5,
+      "b_dialogue_words": 11,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 6
+    },
+    {
+      "part": "164",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 9,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "165",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 7,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "166",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 4,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "167",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 3,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "168",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "169",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "170",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 12,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "171",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 4,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "172",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 9,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "173",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 8,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "174",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 4
+    },
+    {
+      "part": "175",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 14,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 7
+    },
+    {
+      "part": "176",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 6,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "177",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 7,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "178",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "179",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 4,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "180",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 10,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "181",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 6
+    },
+    {
+      "part": "182",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 7,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "183",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 7
+    },
+    {
+      "part": "184",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 6
+    },
+    {
+      "part": "185",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "186",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "187",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "188",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 13,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "189",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 7,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "190",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 8,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "191",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 17,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 3
+    },
+    {
+      "part": "192",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 3
+    },
+    {
+      "part": "193",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 9,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "194",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 10,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "195",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 9,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "196",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 3
+    },
+    {
+      "part": "197",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 5,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 8
+    },
+    {
+      "part": "198",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 6,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "199",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 6
+    },
+    {
+      "part": "200",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 7,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 8
+    },
+    {
+      "part": "201",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 5,
+      "b_dialogue_words": 5,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 5
+    },
+    {
+      "part": "202",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 14,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "203",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 13,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 8
+    },
+    {
+      "part": "204",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 16,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 7
+    },
+    {
+      "part": "205",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 11,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "206",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 9,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "207",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 6,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "208",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 10,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 4
+    },
+    {
+      "part": "209",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 11,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "210",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 13,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 3
+    },
+    {
+      "part": "211",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 14,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "212",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 8,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 7
+    },
+    {
+      "part": "213",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 7,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "214",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 6,
+      "b_dialogue_words": 3,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 6
+    },
+    {
+      "part": "215",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "216",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 4
+    },
+    {
+      "part": "217",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 4
+    },
+    {
+      "part": "218",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 3,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "219",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 6,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "220",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "221",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 7,
+      "b_dialogue_words": 9,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 9
+    },
+    {
+      "part": "222",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 5,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 7
+    },
+    {
+      "part": "223",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 6,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 7
+    },
+    {
+      "part": "224",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 7,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "225",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 5,
+      "b_dialogue_words": 9,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 4
+    },
+    {
+      "part": "226",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 14,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "227",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 9,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "228",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "229",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 3
+    },
+    {
+      "part": "230",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "231",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 10,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "232",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 7,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "233",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "234",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 12,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "235",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 5,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "236",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 6,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "237",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 6,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 7
+    },
+    {
+      "part": "238",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 7,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "239",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 4
+    },
+    {
+      "part": "240",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "241",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 6,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "242",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 3
+    },
+    {
+      "part": "243",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "244",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 2
+    },
+    {
+      "part": "245",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 6,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 2
+    },
+    {
+      "part": "246",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 2
+    },
+    {
+      "part": "247",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "248",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 11,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "249",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 2
+    },
+    {
+      "part": "250",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "251",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 9,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "252",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "253",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 9,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "254",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 7
+    },
+    {
+      "part": "255",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 4,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "256",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 7,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "257",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 6,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "258",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 9,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "259",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 7,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "260",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 6,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "261",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 13,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "262",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 12,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "263",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 11,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "264",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 12,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "265",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 7,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "266",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 10,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 7
+    },
+    {
+      "part": "267",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 4,
+      "b_dialogue_words": 9,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 4
+    },
+    {
+      "part": "268",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 9,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "269",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 14,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 3
+    },
+    {
+      "part": "270",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 11,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "271",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "272",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 5,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "273",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 9,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 7
+    },
+    {
+      "part": "274",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 10,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "275",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 6
+    },
+    {
+      "part": "276",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "277",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 8,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 7
+    },
+    {
+      "part": "278",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 9,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "279",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "280",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "281",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 8,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 7
+    },
+    {
+      "part": "282",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 7,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "283",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 8,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "284",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "285",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "286",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 7,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "287",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 7,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "288",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "289",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 8,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "290",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 5,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 9
+    },
+    {
+      "part": "291",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 9,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "292",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 5,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "293",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 7,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 7
+    },
+    {
+      "part": "294",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "295",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "296",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "297",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 8,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "298",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "299",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 5
+    },
+    {
+      "part": "300",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 7,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 7
+    },
+    {
+      "part": "301",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 6
+    },
+    {
+      "part": "302",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 6,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "303",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 6,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "304",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 10,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    },
+    {
+      "part": "305",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 3,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 7
+    },
+    {
+      "part": "306",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 4,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "307",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 13,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 5
+    },
+    {
+      "part": "308",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 6,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 3
+    },
+    {
+      "part": "309",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 5,
+      "b_dialogue_words": 5,
+      "dialogue_lines_preserved": 2,
+      "reference_count": 4
+    },
+    {
+      "part": "310",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 0,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 0,
+      "reference_count": 9
+    },
+    {
+      "part": "311",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 12,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 4
+    },
+    {
+      "part": "312",
+      "split_after_original_second": 17.0,
+      "a_shots": 3,
+      "b_shots": 2,
+      "a_dialogue_words": 3,
+      "b_dialogue_words": 0,
+      "dialogue_lines_preserved": 1,
+      "reference_count": 6
+    }
+  ]
+}

@@ -4,10 +4,10 @@ Use this repo for Dola AI generation.
 
 ## Fast Workflow
 
-1. For English 9:16, use `ZDola_Combined_Prompts/English_9x16_ALL_312_CLEAN.txt`. Extra batch and pending-only combined files have been removed; this is the single combined prompt file to use.
+1. For the current remaining-parts 15-second run, use `ZDola_Combined_Prompts/English_9x16_PENDING_502_15SEC_CLEAN.txt`: 251 pending original parts, each converted into A and B. The unchanged `English_9x16_ALL_312_CLEAN.txt` remains the complete story master.
 2. Paste one part at a time into Dola. Each part is separated only by `-------`.
 3. Dola must first download and inspect every listed image, then attach/import it into the generator's actual reference-image inputs. URLs in text alone do not prove image conditioning. Stop if the route cannot load references; do not silently generate text-only substitutes.
-4. Use Seedance 2.5, 30 seconds, vertical 9:16.
+4. For the current split file, select an available supported video model, exactly 15 seconds, vertical 9:16. Render A then B and join in that order. The original master is a separate 30-second version.
 5. All 312 English 9:16 prompts have individual scene rewrites. The final combined file is assembled from those part files; generated videos still require visual review.
 
 ## Important Rules
