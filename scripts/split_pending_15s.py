@@ -36,9 +36,8 @@ def dialogue_lines(body):
     return result
 
 
-def main():
-    blocks = [b.strip() for b in re.split(r'(?m)^-------\s*$', SOURCE.read_text(encoding='utf-8')) if b.strip()]
-    assert len(blocks) == 251
+def main(source=SOURCE, target=TARGET, report=REPORT):
+    blocks = [b.strip() for b in re.split(r'(?m)^-------\s*$', source.read_text(encoding='utf-8')) if b.strip()]
     output, manifest = [], []
     total_lines = 0
     for block in blocks:
@@ -123,13 +122,13 @@ def main():
                          'a_shots': len(halves[0]), 'b_shots': len(halves[1]),
                          'a_dialogue_words': count(assigned[0]), 'b_dialogue_words': count(assigned[1]),
                          'dialogue_lines_preserved': len(lines), 'reference_count': len(urls)})
-    assert len(output) == 502
-    TARGET.write_text(SEPARATOR.join(output) + '\n', encoding='utf-8')
-    REPORT.write_text(json.dumps({'source': SOURCE.name, 'original_parts': 251, 'output_clips': 502,
+    assert len(output) == 2 * len(blocks)
+    target.write_text(SEPARATOR.join(output) + '\n', encoding='utf-8')
+    report.write_text(json.dumps({'source': source.name, 'original_parts': len(blocks), 'output_clips': len(output),
                                   'duration_per_clip': 15, 'dialogue_lines_preserved': total_lines,
                                   'method': 'Shot-boundary conversion with repeated identity rules and explicit A/B handoff; not a fresh manual rewrite.',
                                   'parts': manifest}, indent=2) + '\n', encoding='utf-8')
-    print(f'Created {len(output)} prompts; {total_lines} speech lines preserved; 501 separators.')
+    print(f'Created {len(output)} prompts; {total_lines} speech lines preserved; {len(output) - 1} separators.')
 
 
 if __name__ == '__main__':
