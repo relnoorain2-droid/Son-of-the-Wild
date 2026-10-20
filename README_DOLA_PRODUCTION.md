@@ -4,7 +4,7 @@ Use this repo for Dola AI generation.
 
 ## Fast Workflow
 
-Current retry file after the 2026-10-20 17-54 batch: `ZDola_Combined_Prompts/English_9x16_MISSING_177_15SEC_CLEAN.txt`. The 23 unique ready clips have been excluded from the prior 200-prompt list. Use this 177-prompt file for the next English 9:16 run; the older counts below are historical snapshots.
+Current retry file after the organized-folder check on 2026-10-21: `ZDola_Combined_Prompts/English_9x16_MISSING_141_15SEC_CLEAN.txt`. The 36 newly ready clips have been excluded from the prior 177-prompt list. All 141 requested pending IDs match the missing original clips in the organized folder; combined multi-part exports are not counted as original clips. Use this 141-prompt file for the next English 9:16 run; the older counts below are historical snapshots.
 
 1. After the `file2` update checked on 2026-10-19, use `ZDola_Combined_Prompts/English_9x16_MISSING_376_15SEC_CLEAN.txt`. Its smaller import alternatives are `English_9x16_MISSING_15SEC_BATCH1_300_CLEAN.txt` then `English_9x16_MISSING_15SEC_BATCH2_76_CLEAN.txt`. Use either the combined file or the two batches, not both. The 66 unique new clips have been excluded from the former 442-prompt list. Older pending files are historical snapshots. The unchanged `English_9x16_ALL_312_CLEAN.txt` remains the complete story master.
 2. Paste one part at a time into Dola. Each part is separated only by `-------`.
