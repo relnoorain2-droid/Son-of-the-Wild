@@ -1,0 +1,65 @@
+PART 430 - "Bacon Grease"
+
+FRESH-CHAT GENERATION CONTRACT:
+This request is complete by itself. The generator has no memory of another chat, video or project. Do not ask for the previous prompt and do not invent missing continuity. Download, inspect and attach the images listed below before rendering. Use only this part's local shot plan and spoken lines; the context and reference mappings explain identity and setup, not additional scenes to render. If reference-image attachment is unavailable, report it and stop instead of silently generating text-only.
+
+WIDESCREEN COMPOSITION:
+English YouTube movie, exactly 15 seconds, landscape 16:9. Compose for a 1920x1080 canvas when supported; otherwise use the selected native 16:9 resolution without cropping a portrait video. Use left/right space to establish geography, with balanced medium two-shots and readable action. Keep heads, hands, feet and important props inside widescreen safe margins. No portrait framing or letterboxed phone footage.
+
+LOCAL CAST AND LOCATION REFERENCE MAPPING:
+- C05_Frost_FULL.png: C05_Frost
+- C03_PrinceDamian_FULL.png: C03_PrinceDamian
+- L07_Village.png: L07_Village
+- S08_KingdomGuards_FULL.png: S08_KingdomGuards
+- S03_HankMiller_FULL.png: S03_HankMiller
+
+OPENING STATE FOR THIS FRESH CHAT:
+The previous cut has already completed this event: Hank releases grease along a narrow empty approach strip planned before the fight.
+This is setup context only. Do not replay the completed action, dialogue or arrival. If the first shot remains in that scene, reconstruct its resulting pose, costume, wetness, injuries, props, lighting and screen positions, then continue the next action. If the written first shot explicitly cuts location, time, memory or viewpoint, make that motivated cut; do not force the previous scene or its offscreen characters into the new shot.
+First render action for this part: The guards slip and stop their advance without lethal falls; Frost moves them away from the gate.
+
+IDENTITY AT THE EDIT:
+Match the same reference face, age stage, hair, fur pattern, clothes, scale and established voice throughout this numbered part. Reference roles listed here include continuity guides: only show the characters requested by the local shot plan. Location-reference background figures are not the cast. Do not duplicate a child, swap Lily with the earlier red-haired bride, turn Frost into a dog or human, change his growth stage, or change creature counts between cuts. No unmotivated camera-side reversal. For same-scene joins retain the last established screen direction and eyelines. If an actual previous final-frame image is supplied and the selected route supports it, use it as the opening-frame reference alongside the identity references. This prompt itself does not attach that frame, so never claim it has been loaded when it has not.
+
+ENDING STATE FOR THE FOLLOWING EDIT:
+Complete this event by the end of this part: Frost holds the line while a heavier force approaches beyond the road.
+The next numbered clip is PART 431. Leave a clean edit point with stable faces, character positions and props. No extra cliffhanger, end card, flash, silent black tail or unrelated fade. Allow a fade only when the written shot explicitly changes time or enters a memory. Finish the listed speech before the cut; do not begin the next part's line.
+
+AUDIO AT THE EDIT:
+Same-scene ambience and score remain restrained and compatible across adjoining clips; no fresh music intro or outro sting on every part. An intentional location/time change may change ambience. Only the local dialogue section authorizes speech. Keep natural pauses and do not repeat a spoken line because it appears in the setup context. Action scenes remain quiet when no line is written.
+
+VIDEO: Exactly one 15-second English video, landscape 16:9. Use the available supported 15-second video route. Do not request a longer duration. Generate only this numbered part.
+
+REFERENCE IMAGE URLS:
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C05_Frost/C05_Frost_FULL.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S08_KingdomGuards/S08_KingdomGuards_FULL.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
+CHARACTER LOCKS:
+Frost, if present, matches adult C05: snow-white fur, blue eyes, upright Bigfoot anatomy, broad humanoid hands and feet, no dog muzzle, tail, bear body or human face. Keep his size stable. Lily matches V04 as his young adult mother; she is not pregnant in present-time scenes. Tommy and Sarah remain their referenced children, aging normally rather than at Frost's accelerated rate. Martha, Hank, Joe, Magnus, Damian and Vex keep their distinct identities. Rose appears only in the story sequence in clips 405-406's past memory.
+Bruno appears physically only in explicitly identified past memories. His spirit in Parts 459-466 uses V09 and is translucent, separate from Frost; no resurrection. Orin is a distinct older ancestral spirit matching C06, not another Bruno. The power source is Orin, passing into Bruno's spirit and then into Frost. Full powered V08 form, flight, invulnerability and mastered lightning do not appear in this batch. Before the story sequence in clips 465-466 only weak uncertain hints occur; afterward show dormant potential and trial-specific marks without a complete transformation.
+Past Lily uses the wedding or pregnancy reference listed for that memory; never swap the present mother's face or clothes mid-shot. Injuries after the first battle remain non-graphic and heal only across the stated recovery days.
+
+CAMERA AND SOUND:
+Wide or medium-wide views establish geography before movement or contact; medium shots preserve recognizable faces without extreme close-ups. Keep all key heads, hands, bodies and props within landscape safe margins. Preserve screen direction and physically coherent distances. Effects follow the action: river current at water, restrained impacts in combat, hoofbeats on the road, fire where present, knocks or animal calls only as written. Orchestral music stays under speech and important effects. Quiet grief scenes do not have constant explosions or extra speeches.
+
+CONTINUITY:
+Time passes only where stated. Keep existing wounds, wetness, clothes, objects and counts across cuts. The return patrol has six dark Bigfoots and three smaller dragons, plus one large red dragon; show only those called for by a shot. Lily learns nothing new about her own past, and Frost learns the cause of Bruno's death only after Cedar Hollow's destruction. Do not replay an entire battle in recovery scenes or restart earlier introductions. Trial 1 concerns controlled strength; Trial 2 begins with understanding the injured bear. End on the written final image without copying an unrelated previous cliffhanger.
+
+NEGATIVE:
+No subtitles, captions, logos, watermarks, random text, cartoons, plastic faces, face swaps, extra limbs, duplicated children, dog-like Bigfoot, gore, explicit intimacy or unrequested speech. No premature full ancestral transformation. Spirit visions are clearly separated from real events and do not injure real villagers.
+
+SHOT PLAN - LOCAL 0-15 SECOND TIMELINE:
+0-8.08s: The guards slip and stop their advance without lethal falls; Frost moves them away from the gate.
+8.08-15s: Frost holds the line while a heavier force approaches beyond the road.
+
+SPOKEN DIALOGUE FOR THIS PART ONLY:
+No spoken dialogue or narration in this part.
+Deliver each listed line once at a natural pause with its speaker visible when lip sync is needed. Do not add speech from any other part. Text quoted in actions is staging, not permission to add another spoken line. Keep action scenes quiet apart from breath and motivated effects.

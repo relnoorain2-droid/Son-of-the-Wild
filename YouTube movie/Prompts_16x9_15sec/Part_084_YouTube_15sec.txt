@@ -1,0 +1,63 @@
+PART 084 - "Face to Face with a Grizzly"
+
+FRESH-CHAT GENERATION CONTRACT:
+This request is complete by itself. The generator has no memory of another chat, video or project. Do not ask for the previous prompt and do not invent missing continuity. Download, inspect and attach the images listed below before rendering. Use only this part's local shot plan and spoken lines; the context and reference mappings explain identity and setup, not additional scenes to render. If reference-image attachment is unavailable, report it and stop instead of silently generating text-only.
+
+WIDESCREEN COMPOSITION:
+English YouTube movie, exactly 15 seconds, landscape 16:9. Compose for a 1920x1080 canvas when supported; otherwise use the selected native 16:9 resolution without cropping a portrait video. Use left/right space to establish geography, with balanced medium two-shots and readable action. Keep heads, hands, feet and important props inside widescreen safe margins. No portrait framing or letterboxed phone footage.
+
+LOCAL CAST AND LOCATION REFERENCE MAPPING:
+- V01_Lily_Wedding.png: V01_Lily_Wedding
+- C04_Bruno_FULL.png: C04_Bruno
+- L03_DeepForest.png: L03_DeepForest
+- K08_GrizzlyBear.png: K08_GrizzlyBear
+
+OPENING STATE FOR THIS FRESH CHAT:
+The previous cut has already completed this event: Lily retreats along the rock wall rather than running back to the castle.
+This is setup context only. Do not replay the completed action, dialogue or arrival. If the first shot remains in that scene, reconstruct its resulting pose, costume, wetness, injuries, props, lighting and screen positions, then continue the next action. If the written first shot explicitly cuts location, time, memory or viewpoint, make that motivated cut; do not force the previous scene or its offscreen characters into the new shot.
+First render action for this part: The bear emerges on all fours and rears as Bruno steps between them.
+
+IDENTITY AT THE EDIT:
+Match the same reference face, age stage, hair, fur pattern, clothes, scale and established voice throughout this numbered part. Reference roles listed here include continuity guides: only show the characters requested by the local shot plan. Location-reference background figures are not the cast. Do not duplicate a child, swap Lily with the earlier red-haired bride, turn Frost into a dog or human, change his growth stage, or change creature counts between cuts. No unmotivated camera-side reversal. For same-scene joins retain the last established screen direction and eyelines. If an actual previous final-frame image is supplied and the selected route supports it, use it as the opening-frame reference alongside the identity references. This prompt itself does not attach that frame, so never claim it has been loaded when it has not.
+
+ENDING STATE FOR THE FOLLOWING EDIT:
+Complete this event by the end of this part: End on the bear raising one forepaw toward Bruno, Lily safely behind him.
+The next numbered clip is PART 085. Leave a clean edit point with stable faces, character positions and props. No extra cliffhanger, end card, flash, silent black tail or unrelated fade. Allow a fade only when the written shot explicitly changes time or enters a memory. Finish the listed speech before the cut; do not begin the next part's line.
+
+AUDIO AT THE EDIT:
+Same-scene ambience and score remain restrained and compatible across adjoining clips; no fresh music intro or outro sting on every part. An intentional location/time change may change ambience. Only the local dialogue section authorizes speech. Keep natural pauses and do not repeat a spoken line because it appears in the setup context. Action scenes remain quiet when no line is written.
+
+VIDEO: Exactly one 15-second English video, landscape 16:9. Use the available supported 15-second video route. Do not request a longer duration. Generate only this numbered part.
+
+REFERENCE IMAGE URLS:
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V01_Lily_Wedding/V01_Lily_Wedding.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
+
+IMPORTANT - DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+First download every image URL in this part's REFERENCE IMAGE URLS list. Open or inspect each downloaded image and confirm that it is a real, non-empty image, not an error page. Then attach/import these downloaded images into the video generator's actual reference-image inputs with the correct character or location mapping. Do not start video generation until every required reference is successfully loaded.
+A URL written in prompt text, HTTP 200 alone, or a sentence saying "references mapped" does not mean the video generator received the image. If this route cannot download images or has no reference-image input, stop this part and report that limitation; do not silently create a text-only substitute or invent faces. Never claim references were loaded unless the actual tool inputs confirm it.
+Use ONLY the images listed for this part. Character images lock face, age, hair, clothing and anatomy; location images lock the setting, not the characters visible in that location reference. Do not import earlier/next-part characters or all repository images. References not needed for this part have deliberately been excluded. A named reference character appears only in the written shots. Keep incidental unnamed extras in the background.
+
+IDENTITY AND CAST:
+If Lily appears, use V01_Lily_Wedding for her face and damaged wedding clothes: damp muddy hem, small branch tear, one shoe missing. Do not change outfit or age.
+Bruno, when present, matches C04_Bruno_FULL: a massive upright black-furred Bigfoot with the reference facial structure, long arms and gentle eyes. Never replace him with a human, bear, dog, gorilla costume or cartoon. Keep his height and body proportions constant next to Lily. Do not give his body armor belonging to the dark Bigfoot tracker. Magnus, Damian and Vex retain their own reference faces and clothes. Lily's mother and Rose do not appear. Frost has not been born and must not appear.
+From the story sequence in clips 171-172 onward the main force has exactly five armored dark Bigfoots, one T-rex and one mammoth, plus its human guards and one red Western dragon. Show only the members called for by a shot; do not multiply creatures between cuts.
+
+SOUND AND MUSIC:
+Use sounds visibly motivated by the scene: footsteps on its surfaces, water where present, clothing and fur movement, wind outside, restrained fire crackle near a fire, and only the animal calls or horns explicitly requested. No constant action noise in quiet conversation. A restrained orchestral score supports the mood beneath speech and effects. Fight and rescue scenes rely on exertion and impact sounds rather than added speeches.
+
+FRAMING AND CONTINUITY:
+Establish positions in a wide or medium-wide shot before contact or fast movement. Keep screen direction and physical distances consistent between cuts. Medium shots keep reference faces readable; use no extreme face close-ups or distorted wide-angle portraits. Keep heads, hands and action within landscape safe margins. Maintain clothing damage, wetness, lighting and props until the shot plan explicitly changes them. No teleporting, duplicated people, extra children or sudden age changes. Forest and cave layouts match their references. End on the last written image without a promotional card, recap or unrelated cliffhanger.
+
+NEGATIVE:
+No subtitles, captions, logos, watermarks, random text, cartoon/anime rendering, plastic faces, changing identities, extra limbs, human-looking Bigfoot, dog-looking Bigfoot, gore, nudity or explicit intimacy. No unrequested dialogue or background character taking over the scene.
+
+SHOT PLAN - LOCAL 0-15 SECOND TIMELINE:
+0-8.08s: The bear emerges on all fours and rears as Bruno steps between them.
+8.08-15s: End on the bear raising one forepaw toward Bruno, Lily safely behind him.
+
+SPOKEN DIALOGUE FOR THIS PART ONLY:
+No spoken dialogue or narration in this part.
+Deliver each listed line once at a natural pause with its speaker visible when lip sync is needed. Do not add speech from any other part. Text quoted in actions is staging, not permission to add another spoken line. Keep action scenes quiet apart from breath and motivated effects.
