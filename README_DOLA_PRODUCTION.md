@@ -4,6 +4,8 @@ Use this repo for Dola AI generation.
 
 ## Fast Workflow
 
+Current retry file as of 2026-10-20: `ZDola_Combined_Prompts/English_9x16_MISSING_301_15SEC_CLEAN.txt`. The 75 unique clips in the latest ready batch have been excluded from the prior 376-prompt list. Use this 301-prompt file for the next English 9:16 run; the older counts below are historical snapshots.
+
 1. After the `file2` update checked on 2026-10-19, use `ZDola_Combined_Prompts/English_9x16_MISSING_376_15SEC_CLEAN.txt`. Its smaller import alternatives are `English_9x16_MISSING_15SEC_BATCH1_300_CLEAN.txt` then `English_9x16_MISSING_15SEC_BATCH2_76_CLEAN.txt`. Use either the combined file or the two batches, not both. The 66 unique new clips have been excluded from the former 442-prompt list. Older pending files are historical snapshots. The unchanged `English_9x16_ALL_312_CLEAN.txt` remains the complete story master.
 2. Paste one part at a time into Dola. Each part is separated only by `-------`.
 3. Dola must first download and inspect every listed image, then attach/import it into the generator's actual reference-image inputs. URLs in text alone do not prove image conditioning. Stop if the route cannot load references; do not silently generate text-only substitutes.
