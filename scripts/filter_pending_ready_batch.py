@@ -4,6 +4,7 @@ import argparse
 import concurrent.futures
 import json
 import re
+from datetime import date
 from pathlib import Path
 
 from reconcile_ready_videos import ROOT, probe
@@ -15,6 +16,7 @@ def main():
     parser.add_argument('--source', type=Path, required=True)
     parser.add_argument('--output', type=Path, required=True)
     parser.add_argument('--report', type=Path, required=True)
+    parser.add_argument('--date', default=date.today().isoformat())
     args = parser.parse_args()
     source = args.source.read_text(encoding='utf-8')
     blocks = [b.strip() for b in re.split(r'(?m)^-------\s*$', source) if b.strip()]
@@ -45,7 +47,7 @@ def main():
     args.output.write_text(text, encoding='utf-8')
     assert args.source.read_text(encoding='utf-8') == source
     report = {
-        'date': '2026-10-20', 'scope': 'English 9:16, 15-second A/B clips',
+        'date': args.date, 'scope': 'English 9:16, 15-second A/B clips',
         'verification': 'Actual container duration and dimensions plus original part/half filename; no visual or audio quality review.',
         'source': str(args.source), 'output': str(args.output),
         'previous_pending': len(blocks), 'video_files': len(videos),
