@@ -1,0 +1,34 @@
+PART 001B - "The Kingdom Watches"
+
+VIDEO: One 15-second English movie clip, vertical 9:16. Generate this clip only.
+
+REFERENCE IMAGE URLS:
+Castle square and balcony = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L02_KingCastle/L02_KingCastle.png
+King Magnus = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C02_KingMagnus/C02_KingMagnus_FULL.png
+Prince Damian = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C03_PrinceDamian/C03_PrinceDamian_FULL.png
+Captain Vex = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S07_CaptainVex/S07_CaptainVex_FULL.png
+Rose = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png
+
+DOWNLOAD AND LOAD REFERENCES BEFORE GENERATION:
+Download and inspect these five images, then attach them to the generator's actual reference-image inputs with the labels above. Match each named character's face, age, hair and clothing. Use the castle image for architecture, not its pictured people. URLs in text alone are not loaded references. If image loading fails or this route cannot accept the required references, stop and report the limitation.
+
+STANDALONE SETUP AND CONTINUITY:
+Everything needed for this clip is here; it must work in a new chat. It is dusk in Thorne Kingdom's stone castle square. Red banners move gently above a gathered festival crowd. King Magnus is already standing on the balcony, with Prince Damian half a step behind him. Continue from this established position without another entrance or title card. Captain Vex is below in the square carrying a closed parchment scroll with an intact wax seal. Rose, an older castle helper, watches from the side of a stone arch. The crowd is subdued and expectant.
+
+VISUAL STYLE AND CAMERA:
+Realistic cinematic fantasy, natural skin and hair, believable cloth and stone, consistent dusk light. Use stable wide and medium shots with faces comfortably inside the vertical frame. Keep the king framed from the waist up. Rose stays a small side figure; guards and festival visitors remain soft-focus background extras. Preserve the same identities and costumes across cuts.
+
+SHOT PLAN - LOCAL 0-15 SECOND TIMELINE:
+0-5s: From crowd level, a medium-wide view follows Captain Vex taking two measured steps along an already open aisle. Background guards stand along its edges; visitors stay in place. Briefly show Rose half-hidden beside the stone arch, watching quietly. Vex holds the sealed scroll at waist level. Everyone remains composed, with tension carried by stillness and glances.
+5-11s: Cut to the balcony. Magnus raises one hand and the crowd settles into silence. Keep Damian visible behind him as a quiet observer. Magnus speaks the single line below with measured authority. Keep the camera steady at a medium distance.
+11-15s: Cut back to Vex in the square. He lifts the still-closed scroll to chest height, holding it in both hands. End with Vex, the intact red wax seal, and the attentive crowd clearly readable. Hold this position for the last second. The seal stays intact; the proclamation has not yet been read.
+
+SPOKEN DIALOGUE FOR THIS HALF ONLY:
+KING MAGNUS, deep controlled voice, during the balcony shot: "Tonight, every family will hear the crown."
+Speak this line once. All other characters remain silent.
+
+SOUND:
+Soft crowd ambience fades as Magnus raises his hand. Light banner movement, footsteps and a restrained orchestral tension bed. Keep the spoken line clear above the music.
+
+OUTPUT:
+Only the movie clip. No title card, subtitles, captions, logos or additional dialogue. End in the same square at dusk with Vex holding the sealed scroll, ready for the next clip.
