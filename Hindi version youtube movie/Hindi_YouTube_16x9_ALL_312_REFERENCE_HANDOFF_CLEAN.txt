@@ -12,6 +12,7 @@ Panel 5: Captain Vex (S07_CaptainVex_FULL.png).
 Panel 6: Kingdom guards (S08_KingdomGuards_FULL.png).
 Panel 7: Previous brides - adult women (S09_Brides_FULL.png).
 Panel 8: Rose - castle maid (S11_Rose_FULL.png).
+Panel 9: Lily Carter - everyday clothes (C01_Lily_FULL.png).
 No previous final-frame attachment for the movie opening.
 Attachment 3 is optional: one approved face/prop/detail crop or one additional combined detail board only when needed. Do not also attach all the separate source portraits.
 Read the names printed ABOVE each panel. Keep people, age variants, creatures and locations separate. Board text is identification only and must not appear in the movie. Create the scene fresh: never animate the board as a collage, show its grid, merge faces, copy reference backgrounds indiscriminately or make all panels appear together. A location panel defines place design, not its background figures as cast. URLs alone are not image conditioning; the board must be attached/imported into the actual image input.
@@ -1319,6 +1320,7 @@ Panel 5: Captain Vex (S07_CaptainVex_FULL.png).
 Panel 6: Kingdom guards (S08_KingdomGuards_FULL.png).
 Panel 7: Previous brides - adult women (S09_Brides_FULL.png).
 Panel 8: Rose - castle maid (S11_Rose_FULL.png).
+Panel 9: Lily Carter - everyday clothes (C01_Lily_FULL.png).
 Optional attachment 2: the actual approved end frame exported from PART 017, named Part_017_EndFrame.png. This is created after rendering that part; it is not a supplied repository asset or a URL. For a same-scene cut it anchors the opening pose. For a stated time/location/memory cut it is continuity context only.
 Attachment 3 is optional: one approved face/prop/detail crop or one additional combined detail board only when needed. Do not also attach all the separate source portraits.
 Read the names printed ABOVE each panel. Keep people, age variants, creatures and locations separate. Board text is identification only and must not appear in the movie. Create the scene fresh: never animate the board as a collage, show its grid, merge faces, copy reference backgrounds indiscriminately or make all panels appear together. A location panel defines place design, not its background figures as cast. URLs alone are not image conditioning; the board must be attached/imported into the actual image input.

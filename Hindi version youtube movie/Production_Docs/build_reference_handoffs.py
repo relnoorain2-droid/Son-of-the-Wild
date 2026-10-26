@@ -202,10 +202,10 @@ def font(size):
     return ImageFont.load_default(size=size)
 
 
-def sheet(references, target):
+def sheet(references, target, refresh=False):
     panels = [{'panel': index + 1, 'name': label(relative), 'source': relative}
               for index, relative in enumerate(references)]
-    if target.is_file() and '--refresh-sheets' not in sys.argv:
+    if target.is_file() and not refresh and '--refresh-sheets' not in sys.argv:
         return panels
     cell, header, gap, top = 1024, 116, 16, 118
     cols = min(4, max(1, math.ceil(math.sqrt(len(references)))))
@@ -361,15 +361,23 @@ def update(part, incoming, outgoing, sheet_path, panels):
 def main():
     parts = [parse(p) for p in sorted(FOLDER.glob('Part_*_Dola_URL.txt'))]
     assert [p['number'] for p in parts] == list(range(1, 313))
+    opening_set = set(parts[0]['references'])
+    lily_identity = 'Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png'
+    for part in parts:
+        part['opening_board_lily'] = set(part['references']) == opening_set
+        if part['opening_board_lily']:
+            part['references'].append(lily_identity)
     SHEETS.mkdir(exist_ok=True)
     boundaries = [boundary(parts[i - 1] if i else None, p) for i, p in enumerate(parts)]
     assets, reports, prompts = {}, [], []
     for i, part in enumerate(parts):
         references = tuple(sorted(part['references']))
+        if part['opening_board_lily']:
+            references = tuple(r for r in references if r != lily_identity) + (lily_identity,)
         if references not in assets:
             name = f"References_{part['number']:03}.jpg"
             target = SHEETS / name
-            panels = sheet(references, target)
+            panels = sheet(references, target, refresh=part['opening_board_lily'])
             assets[references] = (target, panels)
         target, panels = assets[references]
         outgoing = boundaries[i + 1] if i < 311 else None

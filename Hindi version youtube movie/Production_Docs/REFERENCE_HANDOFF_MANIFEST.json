@@ -58,6 +58,11 @@
           "panel": 8,
           "name": "Rose - castle maid",
           "source": "Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png"
+        },
+        {
+          "panel": 9,
+          "name": "Lily Carter - everyday clothes",
+          "source": "Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png"
         }
       ],
       "local_scene": "The hidden Oregon kingdom fills the square: workers, servants, nobles, guards, and families gather under red banners for a royal Moon Festival and public proclamation.",
@@ -1593,6 +1598,11 @@
           "panel": 8,
           "name": "Rose - castle maid",
           "source": "Characters_Dola_1024/Supporting/S11_Rose/S11_Rose_FULL.png"
+        },
+        {
+          "panel": 9,
+          "name": "Lily Carter - everyday clothes",
+          "source": "Characters_Dola_1024/Main/C01_Lily/C01_Lily_FULL.png"
         }
       ],
       "local_scene": "A calendar page turns. The kingdom gathers again, more frightened than before.",
