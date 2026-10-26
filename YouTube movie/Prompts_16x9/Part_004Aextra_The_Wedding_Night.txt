@@ -1,0 +1,62 @@
+PART 004Aextra - "The Wedding Night"
+FROST: Son of the Wild
+
+REFERENCE IMAGE - ATTACH BEFORE COPYING THE PROMPT
+Image 1: combined wardrobe, identity and bedroom board, Part_004Aextra_Wedding_Night_References.png
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Hindi%20version%20youtube%20movie/Reference_Sheets/Part_004Aextra_Wedding_Night_References.png
+Download and inspect the board, then attach it as ONE reference image. The three named panels belong to one bride, one prince and one location; do not animate the board itself.
+Optional image 2: the actual approved final frame of your completed Part 004. Use this to match the wedding-hall composition at the beginning and end. Do not claim this frame is attached if it is absent. No skill file is needed.
+
+EDIT PLACEMENT
+This is an optional 30-second editorial insert between Part 004 and Part 005, not a renumbering of the 312 existing parts. Part 005 still opens during the public wedding ceremony. Therefore the bedroom passage is explicitly a FLASH-FORWARD to later that night, followed by a return to the ceremony before Part 005. This preserves the existing chronology without changing any other prompt. Do not insert a literal continuous night-and-next-morning sequence before the unchanged Part 005.
+
+PROMPT TO COPY AND PASTE
+
+PART 004Aextra - "The Wedding Night"
+FORMAT: YouTube landscape 16:9; compose for 1920x1080 when supported.
+DURATION: Exactly one 30-second video. Follow the complete 0-30 second timeline below.
+STYLE: Photorealistic live-action royal romance within the established medieval dark-fantasy movie.
+INSTRUCTIONS: English, silent control text.
+SPOKEN LANGUAGE: English only. Speak only the two exact lines in SPOKEN ENGLISH, once each, in their stated time windows. No narrator, background speech, dialogue subtitles or spoken title. The two specified English time cards are silent editorial text, not dialogue.
+
+REFERENCE MAPPING AND LOCAL CAST
+Attachment 1 is one combined reference board.
+Panel 1, FIRST BRIDE - NIGHTDRESS: the first red-haired bride, age 25, with her established face, braided red hair and natural body proportions. She is the same third woman from the left in the original brides reference, not Lily Carter. Preserve her facial structure, eye color, braid and build throughout.
+Panel 2, PRINCE DAMIAN - NIGHTWEAR: Damian, age 27, with his established face, grey eyes, dark hair and clean-shaven jaw. The satin shirt, dark trousers and robe are the bedroom costume; no crown in this passage.
+Panel 3, ROYAL BEDROOM: the carved four-poster bed, champagne coverlet, stone walls, burgundy curtains, candlelight and night window define the bedroom design.
+Only this couple appears in the bedroom. Rose, Magnus, Lily and guards do not enter or speak. The wedding-hall bookends show the same couple in their original ceremony outfits, with any other guests only indistinct background figures.
+Labels and panel borders are reference information only; they must never appear in the video. Build a fresh moving scene, not an animated collage. Match the supplied previous end frame when present; otherwise follow the complete written ceremony setup below.
+
+WARDROBE AND PERFORMANCE
+The red-haired bride begins the bedroom passage already changed into the champagne-ivory satin nightdress shown on the board. It has an elegant fitted bodice, a tasteful neckline, delicate lace detail and a long flowing skirt. The satin is opaque, with realistic folds and a soft sheen. Preserve the same face, body proportions and red braid as her wedding appearance. Her original cream-ivory embroidered wedding gown is neatly folded over a nearby chair. The costume change happens across an editorial cut; no undressing is shown.
+She looks beautiful, confident and sensuous through graceful posture, warm eye contact, natural expressions and flattering candlelight. Keep the physical performance affectionate and grounded, with no body exaggeration or costume change during a shot.
+Damian wears the board's elegant dark royal nightwear, without armor or weapons. He pauses for her response before closing the distance. She actively reciprocates the embrace, rests her hands naturally against him and chooses to remain close. His gentleness in this private moment does not erase his later established deception or alter the subsequent story.
+The intimate night is implied only by closeness, the fade-out and their later sleeping arrangement. Both remain clothed; private intimacy is implied by the fade and sleeping shot.
+
+TEMPORAL CONTINUITY
+The opening and ending are at the wedding ceremony, immediately after the completed Part 004 and before Damian raises the bride's hand in Part 005. The middle passage previews the later wedding night; it does not move the public ceremony to the following morning.
+Use a short, clearly legible English time card, "LATER THAT NIGHT", only during the transition into the bedroom. On the return use "THE WEDDING CEREMONY" for one second. These are silent editorial cards, not spoken words or dialogue subtitles. No other screen text.
+The bedroom lighting remains nighttime throughout. Do not add dawn, a carriage departure, the forest, a threat, a new pregnancy, or the next part's dialogue.
+
+EXACT 30-SECOND SHOT PLAN
+0-2s: Begin at the established wedding-hall endpoint: Damian and the same red-haired bride stand beside one another in ceremony clothes. Her original cream-ivory embroidered gown, his black-and-red royal wedding coat and the hall's candlelight match Part 004. His hand remains lowered; do not present her to the crowd yet. A soft dissolve carries the viewer into the flash-forward; "LATER THAT NIGHT" appears briefly and disappears.
+2-6s: Medium-wide bedroom shot. The bride is already wearing her satin nightdress; the folded wedding gown is visible on the chair. She turns from a candlelit mirror toward Damian. He is in dark satin royal nightwear. Keep both faces clear and the bed's location established. No changing-clothes action.
+6-10s: Medium two-shot. Damian offers his hands and waits. She takes them and steps toward him. He gently draws her against his chest and settles his arms around her upper back; her arms return the embrace. He speaks his single English line during 6-8.5s, then pauses. Movement remains gentle and reciprocal.
+10-14s: She rests against his chest, looks up at him, and speaks her one English line during 10-12.5s. He holds her affectionately. She relaxes and smiles. After her line, they share one brief gentle lip kiss, both leaning in willingly. Keep the nightdress, braid, facial identity and hand positions stable; allow a quiet pause after her words.
+14-19s: Wide-to-medium view as they sit on the bed together and then lie back side by side. The bride chooses her movement and remains engaged. Damian brings the champagne coverlet over them; she settles close to him. Their nightwear remains on. Frame faces, shoulders, hands and the upper coverlet, with realistic mattress compression and coherent body positions. No additional speech.
+19-21s: Fade gently toward darkness as candlelight softens. This transition implies the passage of private time. Show no new physical action during the fade.
+21-25s: Fade into a still, warm bedroom composition: both are asleep side by side beneath the same coverlet, their heads visible on separate pillows. One arm rests naturally above the covers. Subtle breathing and candle flicker continue. Preserve the same red braid, dark hair, bed, pillows and nighttime lighting. This is the restrained implication that they shared their wedding night.
+25-27s: Dissolve back to the earlier wedding-hall composition and original wedding clothes. Brief silent card: "THE WEDDING CEREMONY". The bride's nightdress does not follow her into the ceremony; this is an editorial return, not an on-screen outfit transformation. Let the distant wedding bells replace the bedroom ambience.
+27-30s: Match Part 004's final staging: Damian beside the red-haired bride in her embroidered cream-ivory gown, ready to present her to the court. He turns his attention toward the guests but does not raise her hand. She remains composed with the established hint of uncertainty. End on this readable composition with natural breathing and fabric movement, ready for Part 005's first action.
+
+SPOKEN ENGLISH - EXACT WORDS
+6-8.5s, PRINCE DAMIAN, soft controlled English male voice: "This moment belongs to us."
+10-12.5s, FIRST BRIDE, warm natural English female voice: "Stay here, close to me."
+Speak each line exactly once. Only the person speaking lip-syncs. All other moments use breathing, music and motivated ambience. Do not repeat these lines because the timing is described elsewhere.
+
+CAMERA, LIGHT AND SOUND
+Use steady medium and medium-wide compositions with recognizable reference faces, natural skin texture, realistic eye proportions and detailed satin. No extreme facial close-ups or body-focused inserts. Warm candles and soft window moonlight give the bedroom depth; keep candles safely away from curtains and bedding.
+Use soft fabric movement, quiet footfalls, restrained natural breathing and low room ambience. No exaggerated intimacy sound effects or intelligible background voices. A restrained string theme supports the embrace, softens into the fade and resolves back into the existing wedding-hall suspense. Keep the two English lines clearly audible above the score.
+
+ENDING CONTRACT
+End at exactly 30 seconds in the public wedding hall, in the original ceremony wardrobe, before the hand-raising action that opens Part 005. The sleeping image belongs to the flash-forward and is not the final chronological state. Preserve the established first bride, not Lily. Do not generate or append Part 005.

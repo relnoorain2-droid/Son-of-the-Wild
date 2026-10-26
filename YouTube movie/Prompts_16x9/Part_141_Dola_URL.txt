@@ -1,69 +1,71 @@
-REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-S06_SarahMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S06_SarahMiller/S06_SarahMiller_FULL.png
-V05_Frost_Baby.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V05_Frost_Baby/V05_Frost_Baby.png
-
-FROST: Son of the Wild
 PART 141 - "The First Roar"
-Punch: ACTION + WOW + TWIST
-Status: ready - URL PACKAGE
+FROST: Son of the Wild
 
-REFERENCE IMAGES FOR THIS PART
-Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
-REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S03_HankMiller_FULL.png, S04_OldJoeWhitaker_FULL.png, S06_SarahMiller_FULL.png, V05_Frost_Baby.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
+REFERENCE IMAGES - PREPARE ABOVE THE COPY LINE
+Image 1 (required combined reference board): Reel_Corrected_141.jpg
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Hindi%20version%20youtube%20movie/Reference_Sheets/Reel_Corrected_141.jpg?v=reel-sync-20261026
+Download and inspect this board, then attach it as ONE image. Use the labels to map the panels. Optional image 2: the actual approved previous end frame, if available. Optional image 3: a face detail. At most three images total. No skill file is needed. Stop at the ------- separator.
 
-PROMPT TO PASTE IN DOLA
+PROMPT TO COPY AND PASTE (SEEDANCE 2.5)
+
+PART 141 - "The First Roar"
 FORMAT: YOUTUBE 16:9
-EXACT 30-SECOND OUTPUT LOCK:
-This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
-Use active skill: Zakariya Seedance 2 5 30s YouTube 16x9
-Model: Seedance 2.5
-Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
-Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+Duration: exactly 30 seconds
+LANGUAGE: ENGLISH VOICES AND INSTRUCTIONS
+SPOKEN LANGUAGE: ENGLISH ONLY. Dialogue is already written in English. Speak only the exact words in SPOKEN ENGLISH below, once each. English shot instructions and labels are silent. Quoted text elsewhere is staging or context, never an additional line. No improvised narration, background warnings, repeated catchphrases or title reading. Use natural English lip-sync and comfortable pauses.
 
-YOUTUBE 16:9 FRAMING LOCK:
-Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
+SEPARATE GENERATION + REFERENCE MAPPING:
+This prompt is complete in a fresh chat. Attachment 1 is a labelled reference board:
+Panel 1: Mountain Lion (K10_MountainLion.png).
+Panel 2: Abandoned Cabin (L06_AbandonedCabin.png).
+Panel 3: Village (L07_Village.png).
+Panel 4: Old Joe Whitaker (S04_OldJoeWhitaker_FULL.png).
+Panel 5: Sarah Miller - child (S06_SarahMiller_FULL.png).
+Panel 6: Frost - baby (V05_Frost_Baby.png).
+Read labels ABOVE panels. Create a fresh moving scene; never animate the collage, render panel labels, blend faces or put every panel character on screen. Location-panel background people are not additional cast. Image 2, if supplied, is an actual approved end frame; never claim one is attached when absent.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V05_Frost_Baby.png -> Variant Frost_Baby; S06_SarahMiller_FULL.png -> Sarah Miller; S03_HankMiller_FULL.png -> Hank Miller; S04_OldJoeWhitaker_FULL.png -> Old Joe Whitaker.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
-FROST AGE LOCK: Frost is a newborn/baby here. Use only V05_Frost_Baby.png for Frost; do not show kid, teen, adult, or powered Frost in this part.
+REFERENCE COSTUME AND APPEARANCE:
+Preserve the face, age, hairstyle, outfit design, colors and established coverage of each character requested by this scene. Use realistic fabric, well-fitted tailoring and natural proportions. Match dirt, wetness, tears and accessories across a continuous scene. A style description does not add a person or change the written action.
 
-CAST NOTE: Tommy = a cheerful boy (10–14), messy brown hair, freckles, red cap.
-Dusk at the forest edge near the cabin, torches.
-0–3s: From a tree branch above, a mountain lion leaps down toward little Sarah.
-OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 140's final image: Villagers slowly lower their pitchforks. Some women wipe their eyes. Hank lowers his pitchfork completely. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–3s: NARRATOR (cinematic story voice): "Now The First Roar moves the story forward."
-3–12s: Slow motion: before anyone can move, baby Frost jumps in front of Sarah and lets out a ROAR — not a squeak this time, but a deep powerful roar. For one second his blue eyes glow and tiny blue sparks crackle in his fur.
-12–20s: The mountain lion freezes mid-air, lands, and runs away in terror into the forest. Everyone stares, stunned. Frost sits down, sneezes, and looks proud.
-DIALOGUE 14–17s: Frost (deep young heroic voice): "The First Roar is where I stand for my family."
-DIALOGUE 17–19s: Hank (rough kind villager voice): "We fix what The First Roar broke before dark."
-20–30s: The crowd erupts in cheers. Hank kneels down and gently pats Frost's head.
-DIALOGUE 22–25s: Old Joe (old wise American man): "Listen close before The First Roar chooses you."
-In the back, Old Joe leans on his stick, staring at the fading blue sparks.
-DIALOGUE 27–30s: Sarah (young village woman): "The First Roar does not feel ordinary."
-Final frame: close-up of Old Joe's serious eyes.
-SFX: mountain lion screech, slow-motion whoosh, powerful roar, electric crackle, big cat running away, cheers, sneeze.
-MUSIC: epic heroic swell, then a happy cheer moment, ending on a mysterious magical tone.
+PHOTOREALISM AND IDENTITY:
+Render a photorealistic live-action appearance, with physically believable fantasy creatures. Natural human skin pores, subtle facial asymmetry, real eye proportions, individual hair strands, realistic fabric and natural light. No cartoon, anime, doll face, plastic skin, game-avatar appearance, exaggerated eyes or painted textures. Medium shots keep faces readable; no extreme face close-ups or distorted wide-angle portraits. Match each person's own reference identity throughout the scene. Clothing changes only at a written change; retain mud, tears, wetness and props at each edit.
+Only characters explicitly acting in the local shot plan appear. A reference panel is an identity guide, not an instruction to add its person to the scene. Keep Rose, Grace and Martha distinct. Rose is a castle maid: only show her when locally required, concealed at a side doorway or pillar, never roaming into bedrooms or interrupting every scene. Only the English dialogue section authorizes speech. Background figures never borrow another person's dialogue.
+Only when the local shots include Frost, show exactly one at the written age stage. Never introduce him before birth or into scenes where he is absent. His father's Bigfoot genes explain his accelerated growth; age changes only at written time passages. Keep upright Bigfoot anatomy, broad hands and feet, snow-white fur and blue eyes. No dog muzzle, paws, tail, human replacement, baby with grown-up proportions or extra child. When requested, Bruno remains the black-furred Bigfoot with his own identity. His later spirit is not a living resurrection.
 
-SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 142 - "Milk Pail Miracle": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+OPENING HANDOFF IN:
+Previous completed event, context only: Hank and the others lower their tools completely; Sarah stays beside Lily as a distant branch rustles.
+First local action: The crowd lowers its tools outside Lily's cabin while Sarah stands nearby.
+Preserve pose, eyeline, camera side, carried objects, damage and wetness for a same-scene join. Follow explicit local time/location changes; establish the new setting without replaying completed events. A written memory is clearly a memory, not a second birth, resurrection, first meeting or repeated attack.
 
-GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+IDENTITY, AGE AND ANATOMY:
+Frost is baby stage in this part, matching the corresponding listed reference. Exactly one Frost appears. Snow-white fur, blue eyes, Bigfoot face with no canine muzzle, no tail, upright humanoid limbs, broad hands and feet. Never a white dog, bear, human in fur, toy, cartoon or miniature grown-up. Preserve face and proportions throughout the part; changes happen only at explicitly stated time passages. Do not change age during this clip.
+Frost grows faster because of Bruno's inherited Bigfoot genes and forest ancestry. Human children Tommy and Sarah age normally across the elapsed seasons; use their child references throughout this batch, without changing them to seventeen-year-old or older-stage faces. Lily matches V04 as the same young mother, never pregnant again or suddenly elderly. Martha, Hank and Joe each retain their own reference identity. Grace and Rose do not appear. Bruno is dead; only his old home, carving and Lily's memories remain, not a physical living Bruno.
+Frost has no powered tattoos, flight, magical armor or confirmed invulnerability yet. Part 174's brief light is an unexplained hint, not the ancestral transformation. His strength is exceptional, but rescues still show grounded effort and careful contact.
 
-YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 141 | Baby Frost's first REAL roar ⚡🦁 The whole village saw it! #Bigfoot #Movie #Part141
+CAMERA, ACTION AND SOUND:
+Establish positions with a wide or medium-wide view before any rescue, game or contact. Keep screen direction and geography consistent, and keep faces, heads, hands and feet readable inside landscape safe margins. Use medium portraits instead of extreme distorted close-ups. Keep children at the explicitly safe locations; do not duplicate Sarah or Tommy between cuts. Objects change position only through visible handling. Use footsteps, water, restrained exertion, knocks, fire, animal calls or music only when the written scene motivates them. Quiet orchestral support stays beneath dialogue and key effects. Do not add speech to danger or fighting scenes.
 
-DOLA STATUS
-[ ] Images uploaded
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
+CONTINUITY:
+Time passes only where stated; preserve current age, wetness, clothes, props and setting across cuts. Cedar Hollow is in Oregon. The village's trust grows from witnessed kindness; occasional fear does not restart the entire introduction. End on the final written action without copying an earlier part's cliffhanger. No unexplained return to the castle or battlefield. No scene of Frost learning Magnus killed Bruno: that truth comes after the later destruction of Cedar Hollow.
 
-NOTES
+NEGATIVE:
+No subtitles, captions, logos, watermarks, random text, anime/cartoon or plastic faces, face swaps, extra limbs, duplicated characters, gore, unexpected pregnancy, dog-like Bigfoot or premature supernatural powers. Babies remain securely supported and covered; animal encounters do not become pet comedy unless specifically described.
+
+SHOT PLAN:
+0-5s: The crowd lowers its tools outside Lily's cabin while Sarah stands nearby.
+5-11s: A mountain lion emerges from a branch above the porch.
+11-17s: Lily lifts Frost securely as he gives one unexpectedly powerful roar.
+17-24s: The lion retreats into the trees without contact with Sarah.
+24-30s: Joe watches thoughtfully as Lily comforts her startled baby.
+
+SPOKEN ENGLISH:
+Martha: "Everyone step back from the porch."
+
+VOICE DELIVERY:
+Martha: warm mature English female voice
+Keep a stable approved voice preset per character when available. Deliver each line in the corresponding action pause; visible speakers lip-sync, and a narrator remains off-screen. Do not fill quiet or action scenes with dialogue. Finish speech before the edit; avoid overlapping voices.
+
+ENDING HANDOFF OUT:
+Complete this local event: Joe watches thoughtfully as Lily comforts her startled baby.
+Next opening, context only: Weeks pass after the porch incident; Frost grows into a small walking child.
+Keep the final pose readable with natural movement, not a freeze or repeated loop. Do not begin the next scene. Same-scene ambience continues without a new music introduction. Use the full 0-30s timeline with purposeful action and reactions.

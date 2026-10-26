@@ -1,0 +1,18 @@
+{
+  "parts": 312,
+  "extra": "004Aextra",
+  "total_prompts": 313,
+  "seconds_per_part": 30,
+  "aspect_ratio": "16:9",
+  "language": "English",
+  "reference_source": "Hindi version youtube movie/Reference_Sheets",
+  "source_hashes": {
+    "ZDola_Combined_Prompts\\English_9x16_ALL_312_CLEAN.txt": "85e0a5445b52f65c7c3a03a826e3558f22de51fd16f5e355c6347656a389389e",
+    "Hindi version youtube movie\\Hindi_YouTube_16x9_ALL_312_REFERENCE_HANDOFF_CLEAN.txt": "b1721b0faf50dcfc43e42f101725444922a6a708be1de8f9f3c84ac038a0a0c9",
+    "Hindi version youtube movie\\Production_Docs\\REFERENCE_HANDOFF_MANIFEST.json": "d1a8a5d0e77dad5c7b05c05025a8f3b2b8bd38a1baedd269062df00f99df2f67",
+    "YouTube movie\\English_YouTube_16x9_15SEC_PARTS_001_312_CLEAN.txt": "c99e002764313ceb03c657e34bf4fe9fb2b7648a20fa0e1f44b9661e3baefa1e",
+    "YouTube movie\\English_YouTube_16x9_15SEC_PARTS_313_624_CLEAN.txt": "a6833e81ff456249010358606fb45f618a7214fa1862734d8ab7062c855684ec"
+  },
+  "generated_videos": 0,
+  "note": "Same reference boards and story as the Hindi YouTube set. Part 004 follows the user-supplied ceremonial kiss revision. 004Aextra is an optional flash-forward insert."
+}

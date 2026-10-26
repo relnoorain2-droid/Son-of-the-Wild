@@ -1,64 +1,74 @@
-REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-K04_TRex.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K04_TRex/K04_TRex.png
-V10_Damian_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V10_Damian_Battle/V10_Damian_Battle.png
-V11_KingMagnus_Battle.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V11_KingMagnus_Battle/V11_KingMagnus_Battle.png
-
-FROST: Son of the Wild
 PART 086 - "The Army of Thorne"
-Punch: WOW
-Status: ready - URL PACKAGE
+FROST: Son of the Wild
 
-REFERENCE IMAGES FOR THIS PART
-Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
-REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: C04_Bruno_FULL.png, K04_TRex.png, V10_Damian_Battle.png, V11_KingMagnus_Battle.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
+REFERENCE IMAGES - PREPARE ABOVE THE COPY LINE
+Image 1 (required combined reference board): Reel_Corrected_086.jpg
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Hindi%20version%20youtube%20movie/Reference_Sheets/Reel_Corrected_086.jpg?v=reel-sync-20261026
+Download and inspect this board, then attach it as ONE image. Use the labels to map the panels. Optional image 2: the actual approved previous end frame, if available. Optional image 3: a face detail. At most three images total. No skill file is needed. Stop at the ------- separator.
 
-PROMPT TO PASTE IN DOLA
+PROMPT TO COPY AND PASTE (SEEDANCE 2.5)
+
+PART 086 - "The Army of Thorne"
 FORMAT: YOUTUBE 16:9
-EXACT 30-SECOND OUTPUT LOCK:
-This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
-Use active skill: Zakariya Seedance 2 5 30s YouTube 16x9
-Model: Seedance 2.5
-Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
-Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+Duration: exactly 30 seconds
+LANGUAGE: ENGLISH VOICES AND INSTRUCTIONS
+SPOKEN LANGUAGE: ENGLISH ONLY. Dialogue is already written in English. Speak only the exact words in SPOKEN ENGLISH below, once each. English shot instructions and labels are silent. Quoted text elsewhere is staging or context, never an additional line. No improvised narration, background warnings, repeated catchphrases or title reading. Use natural English lip-sync and comfortable pauses.
 
-YOUTUBE 16:9 FRAMING LOCK:
-Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
+SEPARATE GENERATION + REFERENCE MAPPING:
+This prompt is complete in a fresh chat. Attachment 1 is a labelled reference board:
+Panel 1: Dark Bigfoot (K01_DarkBigfoot.png).
+Panel 2: TRex (K04_TRex.png).
+Panel 3: War Mammoth (K06_WarMammoth.png).
+Panel 4: King Castle (L02_KingCastle.png).
+Panel 5: Deep Forest (L03_DeepForest.png).
+Panel 6: King Magnus Thorne (C02_KingMagnus_FULL.png).
+Panel 7: Prince Damian Thorne (C03_PrinceDamian_FULL.png).
+Panel 8: Captain Vex (S07_CaptainVex_FULL.png).
+Panel 9: Kingdom guards (S08_KingdomGuards_FULL.png).
+Read labels ABOVE panels. Create a fresh moving scene; never animate the collage, render panel labels, blend faces or put every panel character on screen. Location-panel background people are not additional cast. Image 2, if supplied, is an actual approved end frame; never claim one is attached when absent.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V11_KingMagnus_Battle.png -> Variant KingMagnus_Battle; V10_Damian_Battle.png -> Variant Damian_Battle; C04_Bruno_FULL.png -> Bruno; K04_TRex.png -> Creature TRex.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
+REFERENCE COSTUME AND APPEARANCE:
+Preserve the face, age, hairstyle, outfit design, colors and established coverage of each character requested by this scene. Use realistic fabric, well-fitted tailoring and natural proportions. Match dirt, wetness, tears and accessories across a continuous scene. A style description does not add a person or change the written action.
 
-Daytime, a wide valley in the redwood forest in front of the waterfall, smoke and dust.
-0–3s: Giant redwood trees crash down as a T-rex in an iron war harness bursts through the forest, roaring.
-OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 085's final image: A massive shadow passes over them. They look up: the huge red dragon flies over the treetops, followed by three smaller dragons, blocking the sun. Final frame: the dragon's shadow covering Lily's terrified face. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now The Army of Thorne moves the story forward."
-3–14s: Epic wide shots: woolly mammoths in dark-red war armor marching, dark Bigfoots with red eyes in chains, soldiers in black helmets with spears, a giant anaconda sliding through the river, and King Magnus in black iron armor landing on the back of the huge red dragon.
-DIALOGUE 8–12s: Bruno (very deep gentle Bigfoot voice): "The Army of Thorne means Bruno must stay gentle and close."
-14–22s: Prince Damian rides forward on a black war horse in spiked black armor and red cape, sword raised.
-DIALOGUE 16–21s: Prince Damian (smooth cold prince voice): "Smile through The Army of Thorne; the court is watching."
-22–30s: The waterfall splits — Bruno steps out slowly and stands alone in front of the cave, facing the whole army. He pounds his chest once. Final frame: one black Bigfoot vs. an entire army.
-DIALOGUE 26–29s: King Magnus (deep rough commanding king): "Let the kingdom remember The Army of Thorne."
-SFX: trees crashing, T-rex roar, mammoth trumpets, marching army, chains, dragon landing, horse neigh, waterfall, single heavy chest pound.
-MUSIC: massive epic dark orchestra and choir, then silence before Bruno's line.
+PHOTOREALISM AND IDENTITY:
+Render a photorealistic live-action appearance, with physically believable fantasy creatures. Natural human skin pores, subtle facial asymmetry, real eye proportions, individual hair strands, realistic fabric and natural light. No cartoon, anime, doll face, plastic skin, game-avatar appearance, exaggerated eyes or painted textures. Medium shots keep faces readable; no extreme face close-ups or distorted wide-angle portraits. Match each person's own reference identity throughout the scene. Clothing changes only at a written change; retain mud, tears, wetness and props at each edit.
+Only characters explicitly acting in the local shot plan appear. A reference panel is an identity guide, not an instruction to add its person to the scene. Keep Rose, Grace and Martha distinct. Rose is a castle maid: only show her when locally required, concealed at a side doorway or pillar, never roaming into bedrooms or interrupting every scene. Only the English dialogue section authorizes speech. Background figures never borrow another person's dialogue.
+Only when the local shots include Frost, show exactly one at the written age stage. Never introduce him before birth or into scenes where he is absent. His father's Bigfoot genes explain his accelerated growth; age changes only at written time passages. Keep upright Bigfoot anatomy, broad hands and feet, snow-white fur and blue eyes. No dog muzzle, paws, tail, human replacement, baby with grown-up proportions or extra child. When requested, Bruno remains the black-furred Bigfoot with his own identity. His later spirit is not a living resurrection.
 
-SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 087 - "Magnus Finds Smoke": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+OPENING HANDOFF IN:
+Previous completed event, context only: A dragon shadow crosses them; Lily looks upward in fear while Bruno blocks her from open view.
+First local action: A dragon crosses the forest sky, then cut to the castle's outer staging road.
+Preserve pose, eyeline, camera side, carried objects, damage and wetness for a same-scene join. Follow explicit local time/location changes; establish the new setting without replaying completed events. A written memory is clearly a memory, not a second birth, resurrection, first meeting or repeated attack.
 
-GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+IDENTITY AND CAST:
+If Lily appears, use V01_Lily_Wedding for her face and damaged wedding clothes: damp muddy hem, small branch tear, one shoe missing. Do not change outfit or age.
+Bruno, when present, matches C04_Bruno_FULL: a massive upright black-furred Bigfoot with the reference facial structure, long arms and gentle eyes. Never replace him with a human, bear, dog, gorilla costume or cartoon. Keep his height and body proportions constant next to Lily. Do not give his body armor belonging to the dark Bigfoot tracker. Magnus, Damian and Vex retain their own reference faces and clothes. Lily's mother and Rose do not appear. Frost has not been born and must not appear.
+From Part 086 onward the main force has exactly five armored dark Bigfoots, one T-rex and one mammoth, plus its human guards and one red Western dragon. Show only the members called for by a shot; do not multiply creatures between cuts.
 
-YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 86 | One Bigfoot vs an entire army 😤⚔️ #Bigfoot #Movie #Part86
+SOUND AND MUSIC:
+Use sounds visibly motivated by the scene: footsteps on its surfaces, water where present, clothing and fur movement, wind outside, restrained fire crackle near a fire, and only the animal calls or horns explicitly requested. No constant action noise in quiet conversation. A restrained orchestral score supports the mood beneath speech and effects. Fight and rescue scenes rely on exertion and impact sounds rather than added speeches.
 
-DOLA STATUS
-[ ] Images uploaded
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
+FRAMING AND CONTINUITY:
+Establish positions in a wide or medium-wide shot before contact or fast movement. Keep screen direction and physical distances consistent between cuts. Medium shots keep reference faces readable; use no extreme face close-ups or distorted wide-angle portraits. Keep heads, hands and action within landscape safe margins. Maintain clothing damage, wetness, lighting and props until the shot plan explicitly changes them. No teleporting, duplicated people, extra children or sudden age changes. Forest and cave layouts match their references. End on the last written image without a promotional card, recap or unrelated cliffhanger.
 
-NOTES
+NEGATIVE:
+No subtitles, captions, logos, watermarks, random text, cartoon/anime rendering, plastic faces, changing identities, extra limbs, human-looking Bigfoot, dog-looking Bigfoot, gore or explicit intimacy. No unrequested dialogue or background character taking over the scene.
+
+SHOT PLAN:
+0-5s: A dragon crosses the forest sky, then cut to the castle's outer staging road.
+5-11s: Vex organizes the assembled force beside Magnus and Damian.
+11-17s: Show one harnessed T-rex, one mammoth and five armored dark Bigfoots waiting with guards.
+17-24s: The force starts down the road, animals spaced clearly without collisions.
+24-30s: End on Magnus riding toward the forest boundary; no encounter with Bruno yet.
+
+SPOKEN ENGLISH:
+Vex: "Keep the beasts behind the forward line."
+
+VOICE DELIVERY:
+Vex: clipped commanding English male voice
+Keep a stable approved voice preset per character when available. Deliver each line in the corresponding action pause; visible speakers lip-sync, and a narrator remains off-screen. Do not fill quiet or action scenes with dialogue. Finish speech before the edit; avoid overlapping voices.
+
+ENDING HANDOFF OUT:
+Complete this local event: End on Magnus riding toward the forest boundary; no encounter with Bruno yet.
+Next opening, context only: Magnus reaches the forest boundary on his horse with Vex beside him.
+Keep the final pose readable with natural movement, not a freeze or repeated loop. Do not begin the next scene. Same-scene ambience continues without a new music introduction. Use the full 0-30s timeline with purposeful action and reactions.

@@ -1,70 +1,71 @@
-REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-V02_Lily_Forest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V02_Lily_Forest/V02_Lily_Forest.png
-C04_Bruno_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Main/C04_Bruno/C04_Bruno_FULL.png
-L03_DeepForest.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L03_DeepForest/L03_DeepForest.png
-L04_BrunoCave.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L04_BrunoCave/L04_BrunoCave.png
-K08_GrizzlyBear.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K08_GrizzlyBear/K08_GrizzlyBear.png
-K09_Wolves.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Creatures/K09_Wolves/K09_Wolves.png
-
-FROST: Son of the Wild
 PART 041 - "Bruno Speaks"
-Punch: EXPANDED CUT - FORWARD STORY BEAT
-Status: ready - EXPANDED CANON PACKAGE
+FROST: Son of the Wild
 
-REFERENCE IMAGES FOR THIS PART
-Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
-REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: V02_Lily_Forest.png, C04_Bruno_FULL.png, L03_DeepForest.png, L04_BrunoCave.png, K08_GrizzlyBear.png, K09_Wolves.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
+REFERENCE IMAGES - PREPARE ABOVE THE COPY LINE
+Image 1 (required combined reference board): Reel_Corrected_041.jpg
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Hindi%20version%20youtube%20movie/Reference_Sheets/Reel_Corrected_041.jpg?v=reel-sync-20261026
+Download and inspect this board, then attach it as ONE image. Use the labels to map the panels. Optional image 2: the actual approved previous end frame, if available. Optional image 3: a face detail. At most three images total. No skill file is needed. Stop at the ------- separator.
 
-PROMPT TO PASTE IN DOLA
+PROMPT TO COPY AND PASTE (SEEDANCE 2.5)
+
+PART 041 - "Bruno Speaks"
 FORMAT: YOUTUBE 16:9
-EXACT 30-SECOND OUTPUT LOCK:
-This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
-Use active skill: Zakariya Seedance 2 5 30s YouTube 16x9
-Model: Seedance 2.5
-Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: widescreen 16:9
-Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+Duration: exactly 30 seconds
+LANGUAGE: ENGLISH VOICES AND INSTRUCTIONS
+SPOKEN LANGUAGE: ENGLISH ONLY. Dialogue is already written in English. Speak only the exact words in SPOKEN ENGLISH below, once each. English shot instructions and labels are silent. Quoted text elsewhere is staging or context, never an additional line. No improvised narration, background warnings, repeated catchphrases or title reading. Use natural English lip-sync and comfortable pauses.
 
-YOUTUBE 16:9 FRAMING LOCK:
-Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
+SEPARATE GENERATION + REFERENCE MAPPING:
+This prompt is complete in a fresh chat. Attachment 1 is a labelled reference board:
+Panel 1: Deep Forest (L03_DeepForest.png).
+Panel 2: Bruno - living (C04_Bruno_FULL.png).
+Panel 3: Lily - wedding outfit (V01_Lily_Wedding.png).
+Read labels ABOVE panels. Create a fresh moving scene; never animate the collage, render panel labels, blend faces or put every panel character on screen. Location-panel background people are not additional cast. Image 2, if supplied, is an actual approved end frame; never claim one is attached when absent.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: V02_Lily_Forest.png -> reference character/location; C04_Bruno_FULL.png -> reference character/location; L03_DeepForest.png -> reference character/location; L04_BrunoCave.png -> reference character/location; K08_GrizzlyBear.png -> reference character/location; K09_Wolves.png -> reference character/location.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
-Scene: The Bigfoot kneels at a safe distance and speaks in a deep gentle voice.
-0-3s: Start with a strong immediate visual hook connected to the previous part.
-OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 040's final image: Build into the hook: The giant turns his gentle eyes toward Lily. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now Bruno Speaks moves the story forward."
-3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Bruno (very deep gentle Bigfoot voice): "Bruno Speaks means Bruno must stay gentle and close."
-10-18s: The Bigfoot kneels at a safe distance and speaks in a deep gentle voice.
-DIALOGUE 11-15s: Lily (young emotional American woman): "I have to survive Bruno Speaks without losing myself."
-18-24s: He says he can take Lily home.
-DIALOGUE 19-23s: Lily (young emotional American woman): "After Bruno Speaks, I cannot ignore the truth anymore."
-24-30s: Build into the hook: Lily cries, 'I cannot go back.'
-SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
-MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.
-CAMERA: clear subject framing, expressive faces, one clean action beat, then a strong final hook.
+REFERENCE COSTUME AND APPEARANCE:
+Preserve the face, age, hairstyle, outfit design, colors and established coverage of each character requested by this scene. Use realistic fabric, well-fitted tailoring and natural proportions. Match dirt, wetness, tears and accessories across a continuous scene. A style description does not add a person or change the written action.
+Lily Carter is a 23-year-old woman with the same reference face and honey-blonde hair. Keep her elegant, attractive film-star appearance through flattering fit, natural grooming, expressive eyes and realistic light appropriate to the setting. Preserve the approved neckline and any shoulders visible in that outfit, with opaque fabric and the same silhouette. Show emotion through face, posture and story action; retain exhaustion, dirt or injuries when written.
+Lily retains her cream-ivory wedding gown during this escape, with the existing mud, torn hem and missing shoe where written. A clean portrait does not reset these details.
 
-SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 042 - "Face to Face with a Grizzly": Lily cries, 'I cannot go back.' Keep continuity and do not add random new characters.
+PHOTOREALISM AND IDENTITY:
+Render a photorealistic live-action appearance, with physically believable fantasy creatures. Natural human skin pores, subtle facial asymmetry, real eye proportions, individual hair strands, realistic fabric and natural light. No cartoon, anime, doll face, plastic skin, game-avatar appearance, exaggerated eyes or painted textures. Medium shots keep faces readable; no extreme face close-ups or distorted wide-angle portraits. Match each person's own reference identity throughout the scene. Clothing changes only at a written change; retain mud, tears, wetness and props at each edit.
+Only characters explicitly acting in the local shot plan appear. A reference panel is an identity guide, not an instruction to add its person to the scene. Keep Rose, Grace and Martha distinct. Rose is a castle maid: only show her when locally required, concealed at a side doorway or pillar, never roaming into bedrooms or interrupting every scene. Only the English dialogue section authorizes speech. Background figures never borrow another person's dialogue.
+Only when the local shots include Frost, show exactly one at the written age stage. Never introduce him before birth or into scenes where he is absent. His father's Bigfoot genes explain his accelerated growth; age changes only at written time passages. Keep upright Bigfoot anatomy, broad hands and feet, snow-white fur and blue eyes. No dog muzzle, paws, tail, human replacement, baby with grown-up proportions or extra child. When requested, Bruno remains the black-furred Bigfoot with his own identity. His later spirit is not a living resurrection.
 
-GLOBAL RULES:
-AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync. No line may be skipped. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic frame.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, rural American towns, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-TEXT RULE: On-screen text is allowed only for intentional short cinematic title/location/time cards when this PART asks for it. No subtitles for dialogue. No random text.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no gore, no blood spray, no nudity, no explicit wedding-night content, no restraints, no chains, no forced physical contact, no extra limbs, no face morphing, no character drift.
+OPENING HANDOFF IN:
+Previous completed event, context only: Bruno turns slowly toward Lily with gentle eyes, hands lowered. Lily remains frightened but recognizes his protective position. End on their separated two-shot.
+First local action: Bruno faces Lily beside the rocky drop after driving the animals away.
+Preserve pose, eyeline, camera side, carried objects, damage and wetness for a same-scene join. Follow explicit local time/location changes; establish the new setting without replaying completed events. A written memory is clearly a memory, not a second birth, resurrection, first meeting or repeated attack.
 
-YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 41 | Bruno Speaks - the story moves deeper. #Bigfoot #Movie #Part41
+IDENTITY AND CAST:
+If Lily appears, use V01_Lily_Wedding for her face and damaged wedding clothes: damp muddy hem, small branch tear, one shoe missing. Do not change outfit or age.
+Bruno, when present, matches C04_Bruno_FULL: a massive upright black-furred Bigfoot with the reference facial structure, long arms and gentle eyes. Never replace him with a human, bear, dog, gorilla costume or cartoon. Keep his height and body proportions constant next to Lily. Do not give his body armor belonging to the dark Bigfoot tracker. Magnus, Damian and Vex retain their own reference faces and clothes. Lily's mother and Rose do not appear. Frost has not been born and must not appear.
 
-DOLA STATUS
-[ ] Images loaded by raw URLs
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
+SOUND AND MUSIC:
+Use sounds visibly motivated by the scene: footsteps on its surfaces, water where present, clothing and fur movement, wind outside, restrained fire crackle near a fire, and only the animal calls or horns explicitly requested. No constant action noise in quiet conversation. A restrained orchestral score supports the mood beneath speech and effects. Fight and rescue scenes rely on exertion and impact sounds rather than added speeches.
 
-NOTES
-Expanded 312-part canon. This part must move the story forward and end with suspense unless it is the final part.
+FRAMING AND CONTINUITY:
+Establish positions in a wide or medium-wide shot before contact or fast movement. Keep screen direction and physical distances consistent between cuts. Medium shots keep reference faces readable; use no extreme face close-ups or distorted wide-angle portraits. Keep heads, hands and action within landscape safe margins. Maintain clothing damage, wetness, lighting and props until the shot plan explicitly changes them. No teleporting, duplicated people, extra children or sudden age changes. Forest and cave layouts match their references. End on the last written image without a promotional card, recap or unrelated cliffhanger.
+
+NEGATIVE:
+No subtitles, captions, logos, watermarks, random text, cartoon/anime rendering, plastic faces, changing identities, extra limbs, human-looking Bigfoot, dog-looking Bigfoot, gore or explicit intimacy. No unrequested dialogue or background character taking over the scene.
+
+SHOT PLAN:
+0-5s: Bruno faces Lily beside the rocky drop after driving the animals away.
+5-11s: He kneels several steps away, hands lowered.
+11-17s: Lily studies his face as he introduces himself.
+17-24s: He offers to guide her home without moving closer.
+24-30s: Lily shakes her head, crying, still beside the rock.
+
+SPOKEN ENGLISH:
+Bruno: "My name is Bruno. I can take you home."
+Lily: "I cannot go back."
+
+VOICE DELIVERY:
+Bruno: deep, warm, restrained English bass voice
+Lily: natural young English female voice
+Keep a stable approved voice preset per character when available. Deliver each line in the corresponding action pause; visible speakers lip-sync, and a narrator remains off-screen. Do not fill quiet or action scenes with dialogue. Finish speech before the edit; avoid overlapping voices.
+
+ENDING HANDOFF OUT:
+Complete this local event: Lily shakes her head, crying, still beside the rock.
+Next opening, context only: Lily remains beside the rock, distressed by Bruno's offer.
+Keep the final pose readable with natural movement, not a freeze or repeated loop. Do not begin the next scene. Same-scene ambience continues without a new music introduction. Use the full 0-30s timeline with purposeful action and reactions.

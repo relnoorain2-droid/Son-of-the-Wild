@@ -1,4 +1,42 @@
-# English YouTube Movie - 624 Parts
+# English YouTube Movie - 30-Second Edition
+
+## Current Matching Edition
+
+The current English YouTube movie matches the Hindi YouTube story and its
+combined reference boards: **312 numbered parts of 30 seconds each, plus the
+optional Part 004Aextra**, in landscape 16:9. All speech is written in English.
+No skill file is needed.
+
+- `Prompts_16x9/` contains the 312 current individual prompts and
+  `Part_004Aextra_The_Wedding_Night.txt`.
+- `English_YouTube_16x9_30SEC_312_PLUS_004Aextra.txt` contains 313 independent
+  prompts, with `-------` on a separate line between them. The optional extra
+  is placed after Part 004. Do not render the extra if it is not wanted.
+- Each prompt links the same combined reference board used by its Hindi
+  counterpart. Download that board and attach it as image 1. An approved prior
+  final frame and a detail image can be added when supported.
+- Part 004 includes the bride's brief, willing wedding kiss. The extra uses the
+  same separate wedding-night board as Hindi and is a flash-forward that returns
+  to the wedding hall before Part 005. Its specified time cards are silent.
+- Keep Lily's and the first bride's distinct faces and costumes, with flattering
+  tailoring and cinematic light. Speak only the listed English lines; silent
+  action remains silent. Frost's voice and reference change with his growth stage.
+
+The older 624-part, 15-second files remain available in this folder for anyone
+who needs that previous edit. Do not mix their numbering with this 312-part
+30-second edition. To rebuild and validate the current edition, run:
+
+```text
+python "YouTube movie/Production_Docs/build_english_30sec.py"
+python "YouTube movie/Production_Docs/build_english_30sec.py" --validate
+```
+
+The validator checks all 313 combined blocks, references, timelines and English
+speech, and confirms that the Hindi and 15-second source packages are unchanged.
+The prompts are prepared for generation; actual video, lip-sync and visual
+continuity still need review after rendering.
+
+## Previous 15-Second Edition
 
 Use this package for the English landscape 16:9 movie, exactly 15 seconds per generated clip.
 
@@ -30,6 +68,6 @@ This package is a programmatic shot-boundary conversion and landscape adaptation
 - `Prompts_16x9_15sec/`: current 624 individual prompts.
 - `Production_Docs/YOUTUBE_624_CONTINUITY_MANIFEST.json`: source-to-new-part mapping and every join state.
 - `Production_Docs/YOUTUBE_16X9_RULES.md`: current framing and assembly rules.
-- `Prompts_16x9/`: legacy 312-part generation prompts; not the current 624-part package. Retained unchanged for history.
+- `Prompts_16x9/`: the newer 312-part 30-second edition described above; do not use it with the 624-part numbering.
 
 English reel masters, ready videos and Hindi versions remain unchanged.

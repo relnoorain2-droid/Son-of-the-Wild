@@ -1,66 +1,70 @@
-REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-V08_Frost_Powered.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V08_Frost_Powered/V08_Frost_Powered.png
-V12_Tommy_Adult.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V12_Tommy_Adult/V12_Tommy_Adult.png
-
-FROST: Son of the Wild
 PART 261 - "Unbreakable"
-Punch: WOW + FUN
-Status: ready - URL PACKAGE
+FROST: Son of the Wild
 
-REFERENCE IMAGES FOR THIS PART
-Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
-REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: S02_MarthaHayes_FULL.png, S03_HankMiller_FULL.png, V08_Frost_Powered.png, V12_Tommy_Adult.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
+REFERENCE IMAGES - PREPARE ABOVE THE COPY LINE
+Image 1 (required combined reference board): Reel_Corrected_261.jpg
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Hindi%20version%20youtube%20movie/Reference_Sheets/Reel_Corrected_261.jpg?v=reel-sync-20261026
+Download and inspect this board, then attach it as ONE image. Use the labels to map the panels. Optional image 2: the actual approved previous end frame, if available. Optional image 3: a face detail. At most three images total. No skill file is needed. Stop at the ------- separator.
 
-PROMPT TO PASTE IN DOLA
+PROMPT TO COPY AND PASTE (SEEDANCE 2.5)
+
+PART 261 - "Unbreakable"
 FORMAT: YOUTUBE 16:9
-EXACT 30-SECOND OUTPUT LOCK:
-This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
-Use active skill: Zakariya Seedance 2 5 30s YouTube 16x9
-Model: Seedance 2.5
-Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
-Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+Duration: exactly 30 seconds
+LANGUAGE: ENGLISH VOICES AND INSTRUCTIONS
+SPOKEN LANGUAGE: ENGLISH ONLY. Dialogue is already written in English. Speak only the exact words in SPOKEN ENGLISH below, once each. English shot instructions and labels are silent. Quoted text elsewhere is staging or context, never an additional line. No improvised narration, background warnings, repeated catchphrases or title reading. Use natural English lip-sync and comfortable pauses.
 
-YOUTUBE 16:9 FRAMING LOCK:
-Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
+SEPARATE GENERATION + REFERENCE MAPPING:
+This prompt is complete in a fresh chat. Attachment 1 is a labelled reference board:
+Panel 1: Village (L07_Village.png).
+Panel 2: Hank Miller (S03_HankMiller_FULL.png).
+Panel 3: Old Joe Whitaker (S04_OldJoeWhitaker_FULL.png).
+Panel 4: Frost - powered grown (V08_Frost_Powered.png).
+Read labels ABOVE panels. Create a fresh moving scene; never animate the collage, render panel labels, blend faces or put every panel character on screen. Location-panel background people are not additional cast. Image 2, if supplied, is an actual approved end frame; never claim one is attached when absent.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Do not change age, face shape, eye color or fur color. Reference mapping: V08_Frost_Powered.png -> Variant Frost_Powered; V12_Tommy_Adult.png -> Variant Tommy_Adult; S03_HankMiller_FULL.png -> Hank Miller; S02_MarthaHayes_FULL.png -> Martha Hayes.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
-FROST AGE LOCK: Frost is in his powered adult form here. Use only V08_Frost_Powered.png for present-day Frost; do not revert to baby, kid, teen, or unpowered adult Frost unless a memory is explicitly shown.
+REFERENCE COSTUME AND APPEARANCE:
+Preserve the face, age, hairstyle, outfit design, colors and established coverage of each character requested by this scene. Use realistic fabric, well-fitted tailoring and natural proportions. Match dirt, wetness, tears and accessories across a continuous scene. A style description does not add a person or change the written action.
 
-Evening, a big bonfire in a field outside Cedar Hollow, villagers watching.
-0–3s: Hank nervously lifts a heavy steel sledgehammer next to Frost's huge forearm.
-OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 260's final image: Frost lands in the middle of Main Street with a huge BOOM; a ring of dust and wind blows all of Martha's laundry away. Grown-up Sarah runs up laughing. Final frame: a pair of Hank's underwear landing on Frost's head. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
-DIALOGUE 1–4s: NARRATOR (cinematic story voice): "Now Unbreakable moves the story forward."
-3–12s: Frost nods. Hank swings the sledgehammer with all his strength into Frost's forearm. CLANG! The steel head bends and the wooden handle snaps in half, tiny blue sparks flashing on Frost's fur. Hank stares at the broken hammer.
-DIALOGUE 6–9s: Frost (deep young heroic voice): "Unbreakable is where I stand for my family."
-DIALOGUE 9–11s: Martha (warm Southern voice): "Nobody panics during Unbreakable while I am here."
-12–22s: Frost walks straight into the middle of a giant roaring bonfire and stands inside it. The villagers gasp. Flames surround him, but his fur doesn't burn; blue light protects his body.
-DIALOGUE 16–19s: Hank (rough kind villager voice): "Hold steady until Unbreakable passes."
-22–30s: He walks out of the fire completely unharmed. Martha hands him a stick with a marshmallow on it. He holds it near his own glowing arm and toasts it perfectly. Final frame: Frost eating a perfect golden marshmallow, villagers cheering.
-DIALOGUE 27–29s: Hank (rough kind villager voice): "Unbreakable needs work, not talk."
-SFX: a huge metal CLANG, a wooden handle snapping, tiny electric sparks, crackling bonfire, gasps, a deep fire roar, footsteps out of the flames, marshmallow sizzle, cheering.
-MUSIC: tense build-up, then a heroic and fun country-rock theme.
+PHOTOREALISM AND IDENTITY:
+Render a photorealistic live-action appearance, with physically believable fantasy creatures. Natural human skin pores, subtle facial asymmetry, real eye proportions, individual hair strands, realistic fabric and natural light. No cartoon, anime, doll face, plastic skin, game-avatar appearance, exaggerated eyes or painted textures. Medium shots keep faces readable; no extreme face close-ups or distorted wide-angle portraits. Match each person's own reference identity throughout the scene. Clothing changes only at a written change; retain mud, tears, wetness and props at each edit.
+Only characters explicitly acting in the local shot plan appear. A reference panel is an identity guide, not an instruction to add its person to the scene. Keep Rose, Grace and Martha distinct. Rose is a castle maid: only show her when locally required, concealed at a side doorway or pillar, never roaming into bedrooms or interrupting every scene. Only the English dialogue section authorizes speech. Background figures never borrow another person's dialogue.
+Only when the local shots include Frost, show exactly one at the written age stage. Never introduce him before birth or into scenes where he is absent. His father's Bigfoot genes explain his accelerated growth; age changes only at written time passages. Keep upright Bigfoot anatomy, broad hands and feet, snow-white fur and blue eyes. No dog muzzle, paws, tail, human replacement, baby with grown-up proportions or extra child. When requested, Bruno remains the black-furred Bigfoot with his own identity. His later spirit is not a living resurrection.
 
-SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 262 - "The People Will Rise": a worried look, mysterious sound, shadow, reveal, unfinished question, or danger approaching. Keep the hook consistent with this part's final frame and do not add random new characters.
+OPENING HANDOFF IN:
+Previous completed event, context only: Tommy laughs as Frost returns the cloth to its line, keeping the practice brief.
+First local action: Frost returns the cloth after his short flight.
+Preserve pose, eyeline, camera side, carried objects, damage and wetness for a same-scene join. Follow explicit local time/location changes; establish the new setting without replaying completed events. A written memory is clearly a memory, not a second birth, resurrection, first meeting or repeated attack.
 
-GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural American English, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+IDENTITY AND POWER:
+Frost is an grown white Bigfoot with blue eyes, upright humanoid limbs and broad hands and feet; never a dog, bear, human in a suit or cartoon. Use V08 for his exact powered markings, face and grown proportions. Part 254 explicitly transitions from C05 to V08 after all trials. From Part 255 onward the powered appearance remains consistent, even when its glow dims. No new costume, species or age changes.
+Lily remains the same young mother matching V04, not pregnant or elderly. Tommy and Sarah remain reference-aged children across this batch and stay with guarded rear helpers during the battle; grown volunteers handle tunnel infiltration and fighting. Martha, Hank, Joe and Rose each keep their reference faces. Grace appears only in Part 265 at her old home.
+Bruno is dead; V09 is a distinct translucent spirit, never a resurrected body. Orin is his separate elder father matching C06. Energy flows Orin into Bruno, then Bruno into Frost. Part 254 completes the gift prepared earlier, not a different source of power. Spirits fade after the written scene and do not become living army members.
+Old Scar matches K08; its scar is a subtle healed detail, not a new creature design. Animal mouths remain natural; communication is through feeling, not human lip-synced words.
 
-YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
-Part 261 | Sledgehammers break on him... fire can't burn him... and he toasts marshmallows on his arm 😂🔥 #Bigfoot #Movie #Part261
+CAMERA, ACTION AND SOUND:
+Wide and medium-wide shots establish geography before movement or contact. Medium shots keep reference faces recognizable without extreme close-ups. Keep heads, hands, feet and key props inside landscape safe margins. Preserve screen direction, physical distances, current injuries, clothes and carried objects across cuts. Sounds follow the scene: water near water, footsteps on matching surfaces, restrained impacts in combat, wind outdoors, horns or animal calls only when written. Music supports mood beneath dialogue and effects. Practice scenes show safe cleared areas; battle scenes keep families behind cover.
 
-DOLA STATUS
-[ ] Images uploaded
-[ ] Prompt pasted
-[ ] Video generated
-[ ] Downloaded
-[ ] Needs revision
+CONTINUITY AND COUNTS:
+Time passes only where the plan states. Before the final battle do not show the king defeated. In the castle stable sequence there are three outer small dragons and three inner small dragons, six total once released. The mammoth charge uses one lead plus two additional mammoths, three total. Part 279 has exactly six dark Bigfoots and one T-rex. The great red dragon is a single consistent K02 creature with Magnus in a secured neck saddle, never another duplicate. Chains and the red crystal are separate controls: physical release does not instantly break all magic. Frost's brief setback in Part 285 is followed by recovery in Part 288, without a second awakening from rubble. The names room is discovered once in Part 287; later scenes handle its evidence. End on the final written image without a recap or unrelated copied cliffhanger.
 
-NOTES
+NEGATIVE:
+No subtitles, captions, logos, watermarks, random text, cartoon/anime or plastic faces, face swaps, extra limbs, duplicate children, dog-looking Bigfoot, gore, premature powers or unrequested speech. No baby Frost or sudden human aging. Keep spirit visions clearly separate from real geography.
+
+SHOT PLAN:
+0-5s: Frost returns the cloth after his short flight.
+5-11s: Hank asks about his changed resilience, holding a sledgehammer only as a question, not striking him.
+11-17s: Frost tests a light falling stone on his forearm and shows it leaves no injury.
+17-24s: Joe warns that protecting people still requires judgment rather than stunt tests.
+24-30s: They share roasted marshmallows at a small fire; no fire poured over bodies.
+
+SPOKEN ENGLISH:
+Joe: "Being hard to hurt does not mean others are safe around every risk."
+
+VOICE DELIVERY:
+Joe: older textured English male voice, conversational and distinct from Orin
+Keep a stable approved voice preset per character when available. Deliver each line in the corresponding action pause; visible speakers lip-sync, and a narrator remains off-screen. Do not fill quiet or action scenes with dialogue. Finish speech before the edit; avoid overlapping voices.
+
+ENDING HANDOFF OUT:
+Complete this local event: They share roasted marshmallows at a small fire; no fire poured over bodies.
+Next opening, context only: Frost leaves the village practice area for an allied gathering.
+Keep the final pose readable with natural movement, not a freeze or repeated loop. Do not begin the next scene. Same-scene ambience continues without a new music introduction. Use the full 0-30s timeline with purposeful action and reactions.
