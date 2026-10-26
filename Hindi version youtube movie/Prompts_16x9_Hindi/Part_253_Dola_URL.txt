@@ -24,12 +24,10 @@ Panel 5: Lily - young mother (V04_Lily_VillageMom.png).
 Panel 6: Bruno - spirit only (V09_Bruno_Spirit.png).
 Read labels ABOVE panels. Create a fresh moving scene; never animate the collage, render panel labels, blend faces or put every panel character on screen. Location-panel background people are not additional cast. Image 2, if supplied, is an actual approved end frame; never claim one is attached when absent.
 
-ADULT WARDROBE AND DISTINCT IDENTITIES:
-Use glamorous, flattering costume tailoring and rich, realistic fabrics for adult human women. Preserve every woman's own reference face, age, body proportions, hair color and role; do not give everyone the same face or make older women look young. Children retain their original age-appropriate clothes.
-Young-mother Lily: preserve her red-and-black flannel, jeans and practical boots, using a neatly tailored shirt over an opaque fitted blue top, coordinated fabric and a softly pinned hairstyle. Her practical clothes should read as attractive costume design rather than baggy generic clothing. Preserve established damage, wetness and any scene-specific jacket or recovery blanket.
-Wardrobe descriptions here control adult outfit styling; the board locks identity and age. All clothing is opaque and fully lined. Keep framing on faces, dialogue and story action. Do not add undressing or intimate actions. In a continuous scene retain the same outfit, accessories, hair arrangement and fabric damage from the approved handoff frame. Introduce a new outfit only at a stated new day, ceremony, celebration or motivated change. Apply a listed costume only if that adult is actually present in the local shots.
-
-REFERENCE COSTUME PRIORITY: Keep the established reference outfit, color, neckline and coverage. The styling descriptions above refine fit and fabric finish only; they do not authorize a different dress. For adult Lily, preserve her attractive natural features with soft romantic lighting, flattering tailoring, gentle expressions and the shoulders/collarbone visible in her approved outfit. Keep natural body proportions and opaque fabrics. Keep existing consensual affection where the local story asks for it. The royal first-night scene remains suspenseful and leads to her escape before consummation. Styling does not add romantic actions to that fearful scene.
+REFERENCE COSTUME AND APPEARANCE:
+Preserve the face, age, hairstyle, outfit design, colors and established coverage of each character requested by this scene. Use realistic fabric, well-fitted tailoring and natural proportions. Match dirt, wetness, tears and accessories across a continuous scene. A style description does not add a person or change the written action.
+Lily Carter is a 23-year-old woman with the same reference face and honey-blonde hair. Keep her elegant, attractive film-star appearance through flattering fit, natural grooming, expressive eyes and realistic light appropriate to the setting. Preserve the approved neckline and any shoulders visible in that outfit, with opaque fabric and the same silhouette. Show emotion through face, posture and story action; retain exhaustion, dirt or injuries when written.
+Use the local young-mother or celebration outfit from the approved reference and prior accepted frame. A future or past costume panel never changes her current outfit mid-shot.
 
 PHOTOREALISM AND IDENTITY:
 Render a photorealistic live-action appearance, with physically believable fantasy creatures. Natural human skin pores, subtle facial asymmetry, real eye proportions, individual hair strands, realistic fabric and natural light. No cartoon, anime, doll face, plastic skin, game-avatar appearance, exaggerated eyes or painted textures. Medium shots keep faces readable; no extreme face close-ups or distorted wide-angle portraits. Match each person's own reference identity throughout the scene. Clothing changes only at a written change; retain mud, tears, wetness and props at each edit.
@@ -64,10 +62,10 @@ SHOT PLAN:
 24-30s: End with grandfather above father, Frost below and Lily beside the stones.
 
 SPOKEN HINDI:
-Frost: "पिताजी, आपने जिसे बचाया, उसे समझने की कोशिश की है।"
+Frost: "पिताजी, मैंने समझने की कोशिश की है कि आप किसकी रक्षा कर रहे थे।"
 
 VOICE DELIVERY:
-Frost: age-appropriate Hindi voice; child/teen where written, deep heroic male only as adult
+Frost: deep heroic male voice, natural Hindi, appropriate to this scene
 Keep a stable approved voice preset per character when available. Deliver each line in the corresponding action pause, with only its speaker lip-syncing. Do not fill quiet or action scenes with dialogue. Finish speech before the edit; avoid overlapping voices.
 
 ENDING HANDOFF OUT:

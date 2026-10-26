@@ -101,6 +101,13 @@ def prepare_parts():
             value = re.sub(r'(?m)^FORMAT:.*$|^VIDEO LENGTH:.*$', '', value)
             if key == 'SCENE' and number == 29:
                 value = 'Rose warns Lily from outside her doorway after Damian leaves; Lily listens from inside.'
+            if number < 86:
+                value = re.sub(r'(?m)^From Part 086 onward the main force.*\n?', '', value)
+            if 68 <= number <= 80:
+                value = value.replace(
+                    "At Part 067's peaceful-days passage, explicitly show her changing from her damaged wedding dress into the forest-reference outfit and replacing her lost shoe with simple matching footwear.",
+                    'The change from her damaged wedding gown to these forest clothes and replacement footwear has already happened. Do not replay it.'
+                )
             if value.strip():
                 extras.append(key + ':\n' + landscape(value.strip()))
         # Part 031 has important unheaded cast restrictions before OPENING.
@@ -110,24 +117,86 @@ def prepare_parts():
                       'references':refs, 'context':'\n\n'.join(extras), 'source_sha256':hashlib.sha256(block.encode()).hexdigest()})
     return parts
 
-def voice(speaker):
+def voice(speaker, part):
     key = speaker.lower()
-    if 'frost' in key: return 'Frost: age-appropriate Hindi voice; child/teen where written, deep heroic male only as adult'
+    if 'frost' in key:
+        stage = ('gentle boy voice' if part['number'] < 170 else
+                 'youthful teenage boy voice' if part['number'] < 184 else 'deep heroic male voice')
+        return f'Frost: {stage}, natural Hindi, appropriate to this scene'
     if 'bruno' in key: return 'Bruno: deep, warm, restrained Hindi bass voice'
     if 'lily' in key: return 'Lily: natural young adult Hindi female voice'
     if 'magnus' in key: return 'Magnus: older commanding Hindi bass-baritone'
     if 'damian' in key: return 'Damian: smooth controlled young adult Hindi male voice'
     if 'narrator' in key: return 'Narrator: restrained cinematic Hindi male voice'
+    for name, description in (
+        ('martha', 'warm mature Hindi female voice'),
+        ('grace', 'caring mature Hindi female voice'),
+        ('rose', 'quiet older Hindi female voice'),
+        ('orin', 'ancient resonant Hindi male voice, measured and wise'),
+        ('joe', 'older textured Hindi male voice, conversational and distinct from Orin'),
+        ('hank', 'grounded middle-aged Hindi male voice'),
+        ('vex', 'clipped commanding Hindi male voice'),
+        ('sarah', 'natural young Hindi girl voice'),
+        ('tommy', 'natural young Hindi boy voice'),
+    ):
+        if name in key:
+            return re.sub(r'\([^)]*\)', '', speaker).strip() + ': ' + description
     return re.sub(r'\([^)]*\)', '', speaker).strip() + ': distinct natural Hindi voice matching reference age and character'
+
+def local_costume(part):
+    """Describe only the relevant reference outfits, without global scene imports."""
+    n = part['number']
+    refs = part['references']
+    result = [
+        'REFERENCE COSTUME AND APPEARANCE:',
+        'Preserve the face, age, hairstyle, outfit design, colors and established coverage of each character requested by this scene. '
+        'Use realistic fabric, well-fitted tailoring and natural proportions. Match dirt, wetness, tears and accessories across a continuous scene. '
+        'A style description does not add a person or change the written action.',
+    ]
+    if any(re.search(r'/(?:C01_Lily|V0[1-4]_Lily_)', r) for r in refs):
+        result.append(
+            'Lily Carter is a 23-year-old woman with the same reference face and honey-blonde hair. '
+            'Keep her elegant, attractive film-star appearance through flattering fit, natural grooming, '
+            'expressive eyes and realistic light appropriate to the setting. Preserve the approved neckline '
+            'and any shoulders visible in that outfit, with opaque fabric and the same silhouette. '
+            'Show emotion through face, posture and story action; retain exhaustion, dirt or injuries when written.'
+        )
+        if 31 <= n <= 50 and any('/V01_Lily_Wedding/' in r for r in refs):
+            result.append('Lily retains her cream-ivory wedding gown during this escape, with the existing mud, torn hem and missing shoe where written. A clean portrait does not reset these details.')
+        elif n <= 80 and any('/V02_Lily_Forest/' in r for r in refs):
+            result.append('Retain the same approved blue forest dress in connected scenes. The established change out of the wedding gown happens once at the written time passage; do not switch clothes between connected shots. Warm firelight may softly flatter her face when the setting supports it.')
+        elif 75 <= n <= 126:
+            result.append('Use the exact local pregnancy stage: the early uncertainty is not a late-pregnancy belly. Later pregnancy, labor and memories follow their local timeline and reference outfit. Keep the same youthful face; use practical layers where written.')
+        else:
+            result.append('Use the local young-mother or celebration outfit from the approved reference and prior accepted frame. A future or past costume panel never changes her current outfit mid-shot.')
+        if n in (62, 66, 74, 76, 77, 78):
+            result.append('Use warm cinematic light and restrained chemistry for the written mutual affection. Follow only the local gestures, retaining the same clothes and recognizable faces throughout.')
+    if any('/S11_Rose/' in r for r in refs):
+        result.append('Rose retains her older face, grey hair, maid cap, black dress and white apron. She appears or speaks only when requested in this local scene.')
+    if any('/S02_MarthaHayes/' in r for r in refs):
+        result.append('Martha retains her own older face, glasses, white curls and reference clothes. She is distinct from Rose and Grace.')
+    return '\n'.join(result) + '\n\n'
+
 
 def main():
     parts = prepare_parts()
     old = json.loads(MANIFEST.read_text(encoding='utf-8'))
+    first_update = 31
+    protected = {}
+    for record in old['records'][:first_update-1]:
+        path = PACKAGE/'Prompts_16x9_Hindi'/f"Part_{record['part']:03}_Dola_URL.txt"
+        protected[path.relative_to(PACKAGE).as_posix()] = hashlib.sha256(path.read_bytes()).hexdigest()
+        board_path = PACKAGE/record['reference_board']
+        protected[record['reference_board']] = hashlib.sha256(board_path.read_bytes()).hexdigest()
     # Reuse a matching office board exactly; otherwise use the same labelled layout.
     available = {tuple(p['source'] for p in r['panels']): (PACKAGE/r['reference_board'],r['panels']) for r in old['records']}
     cache, records, prompts = {}, [], []
     for i,part in enumerate(parts):
         n = part['number']
+        if n < first_update:
+            records.append(old['records'][i])
+            prompts.append((PACKAGE/'Prompts_16x9_Hindi'/f'Part_{n:03}_Dola_URL.txt').read_text(encoding='utf-8').strip())
+            continue
         refs = tuple(sorted(set(part['references'])))
         for relative in refs: assert (ROOT/relative).is_file(), relative
         if refs not in cache:
@@ -140,7 +209,7 @@ def main():
         target,panels = cache[refs]
         url = boards.RAW + quote(target.relative_to(ROOT).as_posix(),safe='/') + '?v=reel-sync-20261026'
         mapping = '\n'.join(f"Panel {p['panel']}: {p['name']} ({Path(p['source']).name})." for p in panels)
-        previous = parts[i-1]['shots'][-1][2] if i else None
+        previous = records[-1]['local_shots'][-1][2] if records else None
         following = parts[i+1]['shots'][0][2] if i<311 else None
         opening = f'Previous completed event, context only: {previous}\n' if previous else 'Movie opening: no prior frame.\n'
         opening += f"First local action: {part['shots'][0][2]}\n"
@@ -148,15 +217,8 @@ def main():
         ending += f'Next opening, context only: {following}' if following else 'Final movie closure. No next-part hook or new threat.'
         shots = '\n'.join(f'{a}-{b}s: {action}' for a,b,action in part['shots'])
         spoken = '\n'.join(f'{speaker}: "{words}"' for speaker,words in part['lines']) or 'No dialogue or narration. Breathing, motivated effects and score only; no speaking mouth movements.'
-        voices = '\n'.join(dict.fromkeys(voice(s) for s,_ in part['lines']))
-        wardrobe = boards.wardrobe_text({'number':n,'references':list(refs)})
-        wardrobe += ('REFERENCE COSTUME PRIORITY: Keep the established reference outfit, color, neckline and coverage. '
-                     'The styling descriptions above refine fit and fabric finish only; they do not authorize a different dress. '
-                     'For adult Lily, preserve her attractive natural features with soft romantic lighting, flattering tailoring, '
-                     'gentle expressions and the shoulders/collarbone visible in her approved outfit. '
-                     'Keep natural body proportions and opaque fabrics. '
-                     'Keep existing consensual affection where the local story asks for it. The royal first-night scene remains '
-                     'suspenseful and leads to her escape before consummation. Styling does not add romantic actions to that fearful scene.\n\n')
+        voices = '\n'.join(dict.fromkeys(voice(s,part) for s,_ in part['lines']))
+        wardrobe = local_costume(part)
         bride = ('BRIDE IDENTITY: Before Lily arrives, the bride is ONLY the red-haired third adult woman from the left in S09_Brides_FULL.png. Preserve her face, braid and ivory gown across Parts 002-015. She is not Lily. Other women in that panel are not extra wives.\n\n' if 2<=n<=15 else '')
         special = ('LOCAL CAST EXCLUSION: Rose is absent, with no off-screen warning or substitute older woman.\n\n' if n in (2,6,11) else '')
         text = (f'PART {n:03} - "{part["title"]}"\nFROST: Son of the Wild\n\n'
@@ -194,11 +256,13 @@ def main():
                         'source_sha256':part['source_sha256']})
         if n%50==0: print(f'Prepared {n}/312 Hindi prompts',flush=True)
     COMBINED.write_text('\n\n-------\n\n'.join(prompts)+'\n',encoding='utf-8')
-    report = {'date':'2026-10-26','source':'ZDola_Combined_Prompts/English_9x16_ALL_312_CLEAN.txt',
+    report = {'date':'2026-10-27','source':'ZDola_Combined_Prompts/English_9x16_ALL_312_CLEAN.txt',
               'source_sha256':hashlib.sha256(SOURCE.read_bytes()).hexdigest(),'office_base_commit':'20c3602',
               'parts':312,'aspect_ratio':'16:9','duration_seconds_per_part':30,
               'required_images_per_part':1,'maximum_images_per_request':3,
-              'unique_labelled_reference_sheets':len(cache),'speech_language':'Hindi','speech_script':'Devanagari',
+              'unique_labelled_reference_sheets':len({r['reference_board'] for r in records}),'speech_language':'Hindi','speech_script':'Devanagari',
+              'reviewed_parts':[31,312], 'completed_parts_preserved':[1,30],
+              'protected_files_sha256':protected,
               'runtime_dialogue_translation_required':False,'method':'Corrected Reels scenes and identities, authored Hindi adaptation, office combined-board workflow. No video renders verified.',
               'records':records}
     MANIFEST.write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
@@ -213,6 +277,8 @@ def validate():
     blocks=re.split(r'\n\n-------\n\n',COMBINED.read_text(encoding='utf-8').strip())
     assert len(blocks)==312
     utterances=[]
+    for relative,expected in report.get('protected_files_sha256',{}).items():
+        assert hashlib.sha256((PACKAGE/relative).read_bytes()).hexdigest()==expected, relative
     for i,r in enumerate(parts):
         n=i+1; text=(PACKAGE/'Prompts_16x9_Hindi'/f'Part_{n:03}_Dola_URL.txt').read_text(encoding='utf-8')
         assert text.strip()==blocks[i]
@@ -220,6 +286,9 @@ def validate():
         assert len(URL.findall(prep))==1 and not URL.search(body)
         assert not re.search(r'9:16|cinematic 3D animation|Unreal Engine|DOLA STATUS|AFTER DOWNLOAD',body)
         assert 'FORMAT: YOUTUBE 16:9' in body and 'Duration: exactly 30 seconds' in body
+        if n>=31:
+            assert 'REFERENCE COSTUME AND APPEARANCE:' in body
+            assert not re.search(r'consummation|royal first-night|ADULT WARDROBE|glamorous, flattering costume',body)
         cursor=0
         for a,b,action in r['local_shots']:
             assert a==cursor and a<b<=30,(n,a,b,cursor)

@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "source": "ZDola_Combined_Prompts/English_9x16_ALL_312_CLEAN.txt",
   "source_sha256": "85e0a5445b52f65c7c3a03a826e3558f22de51fd16f5e355c6347656a389389e",
   "office_base_commit": "20c3602",
@@ -11,6 +11,74 @@
   "unique_labelled_reference_sheets": 232,
   "speech_language": "Hindi",
   "speech_script": "Devanagari",
+  "reviewed_parts": [
+    31,
+    312
+  ],
+  "completed_parts_preserved": [
+    1,
+    30
+  ],
+  "protected_files_sha256": {
+    "Prompts_16x9_Hindi/Part_001_Dola_URL.txt": "0b664fdd39d4fec1b75d5cf7acabcae6416c964f9b8bf978ff9c235c653c3b73",
+    "Reference_Sheets/Reel_Corrected_001.jpg": "b8102ceeb03eea43f54cc7914795743da4ad9cfac0e278fa521ff20a0c7b41ed",
+    "Prompts_16x9_Hindi/Part_002_Dola_URL.txt": "b6ab2940437861c312b7246500e15e5ddae55e8c071dcd4eae78d40266497b86",
+    "Reference_Sheets/Reel_Corrected_002.jpg": "bf4957fa5c6ff8a1c8eb2a56bd7f5c6849b8705be3b2b833f30813f0005fbf82",
+    "Prompts_16x9_Hindi/Part_003_Dola_URL.txt": "37347d846f9c03ed6ed5e43d4b644a30db4f9f2c8b4a7e3d94dd577ae7c83919",
+    "Reference_Sheets/Reel_Corrected_003.jpg": "4889cbbb4b829127c0ab7e0f35cda25b542ac22835bf47d24b009fc79e5df0f3",
+    "Prompts_16x9_Hindi/Part_004_Dola_URL.txt": "99f913fa8ee6dd7be14e48d33365a12a4463afc9e9d747485638fe2b4b7be320",
+    "Reference_Sheets/Reel_Corrected_004.jpg": "4f727338dae201588a4b6455c36e29d671b2e5c29d8db51831a93f57e0ce907a",
+    "Prompts_16x9_Hindi/Part_005_Dola_URL.txt": "9d3f49b16878b106038926650484b27e8cb7e41722b9acc1d424ee9c1b6e2377",
+    "Prompts_16x9_Hindi/Part_006_Dola_URL.txt": "ff6f2ddc0a35d954ac0af84d216ad805f330a2e2bd698010d153377a6fa525fb",
+    "Reference_Sheets/Reel_Corrected_006.jpg": "df739d6e3e8a629fd577467b8a3185f88a0abe90e923cd73e467ee0d536d10bd",
+    "Prompts_16x9_Hindi/Part_007_Dola_URL.txt": "4f0ae1e1704cc4496aa3f388dcc65bc0d5097c370e3d01a0b7c866a5fa604273",
+    "Reference_Sheets/Reel_Corrected_007.jpg": "80a895b05d7b6f242552422782ba899c3cbeda8a4c3daa2c6dedaa18273714ae",
+    "Prompts_16x9_Hindi/Part_008_Dola_URL.txt": "c7a230f9c86b6b884eaa62d5a168c7ad700079c3ab85372e7a69ae3be4ced24f",
+    "Reference_Sheets/Reel_Corrected_008.jpg": "c57a5e61f9f6a88c305e9b5acf933846e6ace53b51f312cc1b5364ffec3aac01",
+    "Prompts_16x9_Hindi/Part_009_Dola_URL.txt": "309bbf3a3318e6554811312f9637bc7349b64510c6700bb97df8d6483832dc29",
+    "Reference_Sheets/Reel_Corrected_009.jpg": "e3a4a28bcfb306d37c9227f1bda63774e746ce864a1ad98ff252ccbe2c3f19e1",
+    "Prompts_16x9_Hindi/Part_010_Dola_URL.txt": "c00d0e94894f6721f419948b300998f574af1d2bd1f4b08ecec662fff0ec0ff9",
+    "Reference_Sheets/Reel_Corrected_010.jpg": "cb4189cb063824d6922e59a55ab679f893c8cad51b963707e3494290f2a5d372",
+    "Prompts_16x9_Hindi/Part_011_Dola_URL.txt": "862d337086a8f70c49801bd6f64fb9500e535a2147ff72194833165383432195",
+    "Reference_Sheets/Reel_Corrected_011.jpg": "8b40363b1f10599524beedf8d7846a6404649ba6019c64f871f1b66d6a1e03b6",
+    "Prompts_16x9_Hindi/Part_012_Dola_URL.txt": "53abad2ed8073374d4d23b874eb1976a7f6c4df2c987e91a97a18669e8693ffb",
+    "Reference_Sheets/Reel_Corrected_012.jpg": "4c77e1dd0bd1231726a42b068716034751e3f91d35f3232cf71588f7067694d4",
+    "Prompts_16x9_Hindi/Part_013_Dola_URL.txt": "8c065a3868b16a35e382d2dcd6d60a07e5f0769ae77c6ba2fbd216bb6e85f4bc",
+    "Reference_Sheets/Reel_Corrected_013.jpg": "aec3bb2c948282033ec6076aafbacc7fbc4166da6c0fbf13f08e59fc10dc9e45",
+    "Prompts_16x9_Hindi/Part_014_Dola_URL.txt": "96e3b94880e3c6a1126a9a4020f9c14397664f93b2c53afbcb16c377815cff42",
+    "Reference_Sheets/Reel_Corrected_014.jpg": "8eba7fc5c00278c1ff238dd4f3f3031c20a93e54dd9a7aee0f3a3607de377790",
+    "Prompts_16x9_Hindi/Part_015_Dola_URL.txt": "3cf1847a10a902f390cf47b46c3d34ef163e9c244ffddb439bfbe8cd7777ded4",
+    "Reference_Sheets/Reel_Corrected_015.jpg": "1d74aad9f298e7c729a2e01491a42ace3be12f463b20f815edbac353b32e51a8",
+    "Prompts_16x9_Hindi/Part_016_Dola_URL.txt": "58bad89077f57e73d2ef5bd1297971027ff2b447f691ea430dd8718545c69789",
+    "Reference_Sheets/Reel_Corrected_016.jpg": "5d491ba894402ec97464a3c602720bd33546b7f4a2f9408a18fd848214b826fa",
+    "Prompts_16x9_Hindi/Part_017_Dola_URL.txt": "7f714b0fd0c31092ef52c8f45e83c04f5c6bd380b3a316cb15c6e297acf696a2",
+    "Reference_Sheets/Reel_Corrected_017.jpg": "e0b78400e0d0d0c3a0e253cf4ba46a71b33836249a89573f64d1836b798716ef",
+    "Prompts_16x9_Hindi/Part_018_Dola_URL.txt": "1d55795506d2966e3c22f804d206fc29362851e9aa050e868ea778863acc0879",
+    "Reference_Sheets/Reel_Corrected_018.jpg": "e47436e514b480928dffebcd6583a42a013f0f2f8af53ea9f5ba6bc864474116",
+    "Prompts_16x9_Hindi/Part_019_Dola_URL.txt": "3a9fecf84b386fab8b0142e995fe0016d1042fca8a50db4cb6a9b076bb55c3ca",
+    "Reference_Sheets/Reel_Corrected_019.jpg": "df2e0d38723b45d5c2128b482eee84cea42572da053a5588ef0fd56c06044c8c",
+    "Prompts_16x9_Hindi/Part_020_Dola_URL.txt": "4636a3e711abf64f8db004be6ee276ad8609cb36768f7ec208d378f88bf9c40c",
+    "Reference_Sheets/Reel_Corrected_020.jpg": "a07fd8e5d2986ed1948fc7f60cb710f05d161de9a65b09923d64065ecb070e3f",
+    "Prompts_16x9_Hindi/Part_021_Dola_URL.txt": "521d3c12110d356f680b7e20d57b1d073c1cec0b4a4c8757be7745310952eca5",
+    "Reference_Sheets/Reel_Corrected_021.jpg": "57f774025df800f5dcd2de496ca8178a0e49cc2b99e323ef07c5699abe9431f7",
+    "Prompts_16x9_Hindi/Part_022_Dola_URL.txt": "5b46a7f9511bc02b5caca3ea6c8ce6e8ed8446003e979ba3c869311606096d5f",
+    "Reference_Sheets/Reel_Corrected_022.jpg": "a12452170f4858245d8079110571ace6f5c8dd7efaa7df70a59ba06f3426a23c",
+    "Prompts_16x9_Hindi/Part_023_Dola_URL.txt": "72d69b823e19b303b62388ffb7da57a47303c4a0da6ed7156f83664409c04d26",
+    "Reference_Sheets/Reel_Corrected_023.jpg": "ffa68b3f89a5f745e8a4ac8a67b184c53d292192a86c8434ae04dbb10a0a4d80",
+    "Prompts_16x9_Hindi/Part_024_Dola_URL.txt": "65668f52f054731e750520f301735e53ff5fe93defe0ac936e597167913ae678",
+    "Reference_Sheets/Reel_Corrected_024.jpg": "95b19a450f86f6e481e5c4426aba5366710735e9f922bb5a3413262a1d6f09bc",
+    "Prompts_16x9_Hindi/Part_025_Dola_URL.txt": "ffb1e29714822dbcd3e64868b22b9676e20a77fdbfd4081a4c7440661bbe1d12",
+    "Reference_Sheets/Reel_Corrected_025.jpg": "b279f138c1d87685cb8e078e5dcff85d1617943ac2b7aa83081269d1f102dc00",
+    "Prompts_16x9_Hindi/Part_026_Dola_URL.txt": "8d50d915a0ccb318682abe394b69d15f098a09980dc8d4e60e9ff634ecf2ddbf",
+    "Reference_Sheets/Reel_Corrected_026.jpg": "448154ec5f7d02c6b3147b5312d362d5a79606a86ad2d0cf281e608c0454b9f0",
+    "Prompts_16x9_Hindi/Part_027_Dola_URL.txt": "4b317799fae2f5f7c53eca26f10c9ce3dc7f9bfea1ee87e4cfb2b3ff790b4919",
+    "Reference_Sheets/Reel_Corrected_027.jpg": "d5e8b7cf72bd5a1a18962d12c255e8fd8addf91c7dfc413b05863868cb711da1",
+    "Prompts_16x9_Hindi/Part_028_Dola_URL.txt": "d5421be93508405f3f4944ca6dcdad73cfbe225ab66fd9df06bd3b3bbc87af13",
+    "Reference_Sheets/Reel_Corrected_028.jpg": "9df63adac008e339cd818556603af8dd6ef441195a884006436d7882e30338b9",
+    "Prompts_16x9_Hindi/Part_029_Dola_URL.txt": "d60ffd2ce7d494896dbd1afec360710e86f49561b9c7745dca525aa0136743e4",
+    "Prompts_16x9_Hindi/Part_030_Dola_URL.txt": "de4cce12243305c6f73e7f824db9aa446103eefb5a381499e446cf36d9fe377c",
+    "Reference_Sheets/Reel_Corrected_030.jpg": "4701ef04903f162f8a8485ca2112980d8432e73057fdb5e07cc1764760c246f5"
+  },
   "runtime_dialogue_translation_required": false,
   "method": "Corrected Reels scenes and identities, authored Hindi adaptation, office combined-board workflow. No video renders verified.",
   "records": [
@@ -2721,7 +2789,7 @@
       "spoken_hindi": [
         [
           "Lily at 15-18s, softly",
-          "माँ जानतीं कि कौन-से खाने लायक हैं।"
+          "माँ को पता होता कि इनमें से कौन-से खाने लायक हैं।"
         ]
       ],
       "source_sha256": "5996d16abe7fb4e8b9ec95d6a24b5c2c7e025cac9d2ca30bb5e34aa7cec82789"
@@ -2788,7 +2856,7 @@
       "spoken_hindi": [
         [
           "Guard at 22-25s",
-          "कप्तान। शादी के कपड़े का रेशम।"
+          "कप्तान, यह शादी के जोड़े का रेशम है।"
         ]
       ],
       "source_sha256": "b3554e933afa6c9d70c80f37b8f1467ae9403523acbca52396afe9f8c517b6a4"
@@ -2855,7 +2923,7 @@
       "spoken_hindi": [
         [
           "Vex at 5-8s",
-          "वह पानी पार कर गई। किनारे पर खोजो।"
+          "वह पानी पार कर गई है। किनारे पर खोजो।"
         ]
       ],
       "source_sha256": "29b55b0b003c6b655ab539a58b411cc0b11cc3614bef5dfc1ad6ea670be2ed8b"
@@ -3297,7 +3365,7 @@
         ],
         [
           "Bruno",
-          "हाँ। पानी के उस पार आश्रय है।"
+          "हाँ। पानी के उस पार एक सुरक्षित जगह है।"
         ]
       ],
       "source_sha256": "5ad8a04a32f015c1a51513481bee5a0818c4a68c69eb8e9df2a807dd186c4c31"
@@ -3497,11 +3565,11 @@
       "spoken_hindi": [
         [
           "Lily",
-          "वे सबसे पहले मेरी माँ के घर खोजेंगे।"
+          "वे सबसे पहले मेरी माँ के घर तलाश करेंगे।"
         ],
         [
           "Bruno",
-          "तब सुरक्षित होने तक यहीं रहो।"
+          "जब तक खतरा टल न जाए, यहीं रहो।"
         ]
       ],
       "source_sha256": "de29b79b65fbe5addfb219e3b0bfe0d1d788f3e680a8c65f1fecaa7e2782d62d"
@@ -3696,11 +3764,11 @@
       "spoken_hindi": [
         [
           "Bruno",
-          "इन्हें खाने से पेट दुखेगा।"
+          "इन्हें खाने से पेट में दर्द होगा।"
         ],
         [
           "Lily",
-          "इतना सब तोड़ने से पहले बता देते।"
+          "इतने सारे तोड़ने से पहले बता देते।"
         ]
       ],
       "source_sha256": "5f0b2419fad2d153cbe93d1588530ef82a115bbc9da46fe185bb43f0511b6533"
@@ -3898,7 +3966,7 @@
         ],
         [
           "Bruno",
-          "तो लिली के लिए और बेर।"
+          "तो लिली के हिस्से में और बेर आएँगे।"
         ]
       ],
       "source_sha256": "6a63c70eaf0c64d1652a71f9ad454196252624e1269edcd7d309a41ceb20bc9d"
@@ -4165,7 +4233,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "उतरने की थोड़ी और कोशिश करनी पड़ेगी।"
+          "तुम्हें ठीक से उतरना अभी सीखना पड़ेगा।"
         ]
       ],
       "source_sha256": "a8878364e48fbe18572de0fcd38af44d9e4a7f6382c3067741d7bdb8945774dc"
@@ -4910,7 +4978,7 @@
       "spoken_hindi": [
         [
           "Bruno",
-          "यहाँ का हर रास्ता जानता था। किसी के अंत में मेरा इंतज़ार नहीं था।"
+          "यहाँ का हर रास्ता जानता था, पर कहीं कोई मेरा इंतज़ार नहीं करता था।"
         ]
       ],
       "source_sha256": "ad13c3ba1204f361d51822c1baa4556964155ca845051e3a381115daed40b934"
@@ -4972,7 +5040,7 @@
       "spoken_hindi": [
         [
           "Bruno",
-          "छोटे से नाश्ते के लिए छोटी-सी माफी।"
+          "इतना-सा नाश्ता ला पाया। माफ करना।"
         ],
         [
           "Lily",
@@ -5043,7 +5111,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "एक-एक कदम। कोई दौड़ नहीं है।"
+          "धीरे-धीरे कदम बढ़ाओ। हम दौड़ नहीं लगा रहे।"
         ]
       ],
       "source_sha256": "7b56a5c9ed9e87b067ab94783d1367e4629bff16ea00cb17ae7762f79a7119b2"
@@ -5224,7 +5292,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "ऐसे बारिश में जाने से पहले बता दिया करो।"
+          "इस तरह बारिश में जाने से पहले बता दिया करो।"
         ],
         [
           "Bruno",
@@ -5432,7 +5500,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "जब तक समझ न आए, मेरे पास रहो।"
+          "जब तक समझ न आए कि क्या हुआ है, मेरे पास रहो।"
         ]
       ],
       "source_sha256": "324c7b251e46dfee532645cb85dfb2061ff6757035b3e3e718d6dafeedd6c4bd"
@@ -5755,11 +5823,11 @@
       "spoken_hindi": [
         [
           "Lily",
-          "यहाँ। हल्की-सी हरकत हुई।"
+          "यहाँ हाथ रखो। हल्की-सी हरकत हुई है।"
         ],
         [
           "Bruno",
-          "इतना छोटा, और अभी से सब बदल रहा है।"
+          "इतना नन्हा है, और अभी से सब बदल रहा है।"
         ]
       ],
       "source_sha256": "e79590b2959d097219e77fcb6476909899f053d40fb38b672d8eaa4826489779"
@@ -5887,7 +5955,7 @@
         ],
         [
           "Lily",
-          "हमारा बच्चा बिना चट्टान नाम के भी मजबूत होगा।"
+          "हमारा बच्चा चट्टान कहलाए बिना भी मजबूत हो सकता है।"
         ]
       ],
       "source_sha256": "3af585f4138c43075f63c309d1116317f9db6110d1b5aff64ff472254bb6f9ee"
@@ -7442,7 +7510,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "मेरे बच्चे, मेरे साथ रहना।"
+          "मेरे बच्चे, हिम्मत मत हारना।"
         ]
       ],
       "source_sha256": "99fa7034c2b39385701cfc05785285679269f94e5ec735f37b0a57f7dd9dd129"
@@ -7977,7 +8045,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "बस एक पल। अब दर्द कम है।"
+          "बस एक पल रुको। अब दर्द कम हो गया है।"
         ]
       ],
       "source_sha256": "8752c11c1a3226b3a3b1a47b069cbd51a770125cb2d61a5a1cdbec834f8b2a6b"
@@ -8205,7 +8273,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "उन्हें पास आने दो। मुझे याद है।"
+          "उन्हें पास आने दो। हाँ, मुझे याद है।"
         ]
       ],
       "source_sha256": "541c3b1a263cea54847a8c1d9d4c2f8d93c76d66e33fb838d2a43ddc59fac2d9"
@@ -8329,11 +8397,11 @@
       "spoken_hindi": [
         [
           "Hank",
-          "हम हैं। छत की आखिरी पट्टी लाए हैं।"
+          "हम हैं। छत की बची हुई पट्टी ले आए हैं।"
         ],
         [
           "Martha",
-          "हर तूफान का सामना अकेले नहीं करना पड़ता।"
+          "तुम्हें हर तूफान का सामना अकेले नहीं करना है।"
         ]
       ],
       "source_sha256": "0300d28f3135e70dd14ec94b04020fa5da9d67d40868a15d716dfc803a7a17c0"
@@ -8487,7 +8555,7 @@
       "spoken_hindi": [
         [
           "Martha",
-          "मेंढक बाहर रहते हैं। भूखे पड़ोसी यहाँ खाना खाते हैं।"
+          "मेंढकों की जगह बाहर है। भूखे पड़ोसियों की जगह इस मेज़ पर है।"
         ]
       ],
       "source_sha256": "6592cca7105acef7b5d130260e0ca2911dc0e6e45acaaf1bed5a737ac2bb830b"
@@ -8549,11 +8617,11 @@
       "spoken_hindi": [
         [
           "Joe",
-          "यह नक्काशी जंगल के बहुत अंदर की है।"
+          "यह नक्काशी जंगल के बहुत भीतर रहने वालों की है।"
         ],
         [
           "Lily",
-          "यह मेरे पति की थी।"
+          "यह मेरे पति की निशानी है।"
         ]
       ],
       "source_sha256": "4b590d2c4814ab98256948b0a9320b141dc8e5b858f3b982b65d1cfb2e58167a"
@@ -8707,7 +8775,7 @@
       "spoken_hindi": [
         [
           "Hank",
-          "कर ले लिया। अब हमारे घरों को छोड़ दो।"
+          "अपना कर वसूल लिया। अब हमारे घरों को छोड़ दो।"
         ]
       ],
       "source_sha256": "11ab5bfddc7225681c6648287f547ec0a902f81443a5c3cec68898ae41a3e1de"
@@ -9002,7 +9070,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "मेरे फ्रॉस्ट। तुम्हारे पिता तुम्हें मिलने से पहले ही प्यार करते थे।"
+          "मेरे फ्रॉस्ट, तुम्हारे पिता तुमसे मिलने से पहले ही तुम्हें प्यार करते थे।"
         ]
       ],
       "source_sha256": "eb455de570b1e204b17b34c06c0132885a2fe76229bd494878a34318c6bad0cc"
@@ -9207,7 +9275,7 @@
       "spoken_hindi": [
         [
           "Martha",
-          "मुझे थोड़ी और जगह छोड़नी चाहिए थी।"
+          "मुझे इन्हें थोड़ा और बड़ा बुनना चाहिए था।"
         ]
       ],
       "source_sha256": "8cae4849de639397c6f73bf78b25878f62c94543cb4d1d8b9bd225ff83171c50"
@@ -9489,7 +9557,7 @@
       "spoken_hindi": [
         [
           "Martha",
-          "उसे तीन दिन दो। अभी बच्चा हुआ है।"
+          "उसे तीन दिन दो। उसने अभी बच्चे को जन्म दिया है।"
         ]
       ],
       "source_sha256": "393181b0ac3b48c61c39465532ba7942adefb6c8f930a1e591434724fa433f8c"
@@ -9561,7 +9629,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "पिता के बिगफुट जीन से तुम इतनी जल्दी बढ़ रहे हो। कुछ मजबूत ढूँढ़ना पड़ेगा।"
+          "पिता से मिले बिगफुट जीन तुम्हें इतनी जल्दी बढ़ा रहे हैं। अब कुछ मजबूत ढूँढ़ना होगा।"
         ]
       ],
       "source_sha256": "8080108a512edfbf1d4a1ace380a523f18df00f0f028fdcb21aca0f601fdbdae"
@@ -9903,7 +9971,7 @@
       "spoken_hindi": [
         [
           "Sarah",
-          "मेरा भालू उसे दे दो। डर लगे तो मुझे इससे हिम्मत मिलती है।"
+          "मेरा खिलौना उसे दे दो। डर लगने पर मुझे इससे हिम्मत मिलती है।"
         ]
       ],
       "source_sha256": "f1bdca401c0a545803663e96d80331bc67fb2430148666573cd997660e2dcb9a"
@@ -10057,7 +10125,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "पिता के जीन से यह जल्दी बढ़ता है। इसे प्यार से सिखाना होगा।"
+          "पिता से मिले जीन के कारण यह तेज़ी से बढ़ता है। इसे प्यार से सिखाना होगा।"
         ]
       ],
       "source_sha256": "1b2cc17a5d298698fc8652c59fdcb968c5612fe140c45644b5cc1402126b3677"
@@ -10206,7 +10274,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "तोहफा देने के लिए दर्शक नहीं चाहिए।"
+          "तोहफा देने के लिए सबका देखना ज़रूरी नहीं।"
         ]
       ],
       "source_sha256": "424f82e0b4a4fc06ffb753b2b774b53e7de5a2fdb5c6c7dcdc450d129154ced0"
@@ -10474,7 +10542,7 @@
       "spoken_hindi": [
         [
           "Farmer",
-          "मैं उसके पास पहुँच नहीं पा रहा था। शुक्रिया।"
+          "मैं उस बछिया तक पहुँच नहीं पा रहा था। तुम्हारा शुक्रिया।"
         ]
       ],
       "source_sha256": "7856570e459c2d51e87872ca909c3bd96dafa7770a9c4662fd9825c3bad5b3c1"
@@ -10556,7 +10624,7 @@
       "spoken_hindi": [
         [
           "Tommy",
-          "तुमने पूरी पिकनिक को पानी दे दिया!"
+          "तुमने तो पूरी पिकनिक भिगो दी!"
         ]
       ],
       "source_sha256": "0b2717e2a64c6846034e22c51257213dfe16474d575b6f74523253332df38249"
@@ -10628,11 +10696,11 @@
       "spoken_hindi": [
         [
           "Frost",
-          "यह तुम हो।"
+          "यह तुम्हारा नाम है।"
         ],
         [
           "Lily",
-          "हाँ। तुमने लिखा है।"
+          "हाँ। और इसे तुमने लिखा है।"
         ]
       ],
       "source_sha256": "3b3137312ddeabe366cf53a0e6a7a3fce478800fbcc7765d7f46986f956ebe2c"
@@ -10833,7 +10901,7 @@
       "spoken_hindi": [
         [
           "Hank",
-          "इस छोटे से बच्चे को तो हम भूल ही गए थे।"
+          "यह नन्हा बछेड़ा तो हमारी नज़र से बच गया था।"
         ]
       ],
       "source_sha256": "88c3a4067e0dfcf2ec2219387a5859c7c2ec3729f83175ad5b8d6916a1b54ca5"
@@ -10966,11 +11034,11 @@
       "spoken_hindi": [
         [
           "Frost",
-          "भूल गया था कि मैं कितना भारी हूँ।"
+          "मैं भूल गया था कि कितना भारी हूँ।"
         ],
         [
           "Lily",
-          "लेकिन गलती सुधारना याद रहा।"
+          "लेकिन तुम्हें अपनी गलती सुधारना याद रहा।"
         ]
       ],
       "source_sha256": "fe943def02b11def3ae3d99cf6b5ac302ea374e16ed764b4cbdb054d34e910ff"
@@ -11119,7 +11187,7 @@
       "spoken_hindi": [
         [
           "Martha",
-          "हमारी मेज़ उठाने वाले के लिए जगह रखना।"
+          "हमारे सबसे ताकतवर मददगार के लिए जगह रखना।"
         ]
       ],
       "source_sha256": "e1e29a6f0a7ba19e5be409aa5d0f349131c665a3839f7b32f2fa138f396e4201"
@@ -11340,7 +11408,7 @@
       "spoken_hindi": [
         [
           "Joe",
-          "उसकी खबर गलत लोगों तक भी पहुँचेगी।"
+          "उसकी खबर बुरी नीयत वाले लोगों तक भी पहुँचेगी।"
         ]
       ],
       "source_sha256": "077ffab3ecaba482dac168ce0cee30a730f518f5f444dc3b7517ccc36eab93ff"
@@ -11484,7 +11552,7 @@
       "spoken_hindi": [
         [
           "Mother",
-          "उसके बिना हम पार नहीं जा सकते थे।"
+          "उसके बिना हम वहाँ से निकल नहीं पाते।"
         ]
       ],
       "source_sha256": "7c9bf69cde7cebf3e99c8451276ebfdcf0fa734c75fddafc56d1b495b752932f"
@@ -11561,7 +11629,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "हमारी वजह से तुम मुसीबत में न पड़ो।"
+          "मैं नहीं चाहती कि हमारी वजह से तुम मुसीबत में पड़ो।"
         ],
         [
           "Hank",
@@ -12054,7 +12122,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "तुम्हारे बिगफुट जीन जितनी जल्दी बढ़ा रहे हैं, यह घर उतनी जल्दी नहीं बढ़ सकता।"
+          "तुम्हारे बिगफुट जीन तुम्हें जितनी जल्दी बढ़ा रहे हैं, यह घर उतनी जल्दी बड़ा नहीं हो सकता।"
         ]
       ],
       "source_sha256": "7f308fb35dd6e0d71e0a9b871c5f4b45b8b8f71dd94b913216ffe40fa2e5236a"
@@ -12183,7 +12251,7 @@
       "spoken_hindi": [
         [
           "Frost",
-          "सावधानी रखता हूँ, फिर भी चीज़ें टूट जाती हैं।"
+          "मैं सावधानी बरतता हूँ, फिर भी चीज़ें टूट जाती हैं।"
         ]
       ],
       "source_sha256": "7f892fe97d9ef818b8f757386fa02dd63e44a36391fe22aae098d8ea8bdcb6cc"
@@ -12393,7 +12461,7 @@
         ],
         [
           "Joe",
-          "भरोसा करने से पहले इसे समझना होगा।"
+          "उस पर भरोसा करने से पहले उसे समझना होगा।"
         ]
       ],
       "source_sha256": "1ffcf0951d45e644019fd72b1da832cc1b8118545bdec75375d870e9a2458dbf"
@@ -12522,7 +12590,7 @@
       "spoken_hindi": [
         [
           "Hank",
-          "उस सीट से गाड़ी चलाना बाद में सीखेंगे।"
+          "उस सीट पर बैठकर गाड़ी चलाना फिर कभी सीखेंगे।"
         ]
       ],
       "source_sha256": "9409811caf8de584fb94745322e02231517c3342998a2d707415c06eb8db9e70"
@@ -12959,7 +13027,7 @@
       "spoken_hindi": [
         [
           "Martha",
-          "छोटे कदम लो। संगीत भागा नहीं जा रहा।"
+          "छोटे-छोटे कदम लो। धुन के साथ धीरे चलो।"
         ]
       ],
       "source_sha256": "b7d8171baba526d4d3fe44d413ec72385c3dfb084986c4402988d0445d6ce3d5"
@@ -13289,7 +13357,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "उन्हें दिखाओ कि तुम उठा ही नहीं, रोक भी सकते हो।"
+          "उन्हें दिखाओ कि ताकत का मतलब सिर्फ उठाना नहीं, सँभालना भी है।"
         ]
       ],
       "source_sha256": "c387372d6a54ddbe9f58f65b1843957a0c9d4bbaf57f416b5f7d4773da5bb56c"
@@ -13489,7 +13557,7 @@
         ],
         [
           "Lily",
-          "मेरे साथ चलो। थोड़ा वक्त दो।"
+          "मेरे साथ चलो। मुझे थोड़ा वक्त दो।"
         ]
       ],
       "source_sha256": "243c0743007cdb0faf62a40a0c5c75dfede3961e5de84f7900508409ecc769b0"
@@ -14449,7 +14517,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "तुम्हारे पिता ने हमें बचाया। मुझे न सौंपने पर मैग्नस की सेना ने उन्हें मार दिया।"
+          "तुम्हारे पिता ने हमें बचाया। उन्होंने मुझे सौंपने से इनकार किया, तो मैग्नस की सेना ने उन्हें मार दिया।"
         ]
       ],
       "source_sha256": "3c9ce9294b5a6d4bf7f6a20bc349dc77a96096b882f3d33857aba89afcefb01f"
@@ -14526,7 +14594,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "वह चाहते थे तुम जियो, सिर्फ उनका दर्द लेकर न चलो।"
+          "वह चाहते थे कि तुम जियो, सिर्फ उनका दर्द लेकर न जीते रहो।"
         ]
       ],
       "source_sha256": "5f5630d7fdadeaf951f8af6d84c44666f5f56c1bde5660bec7adc67b28233cee"
@@ -14875,7 +14943,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "सबके लिए खतरा अकेले तय मत करो।"
+          "सबको किस खतरे में डालना है, यह अकेले तय मत करो।"
         ],
         [
           "Frost",
@@ -14956,7 +15024,7 @@
       "spoken_hindi": [
         [
           "Hank",
-          "खाना छीना, फिर घर जलाए। समर्पण से शांति की गारंटी नहीं है।"
+          "उसने हमारा खाना छीना, फिर घर जला दिए। हथियार डालने से शांति नहीं मिलती।"
         ]
       ],
       "source_sha256": "8c67628d026618e2086a5d480e26096da4dd393f68de66302663869cc4b40716"
@@ -15038,7 +15106,7 @@
       "spoken_hindi": [
         [
           "Hank",
-          "फाटक टूटे तो रास्ते के लिए यह रख लो।"
+          "अगर वे फाटक तोड़कर आए, तो रास्ते में यह काम आएगा।"
         ]
       ],
       "source_sha256": "cd24a78c43d55b4699eadb5600f77aa096d96ad96630bec7750d7ff789792b9a"
@@ -15187,7 +15255,7 @@
       "spoken_hindi": [
         [
           "Damian",
-          "बहुत छिप लीं, लिली।"
+          "बहुत छिप चुकी हो, लिली।"
         ],
         [
           "Frost",
@@ -15690,11 +15758,11 @@
       "spoken_hindi": [
         [
           "Vex",
-          "नदी उसे ले गई। हम लौट रहे हैं।"
+          "नदी उसे बहा ले गई। हम लौट रहे हैं।"
         ],
         [
           "Lily",
-          "मैंने उसे देखा नहीं। मैं उसे खोजूँगी।"
+          "मैंने उसे अपनी आँखों से नहीं देखा। मैं उसे खोजूँगी।"
         ]
       ],
       "source_sha256": "b795b6ecddf47b75822fe2f2cb426fcf173554b183b90458d1dbcd4881d86a36"
@@ -16001,7 +16069,7 @@
         ],
         [
           "Joe",
-          "गुस्से और ताकत से आगे भी कुछ सीखना होगा।"
+          "तुम्हें गुस्से और ताकत से बढ़कर कुछ सीखना होगा।"
         ]
       ],
       "source_sha256": "90e931fdf85bba947058d7b443eee504302acb228a634834fecc93187b0a0056"
@@ -16207,7 +16275,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "उनकी बात सुनकर हमारे पास लौट आना।"
+          "उनकी बात ध्यान से सुनना, फिर हमारे पास लौट आना।"
         ]
       ],
       "source_sha256": "a5dff88eb6f2ae8591ebc64dc2f06491cbdc192c77c84612babca3e89a6b4f5f"
@@ -16398,7 +16466,7 @@
       "spoken_hindi": [
         [
           "Bruno",
-          "जो तुम्हें दूँगा, उसे मेरे पिता की राह चाहिए।"
+          "अपनी शक्ति तुम तक पहुँचाने के लिए मुझे अपने पिता का मार्गदर्शन चाहिए।"
         ]
       ],
       "source_sha256": "6aef53b810e555766a8efa44bc629424f487447c12d164e1f0e0b4a14ff768b4"
@@ -16470,7 +16538,7 @@
       "spoken_hindi": [
         [
           "Orin",
-          "ताकत अपनाओ, और दया को साथ रखना।"
+          "शक्ति धारण करो, लेकिन दया का साथ मत छोड़ना।"
         ]
       ],
       "source_sha256": "f4a67be66c456ab8d226c34f6d0eddaf7ac5b86e368cbeddd5fa575ba720ed98"
@@ -16820,7 +16888,7 @@
       "spoken_hindi": [
         [
           "Hank",
-          "सौ बार और करने से ज़्यादा ज़रूरी संतुलन है।"
+          "सौ बार और करने से ज़्यादा ज़रूरी है संतुलन बनाए रखना।"
         ]
       ],
       "source_sha256": "4a5a8173ac1b2f7d0c729644660988cd1f0e84397b4f8d5a17173455839185f2"
@@ -17197,7 +17265,7 @@
       "spoken_hindi": [
         [
           "Joe",
-          "तूफान से दौड़ मत लगाओ। अपने कदम जमाओ।"
+          "तूफान से आगे निकलने की कोशिश मत करो। अपने कदम जमाओ।"
         ]
       ],
       "source_sha256": "25adb7b88f8692ea2616952fe38c9584e9720b201ae8bccd337dcba41acc97da"
@@ -17306,7 +17374,7 @@
       "spoken_hindi": [
         [
           "Frost",
-          "धीरे। रास्ता ज़रूर है।"
+          "धीरे चलो। कोई रास्ता ज़रूर मिलेगा।"
         ]
       ],
       "source_sha256": "887c623767636465e6e8353b5bd9c5b78234ca37d66a5d5e27c78770693a6e76"
@@ -17770,7 +17838,7 @@
       "spoken_hindi": [
         [
           "Joe",
-          "जंगल के लोगों ने उनके गिरने की जगह पर निशान बनाया था।"
+          "जंगल में रहने वालों ने उस जगह पर निशान बनाया था जहाँ ब्रूनो गिरा था।"
         ]
       ],
       "source_sha256": "76b49791958a22df07560bb68c584cc9b6f5bf9b9603872016f0cde9f6367ea9"
@@ -17847,7 +17915,7 @@
       "spoken_hindi": [
         [
           "Frost",
-          "पिताजी, आपने जिसे बचाया, उसे समझने की कोशिश की है।"
+          "पिताजी, मैंने समझने की कोशिश की है कि आप किसकी रक्षा कर रहे थे।"
         ]
       ],
       "source_sha256": "c0f5857cd92fdd507354ada8d6805e8c7e5ca8487ef5ce8f7649b3d1d5dd4a88"
@@ -17991,7 +18059,7 @@
       "spoken_hindi": [
         [
           "Frost",
-          "कम बल। सही निशाना।"
+          "कम ज़ोर लगाना है। निशाना सही रखना है।"
         ]
       ],
       "source_sha256": "893fb49673a88451cf1fbcca1ee5f1e11c743f4bbff5b2f0667aab0b14bc2093"
@@ -18125,7 +18193,7 @@
       "spoken_hindi": [
         [
           "Frost",
-          "उनका डर महसूस कर सकता हूँ।"
+          "मैं महसूस कर सकता हूँ कि उन्हें किस बात का डर है।"
         ]
       ],
       "source_sha256": "06e54f837d1ec499616b9532746923cfb2a642127f2c62f7fa008f093ef38880"
@@ -18202,7 +18270,7 @@
       "spoken_hindi": [
         [
           "Frost",
-          "इस रोशनी ने मेरा प्यार नहीं बदला।"
+          "इस रोशनी से यह नहीं बदला कि मुझे किसकी परवाह है।"
         ]
       ],
       "source_sha256": "66f6bc30e8b2983a71c4d71bdf088b9682fa557d0af5244fbae7b2160d22169b"
@@ -18274,7 +18342,7 @@
       "spoken_hindi": [
         [
           "Hank",
-          "एक सुबह के लिए इतना प्रदर्शन काफी है।"
+          "आज सुबह के लिए इतना करतब काफी है।"
         ]
       ],
       "source_sha256": "796841a38f7a547a4cf869f14b4bec5115363e299847170aaeed733549a1bf42"
@@ -18408,7 +18476,7 @@
       "spoken_hindi": [
         [
           "Joe",
-          "तुम्हें चोट न लगे, तब भी तुम्हारा जोखिम दूसरों को चोट पहुँचा सकता है।"
+          "तुम्हें चोट नहीं लगती, लेकिन तुम्हारे जोखिम से दूसरों को चोट लग सकती है।"
         ]
       ],
       "source_sha256": "1b4dd10a2dfb6748a59ad153db5b25b635ee13c6bbf65bfb3594386186c40648"
@@ -18542,7 +18610,7 @@
       "spoken_hindi": [
         [
           "Rose",
-          "लोहा तोड़ने से मदद मिलेगी। लाल स्फटिक उनका डर बाँधे रखता है।"
+          "लोहा तोड़ने से मदद मिलेगी, लेकिन लाल स्फटिक उन्हें डर में जकड़े रखता है।"
         ]
       ],
       "source_sha256": "4586f57786221fd0fbea24f80ec5d7393e5fb829dfdadd7a60c3692d73c6cd01"
@@ -18681,7 +18749,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "यह खत्म होने पर तुम्हारा दरवाज़ा खटखटाऊँगी।"
+          "यह सब खत्म होने पर तुम्हारा दरवाज़ा खटखटाऊँगी।"
         ]
       ],
       "source_sha256": "b1f3a37e254bad2448772337d88cf6a9c83251c54f685dc6d8fc766b67f777fd"
@@ -18763,7 +18831,7 @@
       "spoken_hindi": [
         [
           "Martha",
-          "पहले खाना और पट्टियाँ। सबको अपना रास्ता पता हो।"
+          "पहले खाना और पट्टियाँ तैयार करो। सबको पता होना चाहिए कि कहाँ जाना है।"
         ]
       ],
       "source_sha256": "ccf3156d6b79fa40adcde97f1f270550a71f3d40d01516b8308bc02836c2d08a"
@@ -18834,7 +18902,7 @@
         ],
         [
           "Frost",
-          "हाँ। इसलिए हम एक-दूसरे का साथ रखते हैं।"
+          "हाँ। इसीलिए हम एक-दूसरे के साथ रहते हैं।"
         ]
       ],
       "source_sha256": "50d8dafd06da8d0ea81d72d7b62f6edb95229b12a18b655a620b12552cef47ee"
@@ -18906,7 +18974,7 @@
       "spoken_hindi": [
         [
           "Frost",
-          "इसे नीचे रख दो। किसी को चोट लगना ज़रूरी नहीं।"
+          "इसे नीचे रख दो। किसी को चोट पहुँचाने की ज़रूरत नहीं।"
         ]
       ],
       "source_sha256": "ad4aa553332a75b2ff98403e360b5d05a456fa50bac7350243e2179608c63a75"
@@ -18968,7 +19036,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "सुरक्षा के साथ जाऊँगी। अब उसके सामने अपनी आवाज़ नहीं छिपाऊँगी।"
+          "मैं अपने साथियों की सुरक्षा में जाऊँगी। अब उसके सामने अपनी बात कहने से नहीं डरूँगी।"
         ]
       ],
       "source_sha256": "80894e13eb14e6c3f39df4ff3d3925ed804bf5b81c1986fa31a52b48b0c46da3"
@@ -19636,7 +19704,7 @@
       "spoken_hindi": [
         [
           "Joe",
-          "सिर्फ लोहा इन्हें नहीं रोक रहा।"
+          "इन्हें सिर्फ लोहे ने नहीं बाँध रखा है।"
         ]
       ],
       "source_sha256": "cdf7a86b2252ea74573e994ea0f00f080713d22b4f2fdd64c7dbcd1075cbfdf6"
@@ -19929,7 +19997,7 @@
       "spoken_hindi": [
         [
           "Rose",
-          "निकास हमारे पीछे है। चलते रहो।"
+          "बाहर निकलने का रास्ता हमारे पीछे है। चलते रहो।"
         ]
       ],
       "source_sha256": "61a39a095de4a851c8448359ce6bf4dddac9f1ff46057ea280ffe5785e362439"
@@ -20001,7 +20069,7 @@
       "spoken_hindi": [
         [
           "Frost",
-          "उसका ज़ुल्म ढोना तुम्हारी मजबूरी नहीं है।"
+          "तुम्हें उसके ज़ुल्म का बोझ उठाने की ज़रूरत नहीं।"
         ]
       ],
       "source_sha256": "7ad81633f796f89a8e99834bab6c7f58187363b2ebd990a28bd241444073ad56"
@@ -20289,7 +20357,7 @@
       "spoken_hindi": [
         [
           "Rose",
-          "इन्हें सँभाल लो। उनके परिवारों को सच मिलना चाहिए।"
+          "इन्हें सँभाल लो। उनके परिवारों को सच जानने का हक है।"
         ]
       ],
       "source_sha256": "c0ef706f379d4b75b5c0b9572f7c58d114ebd24a8719dbd091173a4c0a7bebd5"
@@ -21543,7 +21611,7 @@
       "spoken_hindi": [
         [
           "Frost",
-          "तुम्हारा राज यहीं खत्म होता है। तुम्हारा न्याय लोग करेंगे।"
+          "तुम्हारा राज यहीं खत्म होता है। अब तुम्हारे बारे में फैसला लोग करेंगे।"
         ]
       ],
       "source_sha256": "32649c5781d98444ca8ddccf7b828584351e87482876c903717e37319939998d"
@@ -21831,7 +21899,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "माँ। मैं घर आ गई।"
+          "माँ, मैं घर आ गई।"
         ],
         [
           "Grace",
@@ -22060,7 +22128,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "उन्होंने हमें जीने का मौका दिया। तुम लोगों ने हमें घर दिया।"
+          "उन्होंने हमें जीने का मौका दिया। तुम सबने हमें अपना घर दिया।"
         ]
       ],
       "source_sha256": "70764ab8a5d5ab6d4e6592276f7467c696c47f5d66adba28f93ac436199159ef"
@@ -22137,7 +22205,7 @@
       "spoken_hindi": [
         [
           "Lily",
-          "हम अपने घर में हैं।"
+          "हम घर आ गए।"
         ]
       ],
       "source_sha256": "d729b61b9facab4faf858d01f164c9c501bf3362760222db638684894edb5627"

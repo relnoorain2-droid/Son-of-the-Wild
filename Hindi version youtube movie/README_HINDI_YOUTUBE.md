@@ -2,6 +2,19 @@
 
 ## Final Reels Correction Merge - 2026-10-26
 
+### Review From Part 031 - 2026-10-27
+
+Parts 001-030 have already been rendered. This revision preserves those prompt
+files and their reference boards byte for byte; it does not rewrite the user's
+completed wedding edit. Continue production at Part 031 using the updated files.
+
+Parts 031-312 received a Hindi grammar and meaning review, clearer local costume
+instructions, and specific character/age voice guidance. Lily retains the approved
+clothes and elegant film styling. Unrelated royal wedding-night instructions are
+removed from these later scenes. The combined all-312 file is refreshed with the
+same first 30 blocks and updated later blocks; no additional import file is needed.
+The builder now preserves Parts 001-030 by default and validates their file hashes.
+
 The corrected English Reels scenes now drive all 312 Hindi prompts, with literal
 scene-specific Hindi dialogue. Repeated warnings and filler are removed; action
 scenes can be silent. Rose, Grace and Martha are distinct and only appear where
