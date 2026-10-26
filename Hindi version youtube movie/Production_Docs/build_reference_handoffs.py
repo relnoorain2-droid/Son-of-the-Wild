@@ -299,6 +299,9 @@ def update(part, incoming, outgoing, sheet_path, panels):
     end = text.index('PROMPT TO PASTE IN DOLA')
     text = text[:begin] + text[end:]
     text = text.replace('Status: ready - EXPANDED CANON PACKAGE', 'Status: reference and handoff update - render pending')
+    text = re.sub(r'(?m)^Use active skill:.*\n?', '', text)
+    text = re.sub(r'(?m)^Model:.*$',
+                  'Generation model: Select the tool\'s supported reference-image video model with a 30-second option.', text)
     text = re.sub(r'(?m)^Mode:.*$',
                   'Mode: Generate this part as one separate 30-second video. Load the attached reference board into '
                   'the actual reference-image input. Select 30 seconds and 16:9 in the available generator controls.', text)

@@ -35,6 +35,7 @@ def main():
         assert 'FORMAT: YOUTUBE 16:9' in body
         assert 'Duration: exactly 30 seconds' in body
         assert 'LANGUAGE: HINDI OUTPUT ONLY' in body
+        assert not re.search(r'Use active skill|Seedance|SKILL\.md|skill file', body, re.I)
         assert body.count('OPENING HANDOFF IN:') == 1
         assert body.count('ENDING HANDOFF OUT:') == 1
         assert 'OPENING CONTINUITY LOCK:' not in body
@@ -87,7 +88,8 @@ def main():
     assert len(sheets) == len(list((PACKAGE / 'Reference_Sheets').glob('*.jpg')))
     print(f'PASS: 312 individual prompts; 312 clean combined blocks; {len(sheets)} valid named JPG boards; '
           '311 matching boundaries; one required image per part, at most three; all local timelines cover 0-30s; '
-          'Hindi 16:9 preserved; original dialogue retained; final closure preserved.')
+          'Hindi 16:9 preserved; original dialogue retained; final closure preserved; '
+          'direct image-and-text prompts with no skill dependency.')
 
 
 if __name__ == '__main__':

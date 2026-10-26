@@ -11,6 +11,10 @@ Each part is a separate request; the generator must not be assumed to remember
 another video. Use the complete local 0-30 second timeline and choose 30 seconds
 and landscape 16:9 in the generator controls.
 
+Use the reference image attachments and prompt text directly in your video tool.
+No skill file, skill upload, Dola-specific command or named model activation is
+required. Select a supported reference-image model in the tool's own controls.
+
 1. Find the part in `Production_Docs/REFERENCE_IMAGE_INDEX.csv`.
 2. Attach its single JPG from `Reference_Sheets/`. Every panel has the character,
    creature or location name printed above it. These boards combine the existing
@@ -41,7 +45,6 @@ supported. No videos have been rendered as part of this prompt/reference update.
 ## Folder Contents
 
 - `Prompts_16x9_Hindi/` - all 312 Dola-ready prompts for Hindi YouTube 16:9 output.
-- `Skill/SKILL.md` - Hindi YouTube skill file to upload in Dola.
 - `Production_Docs/` - Hindi YouTube output rules.
 - `Reference_Sheets/` - combined, labelled JPG reference boards; attach one per part.
 - `Hindi_YouTube_16x9_ALL_312_REFERENCE_HANDOFF_CLEAN.txt` - all 312 generation-only

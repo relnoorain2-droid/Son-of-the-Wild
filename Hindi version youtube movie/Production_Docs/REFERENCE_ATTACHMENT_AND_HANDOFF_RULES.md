@@ -3,6 +3,9 @@
 Each of the 312 parts is one separate 30-second Hindi landscape 16:9 video.
 The complete instruction block must travel with each request. No prior chat,
 session, model memory or generated video is assumed to be available.
+Attach the reference images and paste the text directly into the video tool.
+There is no skill file to upload or activate. Choose the supported model,
+30-second duration and 16:9 aspect ratio in the tool's controls.
 
 ## Image Slots
 
@@ -66,6 +69,6 @@ manifest describes intended continuity; it is not proof of generated continuity.
 ## Scope Of This Update
 
 All 312 prompts, their reference boards, 311 joins, clean combined TXT, image
-index, log template and Hindi YouTube skill are covered. English and Hindi Reels
+index and log template are covered. English and Hindi Reels
 packages and the original character assets are untouched. This work consumes no
 video-generation credits and supplies no pre-rendered final frames.
