@@ -3,11 +3,13 @@
 import json
 import re
 from pathlib import Path
-from urllib.parse import unquote
+from urllib.parse import unquote, urlsplit
 
 from PIL import Image
 
-from build_reference_handoffs import BASE, FOLDER, PACKAGE, PASTE_MARKER, ROOT, SHOT, URL, git_text
+from build_reference_handoffs import (BASE, FOLDER, MAX_REFERENCE_PIXELS, MAX_REFERENCE_SIDE,
+                                    PACKAGE, PASTE_MARKER, ROOT, SHOT, URL, git_text,
+                                    reference_size)
 
 
 def main():
@@ -15,6 +17,14 @@ def main():
     records = manifest['records']
     assert len(records) == 312
     assert manifest['source_commit'] == BASE
+    assert manifest['reference_image_max_pixels'] == MAX_REFERENCE_PIXELS
+    assert manifest['reference_image_max_side'] == MAX_REFERENCE_SIDE
+    assert reference_size(3136, 3586) == (2640, 3024)
+    for original in ((3136, 3586), (4176, 4742), (4176, 1274), (1024, 1024)):
+        width, height = reference_size(*original)
+        assert max(width, height) <= MAX_REFERENCE_SIDE
+        assert width * height <= MAX_REFERENCE_PIXELS
+        assert width <= original[0] and height <= original[1]
     combined_path = PACKAGE / 'Hindi_YouTube_16x9_ALL_312_REFERENCE_HANDOFF_CLEAN.txt'
     blocks = re.split(r'\n\n--------\n\n', combined_path.read_text(encoding='utf-8').strip())
     assert len(blocks) == 312
@@ -50,7 +60,7 @@ def main():
         assert 'SUSPENSE HOOK LOCK:' not in body
         urls = URL.findall(preparation)
         assert len(urls) == 1, (number, urls)
-        assert unquote(urls[0].split('/main/', 1)[1]) == (
+        assert unquote(urlsplit(urls[0]).path.split('/main/', 1)[1]) == (
             PACKAGE / record['reference_board']).relative_to(ROOT).as_posix()
         assert record['image_input_count_required'] == 1
         assert record['image_input_count_with_handoff'] <= 2
@@ -82,6 +92,9 @@ def main():
             sheet_path = PACKAGE / key
             assert sheet_path.stat().st_size < 20_000_000
             with Image.open(sheet_path) as image:
+                assert max(image.size) <= MAX_REFERENCE_SIDE, (key, image.size)
+                assert image.width * image.height <= MAX_REFERENCE_PIXELS, (key, image.size)
+                assert image.size == (record['reference_image_width'], record['reference_image_height'])
                 image.verify()
             sheets[key] = record['panels']
         assert sheets[key] == record['panels']
@@ -97,7 +110,8 @@ def main():
           'Hindi 16:9 preserved; original dialogue retained; final closure preserved; '
           'direct Seedance 2.5 image-and-text prompts with no skill dependency; '
           'all image links above the copy heading, no links or status notes below it; '
-          'adult wardrobe rules and unchanged child costumes checked.')
+          'adult wardrobe rules and unchanged child costumes checked; '
+          'all boards at most 8.0 MP and 4096 px on the longest side.')
 
 
 if __name__ == '__main__':

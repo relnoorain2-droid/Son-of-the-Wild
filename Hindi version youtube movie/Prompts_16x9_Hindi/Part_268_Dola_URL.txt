@@ -3,7 +3,7 @@ PART 268 - "The Spy"
 
 REFERENCE IMAGES - PREPARE ABOVE THE COPY LINE
 Image 1 (required combined reference board): References_268.jpg
-https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Hindi%20version%20youtube%20movie/Reference_Sheets/References_268.jpg
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Hindi%20version%20youtube%20movie/Reference_Sheets/References_268.jpg?v=8mp-v1
 Optional attachment 2: the actual approved end frame exported from PART 267, named Part_267_EndFrame.png. This is created after rendering that part; it is not a supplied repository asset or a URL. For a same-scene cut it anchors the opening pose. For a stated time/location/memory cut it is continuity context only.
 Image 3 is optional: an approved face/prop detail crop or combined detail board. Maximum 3 images total.
 Attach the images in the new tool, select Seedance 2.5, 30 seconds and landscape 16:9. No skill file is required.

@@ -27,6 +27,9 @@ TITLE = re.compile(r'PART (\d{3}) - "([^"]+)"')
 SHOT = re.compile(r'(?m)^(\d+)[-\u2013](\d+)s:\s*(.+)$')
 URL = re.compile(r'https://raw\.githubusercontent\.com/[^\s]+')
 PASTE_MARKER = 'PROMPT TO COPY AND PASTE (SEEDANCE 2.5)'
+MAX_REFERENCE_PIXELS = 8_000_000
+MAX_REFERENCE_SIDE = 4096
+REFERENCE_VERSION = '8mp-v1'
 
 NAMES = {
     'C01': 'Lily Carter - everyday clothes', 'C02': 'King Magnus Thorne',
@@ -291,10 +294,34 @@ def font(size):
     return ImageFont.load_default(size=size)
 
 
+def reference_size(width, height):
+    scale = min(1.0, MAX_REFERENCE_SIDE / max(width, height),
+                math.sqrt(MAX_REFERENCE_PIXELS / (width * height)))
+    if scale == 1.0:
+        return width, height
+    # Round down to video-tool-friendly dimensions while keeping a pixel margin.
+    return max(16, int(width * scale) // 16 * 16), max(16, int(height * scale) // 16 * 16)
+
+
+def save_reference(image, target):
+    size = reference_size(*image.size)
+    if size != image.size:
+        image = image.resize(size, Image.Resampling.LANCZOS)
+    assert max(image.size) <= MAX_REFERENCE_SIDE
+    assert image.width * image.height <= MAX_REFERENCE_PIXELS
+    image.save(target, quality=92, subsampling=0, optimize=True)
+
+
 def sheet(references, target, refresh=False):
     panels = [{'panel': index + 1, 'name': label(relative), 'source': relative}
               for index, relative in enumerate(references)]
     if target.is_file() and not refresh and '--refresh-sheets' not in sys.argv:
+        adjusted = None
+        with Image.open(target) as existing:
+            if reference_size(*existing.size) != existing.size:
+                adjusted = existing.convert('RGB')
+        if adjusted is not None:
+            save_reference(adjusted, target)
         return panels
     cell, header, gap, top = 1024, 116, 16, 118
     cols = min(4, max(1, math.ceil(math.sqrt(len(references)))))
@@ -323,7 +350,7 @@ def sheet(references, target, refresh=False):
             canvas.paste(image, (x + (cell - image.width) // 2,
                                  y + header + (cell - image.height) // 2))
         panels.append({'panel': index + 1, 'name': label(relative), 'source': relative})
-    canvas.save(target, quality=92, subsampling=0, optimize=True)
+    save_reference(canvas, target)
     return panels
 
 
@@ -374,7 +401,7 @@ def ending_text(part, outgoing):
 def update(part, incoming, outgoing, sheet_path, panels):
     text = part['source']
     number = part['number']
-    raw_url = RAW + quote(sheet_path.relative_to(ROOT).as_posix(), safe='/')
+    raw_url = RAW + quote(sheet_path.relative_to(ROOT).as_posix(), safe='/') + f'?v={REFERENCE_VERSION}'
     mapping = '\n'.join(f"Panel {p['panel']}: {p['name']} ({Path(p['source']).name})." for p in panels)
     attached_frame = ('No previous final-frame attachment for the movie opening.' if number == 1 else
                       f"Optional attachment 2: the actual approved end frame exported from PART {number - 1:03}, "
@@ -489,9 +516,13 @@ def main():
         text = update(part, boundaries[i], outgoing, target, panels)
         part['path'].write_text(text, encoding='utf-8')
         prompts.append(text.strip())
+        with Image.open(target) as image:
+            image_width, image_height = image.size
         reports.append({'part': part['number'], 'title': part['title'],
                         'source_sha256': part['source_sha256'],
                         'reference_board': target.relative_to(PACKAGE).as_posix(),
+                        'reference_image_width': image_width,
+                        'reference_image_height': image_height,
                         'image_input_count_required': 1,
                         'image_input_count_with_handoff': 1 if i == 0 else 2,
                         'max_image_inputs': 3, 'panels': panels,
@@ -505,6 +536,8 @@ def main():
     report = {'source_commit': BASE, 'date': '2026-10-26', 'parts': 312,
               'duration_seconds_per_part': 30, 'aspect_ratio': '16:9',
               'required_images_per_part': 1, 'maximum_images_per_request': 3,
+              'reference_image_max_pixels': MAX_REFERENCE_PIXELS,
+              'reference_image_max_side': MAX_REFERENCE_SIDE,
               'unique_labelled_reference_sheets': len(assets),
               'continuous_boundaries': 311,
               'method': 'Preserve Hindi scene actions and dialogue; replace unlimited URL sets with one labelled '

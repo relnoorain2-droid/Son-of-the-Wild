@@ -15,6 +15,11 @@ Use the reference image attachments and prompt text directly in your video tool.
 No skill file, skill upload or Dola-specific command is required. Select
 Seedance 2.5 in your new tool, with 30 seconds and landscape 16:9.
 
+All combined reference sheets are limited to 8,000,000 pixels (8.0 MP) and
+4096 pixels on the longest side, leaving room below the tool's 8.3 MP limit.
+Labels and panel layout are preserved. Reference links include a version suffix
+so a freshly downloaded sheet is not confused with a cached oversized copy.
+
 ## Wardrobe Update
 
 Each prompt includes adult costume guidance: flattering tailoring, opaque rich

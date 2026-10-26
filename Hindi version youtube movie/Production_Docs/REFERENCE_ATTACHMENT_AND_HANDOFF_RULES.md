@@ -15,6 +15,10 @@ an instruction to produce English audio. Requested visible cards use Devanagari.
 
 ## Image Slots
 
+Every combined board is at most 8.0 MP and 4096 pixels on its longest side.
+Use the updated file from the current package or its versioned link. Older
+downloaded copies can exceed the tool's 8.3 MP upload limit.
+
 | Slot | What to attach | Purpose |
 | --- | --- | --- |
 | 1 | The single JPG named for this part in REFERENCE_IMAGE_INDEX.csv | All named identity, age/outfit, creature and location panels in one image |
