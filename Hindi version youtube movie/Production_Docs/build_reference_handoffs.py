@@ -587,4 +587,7 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    # The old template source predates the Reels corrections. Rebuild from the
+    # corrected story so it cannot restore repeated dialogue or wrong cast.
+    from merge_reel_corrections import main as merge_current_story
+    merge_current_story()

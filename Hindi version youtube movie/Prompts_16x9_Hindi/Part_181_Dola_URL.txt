@@ -1,91 +1,76 @@
-FROST: Son of the Wild
 PART 181 - "Cedar Hollow Home"
+FROST: Son of the Wild
 
 REFERENCE IMAGES - PREPARE ABOVE THE COPY LINE
-Image 1 (required combined reference board): References_181.jpg
-https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Hindi%20version%20youtube%20movie/Reference_Sheets/References_181.jpg?v=8mp-v1
-Optional attachment 2: the actual approved end frame exported from PART 180, named Part_180_EndFrame.png. This is created after rendering that part; it is not a supplied repository asset or a URL. For a same-scene cut it anchors the opening pose. For a stated time/location/memory cut it is continuity context only.
-Image 3 is optional: an approved face/prop detail crop or combined detail board. Maximum 3 images total.
-Attach the images in the new tool, select Seedance 2.5, 30 seconds and landscape 16:9. No skill file is required.
-Copy ALL text below the following heading to the end of THIS part. The image link and preparation instructions stay above the heading. In the combined file, stop at the -------- separator.
+Image 1 (required combined reference board): Reel_Corrected_181.jpg
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Hindi%20version%20youtube%20movie/Reference_Sheets/Reel_Corrected_181.jpg?v=reel-sync-20261026
+Download and inspect this board, then attach it as ONE image. Use the labels to map the panels. Optional image 2: the actual approved previous end frame, if available. Optional image 3: a face detail. At most three images total. No skill file is needed. Stop at the ------- separator.
 
 PROMPT TO COPY AND PASTE (SEEDANCE 2.5)
 
 PART 181 - "Cedar Hollow Home"
+FORMAT: YOUTUBE 16:9
+Duration: exactly 30 seconds
+LANGUAGE: HINDI VOICES; ENGLISH INSTRUCTIONS
+SPOKEN LANGUAGE: HINDI ONLY. Dialogue is already written in Hindi. Speak only the exact words in SPOKEN HINDI below, once each. English shot instructions and labels are silent. Quoted text elsewhere is staging or context, never an additional line. No improvised narration, background warnings, repeated catchphrases or title reading. Use natural Hindi lip-sync and comfortable pauses.
 
-SPOKEN LANGUAGE: HINDI ONLY. Every character and narrator speaks natural Hindi/Hindustani. The dialogue and lyrics below are already written in Hindi: speak or sing the exact Devanagari lines, not English translations. Only audible words are Hindi. Character names, voice descriptions, scene and camera directions, reference labels and requested screen text remain English. Do not read the English instructions aloud. No English dialogue, English narration or English singing. Use accurate Hindi lip-sync. No dialogue subtitles unless separately requested. Vocalize only the supplied Hindi words; do not invent additional English speech or lyrics. Keep speech intelligible: timed DIALOGUE lines take priority, and singing or background whispers use the pauses rather than speaking over another line.
+SEPARATE GENERATION + REFERENCE MAPPING:
+This prompt is complete in a fresh chat. Attachment 1 is a labelled reference board:
+Panel 1: Village (L07_Village.png).
+Panel 2: Martha Hayes (S02_MarthaHayes_FULL.png).
+Panel 3: Hank Miller (S03_HankMiller_FULL.png).
+Panel 4: Cedar Hollow villagers (S10_Villagers_FULL.png).
+Panel 5: Lily - young mother (V04_Lily_VillageMom.png).
+Panel 6: Frost - teenager (V07_Frost_Teen.png).
+Read labels ABOVE panels. Create a fresh moving scene; never animate the collage, render panel labels, blend faces or put every panel character on screen. Location-panel background people are not additional cast. Image 2, if supplied, is an actual approved end frame; never claim one is attached when absent.
 
 ADULT WARDROBE AND DISTINCT IDENTITIES:
 Use glamorous, flattering costume tailoring and rich, realistic fabrics for adult human women. Preserve every woman's own reference face, age, body proportions, hair color and role; do not give everyone the same face or make older women look young. Children retain their original age-appropriate clothes.
 Celebration Lily: an opaque deep teal evening dress with a fitted natural waist, a refined square neckline, elbow-length sleeves and a flowing lined skirt; delicate pearl earrings and a softly pinned honey-blonde hairstyle. Keep this exact celebration outfit throughout each connected dance/celebration sequence. In Parts 310-312 retain it through the stage and the hill ending, adding her shawl only.
+Martha: warm jewel-toned knitwear, a neatly tailored long skirt and a small floral brooch; retain her grandmotherly face, glasses and white curls.
 Wardrobe descriptions here control adult outfit styling; the board locks identity and age. All clothing is opaque and fully lined. Keep framing on faces, dialogue and story action. Do not add undressing or intimate actions. In a continuous scene retain the same outfit, accessories, hair arrangement and fabric damage from the approved handoff frame. Introduce a new outfit only at a stated new day, ceremony, celebration or motivated change. Apply a listed costume only if that adult is actually present in the local shots.
 
-SEPARATE GENERATION + REFERENCE MAPPING:
-Generate this numbered part from a fresh request. There is no memory of an earlier video. Create a new moving scene using the identities, products/props where relevant, and style in the references. Reference image 1 is the attached combined board. Interpret its named panels as follows:
-Panel 1: Village (L07_Village.png).
-Panel 2: Lily - young mother (V04_Lily_VillageMom.png).
-Panel 3: Frost - teenager (V07_Frost_Teen.png).
-If reference image 2 is attached, it is the approved previous final frame. For a same-scene join it anchors pose, props and geography. For an explicit scene/time/memory cut it provides context only. If image 2 is absent, follow the complete written handoff. Image 3, when supplied, is extra identity or prop detail. The entire request may contain at most THREE images.
-Read the names printed ABOVE each panel. Keep people, age variants, creatures and locations separate. Board text is identification only and must not appear in the movie. Create the scene fresh: never animate the board as a collage, show its grid, merge faces, copy reference backgrounds indiscriminately or make all panels appear together. A location panel defines place design, not its background figures as cast.
+REFERENCE COSTUME PRIORITY: Keep the established reference outfit, color, neckline and coverage. The styling descriptions above refine fit and fabric finish only; they do not authorize a different dress. For adult Lily, preserve her attractive natural features with soft romantic lighting, flattering tailoring, gentle expressions and the shoulders/collarbone visible in her approved outfit. Keep natural body proportions and opaque fabrics. Keep existing consensual affection where the local story asks for it. The royal first-night scene remains suspenseful and leads to her escape before consummation. Styling does not add romantic actions to that fearful scene.
 
-FULL 30-SECOND PERFORMANCE:
-Use the existing complete 0-30s action and dialogue timeline below. Every time range must have meaningful movement, reaction or consequence; progress through the written beats instead of finishing early and holding, looping, recapping or padding. Voices, effects and score follow the action.
+PHOTOREALISM AND IDENTITY:
+Render a photorealistic live-action appearance, with physically believable fantasy creatures. Natural human skin pores, subtle facial asymmetry, real eye proportions, individual hair strands, realistic fabric and natural light. No cartoon, anime, doll face, plastic skin, game-avatar appearance, exaggerated eyes or painted textures. Medium shots keep faces readable; no extreme face close-ups or distorted wide-angle portraits. Match each person's own reference identity throughout the scene. Clothing changes only at a written change; retain mud, tears, wetness and props at each edit.
+Only characters explicitly acting in the local shot plan appear. A reference panel is an identity guide, not an instruction to add its person to the scene. Keep Rose, Grace and Martha distinct. Rose is a castle maid: only show her when locally required, concealed at a side doorway or pillar, never roaming into bedrooms or interrupting every scene. Only the Hindi dialogue section authorizes speech. Background figures never borrow another person's dialogue.
+Only when the local shots include Frost, show exactly one at the written age stage. Never introduce him before birth or into scenes where he is absent. His father's Bigfoot genes explain his accelerated growth; age changes only at written time passages. Keep upright Bigfoot anatomy, broad hands and feet, snow-white fur and blue eyes. No dog muzzle, paws, tail, human replacement, miniature adult baby or extra child. When requested, Bruno remains the black-furred Bigfoot with his own identity. His later spirit is not a living resurrection.
 
 OPENING HANDOFF IN:
-Boundary CUT_180_181; previous video: PART 180.
-Completed previous ending (context, not a scene to replay): Frost holding the tiny frame to his chest, tears in his eyes, the whole village smiling.
-Edit instruction: CONTINUING STORY - FOLLOW THE LOCAL SCENE AND SHOT PLAN.
-First action in this video: A villager plays a fiddle on a porch; people start clapping along. Lily stands up and smiles.
-For a same-scene join, continue the resulting pose and action immediately after the supplied end frame. Preserve camera side, left/right positions, eyelines, movement direction, held objects, wetness, dirt, wounds, clothes, weather and light; do not reset them to a clean reference portrait. When the local scene or the edit instruction changes time, location, viewpoint or enters a memory, make that deliberate cut and establish the local setting. Carry identities and story consequences, not the previous background or absent cast. A memory returns to its stated age/outfit; it does not resurrect a character in the present. Speak only this part's dialogue.
+Previous completed event, context only: Lily gives him Bruno's carved token in a small frame; do not invent a flower she never retrieved.
+First local action: Frost holds the framed token after his birthday gift.
+Preserve pose, eyeline, camera side, carried objects, damage and wetness for a same-scene join. Follow explicit local time/location changes; establish the new setting without replaying completed events. A written memory is clearly a memory, not a second birth, resurrection, first meeting or repeated attack.
+
+IDENTITY, AGE AND ANATOMY:
+Frost is teen stage in this part, matching the corresponding listed reference. Exactly one Frost appears. Snow-white fur, blue eyes, Bigfoot face with no canine muzzle, no tail, upright humanoid limbs, broad hands and feet. Never a white dog, bear, human in fur, toy, cartoon or miniature adult. Preserve face and proportions throughout the part; changes happen only at explicitly stated time passages. Do not change age during this clip.
+Frost grows faster because of Bruno's inherited Bigfoot genes and forest ancestry. Human children Tommy and Sarah age normally across the elapsed seasons; use their child references throughout this batch, without changing them to seventeen-year-old or adult faces. Lily matches V04 as the same young adult mother, never pregnant again or suddenly elderly. Martha, Hank and Joe each retain their own reference identity. Grace and Rose do not appear. Bruno is dead; only his old home, carving and Lily's memories remain, not a physical living Bruno.
+Frost has no powered tattoos, flight, magical armor or confirmed invulnerability yet. Part 174's brief light is an unexplained hint, not the ancestral transformation. His strength is exceptional, but rescues still show grounded effort and careful contact.
+
+CAMERA, ACTION AND SOUND:
+Establish positions with a wide or medium-wide view before any rescue, game or contact. Keep screen direction and geography consistent, and keep faces, heads, hands and feet readable inside landscape safe margins. Use medium portraits instead of extreme distorted close-ups. Keep children at the explicitly safe locations; do not duplicate Sarah or Tommy between cuts. Objects change position only through visible handling. Use footsteps, water, restrained exertion, knocks, fire, animal calls or music only when the written scene motivates them. Quiet orchestral support stays beneath dialogue and key effects. Do not add speech to danger or fighting scenes.
+
+CONTINUITY:
+Time passes only where stated; preserve current age, wetness, clothes, props and setting across cuts. Cedar Hollow is in Oregon. The village's trust grows from witnessed kindness; occasional fear does not restart the entire introduction. End on the final written action without copying an earlier part's cliffhanger. No unexplained return to the castle or battlefield. No scene of Frost learning Magnus killed Bruno: that truth comes after the later destruction of Cedar Hollow.
+
+NEGATIVE:
+No subtitles, captions, logos, watermarks, random text, anime/cartoon or plastic faces, face swaps, extra limbs, duplicated characters, gore, nudity, unexpected pregnancy, dog-like Bigfoot or premature supernatural powers. Babies remain securely supported and covered; animal encounters do not become pet comedy unless specifically described.
+
+SHOT PLAN:
+0-5s: Frost holds the framed token after his birthday gift.
+5-11s: A fiddle begins on the nearby porch and people clap along.
+11-17s: He sets the gift safely on a table before joining the music.
+17-24s: Lily, Martha, Hank and the children gather beside him.
+24-30s: End on a warm group embrace with recognizable faces and distinct positions.
+
+SPOKEN HINDI:
+No dialogue or narration. Breathing, motivated effects and score only; no speaking mouth movements.
+
+VOICE DELIVERY:
+No speaking voices.
+Keep a stable approved voice preset per character when available. Deliver each line in the corresponding action pause, with only its speaker lip-syncing. Do not fill quiet or action scenes with dialogue. Finish speech before the edit; avoid overlapping voices.
 
 ENDING HANDOFF OUT:
-Boundary CUT_181_182; following video: PART 182.
-Complete this ending by 30 seconds: Everyone squeezes into one giant group hug around Frost; he laughs and hugs them back very gently. Final frame: the whole town in one big hug.
-Next opening is setup context only: Frost carries too many lantern poles at once to help decorate. He trips and knocks down half the dance garlands.
-Next edit: CONTINUING STORY - FOLLOW THE LOCAL SCENE AND SHOT PLAN. Do not start the next part's action or dialogue in this video. During the final 1 second keep the chosen end composition readable while breathing, cloth, hair and ambience continue naturally. This is an edit handle, not a freeze frame. End with stable identity, props, screen direction and lighting. Avoid a new title, recap, unrequested fade, black tail or music outro at this join.
-
-VOICE AND AUDIO CONTINUITY:
-All audible output is natural Hindi/Hindustani with Hindi lip-sync. Keep the same approved voice preset or reference per character when supported. Otherwise repeat the same Hindi voice description, tone and speaking pace in every separate request; text alone cannot guarantee an identical generated voice. Carry compatible ambience and score across a same-scene cut, with no repeated intro. Finish a line before the edit, leave a natural breath, and do not repeat dialogue from the handoff context.
-
-
-LANGUAGE: HINDI VOICES; ENGLISH INSTRUCTIONS
-FORMAT: YOUTUBE 16:9
-EXACT 30-SECOND OUTPUT LOCK:
-This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
-Model: Seedance 2.5
-Duration: exactly 30 seconds (not 15 seconds)
-Aspect ratio: widescreen 16:9 (YouTube landscape, 1920x1080)
-Mode: Generate this part as one separate 30-second video using the attached reference images.
-
-YOUTUBE 16:9 FRAMING LOCK:
-Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
-
-HINDI OUTPUT LOCK:
-English scene directions are silent control text. All actual spoken dialogue, narration and song lyrics below are already authored in Hindi Devanagari. Speak or sing those exact Hindi lines; do not translate them into English, improvise English words, or read the production instructions. Use natural Hindi pronunciation for names and accurate Hindi lip-sync. Character labels, scene instructions, camera directions and requested screen text remain English. Do not add dialogue subtitles or unrequested cards.
-CHARACTER LOCK: Match each named panel in attachment 1 for face, age stage, body, hair/fur, eyes, and armor. Adult human outfit styling follows the ADULT WARDROBE AND DISTINCT IDENTITIES section; other costumes follow their references. Use the correct age variant shown for this part. Each panel is reference material, not another character to add. Show only the cast requested by the shots. For same-scene continuity retain the approved end frame's dirt, wetness, damage and carried objects.
-LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
-FROST AGE LOCK: Frost's Bigfoot genes make him grow unusually fast. Use only V07_Frost_Teen.png for present-day Frost; do not show baby, kid, adult, or powered Frost here.
-
-LOOK LOCK: Lily always looks young (22–24 years old), innocent, sweet and beautiful — soft fair face, big blue eyes, honey-blonde hair. She never looks older, even years later.
-Golden evening montage in Cedar Hollow, autumn leaves, string lights, a fiddle player on a porch.
-0–3s: A villager plays a fiddle on a porch; people start clapping along. Lily stands up and smiles.
-DIALOGUE 1-3s: NARRATOR (clear, cinematic Hindi story voice): "गीत ने सबको एक कर दिया।"
-3–27s: The whole village SINGS together, clearly audible, lip-synced, upbeat country-folk, Lily leading:
-  3–10s: Lily sings: "चौखट रोशन, चाय तैयार, हर तूफान में साथ है प्यार।"
-  — Shots: Frost carrying three kids on his shoulders; Hank rebuilding the water tower with Frost holding it.
-  10–20s: Everyone sings: "सीडर हॉलो, मेरा घर, अब अकेला नहीं ये सफर..."
-  — Shots: the whole village waving from porches; Frost lifting Martha's car out of the mud; the wolves sleeping near the sheep.
-  20–27s: Everyone sings: "...छोटे-बड़े, सब अपने यहाँ, सीडर हॉलो, अपना जहाँ।"
-  — Shots: Frost in the middle of the town square, everyone hugging him at once.
-27–30s: Everyone squeezes into one giant group hug around Frost; he laughs and hugs them back very gently. Final frame: the whole town in one big hug.
-DIALOGUE 27-30s: Lily (young emotional woman speaking natural Hindi): "मुझे खतरा महसूस हो रहा है।"
-DIALOGUE 8-11s: Frost (deep, young heroic Hindi voice; match the age in this scene): "अपनों को कुछ नहीं होने दूँगा।"
-DIALOGUE 15-18s: Frost (deep, young heroic Hindi voice; match the age in this scene): "पिताजी, मुझे सही राह दिखाइए।"
-SFX: clapping, stomping boots, laughter, crickets.
-MUSIC: upbeat American country-folk with fiddle, acoustic guitar, banjo and foot-stomp percussion under the song.
-
-GLOBAL RULES:
-AUDIO: Generate all spoken dialogue clearly with accurate lip-sync, in natural Hindi / Hindustani, using the exact lines and voices given, at the given timings. No line may be skipped. Include all listed sound effects and the background music. Dialogue must stay louder and clearer than music and effects.
-STYLE: Hyper-realistic cinematic 3D animation, Unreal Engine 5 quality, photorealistic skin, hair and fur, cinematic lighting, shallow depth of field, smooth camera movement, widescreen 16:9 cinematic movie frame.
-SETTING: Fully American / Western. Pacific Northwest USA forests, Western dark-fantasy castle, American people and clothing. No Asian elements, no Asian architecture, no Asian dragons.
-NEGATIVE: no subtitles, no dialogue captions, no watermark, no logo, no random text; brief location/title cards are allowed only when explicitly requested, no extra limbs, no face morphing, no character drift, no gore, no blood spray, no nudity.
+Complete this local event: End on a warm group embrace with recognizable faces and distinct positions.
+Next opening, context only: The birthday gathering ends with Frost carrying his framed token home.
+Keep the final pose readable with natural movement, not a freeze or repeated loop. Do not begin the next scene. Same-scene ambience continues without a new music introduction. Use the full 0-30s timeline with purposeful action and reactions.

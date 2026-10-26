@@ -1,5 +1,21 @@
 # Hindi Version YouTube Movie - FROST: Son of the Wild
 
+## Final Reels Correction Merge - 2026-10-26
+
+The corrected English Reels scenes now drive all 312 Hindi prompts, with literal
+scene-specific Hindi dialogue. Repeated warnings and filler are removed; action
+scenes can be silent. Rose, Grace and Martha are distinct and only appear where
+the local scene requires them. Parts 002/006/011 exclude Rose. Parts 006/011
+include Damian's face detail on the combined board. Frost's growth, counts,
+anatomy and later spirit/power continuity follow the corrected Reels story.
+
+Use the combined board linked in each UPDATED prompt. New boards combine the
+existing images in the same labelled layout. Original office boards are retained.
+The established reference outfit takes priority over styling descriptions;
+adult styling refines fit, natural proportions and fabric. Lily's royal first
+night leads to her escape before consummation; existing gentle affection remains
+in its story context. This update does not verify generated video quality.
+
 This folder is separate from the English YouTube package and the Hindi Reels package.
 
 Use this folder for Hindi YouTube movie videos in widescreen 16:9.
@@ -17,9 +33,9 @@ Seedance 2.5 in your new tool, with 30 seconds and landscape 16:9.
 
 ## Literal Hindi Dialogue
 
-All 312 prompts now include actual Devanagari speech, English voice descriptions
-and scene-specific Hindi narration, not English dialogue with an instruction to
-translate it. Songs are written in Hindi too. Everything non-spoken remains
+All dialogue-bearing prompts include actual Devanagari speech and English voice
+descriptions. Narration is used only where authored; silent parts stay silent.
+Songs are written in Hindi too. Everything non-spoken remains
 English: scene/camera directions, character names, voice descriptions, reference
 labels, and explicitly requested visible cards or written story props. English
 speaker labels match the reference boards. Only the actual words inside spoken
@@ -44,9 +60,9 @@ scenes retain the same outfit and its existing damage; romantic moments retain
 their existing gentle actions. Older women retain their age and character, and
 children's outfits are unchanged.
 
-The existing reference boards supply identity, age and setting. The new adult
-wardrobe descriptions control clothing styling. Reference artwork has not been
-redesigned in this update, and no new images or videos have been generated.
+The combined boards supply identity, age and setting. Costume guidance refines
+the established clothing without replacing it. Updated boards reuse existing
+image pixels; characters have not been redesigned. No video has been generated.
 
 1. Find the part in `Production_Docs/REFERENCE_IMAGE_INDEX.csv`.
 2. Attach its single JPG from `Reference_Sheets/`. Every panel has the character,
@@ -84,7 +100,7 @@ supported. No videos have been rendered as part of this prompt/reference update.
 - `Production_Docs/` - Hindi YouTube output rules.
 - `Reference_Sheets/` - combined, labelled JPG reference boards; attach one per part.
 - `Hindi_YouTube_16x9_ALL_312_REFERENCE_HANDOFF_CLEAN.txt` - all 312 generation-only
-  part blocks, separated by `--------`. Each block has its image link above the
+  part blocks, separated by `-------`. Each block has its image link above the
   copy heading and its complete paste-ready prompt below. Stop copying at that
   part's separator. Each block is still a separate request.
 - `Production_Docs/REFERENCE_HANDOFF_MANIFEST.json` - every part's source image
@@ -96,20 +112,17 @@ supported. No videos have been rendered as part of this prompt/reference update.
 From the repository root, run:
 
 ```text
-python "Hindi version youtube movie/Production_Docs/build_reference_handoffs.py"
-python "Hindi version youtube movie/Production_Docs/validate_reference_handoffs.py"
+python "Hindi version youtube movie/Production_Docs/merge_reel_corrections.py"
+python "Hindi version youtube movie/Production_Docs/merge_reel_corrections.py" --validate
 ```
 
-The builder uses the committed Hindi package at the source SHA recorded in the
-manifest. It only updates this Hindi YouTube folder. Source scene actions and
-speech time slots are retained; actual speech is adapted into short natural
-Hindi using `hindi_dialogue_catalog.py` and `localize_hindi.py`. Handoff context marks existing insertions as
-memories or cutaways where they otherwise replay earlier events. This update is
-not a new storyline. The Cedar Hollow location-card typo is corrected to
-Oregon. Requested title/credit cards stay English; voices alone are Hindi. Part 227's missing
-3-8 second visual range now shows the listeners reacting before the legend vision.
-Pass `--refresh-sheets` to the builder after replacing an approved source image;
-otherwise existing reference JPGs are reused.
+The builder reads the corrected English Reels all-312 script and the authored
+Hindi adaptation in `revised_hindi_dialogue.py`. It writes only this Hindi folder.
+It validates complete timelines, unique Hindi dialogue, matching adjacent handoff
+text, board mappings and dimensions. The older builder/validator entry points now
+delegate to this workflow so they cannot restore the repeated template dialogue.
+Requested title/credit cards stay English; voices alone are Hindi. The English
+source remains unchanged. Generated faces, audio and continuity still need review.
 
 ## Hindi Output Rule
 

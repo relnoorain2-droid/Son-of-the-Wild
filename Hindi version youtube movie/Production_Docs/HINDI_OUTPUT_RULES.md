@@ -16,9 +16,10 @@ Required:
 
 ## Literal Hindi, Not Automatic Translation
 
-Every part now supplies actual Devanagari dialogue and a scene-specific Hindi
-narrator line. Song lyrics and quoted speech in action descriptions are also
-supplied in Hindi. English production directions are not dialogue and must never
+Dialogue-bearing parts supply actual Devanagari dialogue; silent parts stay
+silent. Narration is used only where explicitly authored. Only `SPOKEN HINDI`
+authorizes speech; quotations in handoff/action text are not extra lines.
+English production directions are not dialogue and must never
 be read aloud. Only explicitly requested English title/location/time cards or
 written story props may appear; do not display production instructions or board labels.
 
@@ -31,15 +32,15 @@ Do not translate the supplied Hindi back into English. This removes a source
 of mixed-language results; it cannot guarantee a generator will follow every
 instruction. Listen to each rendered part before approving its end frame.
 
-The English source templates are adapted into short natural Hindi without
-reading the English chapter title as dialogue. All source dialogue slots and
-time windows are retained. No videos were generated or auditioned by this update.
+The corrected English Reels scenes are adapted into short natural Hindi without
+reading the chapter title as dialogue. Repeated filler and unnecessary Rose
+warnings are removed. No minimum dialogue count is imposed. No videos were
+generated or auditioned by this update.
 
-The authored catalog and deterministic mappings are in
-`hindi_dialogue_catalog.py` and `localize_hindi.py`. The validator checks all
-312 copy areas for native Hindi voice payloads and every timed speech slot.
-It separately permits known English screen-text and sound-effect labels, and
-checks that no Hindi production instructions were added outside spoken quotes.
+The authored adaptation is in `revised_hindi_dialogue.py`. Build and validate
+with `merge_reel_corrections.py`; the old entry points delegate to it. Validation
+covers all 312 prompts, Hindi-only unique spoken payloads, timelines, adjacent
+handoff text, combined reference boards and their dimensions.
 
 Not allowed:
 - English spoken dialogue.

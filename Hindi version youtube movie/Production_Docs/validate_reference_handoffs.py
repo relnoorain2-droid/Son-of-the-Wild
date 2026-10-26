@@ -143,4 +143,5 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    from merge_reel_corrections import validate
+    validate()
