@@ -13,7 +13,7 @@ PROMPT TO COPY AND PASTE (SEEDANCE 2.5)
 
 PART 004 - "Wedding Bells In A Silent City"
 
-SPOKEN LANGUAGE: HINDI ONLY. Every character and narrator speaks natural Hindi/Hindustani. English in the written directions is control text only. Translate every quoted English dialogue line into Hindi before speaking it; never read English dialogue aloud. Use natural Hindi pronunciation for proper names, Hindi lip-sync, and Devanagari for requested title/location/time cards.
+SPOKEN LANGUAGE: HINDI ONLY. Every character and narrator speaks natural Hindi/Hindustani. The dialogue and lyrics below are already written in Hindi: speak or sing the exact Devanagari lines, not English translations. Only audible words are Hindi. Character names, voice descriptions, scene and camera directions, reference labels and requested screen text remain English. Do not read the English instructions aloud. No English dialogue, English narration or English singing. Use accurate Hindi lip-sync. No dialogue subtitles unless separately requested. Vocalize only the supplied Hindi words; do not invent additional English speech or lyrics. Keep speech intelligible: timed DIALOGUE lines take priority, and singing or background whispers use the pauses rather than speaking over another line.
 
 ADULT WARDROBE AND DISTINCT IDENTITIES:
 Use glamorous, flattering costume tailoring and rich, realistic fabrics for adult human women. Preserve every woman's own reference face, age, body proportions, hair color and role; do not give everyone the same face or make older women look young. Children retain their original age-appropriate clothes.
@@ -45,7 +45,7 @@ For a same-scene join, continue the resulting pose and action immediately after 
 
 ENDING HANDOFF OUT:
 Boundary CUT_004_005; following video: PART 005.
-Complete this ending by 30 seconds: Two maids whisper behind the curtain.
+Complete this ending by 30 seconds: Two maids whisper behind the curtain in Hindi: "यहाँ कुछ ठीक नहीं है।"
 Next opening is setup context only: Damian speaks gently during the ceremony and makes the bride believe the rumors may be wrong.
 Next edit: CONTINUING STORY - FOLLOW THE LOCAL SCENE AND SHOT PLAN. Do not start the next part's action or dialogue in this video. During the final 1 second keep the chosen end composition readable while breathing, cloth, hair and ambience continue naturally. This is an edit handle, not a freeze frame. End with stable identity, props, screen direction and lighting. Avoid a new title, recap, unrequested fade, black tail or music outro at this join.
 
@@ -53,9 +53,9 @@ VOICE AND AUDIO CONTINUITY:
 All audible output is natural Hindi/Hindustani with Hindi lip-sync. Keep the same approved voice preset or reference per character when supported. Otherwise repeat the same Hindi voice description, tone and speaking pace in every separate request; text alone cannot guarantee an identical generated voice. Carry compatible ambience and score across a same-scene cut, with no repeated intro. Finish a line before the edit, leave a natural breath, and do not repeat dialogue from the handoff context.
 
 
-LANGUAGE: HINDI OUTPUT ONLY
+LANGUAGE: HINDI VOICES; ENGLISH INSTRUCTIONS
 HINDI OUTPUT LOCK:
-The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, title card, place card, and visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Keep proper names such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain as names.
+English scene directions are silent control text. All actual spoken dialogue, narration and song lyrics below are already authored in Hindi Devanagari. Speak or sing those exact Hindi lines; do not translate them into English, improvise English words, or read the production instructions. Use natural Hindi pronunciation for names and accurate Hindi lip-sync. Character labels, scene instructions, camera directions and requested screen text remain English. Do not add dialogue subtitles or unrequested cards.
 FORMAT: YOUTUBE 16:9
 EXACT 30-SECOND OUTPUT LOCK:
 This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
@@ -71,14 +71,14 @@ CHARACTER LOCK: Match each named panel in attachment 1 for face, age stage, body
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
 Scene: The royal wedding begins with flowers, music, priests, guards, and citizens forced to clap.
 0-3s: The royal wedding begins with flowers, music, priests, guards, and citizens forced to clap.
-DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now Wedding Bells In A Silent City moves the story forward."
+DIALOGUE 1-4s: NARRATOR (clear, cinematic Hindi story voice): "शादी की धुन में पूरा शहर खामोश था।"
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Rose (old nervous castle maid):  tonight."Remember Wedding Bells In A Silent City, child. It is your warning."
+DIALOGUE 5-8s: Rose (quiet, nervous older woman speaking Hindi): "बेटी, इसे चेतावनी समझो।"
 10-18s: The royal wedding begins with flowers, music, priests, guards, and citizens forced to clap.
-DIALOGUE 11-15s: Prince Damian (smooth cold prince voice): "Smile through Wedding Bells In A Silent City; the court is watching."
+DIALOGUE 11-15s: Prince Damian (smooth, cold young prince speaking Hindi): "मुस्कुराओ, दरबार देख रहा है।"
 18-24s: The bride notices nobody in the crowd looks happy.
-DIALOGUE 19-23s: King Magnus (deep rough commanding king): "Let the kingdom remember Wedding Bells In A Silent City."
-24-30s: Build into the hook: Two maids whisper behind the curtain.
+DIALOGUE 19-23s: King Magnus (deep, rough, commanding Hindi king voice): "यह दिन पूरा राज्य याद रखेगा।"
+24-30s: Build into the hook: Two maids whisper behind the curtain in Hindi: "यहाँ कुछ ठीक नहीं है।"
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.
 CAMERA: clear subject framing, expressive faces, one clean action beat, then a strong final hook.

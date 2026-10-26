@@ -13,7 +13,7 @@ PROMPT TO COPY AND PASTE (SEEDANCE 2.5)
 
 PART 063 - "The Song From Home"
 
-SPOKEN LANGUAGE: HINDI ONLY. Every character and narrator speaks natural Hindi/Hindustani. English in the written directions is control text only. Translate every quoted English dialogue line into Hindi before speaking it; never read English dialogue aloud. Use natural Hindi pronunciation for proper names, Hindi lip-sync, and Devanagari for requested title/location/time cards.
+SPOKEN LANGUAGE: HINDI ONLY. Every character and narrator speaks natural Hindi/Hindustani. The dialogue and lyrics below are already written in Hindi: speak or sing the exact Devanagari lines, not English translations. Only audible words are Hindi. Character names, voice descriptions, scene and camera directions, reference labels and requested screen text remain English. Do not read the English instructions aloud. No English dialogue, English narration or English singing. Use accurate Hindi lip-sync. No dialogue subtitles unless separately requested. Vocalize only the supplied Hindi words; do not invent additional English speech or lyrics. Keep speech intelligible: timed DIALOGUE lines take priority, and singing or background whispers use the pauses rather than speaking over another line.
 
 ADULT WARDROBE AND DISTINCT IDENTITIES:
 Use glamorous, flattering costume tailoring and rich, realistic fabrics for adult human women. Preserve every woman's own reference face, age, body proportions, hair color and role; do not give everyone the same face or make older women look young. Children retain their original age-appropriate clothes.
@@ -36,9 +36,9 @@ Use the existing complete 0-30s action and dialogue timeline below. Every time r
 
 OPENING HANDOFF IN:
 Boundary CUT_062_063; previous video: PART 062.
-Completed previous ending (context, not a scene to replay): Bruno promises, 'Bruno stay.'
+Completed previous ending (context, not a scene to replay): Bruno promises, "ब्रूनो यहीं रहेगा।"
 Edit instruction: CONTINUING STORY - FOLLOW THE LOCAL SCENE AND SHOT PLAN.
-First action in this video: Lily sings a small song Grace taught her while Bruno listens quietly.
+First action in this video: In pauses between timed dialogue, Lily softly sings the short Hindi line Grace taught her: "माँ का आँचल, घर की छाँव।" Bruno listens quietly.
 For a same-scene join, continue the resulting pose and action immediately after the supplied end frame. Preserve camera side, left/right positions, eyelines, movement direction, held objects, wetness, dirt, wounds, clothes, weather and light; do not reset them to a clean reference portrait. When the local scene or the edit instruction changes time, location, viewpoint or enters a memory, make that deliberate cut and establish the local setting. Carry identities and story consequences, not the previous background or absent cast. A memory returns to its stated age/outfit; it does not resurrect a character in the present. Speak only this part's dialogue.
 
 ENDING HANDOFF OUT:
@@ -51,9 +51,9 @@ VOICE AND AUDIO CONTINUITY:
 All audible output is natural Hindi/Hindustani with Hindi lip-sync. Keep the same approved voice preset or reference per character when supported. Otherwise repeat the same Hindi voice description, tone and speaking pace in every separate request; text alone cannot guarantee an identical generated voice. Carry compatible ambience and score across a same-scene cut, with no repeated intro. Finish a line before the edit, leave a natural breath, and do not repeat dialogue from the handoff context.
 
 
-LANGUAGE: HINDI OUTPUT ONLY
+LANGUAGE: HINDI VOICES; ENGLISH INSTRUCTIONS
 HINDI OUTPUT LOCK:
-The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, title card, place card, and visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Keep proper names such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain as names.
+English scene directions are silent control text. All actual spoken dialogue, narration and song lyrics below are already authored in Hindi Devanagari. Speak or sing those exact Hindi lines; do not translate them into English, improvise English words, or read the production instructions. Use natural Hindi pronunciation for names and accurate Hindi lip-sync. Character labels, scene instructions, camera directions and requested screen text remain English. Do not add dialogue subtitles or unrequested cards.
 FORMAT: YOUTUBE 16:9
 EXACT 30-SECOND OUTPUT LOCK:
 This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
@@ -67,15 +67,15 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 CHARACTER LOCK: Match each named panel in attachment 1 for face, age stage, body, hair/fur, eyes, and armor. Adult human outfit styling follows the ADULT WARDROBE AND DISTINCT IDENTITIES section; other costumes follow their references. Use the correct age variant shown for this part. Each panel is reference material, not another character to add. Show only the cast requested by the shots. For same-scene continuity retain the approved end frame's dirt, wetness, damage and carried objects.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
-Scene: Lily sings a small song Grace taught her while Bruno listens quietly.
-0-3s: Lily sings a small song Grace taught her while Bruno listens quietly.
-DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now The Song From Home moves the story forward."
+Scene: In pauses between timed dialogue, Lily softly sings the short Hindi line Grace taught her: "माँ का आँचल, घर की छाँव।" Bruno listens quietly.
+0-3s: In pauses between timed dialogue, Lily softly sings the short Hindi line Grace taught her: "माँ का आँचल, घर की छाँव।" Bruno listens quietly.
+DIALOGUE 1-4s: NARRATOR (clear, cinematic Hindi story voice): "माँ का सिखाया गीत लिली के होंठों पर लौटा।"
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Bruno (very deep gentle Bigfoot voice):  now."The Song From Home means Bruno must stay gentle and close."
-10-18s: Lily sings a small song Grace taught her while Bruno listens quietly.
-DIALOGUE 11-15s: Lily (young emotional American woman): "I have to survive The Song From Home without losing myself."
+DIALOGUE 5-8s: Bruno (very deep, gentle Hindi voice; short simple sentences): "ब्रूनो यहीं है, तुम्हारे पास।"
+10-18s: In pauses between timed dialogue, Lily softly sings the short Hindi line Grace taught her: "माँ का आँचल, घर की छाँव।" Bruno listens quietly.
+DIALOGUE 11-15s: Lily (young emotional woman speaking natural Hindi): "हिम्मत रखकर यहाँ से निकलना होगा।"
 18-24s: Bruno hums along in his deep voice.
-DIALOGUE 19-23s: Lily (young emotional American woman): "After The Song From Home, I cannot ignore the truth anymore."
+DIALOGUE 19-23s: Lily (young emotional woman speaking natural Hindi): "अब सच नहीं छिपा सकती।"
 24-30s: Build into the hook: Lily cries because it feels like family.
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.

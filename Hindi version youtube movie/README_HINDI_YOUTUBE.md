@@ -15,6 +15,20 @@ Use the reference image attachments and prompt text directly in your video tool.
 No skill file, skill upload or Dola-specific command is required. Select
 Seedance 2.5 in your new tool, with 30 seconds and landscape 16:9.
 
+## Literal Hindi Dialogue
+
+All 312 prompts now include actual Devanagari speech, English voice descriptions
+and scene-specific Hindi narration, not English dialogue with an instruction to
+translate it. Songs are written in Hindi too. Everything non-spoken remains
+English: scene/camera directions, character names, voice descriptions, reference
+labels, and explicitly requested visible cards or written story props. English
+speaker labels match the reference boards. Only the actual words inside spoken
+or sung lines are Hindi, as requested.
+
+Use the newly updated prompts, not an older downloaded copy. Listen to the
+rendered audio before accepting each part. These text corrections reduce language
+ambiguity but do not guarantee generator compliance or identical voices.
+
 All combined reference sheets are limited to 8,000,000 pixels (8.0 MP) and
 4096 pixels on the longest side, leaving room below the tool's 8.3 MP limit.
 Labels and panel layout are preserved. Reference links include a version suffix
@@ -66,7 +80,7 @@ supported. No videos have been rendered as part of this prompt/reference update.
 
 ## Folder Contents
 
-- `Prompts_16x9_Hindi/` - all 312 Dola-ready prompts for Hindi YouTube 16:9 output.
+- `Prompts_16x9_Hindi/` - all 312 Seedance 2.5 prompts for Hindi YouTube 16:9 output.
 - `Production_Docs/` - Hindi YouTube output rules.
 - `Reference_Sheets/` - combined, labelled JPG reference boards; attach one per part.
 - `Hindi_YouTube_16x9_ALL_312_REFERENCE_HANDOFF_CLEAN.txt` - all 312 generation-only
@@ -87,23 +101,24 @@ python "Hindi version youtube movie/Production_Docs/validate_reference_handoffs.
 ```
 
 The builder uses the committed Hindi package at the source SHA recorded in the
-manifest. It only updates this Hindi YouTube folder. Its source dialogue and
-scene actions are retained; new handoff context marks existing insertions as
+manifest. It only updates this Hindi YouTube folder. Source scene actions and
+speech time slots are retained; actual speech is adapted into short natural
+Hindi using `hindi_dialogue_catalog.py` and `localize_hindi.py`. Handoff context marks existing insertions as
 memories or cutaways where they otherwise replay earlier events. This update is
-not a new dialogue rewrite. The Cedar Hollow location-card typo is corrected to
-Oregon and the opening title/credit examples are in Hindi. Part 227's missing
+not a new storyline. The Cedar Hollow location-card typo is corrected to
+Oregon. Requested title/credit cards stay English; voices alone are Hindi. Part 227's missing
 3-8 second visual range now shows the listeners reacting before the legend vision.
 Pass `--refresh-sheets` to the builder after replacing an approved source image;
 otherwise existing reference JPGs are reused.
 
 ## Hindi Output Rule
 
-The prompt instructions can stay in English, but Dola must generate the video output in Hindi:
+The prompt instructions can stay in English, but the video tool must use the supplied Hindi output:
 
 - Hindi spoken dialogue
 - Hindi narrator voice
+- Hindi song lyrics
 - Hindi lip-sync
-- Hindi title cards and location/time cards in Devanagari
-- Hindi YouTube title/description after download
+- English production instructions and requested screen text
 
-Character names and place names can remain as names.
+Character and place names retain their identities with Hindi pronunciation.

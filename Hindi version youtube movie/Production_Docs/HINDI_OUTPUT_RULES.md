@@ -1,19 +1,45 @@
 # Hindi Output Rules
 
-All Hindi package videos must output in Hindi, even if the control prompt is written in English.
+Only audible words are Hindi. Production instructions and non-spoken text remain English.
 
 Required:
 - Spoken dialogue in natural Hindi / Hindustani.
 - Narrator in Hindi movie-trailer style.
 - Accurate Hindi lip-sync.
-- On-screen title, place, and time cards in Hindi Devanagari.
-- Opening title: "फ्रॉस्ट: जंगल का बेटा".
-- Director card: "निर्देशन: नूरुल ऐन".
-- Captions/titles/descriptions after download in Hindi.
+- Singing and any audible words in Hindi.
+- Scene, action, camera, timing, reference and continuity instructions in English.
+- Character names and voice descriptions in English, matching the reference board.
+- Requested visible cards and written props remain English, not spoken dialogue.
+- Opening title: "FROST: SON OF THE WILD".
+- Director card: "Directed by Noorul Ain".
+- No added dialogue subtitles.
 
-Allowed:
-- Character names can remain names: Lily, Bruno, Frost, Damian, Magnus, Rose.
-- Place names can remain names: Oregon, Cedar Hollow.
+## Literal Hindi, Not Automatic Translation
+
+Every part now supplies actual Devanagari dialogue and a scene-specific Hindi
+narrator line. Song lyrics and quoted speech in action descriptions are also
+supplied in Hindi. English production directions are not dialogue and must never
+be read aloud. Only explicitly requested English title/location/time cards or
+written story props may appear; do not display production instructions or board labels.
+
+Names retain their identity and Hindi pronunciation. English speaker labels
+such as Lily, Bruno and Frost match the reference board directly. Their English
+voice descriptions request natural Hindi delivery, not American-English speech.
+
+Do not ask the video tool to translate English dialogue at generation time.
+Do not translate the supplied Hindi back into English. This removes a source
+of mixed-language results; it cannot guarantee a generator will follow every
+instruction. Listen to each rendered part before approving its end frame.
+
+The English source templates are adapted into short natural Hindi without
+reading the English chapter title as dialogue. All source dialogue slots and
+time windows are retained. No videos were generated or auditioned by this update.
+
+The authored catalog and deterministic mappings are in
+`hindi_dialogue_catalog.py` and `localize_hindi.py`. The validator checks all
+312 copy areas for native Hindi voice payloads and every timed speech slot.
+It separately permits known English screen-text and sound-effect labels, and
+checks that no Hindi production instructions were added outside spoken quotes.
 
 Not allowed:
 - English spoken dialogue.

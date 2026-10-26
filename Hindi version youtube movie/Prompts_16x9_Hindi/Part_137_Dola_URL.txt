@@ -13,7 +13,7 @@ PROMPT TO COPY AND PASTE (SEEDANCE 2.5)
 
 PART 137 - "The First Kindness"
 
-SPOKEN LANGUAGE: HINDI ONLY. Every character and narrator speaks natural Hindi/Hindustani. English in the written directions is control text only. Translate every quoted English dialogue line into Hindi before speaking it; never read English dialogue aloud. Use natural Hindi pronunciation for proper names, Hindi lip-sync, and Devanagari for requested title/location/time cards.
+SPOKEN LANGUAGE: HINDI ONLY. Every character and narrator speaks natural Hindi/Hindustani. The dialogue and lyrics below are already written in Hindi: speak or sing the exact Devanagari lines, not English translations. Only audible words are Hindi. Character names, voice descriptions, scene and camera directions, reference labels and requested screen text remain English. Do not read the English instructions aloud. No English dialogue, English narration or English singing. Use accurate Hindi lip-sync. No dialogue subtitles unless separately requested. Vocalize only the supplied Hindi words; do not invent additional English speech or lyrics. Keep speech intelligible: timed DIALOGUE lines take priority, and singing or background whispers use the pauses rather than speaking over another line.
 
 ADULT WARDROBE AND DISTINCT IDENTITIES:
 Use glamorous, flattering costume tailoring and rich, realistic fabrics for adult human women. Preserve every woman's own reference face, age, body proportions, hair color and role; do not give everyone the same face or make older women look young. Children retain their original age-appropriate clothes.
@@ -52,9 +52,9 @@ VOICE AND AUDIO CONTINUITY:
 All audible output is natural Hindi/Hindustani with Hindi lip-sync. Keep the same approved voice preset or reference per character when supported. Otherwise repeat the same Hindi voice description, tone and speaking pace in every separate request; text alone cannot guarantee an identical generated voice. Carry compatible ambience and score across a same-scene cut, with no repeated intro. Finish a line before the edit, leave a natural breath, and do not repeat dialogue from the handoff context.
 
 
-LANGUAGE: HINDI OUTPUT ONLY
+LANGUAGE: HINDI VOICES; ENGLISH INSTRUCTIONS
 HINDI OUTPUT LOCK:
-The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, title card, place card, and visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Keep proper names such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain as names.
+English scene directions are silent control text. All actual spoken dialogue, narration and song lyrics below are already authored in Hindi Devanagari. Speak or sing those exact Hindi lines; do not translate them into English, improvise English words, or read the production instructions. Use natural Hindi pronunciation for names and accurate Hindi lip-sync. Character labels, scene instructions, camera directions and requested screen text remain English. Do not add dialogue subtitles or unrequested cards.
 FORMAT: YOUTUBE 16:9
 EXACT 30-SECOND OUTPUT LOCK:
 This must be exactly one 30-second video. Do not generate a 15-second version. Do not use auto/default duration. Use the full 0-30s timeline, including the 22-30s punch/cliffhanger. If any duration control exists, set it to 30 seconds.
@@ -71,13 +71,13 @@ LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innoce
 FROST AGE LOCK: Frost is a newborn/baby here. Use only V05_Frost_Baby.png for Frost; do not show kid, teen, adult, or powered Frost in this part.
 Scene: Frost crawls to a crying child and gently gives back her doll.
 0-3s: Frost crawls to a crying child and gently gives back her doll.
-DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now The First Kindness moves the story forward."
+DIALOGUE 1-4s: NARRATOR (clear, cinematic Hindi story voice): "उसकी दया डर से बड़ी साबित होने लगी।"
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
-DIALOGUE 5-8s: Frost (deep young heroic voice):  tonight."The First Kindness is where I stand for my family."
+DIALOGUE 5-8s: Frost (deep, young heroic Hindi voice; match the age in this scene): "मैं परिवार के साथ हूँ।"
 10-18s: Frost crawls to a crying child and gently gives back her doll.
-DIALOGUE 11-15s: Lily (young emotional American woman): "I have to survive The First Kindness without losing myself."
+DIALOGUE 11-15s: Lily (young emotional woman speaking natural Hindi): "हिम्मत रखकर यहाँ से निकलना होगा।"
 18-24s: The child's fear softens for one second.
-DIALOGUE 19-23s: Martha (warm Southern voice): "Breathe first; The First Kindness can wait one second."
+DIALOGUE 19-23s: Martha (warm, lively older woman speaking Hindi): "पहले साँस लो, फिर देखेंगे।"
 24-30s: Build into the hook: Her father pulls her away.
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.

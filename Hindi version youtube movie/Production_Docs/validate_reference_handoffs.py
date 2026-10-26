@@ -10,6 +10,8 @@ from PIL import Image
 from build_reference_handoffs import (BASE, FOLDER, MAX_REFERENCE_PIXELS, MAX_REFERENCE_SIDE,
                                     PACKAGE, PASTE_MARKER, ROOT, SHOT, URL, git_text,
                                     reference_size)
+from hindi_dialogue_catalog import NARRATION
+from localize_hindi import DEVANAGARI, LATIN, SPEECH, VOICES, translate_line, validate_native_payloads
 
 
 def main():
@@ -29,6 +31,7 @@ def main():
     blocks = re.split(r'\n\n--------\n\n', combined_path.read_text(encoding='utf-8').strip())
     assert len(blocks) == 312
     sheets = {}
+    speech_count = quoted_count = 0
     for i, record in enumerate(records):
         number = i + 1
         assert record['part'] == number
@@ -41,9 +44,17 @@ def main():
         assert 'HINDI YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD' not in blocks[i]
         assert 'FORMAT: YOUTUBE 16:9' in body
         assert 'Duration: exactly 30 seconds' in body
-        assert 'LANGUAGE: HINDI OUTPUT ONLY' in body
+        assert 'LANGUAGE: HINDI VOICES; ENGLISH INSTRUCTIONS' in body
         assert 'Model: Seedance 2.5' in body
         assert 'SPOKEN LANGUAGE: HINDI ONLY' in body
+        assert 'already written in Hindi' in body
+        assert 'Translate every' not in body
+        assert 'young emotional American woman' not in body
+        assert record['speech_language'] == 'Hindi'
+        assert record['speech_script'] == 'Devanagari'
+        assert record['authored_narrator_line'] == NARRATION[number]['line']
+        assert record['authored_narrator_line'] in body
+        quoted_count += validate_native_payloads(body, record['title'])
         assert body.count('ADULT WARDROBE AND DISTINCT IDENTITIES:') == 1
         assert 'Children retain their original age-appropriate clothes.' in body
         assert record['wardrobe']['scope'].startswith('Adult human women only')
@@ -77,10 +88,25 @@ def main():
         else:
             assert record['outgoing'] is None
             assert 'No next-part hook or new threat' in body
-        # No dialogue is silently dropped by this reference/continuity update.
-        original_speech = re.findall(r'(?m)^DIALOGUE .*$', original)
-        output_speech = re.findall(r'(?m)^DIALOGUE .*$', text)
-        assert original_speech == output_speech, number
+        # Preserve every speech slot (including indented montage speech), but
+        # require literal Hindi rather than asking the generator to translate.
+        original_speech = list(SPEECH.finditer(original))
+        output_speech = list(SPEECH.finditer(body))
+        assert len(original_speech) == len(output_speech), number
+        assert len(output_speech) == len(re.findall(r'(?m)^\s*DIALOGUE ', body)), number
+        for source, output in zip(original_speech, output_speech):
+            assert (source['start'], source['end']) == (output['start'], output['end']), number
+            assert output['speaker'] == source['speaker'], (number, output[0])
+            payload = output['payload'].strip('"')
+            assert DEVANAGARI.search(payload) and not LATIN.search(payload), (number, output[0])
+            assert output['voice'] == VOICES[source['speaker']]
+            assert not DEVANAGARI.search(output['voice'])
+            expected_source = re.search(r'"([^"\n]+)"', source['payload'])[1]
+            expected = translate_line(expected_source, number, record['title'], source['speaker'],
+                                      int(source['end']) - int(source['start']))
+            assert payload == expected, (number, output[0])
+            assert len(payload.split()) <= 3 * (int(output['end']) - int(output['start'])), (number, output[0])
+        speech_count += len(output_speech)
         cursor = 0
         for shot in SHOT.finditer(body):
             start, end = int(shot[1]), int(shot[2])
@@ -107,7 +133,9 @@ def main():
     assert len(sheets) == len(list((PACKAGE / 'Reference_Sheets').glob('*.jpg')))
     print(f'PASS: 312 individual prompts; 312 clean combined blocks; {len(sheets)} valid named JPG boards; '
           '311 matching boundaries; one required image per part, at most three; all local timelines cover 0-30s; '
-          'Hindi 16:9 preserved; original dialogue retained; final closure preserved; '
+          f'Hindi 16:9 preserved; {speech_count} native Hindi speech slots and {quoted_count} Hindi voice '
+          'payloads checked; instructions, speaker labels and screen text remain English; source speech timings retained; '
+          'final closure preserved; '
           'direct Seedance 2.5 image-and-text prompts with no skill dependency; '
           'all image links above the copy heading, no links or status notes below it; '
           'adult wardrobe rules and unchanged child costumes checked; '

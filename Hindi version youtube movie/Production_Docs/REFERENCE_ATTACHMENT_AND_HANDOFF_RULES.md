@@ -9,9 +9,12 @@ There is no skill file to upload or activate. Choose Seedance 2.5,
 The image link and preparation instructions are above `PROMPT TO COPY AND PASTE
 (SEEDANCE 2.5)`. Copy everything below that heading through the end of the part.
 That copy area contains no URLs, status checklist or post-description notes.
-All characters and the narrator speak Hindi/Hindustani. English quoted dialogue
-in the source control text must be translated before being spoken; it is never
-an instruction to produce English audio. Requested visible cards use Devanagari.
+All characters and the narrator speak the supplied Hindi/Hindustani lines.
+Dialogue, narration and lyrics are already written in Devanagari; do not rely on
+automatic English-to-Hindi translation in the video tool. Scene/camera directions,
+speaker labels, voice descriptions and reference labels remain English. Directions
+and board labels are not spoken or displayed. Explicitly requested English screen
+cards and written props remain English; the spoken voices alone are Hindi.
 
 ## Image Slots
 
@@ -39,7 +42,7 @@ part. Referencing the entire board never authorizes a new cast entrance.
 Read the board to preserve identity, fur, age stage, clothes, creature design,
 architecture and style. Compose and animate the movie scene fresh. Do not show
 the board, labels, panel grid or source filenames in the movie. Only explicitly
-requested Hindi movie/location/time cards may be visible on screen.
+requested English movie/location/time cards or written story props may be visible.
 
 ## Precedence At A Join
 
@@ -62,7 +65,8 @@ cut and lighting/sound transition; do not add unrequested explanatory captions.
 Some older Hindi story insertions revisit an earlier event. The new edit labels
 identify those as memories, cutaways or the lead-up to the same event; they do
 not depict a second rescue, first arrival, pregnancy reveal or power ritual in
-the present. The local action/dialogue is otherwise retained from the source.
+the present. Local action and source speech time windows are retained; dialogue
+is adapted into concise natural Hindi instead of reading English chapter titles.
 
 ## Receiving And Passing A Handoff
 

@@ -17,6 +17,9 @@ from urllib.parse import quote, unquote
 
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 
+from hindi_dialogue_catalog import NARRATION
+from localize_hindi import localize_body, localize_quotes, validate_native_payloads
+
 PACKAGE = Path(__file__).resolve().parents[1]
 ROOT = PACKAGE.parent
 BASE = '885eb6afd26a0cd528f8592db8dc7fb18a4e4aeb'
@@ -182,9 +185,13 @@ def parse(path):
             candidates = list((ROOT / 'Characters_Dola_1024').rglob(filename))
             assert len(candidates) == 1
             local_refs.append(candidates[0].relative_to(ROOT).as_posix())
-    return {'number': int(match[1]), 'title': match[2], 'path': path, 'source': text,
+    number, title = int(match[1]), match[2]
+    shots = [(start, end, localize_quotes(action, number, title)) for start, end, action in shots]
+    return {'number': number, 'title': title, 'path': path, 'source': text,
             'source_sha256': hashlib.sha256(text.encode('utf-8')).hexdigest(),
-            'shots': shots, 'first': first, 'ending': ending, 'context': context,
+            'shots': shots, 'first': localize_quotes(first, number, title),
+            'ending': localize_quotes(ending, number, title),
+            'context': localize_quotes(context, number, title),
             'references': local_refs}
 
 
@@ -438,15 +445,26 @@ def update(part, incoming, outgoing, sheet_path, panels):
     if number == 227:
         visual_bridge = next(s[2] for s in part['shots'] if s[:2] == (3, 8))
         text = re.sub(r'(?m)^(8[-\u2013]24s:)', f'3-8s: {visual_bridge}\n\\1', text, count=1)
-    # The Hindi output instruction overrides English control-text examples.
-    text = text.replace('"FROST: SON OF THE WILD" and below it "Directed by Noorul Ain"',
-                        '"फ्रॉस्ट: जंगल का बेटा" and below it "निर्देशन: नूरुल ऐन"')
+    text = re.sub(r'(?m)^The prompt instructions may be written in English,.*$',
+                  'English scene directions are silent control text. All actual spoken dialogue, narration '
+                  'and song lyrics below are already authored in Hindi Devanagari. '
+                  'Speak or sing those exact Hindi lines; do not translate them into English, improvise '
+                  'English words, or read the production instructions. Use natural Hindi pronunciation '
+                  'for names and accurate Hindi lip-sync. Character labels, scene instructions, camera '
+                  'directions and requested screen text remain English. Do not add dialogue subtitles '
+                  'or unrequested cards.', text)
+    text = text.replace('LANGUAGE: HINDI OUTPUT ONLY', 'LANGUAGE: HINDI VOICES; ENGLISH INSTRUCTIONS')
     contract = (
         f'PART {number:03} - "{part["title"]}"\n\n'
         'SPOKEN LANGUAGE: HINDI ONLY. Every character and narrator speaks natural Hindi/Hindustani. '
-        'English in the written directions is control text only. Translate every quoted English dialogue line '
-        'into Hindi before speaking it; never read English dialogue aloud. Use natural Hindi pronunciation '
-        'for proper names, Hindi lip-sync, and Devanagari for requested title/location/time cards.\n\n'
+        'The dialogue and lyrics below are already written in Hindi: speak or sing the exact Devanagari '
+        'lines, not English translations. Only audible words are Hindi. Character names, voice descriptions, '
+        'scene and camera directions, reference labels and requested screen text remain English. '
+        'Do not read the English instructions aloud. No English dialogue, English narration or English '
+        'singing. Use accurate Hindi lip-sync. No dialogue subtitles unless separately requested. '
+        'Vocalize only the supplied Hindi words; do not invent additional English speech or lyrics. '
+        'Keep speech intelligible: timed DIALOGUE lines take priority, and singing or background whispers '
+        'use the pauses rather than speaking over another line.\n\n'
         + wardrobe_text(part) +
         'SEPARATE GENERATION + REFERENCE MAPPING:\n'
         'Generate this numbered part from a fresh request. There is no memory of an earlier video. '
@@ -476,6 +494,8 @@ def update(part, incoming, outgoing, sheet_path, panels):
     )
     body = text.split('PROMPT TO PASTE IN DOLA\n', 1)[1]
     body = body.split('\nHINDI YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD', 1)[0].strip()
+    body = localize_body(body, number, part['title'])
+    validate_native_payloads(contract + '\n\n' + body, part['title'])
     preparation = (
         f'FROST: Son of the Wild\nPART {number:03} - "{part["title"]}"\n\n'
         'REFERENCE IMAGES - PREPARE ABOVE THE COPY LINE\n'
@@ -519,6 +539,8 @@ def main():
         with Image.open(target) as image:
             image_width, image_height = image.size
         reports.append({'part': part['number'], 'title': part['title'],
+                        'speech_language': 'Hindi', 'speech_script': 'Devanagari',
+                        'authored_narrator_line': NARRATION[part['number']]['line'],
                         'source_sha256': part['source_sha256'],
                         'reference_board': target.relative_to(PACKAGE).as_posix(),
                         'reference_image_width': image_width,
@@ -540,7 +562,10 @@ def main():
               'reference_image_max_side': MAX_REFERENCE_SIDE,
               'unique_labelled_reference_sheets': len(assets),
               'continuous_boundaries': 311,
-              'method': 'Preserve Hindi scene actions and dialogue; replace unlimited URL sets with one labelled '
+              'speech_language': 'Hindi', 'speech_script': 'Devanagari',
+              'runtime_dialogue_translation_required': False,
+              'method': 'Preserve scene actions, speech slots and handoffs; adapt literal dialogue, narration, '
+                        'and lyrics into authored Hindi; non-spoken text remains English. Replace unlimited URL sets with one labelled '
                         'board per unique set and explicit shared incoming/outgoing states. Scene changes and '
                         'memory inserts are identified to avoid resetting the present timeline. No video rendered.',
               'records': reports}
