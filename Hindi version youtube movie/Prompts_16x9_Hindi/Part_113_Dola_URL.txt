@@ -1,22 +1,44 @@
-REFERENCE IMAGE URLS (DIRECT GITHUB RAW - DOLA CAN ACCESS):
-V03_Lily_Pregnant.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V03_Lily_Pregnant/V03_Lily_Pregnant.png
-V04_Lily_VillageMom.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Variants/V04_Lily_VillageMom/V04_Lily_VillageMom.png
-L06_AbandonedCabin.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L06_AbandonedCabin/L06_AbandonedCabin.png
-L07_Village.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Locations/L07_Village/L07_Village.png
-S02_MarthaHayes_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S02_MarthaHayes/S02_MarthaHayes_FULL.png
-S03_HankMiller_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S03_HankMiller/S03_HankMiller_FULL.png
-S04_OldJoeWhitaker_FULL.png = https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Characters_Dola_1024/Supporting/S04_OldJoeWhitaker/S04_OldJoeWhitaker_FULL.png
-
 FROST: Son of the Wild
 PART 113 - "Grace In A Dream"
 Punch: EXPANDED CUT - FORWARD STORY BEAT
-Status: ready - EXPANDED CANON PACKAGE
-
-REFERENCE IMAGES FOR THIS PART
-Use the direct GitHub raw URLs listed above. Do not upload local files unless Dola fails to fetch a public URL.
-REFERENCE IMAGE STRICT LOCK: Use only the direct GitHub raw image URLs listed above as visual references for this part. Required reference set: V03_Lily_Pregnant.png, V04_Lily_VillageMom.png, L06_AbandonedCabin.png, L07_Village.png, S02_MarthaHayes_FULL.png, S03_HankMiller_FULL.png, S04_OldJoeWhitaker_FULL.png. Do not invent a new Lily face, Bruno face, Frost age, outfit, hair color, eye color, fur color, or location design. If a listed character appears, match that exact reference image throughout the full 30 seconds.
+Status: reference and handoff update - render pending
 
 PROMPT TO PASTE IN DOLA
+
+SEPARATE GENERATION + ATTACHMENT CONTRACT:
+Generate this numbered part from a fresh request. There is no memory of an earlier video. Create a new moving scene using the identities, products/props where relevant, and style in the references. The combined board occupies ONE image slot. The entire request may contain at most THREE images.
+Attachment 1 (required): References_105.jpg
+https://raw.githubusercontent.com/relnoorain2-droid/Son-of-the-Wild/main/Hindi%20version%20youtube%20movie/Reference_Sheets/References_105.jpg
+Panel 1: Abandoned Cabin (L06_AbandonedCabin.png).
+Panel 2: Village (L07_Village.png).
+Panel 3: Martha Hayes (S02_MarthaHayes_FULL.png).
+Panel 4: Hank Miller (S03_HankMiller_FULL.png).
+Panel 5: Old Joe Whitaker (S04_OldJoeWhitaker_FULL.png).
+Panel 6: Lily - pregnant (V03_Lily_Pregnant.png).
+Panel 7: Lily - young mother (V04_Lily_VillageMom.png).
+Optional attachment 2: the actual approved end frame exported from PART 112, named Part_112_EndFrame.png. This is created after rendering that part; it is not a supplied repository asset or a URL. For a same-scene cut it anchors the opening pose. For a stated time/location/memory cut it is continuity context only.
+Attachment 3 is optional: one approved face/prop/detail crop or one additional combined detail board only when needed. Do not also attach all the separate source portraits.
+Read the names printed ABOVE each panel. Keep people, age variants, creatures and locations separate. Board text is identification only and must not appear in the movie. Create the scene fresh: never animate the board as a collage, show its grid, merge faces, copy reference backgrounds indiscriminately or make all panels appear together. A location panel defines place design, not its background figures as cast. URLs alone are not image conditioning; the board must be attached/imported into the actual image input.
+
+FULL 30-SECOND PERFORMANCE:
+Use the existing complete 0-30s action and dialogue timeline below. Every time range must have meaningful movement, reaction or consequence; progress through the written beats instead of finishing early and holding, looping, recapping or padding. Voices, effects and score follow the action. Confirm 30 seconds in the UI before rendering; prompt wording cannot override a tool duration cap.
+
+OPENING HANDOFF IN:
+Boundary CUT_112_113; previous video: PART 112.
+Completed previous ending (context, not a scene to replay): A sudden pain makes her grip the table.
+Edit instruction: LILY'S DREAM OF GRACE.
+First action in this video: Lily dreams of her mother Grace telling her to keep going.
+For a same-scene join, continue the resulting pose and action immediately after the supplied end frame. Preserve camera side, left/right positions, eyelines, movement direction, held objects, wetness, dirt, wounds, clothes, weather and light; do not reset them to a clean reference portrait. When the local scene or the edit instruction changes time, location, viewpoint or enters a memory, make that deliberate cut and establish the local setting. Carry identities and story consequences, not the previous background or absent cast. A memory returns to its stated age/outfit; it does not resurrect a character in the present. Speak only this part's dialogue.
+
+ENDING HANDOFF OUT:
+Boundary CUT_113_114; following video: PART 114.
+Complete this ending by 30 seconds: Thunder rolls as labor pains begin.
+Next opening is setup context only: Close-up of Lily (pregnant, around 6 months, blonde, blue eyes) lying unconscious on the pebbles. A big moose lowers its head and licks her face. Her eyes snap open.
+Next edit: EARLIER RIVERBANK MEMORY - BEFORE THE CABIN WAS REPAIRED. Do not start the next part's action or dialogue in this video. During the final 1 second keep the chosen end composition readable while breathing, cloth, hair and ambience continue naturally. This is an edit handle, not a freeze frame. End with stable identity, props, screen direction and lighting. Avoid a new title, recap, unrequested fade, black tail or music outro at this join.
+
+VOICE AND AUDIO CONTINUITY:
+All audible output is natural Hindi/Hindustani with Hindi lip-sync. Keep the same approved voice preset or reference per character when supported. Otherwise repeat the same Hindi voice description, tone and speaking pace in every separate request; text alone cannot guarantee an identical generated voice. Carry compatible ambience and score across a same-scene cut, with no repeated intro. Finish a line before the edit, leave a natural breath, and do not repeat dialogue from the handoff context.
+
 LANGUAGE: HINDI OUTPUT ONLY
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, title card, place card, and visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Keep proper names such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain as names.
@@ -27,16 +49,15 @@ Use active skill: Zakariya Seedance 2 5 30s Hindi YouTube 16x9
 Model: Seedance 2.5
 Duration: exactly 30 seconds (not 15 seconds)
 Aspect ratio: widescreen 16:9
-Mode: Use Dola Seedance 2.5 30s route. Keep the direct GitHub raw image URLs listed above as character references inside the prompt. Do not use a backend route that returns 15-second videos.
+Mode: Generate this part as one separate 30-second video. Load the attached reference board into the actual reference-image input. Select 30 seconds and 16:9 in the available generator controls.
 
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Keep every character's face, body, hair, fur color, outfit and proportions exactly identical to the attached reference images for the full 30 seconds. Reference mapping: V03_Lily_Pregnant.png -> reference character/location; V04_Lily_VillageMom.png -> reference character/location; L06_AbandonedCabin.png -> reference character/location; L07_Village.png -> reference character/location; S02_MarthaHayes_FULL.png -> reference character/location; S03_HankMiller_FULL.png -> reference character/location; S04_OldJoeWhitaker_FULL.png -> reference character/location.
+CHARACTER LOCK: Match each named panel in attachment 1 for face, age stage, body, hair/fur, eyes, clothes and armor. Use the correct variant shown for this part. Each panel is reference material, not another character to add. Show only the cast requested by the shots. For same-scene continuity retain the approved end frame's dirt, wetness, damage and carried objects.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
 Scene: Lily dreams of her mother Grace telling her to keep going.
-0-3s: Start with a strong immediate visual hook connected to the previous part.
-OPENING CONTINUITY LOCK: The first opening seconds must directly continue Part 112's final image: Build into the hook: A sudden pain makes her grip the table. Keep the same location, time of day, weather, lighting, character positions, and emotional mood. Do not open with a new establishing shot, time jump, outfit change, or different place unless this part explicitly says time has passed.
+0-3s: Lily dreams of her mother Grace telling her to keep going.
 DIALOGUE 1-4s: NARRATOR (cinematic story voice): "Now Grace In A Dream moves the story forward."
 3-10s: Show the main action clearly with cinematic camera movement and emotional close-ups.
 DIALOGUE 5-8s: Lily (young emotional American woman):  this time."This is Grace In A Dream, and my heart knows the danger is real."
@@ -48,9 +69,6 @@ DIALOGUE 19-23s: Hank (rough kind villager voice): "Hold steady until Grace In A
 SFX: wind, footsteps, cloth movement, distant forest sounds, tense cinematic hits, natural room or outdoor ambience.
 MUSIC: emotional cinematic score, rising tension in the final 5 seconds, dialogue always louder than music and effects.
 CAMERA: clear subject framing, expressive faces, one clean action beat, then a strong final hook.
-
-SUSPENSE HOOK LOCK:
-The final 3 seconds must not feel fully closed. End with a strong visual or audio hook that makes viewers want PART 114 - "Alive": Thunder rolls as labor pains begin. Keep continuity and do not add random new characters.
 
 GLOBAL RULES:
 AUDIO/VIDEO DURATION LOCK: Generate exactly one complete 30-second video. Use the full 0-30s timeline. Do not generate 5s, 10s, 15s, or any shorter version. If the model has a duration control, it must be set to 30 seconds, not auto/default.
@@ -64,11 +82,11 @@ HINDI YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD
 भाग 113 | कहानी आगे बढ़ती है: Grace In A Dream #बिगफुट #फिल्म #भाग113
 
 DOLA STATUS
-[ ] Images loaded by raw URLs
+[ ] Reference board attached (1 image)
 [ ] Prompt pasted
 [ ] Video generated
 [ ] Downloaded
 [ ] Needs revision
 
 NOTES
-Expanded 312-part canon. This part must move the story forward and end with suspense unless it is the final part.
+312-part Hindi 16:9 package. Each part is generated separately; follow its paired handoffs.

@@ -1,0 +1,71 @@
+# Reference Attachments And Separate-Video Handoffs
+
+Each of the 312 parts is one separate 30-second Hindi landscape 16:9 video.
+The complete instruction block must travel with each request. No prior chat,
+session, model memory or generated video is assumed to be available.
+
+## Image Slots
+
+| Slot | What to attach | Purpose |
+| --- | --- | --- |
+| 1 | The single JPG named for this part in REFERENCE_IMAGE_INDEX.csv | All named identity, age/outfit, creature and location panels in one image |
+| 2 | Actual approved final frame from the preceding part, once rendered | Same-scene pose/geography/prop continuity; contextual only for scene/time changes |
+| 3 | Optional approved identity/prop detail crop or combined detail board | Extra detail when a small face or important prop needs it |
+
+Part 001 needs only slot 1. Later parts need one or two normal attachments, never
+more than three. Slots 2 and 3 are not fabricated or pre-generated assets.
+If no preceding frame is supplied, use the explicit written opening state and
+review the resulting edit before accepting it.
+
+Every JPG panel has its name at the top. The filename below the name identifies
+the exact original source. The panel number in the prompt maps to that name.
+A sheet may include both a full-body image and a face detail of the same person;
+these are one identity, not duplicate people. A reference can be offscreen in a
+part. Referencing the entire board never authorizes a new cast entrance.
+
+Read the board to preserve identity, fur, age stage, clothes, creature design,
+architecture and style. Compose and animate the movie scene fresh. Do not show
+the board, labels, panel grid or source filenames in the movie. Only explicitly
+requested Hindi movie/location/time cards may be visible on screen.
+
+## Precedence At A Join
+
+The written local scene/timeline determines what happens and who appears. The
+labelled board determines identity and intended age/outfit. For a same-scene join,
+the accepted preceding final frame determines current pose, dirt/wetness/damage,
+prop ownership, camera side, eyelines, light and screen direction. Match these
+states and continue the next action, rather than replaying the previous action.
+
+A deliberate time/location/viewpoint cut may change the background and staging.
+A memory uses its stated historical age and outfit. The frame from the present
+does not override those instructions. Keep memories readable with a motivated
+cut and lighting/sound transition; do not add unrequested explanatory captions.
+
+Some older Hindi story insertions revisit an earlier event. The new edit labels
+identify those as memories, cutaways or the lead-up to the same event; they do
+not depict a second rescue, first arrival, pregnancy reveal or power ritual in
+the present. The local action/dialogue is otherwise retained from the source.
+
+## Receiving And Passing A Handoff
+
+Each pair shares a CUT_NNN_NNN boundary record. The earlier part's ending event
+is exactly the next part's completed-event context. The next opening action is
+written explicitly on both sides. The previous event is context only, not extra
+dialogue or an action to repeat.
+
+Keep a readable, naturally moving final second as an editing handle. Complete
+the current part's speech, preserve ambience and restrained score, and leave a
+clean cut. No repeated opening logos, end titles, fresh music intro, arbitrary
+black tail or unrequested cliffhanger. Part 312 resolves the movie emotionally.
+
+After each actual render, verify duration, landscape composition, Hindi speech,
+identity and continuity. Export the approved end frame and record its actual
+pose, wardrobe, damage, props and voice preset in HANDOFF_LOG_TEMPLATE.csv. The
+manifest describes intended continuity; it is not proof of generated continuity.
+
+## Scope Of This Update
+
+All 312 prompts, their reference boards, 311 joins, clean combined TXT, image
+index, log template and Hindi YouTube skill are covered. English and Hindi Reels
+packages and the original character assets are untouched. This work consumes no
+video-generation credits and supplies no pre-rendered final frames.
