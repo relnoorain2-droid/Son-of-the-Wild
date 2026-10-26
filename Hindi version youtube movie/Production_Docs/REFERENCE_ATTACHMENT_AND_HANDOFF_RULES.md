@@ -48,8 +48,8 @@ requested English movie/location/time cards or written story props may be visibl
 
 The written local scene/timeline determines what happens and who appears. The
 labelled board determines identity and intended age. Each prompt's adult wardrobe
-section controls adult human costume styling; other costumes follow their image
-references. The styling is flattering, fully lined and opaque, preserving each
+section refines adult human costume styling; the established reference outfit
+and continuous-scene clothes take priority. The styling is flattering and opaque, preserving each
 woman's own face, age and body proportions. Children keep their original costumes.
 The wedding dress continues into the private-room scene; no added intimate action
 or undressing is introduced. For a same-scene join,
@@ -62,15 +62,14 @@ A memory uses its stated historical age and outfit. The frame from the present
 does not override those instructions. Keep memories readable with a motivated
 cut and lighting/sound transition; do not add unrequested explanatory captions.
 
-Some older Hindi story insertions revisit an earlier event. The new edit labels
-identify those as memories, cutaways or the lead-up to the same event; they do
-not depict a second rescue, first arrival, pregnancy reveal or power ritual in
-the present. Local action and source speech time windows are retained; dialogue
-is adapted into concise natural Hindi instead of reading English chapter titles.
+The corrected Reels scene sequence replaces older Hindi insertions that repeated
+events. Follow any memory or cutaway explicitly written in the local plan; do
+not depict a second birth, first arrival or power ritual. Scene-specific Hindi
+replaces template dialogue, and action scenes may have no spoken words.
 
 ## Receiving And Passing A Handoff
 
-Each pair shares a CUT_NNN_NNN boundary record. The earlier part's ending event
+Each manifest record identifies its previous ending and next opening. The earlier part's ending event
 is exactly the next part's completed-event context. The next opening action is
 written explicitly on both sides. The previous event is context only, not extra
 dialogue or an action to repeat.
