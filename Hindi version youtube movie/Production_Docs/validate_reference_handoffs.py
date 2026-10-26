@@ -7,7 +7,7 @@ from urllib.parse import unquote
 
 from PIL import Image
 
-from build_reference_handoffs import BASE, FOLDER, PACKAGE, ROOT, SHOT, URL, git_text
+from build_reference_handoffs import BASE, FOLDER, PACKAGE, PASTE_MARKER, ROOT, SHOT, URL, git_text
 
 
 def main():
@@ -25,24 +25,24 @@ def main():
         path = FOLDER / f'Part_{number:03}_Dola_URL.txt'
         text = path.read_text(encoding='utf-8')
         original = git_text(path)
-        # A complete generation-only block, including its own references and states.
-        body = text.split('PROMPT TO PASTE IN DOLA\n', 1)[1]
-        body = body.split('\nHINDI YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD', 1)[0].strip()
-        expected = f'PART {number:03} - "{record["title"]}"\n\n{body}'
-        assert blocks[i].strip() == expected
+        preparation, body = text.split(PASTE_MARKER + '\n', 1)
+        assert blocks[i].strip() == text.strip()
         assert 'DOLA STATUS' not in blocks[i]
         assert 'HINDI YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD' not in blocks[i]
         assert 'FORMAT: YOUTUBE 16:9' in body
         assert 'Duration: exactly 30 seconds' in body
         assert 'LANGUAGE: HINDI OUTPUT ONLY' in body
-        assert not re.search(r'Use active skill|Seedance|SKILL\.md|skill file', body, re.I)
+        assert 'Model: Seedance 2.5' in body
+        assert 'SPOKEN LANGUAGE: HINDI ONLY' in body
+        assert not re.search(r'Use active skill|Dola|SKILL\.md|skill file', body, re.I)
+        assert not re.search(r'https?://|DOLA STATUS|AFTER DOWNLOAD', body)
         assert body.count('OPENING HANDOFF IN:') == 1
         assert body.count('ENDING HANDOFF OUT:') == 1
         assert 'OPENING CONTINUITY LOCK:' not in body
         assert 'REFERENCE IMAGE STRICT LOCK:' not in body
         assert 'DIRECT GITHUB RAW - DOLA CAN ACCESS' not in body
         assert 'SUSPENSE HOOK LOCK:' not in body
-        urls = URL.findall(body)
+        urls = URL.findall(preparation)
         assert len(urls) == 1, (number, urls)
         assert unquote(urls[0].split('/main/', 1)[1]) == (
             PACKAGE / record['reference_board']).relative_to(ROOT).as_posix()
@@ -50,7 +50,7 @@ def main():
         assert record['image_input_count_with_handoff'] <= 2
         assert record['max_image_inputs'] == 3
         assert 'at most THREE images' in body
-        assert not re.search(r'https?://\S*EndFrame', body)
+        assert not re.search(r'https?://\S*EndFrame', text)
         if number > 1:
             assert record['incoming'] == records[i - 1]['outgoing'], number
             assert record['incoming']['id'] == f'CUT_{number - 1:03}_{number:03}'
@@ -89,7 +89,8 @@ def main():
     print(f'PASS: 312 individual prompts; 312 clean combined blocks; {len(sheets)} valid named JPG boards; '
           '311 matching boundaries; one required image per part, at most three; all local timelines cover 0-30s; '
           'Hindi 16:9 preserved; original dialogue retained; final closure preserved; '
-          'direct image-and-text prompts with no skill dependency.')
+          'direct Seedance 2.5 image-and-text prompts with no skill dependency; '
+          'all image links above the copy heading, no links or status notes below it.')
 
 
 if __name__ == '__main__':

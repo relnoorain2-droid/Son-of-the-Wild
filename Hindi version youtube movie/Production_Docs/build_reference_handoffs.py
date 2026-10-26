@@ -26,6 +26,7 @@ SHEETS = PACKAGE / 'Reference_Sheets'
 TITLE = re.compile(r'PART (\d{3}) - "([^"]+)"')
 SHOT = re.compile(r'(?m)^(\d+)[-\u2013](\d+)s:\s*(.+)$')
 URL = re.compile(r'https://raw\.githubusercontent\.com/[^\s]+')
+PASTE_MARKER = 'PROMPT TO COPY AND PASTE (SEEDANCE 2.5)'
 
 NAMES = {
     'C01': 'Lily Carter - everyday clothes', 'C02': 'King Magnus Thorne',
@@ -301,10 +302,9 @@ def update(part, incoming, outgoing, sheet_path, panels):
     text = text.replace('Status: ready - EXPANDED CANON PACKAGE', 'Status: reference and handoff update - render pending')
     text = re.sub(r'(?m)^Use active skill:.*\n?', '', text)
     text = re.sub(r'(?m)^Model:.*$',
-                  'Generation model: Select the tool\'s supported reference-image video model with a 30-second option.', text)
+                  'Model: Seedance 2.5', text)
     text = re.sub(r'(?m)^Mode:.*$',
-                  'Mode: Generate this part as one separate 30-second video. Load the attached reference board into '
-                  'the actual reference-image input. Select 30 seconds and 16:9 in the available generator controls.', text)
+                  'Mode: Generate this part as one separate 30-second video using the attached reference images.', text)
     text = re.sub(r'(?m)^CHARACTER LOCK:.*$',
                   'CHARACTER LOCK: Match each named panel in attachment 1 for face, age stage, body, hair/fur, eyes, '
                   'clothes and armor. Use the correct variant shown for this part. Each panel is reference material, '
@@ -326,24 +326,28 @@ def update(part, incoming, outgoing, sheet_path, panels):
     text = text.replace('"FROST: SON OF THE WILD" and below it "Directed by Noorul Ain"',
                         '"फ्रॉस्ट: जंगल का बेटा" and below it "निर्देशन: नूरुल ऐन"')
     contract = (
-        '\nSEPARATE GENERATION + ATTACHMENT CONTRACT:\n'
+        f'PART {number:03} - "{part["title"]}"\n\n'
+        'SPOKEN LANGUAGE: HINDI ONLY. Every character and narrator speaks natural Hindi/Hindustani. '
+        'English in the written directions is control text only. Translate every quoted English dialogue line '
+        'into Hindi before speaking it; never read English dialogue aloud. Use natural Hindi pronunciation '
+        'for proper names, Hindi lip-sync, and Devanagari for requested title/location/time cards.\n\n'
+        'SEPARATE GENERATION + REFERENCE MAPPING:\n'
         'Generate this numbered part from a fresh request. There is no memory of an earlier video. '
         'Create a new moving scene using the identities, products/props where relevant, and style in the references. '
-        'The combined board occupies ONE image slot. The entire request may contain at most THREE images.\n'
-        f'Attachment 1 (required): {sheet_path.name}\n{raw_url}\n'
-        f'{mapping}\n{attached_frame}\n'
-        'Attachment 3 is optional: one approved face/prop/detail crop or one additional combined detail board '
-        'only when needed. Do not also attach all the separate source portraits.\n'
+        'Reference image 1 is the attached combined board. Interpret its named panels as follows:\n'
+        f'{mapping}\n'
+        'If reference image 2 is attached, it is the approved previous final frame. For a same-scene join '
+        'it anchors pose, props and geography. For an explicit scene/time/memory cut it provides context only. '
+        'If image 2 is absent, follow the complete written handoff. Image 3, when supplied, is extra identity '
+        'or prop detail. The entire request may contain at most THREE images.\n'
         'Read the names printed ABOVE each panel. Keep people, age variants, creatures and locations separate. '
         'Board text is identification only and must not appear in the movie. Create the scene fresh: never animate '
         'the board as a collage, show its grid, merge faces, copy reference backgrounds indiscriminately or make '
-        'all panels appear together. A location panel defines place design, not its background figures as cast. '
-        'URLs alone are not image conditioning; the board must be attached/imported into the actual image input.\n\n'
+        'all panels appear together. A location panel defines place design, not its background figures as cast.\n\n'
         'FULL 30-SECOND PERFORMANCE:\n'
         'Use the existing complete 0-30s action and dialogue timeline below. Every time range must have meaningful '
         'movement, reaction or consequence; progress through the written beats instead of finishing early and '
-        'holding, looping, recapping or padding. Voices, effects and score follow the action. Confirm 30 seconds '
-        'in the UI before rendering; prompt wording cannot override a tool duration cap.\n\n'
+        'holding, looping, recapping or padding. Voices, effects and score follow the action.\n\n'
         f'OPENING HANDOFF IN:\n{opening_text(part, incoming)}\n\n'
         f'ENDING HANDOFF OUT:\n{ending_text(part, outgoing)}\n\n'
         'VOICE AND AUDIO CONTINUITY:\n'
@@ -353,12 +357,20 @@ def update(part, incoming, outgoing, sheet_path, panels):
         'Carry compatible ambience and score across a same-scene cut, with no repeated intro. Finish a line '
         'before the edit, leave a natural breath, and do not repeat dialogue from the handoff context.\n'
     )
-    text = text.replace('PROMPT TO PASTE IN DOLA\n', 'PROMPT TO PASTE IN DOLA\n' + contract + '\n', 1)
-    # The package's pre-existing scene actions and dialogue are preserved, except
-    # explicit scene-transition context above and the Oregon/title correction.
-    text = re.sub(r'(?m)^Expanded 312-part canon\..*$',
-                  '312-part Hindi 16:9 package. Each part is generated separately; follow its paired handoffs.', text)
-    return text.strip() + '\n'
+    body = text.split('PROMPT TO PASTE IN DOLA\n', 1)[1]
+    body = body.split('\nHINDI YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD', 1)[0].strip()
+    preparation = (
+        f'FROST: Son of the Wild\nPART {number:03} - "{part["title"]}"\n\n'
+        'REFERENCE IMAGES - PREPARE ABOVE THE COPY LINE\n'
+        f'Image 1 (required combined reference board): {sheet_path.name}\n{raw_url}\n'
+        f'{attached_frame}\n'
+        'Image 3 is optional: an approved face/prop detail crop or combined detail board. Maximum 3 images total.\n'
+        'Attach the images in the new tool, select Seedance 2.5, 30 seconds and landscape 16:9. '
+        'No skill file is required.\n'
+        'Copy ALL text below the following heading to the end of THIS part. The image link and preparation '
+        'instructions stay above the heading. In the combined file, stop at the -------- separator.\n\n'
+    )
+    return preparation + PASTE_MARKER + '\n\n' + contract + '\n\n' + body + '\n'
 
 
 def main():
@@ -386,10 +398,7 @@ def main():
         outgoing = boundaries[i + 1] if i < 311 else None
         text = update(part, boundaries[i], outgoing, target, panels)
         part['path'].write_text(text, encoding='utf-8')
-        prompt = text.split('PROMPT TO PASTE IN DOLA\n', 1)[1]
-        prompt = prompt.split('\nHINDI YOUTUBE TITLE / DESCRIPTION AFTER DOWNLOAD', 1)[0].strip()
-        prompt = f"PART {part['number']:03} - \"{part['title']}\"\n\n{prompt}"
-        prompts.append(prompt)
+        prompts.append(text.strip())
         reports.append({'part': part['number'], 'title': part['title'],
                         'source_sha256': part['source_sha256'],
                         'reference_board': target.relative_to(PACKAGE).as_posix(),

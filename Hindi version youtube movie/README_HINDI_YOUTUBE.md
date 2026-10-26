@@ -12,8 +12,8 @@ another video. Use the complete local 0-30 second timeline and choose 30 seconds
 and landscape 16:9 in the generator controls.
 
 Use the reference image attachments and prompt text directly in your video tool.
-No skill file, skill upload, Dola-specific command or named model activation is
-required. Select a supported reference-image model in the tool's own controls.
+No skill file, skill upload or Dola-specific command is required. Select
+Seedance 2.5 in your new tool, with 30 seconds and landscape 16:9.
 
 1. Find the part in `Production_Docs/REFERENCE_IMAGE_INDEX.csv`.
 2. Attach its single JPG from `Reference_Sheets/`. Every panel has the character,
@@ -23,8 +23,11 @@ required. Select a supported reference-image model in the tool's own controls.
 3. For Part 002 onward, optionally attach the approved final frame of the previous
    generated video as image 2. Export it after approval and name it, for example,
    `Part_001_EndFrame.png`. These future frame files are not included in this repo.
-4. Paste the part prompt from `Prompts_16x9_Hindi/`, including its attachment map
-   and both handoffs. Image 3 is reserved for an optional approved detail crop.
+4. Open the part in `Prompts_16x9_Hindi/`. Its image link and attachment instructions
+   are ABOVE `PROMPT TO COPY AND PASTE (SEEDANCE 2.5)`. Attach the images first,
+   then copy everything BELOW that heading to the end of that part. The copy area
+   has no image links, post descriptions, status checklists or trailing notes.
+   Its reference-panel map and both handoffs are included. Image 3 is reserved for an optional approved detail crop.
    Never attach more than three images; do not also attach every source portrait.
 5. Create the scene fresh. Reference-board names and grid must never appear in the
    final movie. Only show the cast called for in that part's shots.
@@ -48,8 +51,9 @@ supported. No videos have been rendered as part of this prompt/reference update.
 - `Production_Docs/` - Hindi YouTube output rules.
 - `Reference_Sheets/` - combined, labelled JPG reference boards; attach one per part.
 - `Hindi_YouTube_16x9_ALL_312_REFERENCE_HANDOFF_CLEAN.txt` - all 312 generation-only
-  prompt blocks, separated by `--------`; post descriptions and status checklists
-  are excluded from this combined file. Each block is still a separate request.
+  part blocks, separated by `--------`. Each block has its image link above the
+  copy heading and its complete paste-ready prompt below. Stop copying at that
+  part's separator. Each block is still a separate request.
 - `Production_Docs/REFERENCE_HANDOFF_MANIFEST.json` - every part's source image
   mapping, local action timeline and paired boundary states.
 - `Production_Docs/REFERENCE_ATTACHMENT_AND_HANDOFF_RULES.md` - reference and edit rules.

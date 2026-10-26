@@ -4,8 +4,14 @@ Each of the 312 parts is one separate 30-second Hindi landscape 16:9 video.
 The complete instruction block must travel with each request. No prior chat,
 session, model memory or generated video is assumed to be available.
 Attach the reference images and paste the text directly into the video tool.
-There is no skill file to upload or activate. Choose the supported model,
+There is no skill file to upload or activate. Choose Seedance 2.5,
 30-second duration and 16:9 aspect ratio in the tool's controls.
+The image link and preparation instructions are above `PROMPT TO COPY AND PASTE
+(SEEDANCE 2.5)`. Copy everything below that heading through the end of the part.
+That copy area contains no URLs, status checklist or post-description notes.
+All characters and the narrator speak Hindi/Hindustani. English quoted dialogue
+in the source control text must be translated before being spoken; it is never
+an instruction to produce English audio. Requested visible cards use Devanagari.
 
 ## Image Slots
 
