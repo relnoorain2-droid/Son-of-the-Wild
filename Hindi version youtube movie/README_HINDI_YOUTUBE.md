@@ -15,6 +15,20 @@ Use the reference image attachments and prompt text directly in your video tool.
 No skill file, skill upload or Dola-specific command is required. Select
 Seedance 2.5 in your new tool, with 30 seconds and landscape 16:9.
 
+## Wardrobe Update
+
+Each prompt includes adult costume guidance: flattering tailoring, opaque rich
+fabrics, distinct hairstyles and accessories. Lily has a glamorous ivory wedding
+gown, a refined blue forest dress, practical maternity/mother outfits and a teal
+celebration gown. Private-room scenes retain the wedding dress. Continuous
+scenes retain the same outfit and its existing damage; romantic moments retain
+their existing gentle actions. Older women retain their age and character, and
+children's outfits are unchanged.
+
+The existing reference boards supply identity, age and setting. The new adult
+wardrobe descriptions control clothing styling. Reference artwork has not been
+redesigned in this update, and no new images or videos have been generated.
+
 1. Find the part in `Production_Docs/REFERENCE_IMAGE_INDEX.csv`.
 2. Attach its single JPG from `Reference_Sheets/`. Every panel has the character,
    creature or location name printed above it. These boards combine the existing

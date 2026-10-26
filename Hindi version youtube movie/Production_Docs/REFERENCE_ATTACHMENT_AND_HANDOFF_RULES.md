@@ -40,7 +40,12 @@ requested Hindi movie/location/time cards may be visible on screen.
 ## Precedence At A Join
 
 The written local scene/timeline determines what happens and who appears. The
-labelled board determines identity and intended age/outfit. For a same-scene join,
+labelled board determines identity and intended age. Each prompt's adult wardrobe
+section controls adult human costume styling; other costumes follow their image
+references. The styling is flattering, fully lined and opaque, preserving each
+woman's own face, age and body proportions. Children keep their original costumes.
+The wedding dress continues into the private-room scene; no added intimate action
+or undressing is introduced. For a same-scene join,
 the accepted preceding final frame determines current pose, dirt/wetness/damage,
 prop ownership, camera side, eyelines, light and screen direction. Match these
 states and continue the next action, rather than replaying the previous action.

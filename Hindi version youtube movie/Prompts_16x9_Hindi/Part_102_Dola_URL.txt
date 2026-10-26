@@ -15,6 +15,11 @@ PART 102 - "The Current Takes Her"
 
 SPOKEN LANGUAGE: HINDI ONLY. Every character and narrator speaks natural Hindi/Hindustani. English in the written directions is control text only. Translate every quoted English dialogue line into Hindi before speaking it; never read English dialogue aloud. Use natural Hindi pronunciation for proper names, Hindi lip-sync, and Devanagari for requested title/location/time cards.
 
+ADULT WARDROBE AND DISTINCT IDENTITIES:
+Use glamorous, flattering costume tailoring and rich, realistic fabrics for adult human women. Preserve every woman's own reference face, age, body proportions, hair color and role; do not give everyone the same face or make older women look young. Children retain their original age-appropriate clothes.
+Pregnant Lily: an attractive fully lined muted-blue maternity dress with a softly gathered high waist, a comfortable flowing skirt and the existing warm brown flannel or shawl as required. Keep her established pregnancy stage and comfort, youthful facial identity, braid and practical footwear. Do not change her body proportions to achieve a fashion silhouette. Keep labor and recovery clothing practical.
+Wardrobe descriptions here control adult outfit styling; the board locks identity and age. All clothing is opaque and fully lined. Keep framing on faces, dialogue and story action. Do not add undressing or intimate actions. In a continuous scene retain the same outfit, accessories, hair arrangement and fabric damage from the approved handoff frame. Introduce a new outfit only at a stated new day, ceremony, celebration or motivated change. Apply a listed costume only if that adult is actually present in the local shots.
+
 SEPARATE GENERATION + REFERENCE MAPPING:
 Generate this numbered part from a fresh request. There is no memory of an earlier video. Create a new moving scene using the identities, products/props where relevant, and style in the references. Reference image 1 is the attached combined board. Interpret its named panels as follows:
 Panel 1: Red Dragon (K02_RedDragon.png).
@@ -61,7 +66,7 @@ Mode: Generate this part as one separate 30-second video using the attached refe
 YOUTUBE 16:9 FRAMING LOCK:
 Compose every shot for a widescreen YouTube movie frame. Keep important faces and bodies centered with safe margins, show more environment on the left and right, avoid vertical/reels cropping, avoid cutting off heads or full-body action, and keep title cards centered for 1920x1080 landscape viewing.
 
-CHARACTER LOCK: Match each named panel in attachment 1 for face, age stage, body, hair/fur, eyes, clothes and armor. Use the correct variant shown for this part. Each panel is reference material, not another character to add. Show only the cast requested by the shots. For same-scene continuity retain the approved end frame's dirt, wetness, damage and carried objects.
+CHARACTER LOCK: Match each named panel in attachment 1 for face, age stage, body, hair/fur, eyes, and armor. Adult human outfit styling follows the ADULT WARDROBE AND DISTINCT IDENTITIES section; other costumes follow their references. Use the correct age variant shown for this part. Each panel is reference material, not another character to add. Show only the cast requested by the shots. For same-scene continuity retain the approved end frame's dirt, wetness, damage and carried objects.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled.
 Scene: Bruno uses his last strength to send Lily safely into the fast river current.
 0-3s: Bruno uses his last strength to send Lily safely into the fast river current.

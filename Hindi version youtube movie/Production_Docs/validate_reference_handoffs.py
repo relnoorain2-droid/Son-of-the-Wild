@@ -34,6 +34,12 @@ def main():
         assert 'LANGUAGE: HINDI OUTPUT ONLY' in body
         assert 'Model: Seedance 2.5' in body
         assert 'SPOKEN LANGUAGE: HINDI ONLY' in body
+        assert body.count('ADULT WARDROBE AND DISTINCT IDENTITIES:') == 1
+        assert 'Children retain their original age-appropriate clothes.' in body
+        assert record['wardrobe']['scope'].startswith('Adult human women only')
+        assert 'All clothing is opaque and fully lined.' in body
+        for style in record['wardrobe']['styles']:
+            assert style in body
         assert not re.search(r'Use active skill|Dola|SKILL\.md|skill file', body, re.I)
         assert not re.search(r'https?://|DOLA STATUS|AFTER DOWNLOAD', body)
         assert body.count('OPENING HANDOFF IN:') == 1
@@ -90,7 +96,8 @@ def main():
           '311 matching boundaries; one required image per part, at most three; all local timelines cover 0-30s; '
           'Hindi 16:9 preserved; original dialogue retained; final closure preserved; '
           'direct Seedance 2.5 image-and-text prompts with no skill dependency; '
-          'all image links above the copy heading, no links or status notes below it.')
+          'all image links above the copy heading, no links or status notes below it; '
+          'adult wardrobe rules and unchanged child costumes checked.')
 
 
 if __name__ == '__main__':

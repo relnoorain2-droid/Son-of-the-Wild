@@ -15,6 +15,12 @@ PART 133 - "Bath Time"
 
 SPOKEN LANGUAGE: HINDI ONLY. Every character and narrator speaks natural Hindi/Hindustani. English in the written directions is control text only. Translate every quoted English dialogue line into Hindi before speaking it; never read English dialogue aloud. Use natural Hindi pronunciation for proper names, Hindi lip-sync, and Devanagari for requested title/location/time cards.
 
+ADULT WARDROBE AND DISTINCT IDENTITIES:
+Use glamorous, flattering costume tailoring and rich, realistic fabrics for adult human women. Preserve every woman's own reference face, age, body proportions, hair color and role; do not give everyone the same face or make older women look young. Children retain their original age-appropriate clothes.
+Young-mother Lily: preserve her red-and-black flannel, jeans and practical boots, using a neatly tailored shirt over an opaque fitted blue top, coordinated fabric and a softly pinned hairstyle. Her practical clothes should read as attractive costume design rather than baggy generic clothing. Preserve established damage, wetness and any scene-specific jacket or recovery blanket.
+Martha: warm jewel-toned knitwear, a neatly tailored long skirt and a small floral brooch; retain her grandmotherly face, glasses and white curls.
+Wardrobe descriptions here control adult outfit styling; the board locks identity and age. All clothing is opaque and fully lined. Keep framing on faces, dialogue and story action. Do not add undressing or intimate actions. In a continuous scene retain the same outfit, accessories, hair arrangement and fabric damage from the approved handoff frame. Introduce a new outfit only at a stated new day, ceremony, celebration or motivated change. Apply a listed costume only if that adult is actually present in the local shots.
+
 SEPARATE GENERATION + REFERENCE MAPPING:
 Generate this numbered part from a fresh request. There is no memory of an earlier video. Create a new moving scene using the identities, products/props where relevant, and style in the references. Reference image 1 is the attached combined board. Interpret its named panels as follows:
 Panel 1: River (L05_River.png).
@@ -58,7 +64,7 @@ Compose every shot for a widescreen YouTube movie frame. Keep important faces an
 
 HINDI OUTPUT LOCK:
 The prompt instructions may be written in English, but the generated video output must be 100% Hindi. Translate every spoken dialogue line, narrator line, voiceover, chant, song, title card, place card, time card, and any visible on-screen text into natural Hindi / Hindustani in Devanagari script before generating. Use clear emotional Hindi dubbing voices with accurate Hindi lip-sync. Do not speak English except proper names that should remain names, such as Lily, Bruno, Frost, Damian, Magnus, Rose, Cedar Hollow, Oregon, and Noorul Ain. For the movie title card, show Hindi title text: "फ्रॉस्ट: जंगल का बेटा" and director credit: "निर्देशन: नूरुल ऐन".
-CHARACTER LOCK: Match each named panel in attachment 1 for face, age stage, body, hair/fur, eyes, clothes and armor. Use the correct variant shown for this part. Each panel is reference material, not another character to add. Show only the cast requested by the shots. For same-scene continuity retain the approved end frame's dirt, wetness, damage and carried objects.
+CHARACTER LOCK: Match each named panel in attachment 1 for face, age stage, body, hair/fur, eyes, and armor. Adult human outfit styling follows the ADULT WARDROBE AND DISTINCT IDENTITIES section; other costumes follow their references. Use the correct age variant shown for this part. Each panel is reference material, not another character to add. Show only the cast requested by the shots. For same-scene continuity retain the approved end frame's dirt, wetness, damage and carried objects.
 LILY LOOK LOCK if Lily appears: Lily always looks 22-24 years old, young, innocent, sweet and beautiful, soft fair face, big blue eyes, honey-blonde hair. She never looks older, tired or wrinkled, even in parts set years later.
 FROST AGE LOCK: Frost is a newborn/baby here. Use only V05_Frost_Baby.png for Frost; do not show kid, teen, adult, or powered Frost in this part.
 

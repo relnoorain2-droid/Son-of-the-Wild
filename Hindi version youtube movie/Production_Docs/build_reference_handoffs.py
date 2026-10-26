@@ -196,6 +196,94 @@ def label(relative):
     return name
 
 
+def wardrobe(part):
+    number = part['number']
+    codes = {Path(r).stem.split('_')[0] for r in part['references']}
+    styles = []
+    lily = None
+    if codes & {'C01', 'V01', 'V02', 'V03', 'V04'}:
+        if number in {157, 164, 180, 181, 182, 183, 310, 311, 312}:
+            lily = ('Celebration Lily: an opaque deep teal evening dress with a fitted natural waist, '
+                    'a refined square neckline, elbow-length sleeves and a flowing lined skirt; '
+                    'delicate pearl earrings and a softly pinned honey-blonde hairstyle. '
+                    'Keep this exact celebration outfit throughout each connected dance/celebration sequence. '
+                    'In Parts 310-312 retain it through the stage and the hill ending, adding her shawl only.')
+        elif 25 <= number <= 30 or number == 37:
+            lily = ('Wedding Lily: a glamorous fully lined ivory satin wedding gown, elegant off-shoulder '
+                    'neckline, finely embroidered fitted waist, graceful full skirt, small pearl hairpins '
+                    'and the existing long veil/tiara only where the shots call for them. '
+                    'The private-room scene retains this gown; no wardrobe change or added intimacy. '
+                    'Carry this same gown into her escape, retaining its actual tears and mud.')
+        elif number <= 24:
+            lily = ('Everyday Lily: the same light-blue floral dress and brown cardigan from her identity '
+                    'reference, with a neatly tailored natural waist, graceful lined skirt, coordinated '
+                    'boots and softly arranged honey-blonde hair. Her outfit stays humble but attractive. '
+                    'A wedding portrait is an identity guide before the actual ceremony, not an early costume change.')
+        elif 31 <= number <= 47:
+            lily = ('Escape Lily: retain the ivory wedding gown from the escape, its embroidered waist, '
+                    'torn hem and established mud/wetness. Her face remains recognizable and her hair is '
+                    'naturally dishevelled by the action. Keep the fabric opaque when wet. '
+                    'The forest portrait supplies identity; it does not reset her to a clean costume.')
+        elif 'V02' in codes and number <= 81:
+            lily = ('Forest Lily: a flattering, fully lined dusty-blue day dress with a refined square '
+                    'neckline, fitted natural-waist bodice, softly gathered flowing skirt and practical '
+                    'sleeves. Preserve the same dress across the connected cave and forest scenes, '
+                    'with her established shawl/blanket for warmth. Use soft face-framing hair and natural '
+                    'cinematic grooming without erasing dirt, injuries or weather. '
+                    'Affection scenes keep this same opaque dress and their existing gentle actions.')
+        elif 'V03' in codes and number <= 127:
+            lily = ('Pregnant Lily: an attractive fully lined muted-blue maternity dress with a softly '
+                    'gathered high waist, a comfortable flowing skirt and the existing warm brown flannel '
+                    'or shawl as required. Keep her established pregnancy stage and comfort, youthful '
+                    'facial identity, braid and practical footwear. Do not change her body proportions '
+                    'to achieve a fashion silhouette. Keep labor and recovery clothing practical.')
+        else:
+            lily = ('Young-mother Lily: preserve her red-and-black flannel, jeans and practical boots, '
+                    'using a neatly tailored shirt over an opaque fitted blue top, coordinated fabric '
+                    'and a softly pinned hairstyle. Her practical clothes should read as attractive '
+                    'costume design rather than baggy generic clothing. Preserve established damage, '
+                    'wetness and any scene-specific jacket or recovery blanket.')
+        styles.append(lily)
+    if 'S09' in codes:
+        styles.append('Previous brides are distinct adult women, each 21 or older, with their own reference '
+                      'face and hairstyle. Give their opaque ivory wedding gowns varied satin/lace details, '
+                      'neatly fitted waists, graceful full skirts and different small floral or pearl '
+                      'accessories. Do not duplicate Lily\'s face across the bride group.')
+    if 'V13' in codes:
+        styles.append('Adult Sarah only (V13): a polished denim jacket, fully opaque golden-yellow top, '
+                      'well-fitting dark jeans, practical boots and her distinct side braid. Preserve her '
+                      'own adult face; do not replace it with Lily\'s. This styling does not apply to child Sarah (S06).')
+    for code, line in (
+        ('S01', 'Grace: a neatly finished floral dress and apron, coordinated knit layer and carefully '
+                'pinned hair; retain her actual mature age, face and modest rural character.'),
+        ('V14', 'Older Grace: refined floral details and a well-kept cardigan/apron, retaining her older '
+                'face, grey/white hair and cane; no youthful makeover.'),
+        ('S02', 'Martha: warm jewel-toned knitwear, a neatly tailored long skirt and a small floral brooch; '
+                'retain her grandmotherly face, glasses and white curls.'),
+        ('S11', 'Rose: a neatly tailored black maid dress, crisp white apron and fine lace collar/cuffs; '
+                'retain her older face, grey hair, maid cap and reserved character.'),
+    ):
+        if code in codes:
+            styles.append(line)
+    return {'scope': 'Adult human women only; children keep their original age-appropriate costumes.',
+            'lily_style': lily, 'styles': styles}
+
+
+def wardrobe_text(part):
+    rules = wardrobe(part)
+    return ('ADULT WARDROBE AND DISTINCT IDENTITIES:\n'
+            'Use glamorous, flattering costume tailoring and rich, realistic fabrics for adult human women. '
+            'Preserve every woman\'s own reference face, age, body proportions, hair color and role; do not '
+            'give everyone the same face or make older women look young. Children retain their original '
+            'age-appropriate clothes.\n' + '\n'.join(rules['styles']) + '\n'
+            'Wardrobe descriptions here control adult outfit styling; the board locks identity and age. '
+            'All clothing is opaque and fully lined. Keep framing on faces, dialogue and story action. '
+            'Do not add undressing or intimate actions. In a continuous scene retain the same outfit, '
+            'accessories, hair arrangement and fabric damage from the approved handoff frame. '
+            'Introduce a new outfit only at a stated new day, ceremony, celebration or motivated change. '
+            'Apply a listed costume only if that adult is actually present in the local shots.\n\n')
+
+
 def font(size):
     for candidate in ('C:/Windows/Fonts/arial.ttf', 'C:/Windows/Fonts/segoeui.ttf'):
         if Path(candidate).is_file():
@@ -307,7 +395,8 @@ def update(part, incoming, outgoing, sheet_path, panels):
                   'Mode: Generate this part as one separate 30-second video using the attached reference images.', text)
     text = re.sub(r'(?m)^CHARACTER LOCK:.*$',
                   'CHARACTER LOCK: Match each named panel in attachment 1 for face, age stage, body, hair/fur, eyes, '
-                  'clothes and armor. Use the correct variant shown for this part. Each panel is reference material, '
+                  'and armor. Adult human outfit styling follows the ADULT WARDROBE AND DISTINCT IDENTITIES section; '
+                  'other costumes follow their references. Use the correct age variant shown for this part. Each panel is reference material, '
                   'not another character to add. Show only the cast requested by the shots. For same-scene continuity '
                   'retain the approved end frame\'s dirt, wetness, damage and carried objects.', text)
     text = re.sub(r'(?m)^OPENING CONTINUITY LOCK:.*\n?', '', text)
@@ -331,6 +420,7 @@ def update(part, incoming, outgoing, sheet_path, panels):
         'English in the written directions is control text only. Translate every quoted English dialogue line '
         'into Hindi before speaking it; never read English dialogue aloud. Use natural Hindi pronunciation '
         'for proper names, Hindi lip-sync, and Devanagari for requested title/location/time cards.\n\n'
+        + wardrobe_text(part) +
         'SEPARATE GENERATION + REFERENCE MAPPING:\n'
         'Generate this numbered part from a fresh request. There is no memory of an earlier video. '
         'Create a new moving scene using the identities, products/props where relevant, and style in the references. '
@@ -405,6 +495,7 @@ def main():
                         'image_input_count_required': 1,
                         'image_input_count_with_handoff': 1 if i == 0 else 2,
                         'max_image_inputs': 3, 'panels': panels,
+                        'wardrobe': wardrobe(part),
                         'local_scene': part['context'], 'local_shots': part['shots'],
                         'incoming': boundaries[i], 'outgoing': outgoing})
         if (i + 1) % 30 == 0:
